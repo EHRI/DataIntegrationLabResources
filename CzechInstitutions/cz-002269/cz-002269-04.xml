@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1431</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Hráský Josef PhDr.</titleproper>
+            <subtitle>PhDr. Josef Hráský / NAD 1431</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1916/1981</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1431</unitid>
+            <unittitle>Hráský Josef PhDr.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>2,19 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1916/1981</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>PhDr. Josef Hráský</name>
+            </origination>
+        </did>
+        <odd>
+            <p>PhDr. Josef Hráský / NAD 1431</p>
+        </odd>
+        <custodhist>
+            <p>The archival materials were handed over to the AHMP by the wife of J. Hráský in 1982-1998. Some of the documents are works processed by the originator himself directly for the AHMP. The fonds was processed and inventoried in 2015.</p>
+        </custodhist>
+        <bioghist>
+            <p>Josef Hráský was born in 1905, studied at Charles University in the 1920s and at the State Archival School in the 1930s. In 1935 he married Marta Picková (1913-2001), who came from a Jewish family based in Nové Město nad Metují. In 1931-1951 he worked (with the exception of three wartime years when he was persecuted because of his Jewish wife) in the Central Archives of the Ministry of the Interior. In 1951-1960 he worked as a laborer because he was persecuted by the Communist authorities. Since the 1960s he worked until his retirement in 1971 in the State Jewish Museum in Prague.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains archival materials concerning the life and work of PhDr. Josef Hráský (born 31.12.1905, Slavoňov, died 1981 Prague). There is also a great number of sources for Jewish history, especially the persecution of him and his Jewish wife Marta (born Picková) during the World War II (sections Biographical Material and Personal Documents), and sources for his wife's Jewish family (The Pick family - Documents; Marta Picková-Hráská): It also contains materials for Jewish history which J. Hráský dealt with, e.g. the files of Jewish goldsmiths or the works of foreign authors from the interwar period.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The archival materials are organized as follows: A. Biographical Material, B. Correspondence, C. Scientific Activities D. Documentation, E. Publications by Other Authors, F. Files, G. The Hráský Family, H. Marta Picková (Hráská), I. The Pick Family.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Damová Z.: Hráský Josef PhDr., 1916-1981 (1998). Inventář, 2016, 26 s., ev. č. 574.</p></otherfindaid>
+        <otherfindaid><p>http://www.ahmp.cz/page/docs/AP-574-Hrasky-Josef.pdf</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Occupation</subject><subject>Persecution</subject><subject>Jewish History</subject><subject>Goldsmiths</subject><subject>Mixed Marriages</subject><subject>Antisemitism</subject><subject>The State Jewish Museum Prague</subject></controlaccess>
+    </archdesc>
+</ead>    

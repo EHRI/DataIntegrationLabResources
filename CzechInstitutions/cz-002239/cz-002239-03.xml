@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1252</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Golčův Jeníkov</titleproper>
+            <subtitle>Archives of the Town of Golčův Jeníkov / NAD 1252</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1252</unitid>
+            <unittitle>Archiv města Golčův Jeníkov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>8,25 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Golčův Jeníkov</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Golčův Jeníkov / NAD 1252</p>
+        </odd>
+        <custodhist>
+            <p>Documents related to the history of the town - land registers, privileges and various records were kept at the town hall, but they were destroyed by a fire of the town, so only documents after 1850 have been preserved. They were transferred to the District Archives in Havlíčkův Brod.</p>
+        </custodhist>
+        <bioghist>
+            <p>Golčův Jeníkov was founded in the Middle Ages on the so-called Haberská trail. In the years 1461–1580 it was owned by the Slavatas of Chlum and Košumberk. In 1636, General Martin Maxmilián Goltz received the municipality as a gift from the Emperor. In 1673, Golčův Jeníkov was owned by Barbora Eusebia, Countess of Žďár, married for the second time to Count Karel Leopold Caretto Millesimo. The town was hit by a large fire in 1784. The existence of the Jewish community is documented from 1654. In the modern times, there was an important Jewish community and a yeshiva. A remarkable cemetery, a synagogue and a Jewish ghetto have been preserved there.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains commemorative books, minutes of the municipal board and council meetings, and other documents. The history of the Jewish community after 1850 in this fonds is evidenced by archive materials concerning Jewish associations - the Talmud Torah, the Jewish Association for the Sick, the Ner Tamid Women's Support Society, the Friede Singing Association and the Bachure Chomed Association, the Jewish cemetery (an expansion of the cemetery), the funeral fraternity, Jewish farms - the weaving mill of the Pick family, the winery - the tannery of the Kohn family, and spirits, door-to-door trade, and business affairs of the Kornfeld family; decrees against Jews from the period 1939-1945, eviction of Jews from their flats.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Books (commemorative book 1922-1938), files (minutes of the municipal council meetings 1881-1945, minutes of the town council board meetings 1878-1945, registers 1850-1948, account books 1857-1939, file agenda 1834-1945).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Tajovský M.: Archiv města Golčův Jeníkov 1785-1945 (1948). Inventář, 1999, 56 s., ev. č. 206.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Talmud Torah</corpname><corpname>the Jewish Association for the Sick</corpname><corpname>the Ner Tamid Women's Support Society</corpname><corpname>the Friede Singing Association</corpname><corpname>Bachure Chomed Association</corpname><corpname>Chevra Kadisha</corpname></controlaccess>
+        <controlaccess><subject>Associations</subject><subject>cemetery</subject><subject>The Jewish religious community</subject><subject>anti-Jewish restrictions</subject></controlaccess>
+    </archdesc>
+</ead>    

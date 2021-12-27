@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>161</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Zlín</titleproper>
+            <subtitle>Zlín Town Archives / NAD 161</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Zlín</publisher>
+            <address>
+                <addressline>Klečůvka-zámek, 763 11 Želechovice nad Dřevnicí</addressline>
+                <addressline> +420 577 901 132</addressline>
+                <addressline>www.mza.cz/zlin</addressline>
+                <addressline>soka_zlin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1509/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>161</unitid>
+            <unittitle>Archiv města Zlín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>52,97 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Zlín</corpname>
+            </repository>
+            <unitdate>1509/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Zlín; Zlín Municipality; National Committee of Zlín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Zlín Town Archives / NAD 161</p>
+        </odd>
+        <custodhist>
+            <p>The documents were always stored at the town hall. After the fire of the Zlín City Hall in 1922, the registry was handed over as a deposit to the archives of the National Museum in Prague. The material was taken to the district archives in Gottwaldov (today Zlín) in the years 1968–1971. The fonds was gradually consolidated and processed in 1971–1975. An addendum to it was organized and an inventory was made in 2002.</p>
+        </custodhist>
+        <bioghist>
+            <p>The earliest record of Zlín comes from a document from 1322. Since the 15th century, the town council and mayor have been at the head of the town. The representative of the lords in the city was the Voigt. After 1848, the municipal board was at the head of the municipality which elected the executive and administrative body - the municipal board (1935–1949). The Jews only started to settle permanently in Zlín after 1848, mostly coming from Jewish communities in Holešov and Uherský Brod. The prayer room was in one of the burgher houses in the square. However, Jews from all over Czechoslovakia also moved there to work in Baťa's factories. In the 1930s, more than a hundred Jewish people were permanently settled in Zlín, or at least they stayed there for some time. A room in the Zlín chateau was used as a prayer room. In 1935, a special Jewish department was established in the newly built Forest Cemetery.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains the material of the self-government of the city of Zlín such as documents, official books, file material and accounting material. Information on Jews can be found in the following documents: objections to Jews settling in Zlín, 1848. From the Holocaust period these documents are the following ones: Jewish property, forced administration, purchase of Jewish land 1939–1945. Sufficient attention should also be paid to the following documents: register of members of the municipality of Zlín 1891–1948; list of members of the city of Zlín 1901–1947; register of the dead 1910–1939; trade matters: confectionery businesses, inn concessions, trade establishments; criminal files of the Zlín Police Office (Dezidér Ornstein) 1924–1948.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Deeds, II. Official books, III. File material, IV. Accounting material, V. Seal matrixes, VI. Maps and plans, VII. Other material. The material is divided into pre-1850 and after-1850 parts.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Hanzal J.: Archiv města Zlín 1509-1949. Inventář, 1975, 248 s., ev. č. 221.</p></otherfindaid><otherfindaid><p>Nečasová K.: Archiv města Zlín – rejstříky osobních spisů a trhových smluv 1634-1945 (1954). Dílčí inventář, 2002, 0 s., ev. č. 480.</p></otherfindaid><otherfindaid><p>Hanzal J.: Archiv města Zlín – výběrový seznam korespondence městského úřadu ve Zlíně z let 1850-1889. Katalog, 1976, 53 s., ev. č. 397.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Holocaust</subject><subject>Jewish property</subject><subject>forced administration</subject><subject>purchase of Jewish land</subject></controlaccess>
+    </archdesc>
+</ead>    
+

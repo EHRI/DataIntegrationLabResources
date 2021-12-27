@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>506</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Ministerstvo zahraničních věcí - výstřižkový archiv, Praha</titleproper>
+            <subtitle>Ministry of Foreign Affairs - clippings archive, Prague / NAD 506</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1918/1987   </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>506</unitid>
+            <unittitle>Ministerstvo zahraničních věcí - výstřižkový archiv, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>1916,75 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1918/1987   </unitdate>
+            <langmaterial>
+                <language langcode="eng">eng</language><language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="rus">rus</language><language langcode="dan">dan</language><language langcode="swe">swe</language><language langcode="fre">fre</language><language langcode="ita">ita</language><language langcode="bul">bul</language><language langcode="pol">pol</language><language langcode="slo">slo</language><language langcode="fin">fin</language><language langcode="srp">srp</language><language langcode="hun">hun</language><language langcode="nor">nor</language>
+            </langmaterial>
+            <origination>
+                <name>Ministry of Foreign Affairs; Ministry of Interior</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Ministry of Foreign Affairs - clippings archive, Prague / NAD 506</p>
+        </odd>
+        <custodhist>
+            <p>The first part of the clippings archive of the Ministry of Foreign Affairs was handed over to the then State Central Archives (now the National Archives) in the autumn of 1955. At that time, the documents were roughly organized and parts of the documentation handed over by the Intelligence Department of the Ministry of the Interior were added. The remaining parts of the clippings archive were handed over in the following years. The second part of the clippings archive was processed in 1980 and the last part in 2001-2007.</p>
+        </custodhist>
+        <bioghist>
+            <p>In the first days of November 1918, a provisional Czechoslovak government was established in Paris, within which the Ministry of Foreign Affairs was set up. The National Committee of the Czechoslovak Republic also established the supreme administrative authorities by Act No. 2/1918 Sb. of 2 November 1918. They were twelve administrative offices, including the Ministry of Foreign Affairs, which later merged with the Ministry of Foreign Affairs of the Provisional Government in Paris. Shortly after the occupation of the rest of the Czechoslovak Republic and the establishment of the Protectorate of Bohemia and Moravia in March 1939, the Ministry of Foreign Affairs was abolished. During World War II, a Czechoslovak government-in-exile was established in London, including the Ministry of Foreign Affairs. In 1945, the Ministry of Foreign Affairs in Prague was re-established.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The clippings archive, which was established at the request of the Ministry of Foreign Affairs, systematically collected clippings mainly on foreign political events. Gradually, a unique collection of thematically arranged newspaper clippings from the Czechoslovak and foreign press from the years 1916-1987 was created. The fonds itself is divided into three parts, the first of which contains clippings from 1916-1944, the second one from 1945-1951 and the third one from 1952-1987. The first part of the fonds contains sets of clippings on Jews in Czechoslovakia from 1920-1944 and on the Jewish religion from 1924-1942. At the end of each part of the collection there are clippings on important personalities of the Jewish community in the Czech lands and abroad, especially politicians, artists, journalists and writers.</p>
+        </scopecontent>
+        <arrangement>
+            <p>All three parts of the fonds have almost identical internal division: Finding aids (Auxiliary books and card catalogues), International development, World and states, States, Czechoslovakia in territorial division, Czechoslovakia in detailed division, Institutions (alphabetical), Persons (alphabetical). The archival materials are arranged in subject units that respect the original division by the originator.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Havlín O.: Ministerstvo zahraničních věcí – Výstřižkový archiv 1916-1944. Inventář, 1966, s. 247, ev. č. 491.</p></otherfindaid><otherfindaid><p>Gosmanová S. – Kreč J. – Sikorová M. – Šturz J.: Ministerstvo zahraničních věcí – Výstřižkový archiv 1945-1951 (1955). Díl II., Sv. 1. Inventář, 1980, 243 s., ev. č. 1027.</p></otherfindaid><otherfindaid><p>Gosmanová S.  – Kreč J. – Sikorová M. – Šturz J.: Ministerstvo zahraničních věcí – Výstřižkový archiv 1945­1951 (1955). Díl II., Sv. 2., Inventář, 1980, 685 s., ev. č. 1028.</p></otherfindaid><otherfindaid><p>Gosmanová S. – Kreč J. – Sikorová M. – Šturz J.: Ministerstvo zahraničních věcí – Výstřižkový archiv 1945-1951 (1955). Díl II., Sv. 3., Inventář, 1980, 527 s., ev. č. 1029</p></otherfindaid><otherfindaid><p>Machková Z.: Ministerstvo zahraničních věcí – Výstřižkový archiv, Praha. Díl III., (1945) 1952-1987. Dílčí inventář, 2009, 1158 s., ev. č. 1679.</p></otherfindaid>
+        <otherfindaid><p>https://vademecum.nacr.cz/vademecum/index.jsp?</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Newspaper clippings</subject><subject>politicians</subject><subject>artists</subject><subject>journalists</subject><subject>writers</subject><subject>foreign political events</subject><subject>Jewish personalities</subject><subject>Jewish religion</subject></controlaccess>
+    </archdesc>
+</ead>    
+

@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>310</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Městský národní výbor Strakonice</titleproper>
+            <subtitle>Town National Committee of Strakonice / NAD 310</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date> 1945/1989</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>310</unitid>
+            <unittitle>Městský národní výbor Strakonice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>54,99 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate> 1945/1989</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town National Committee of Strakonice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Town National Committee of Strakonice / NAD 310</p>
+        </odd>
+        <custodhist>
+            <p>The first transfer of written materials from the Municipal Office of Strakonice to the District Archives of Strakonice took place in 1965. Other archival materials were handed over regularly during the following years as part of the appraisal procedure. The last transfer to the State District Archives in Strakonice took place in 2020. Part of the fonds was processed in 1979.</p>
+        </custodhist>
+        <bioghist>
+            <p>The origin, organization and competence of district national committees as new state bodies were first established by the Constitutional Decree No. 18 of the President of the Republic of 1945. The activities of the town national committee were terminated in 1989.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the town people's administration and delegated state administration, deeds, official books, file material and accounting material. Jewish issues can be found in the following areas: assistance to repatriates 1945, victims of the Gestapo 1942, renouncing Czechoslovak citizenship - A. Zucker 1948, national administration 1945-1949, Jews declared dead 1946-1948.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The inventoried part of the fonds is divided as follows: II Books III File material: a) auxiliary books; b) files - I Period 1945-1947 (1949), II Period 1949-1950, III Period 1951-1954, IV Period 1955-1970 (1981); IV Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Pahorecká J.: Městský národní výbor Strakonice (1937) 1945-1989. Prozatímní inventární seznam, 1979, 72 s., ev. č.620.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210601000620/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>victims of the Gestapo</subject><subject>citizenship</subject><subject>national administration</subject><subject>Jews declared dead</subject></controlaccess>
+    </archdesc>
+</ead>    

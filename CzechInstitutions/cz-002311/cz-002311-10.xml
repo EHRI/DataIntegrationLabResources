@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>620</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv městečka Malenovice a Místní národní výbor Malenovice</titleproper>
+            <subtitle>Malenovice Town Archives and the Malenovice National Committee / NAD 620</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Zlín</publisher>
+            <address>
+                <addressline>Klečůvka-zámek, 763 11 Želechovice nad Dřevnicí</addressline>
+                <addressline> +420 577 901 132</addressline>
+                <addressline>www.mza.cz/zlin</addressline>
+                <addressline>soka_zlin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1626/1948</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>620</unitid>
+            <unittitle>Archiv městečka Malenovice a Místní národní výbor Malenovice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>6,15 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Zlín</corpname>
+            </repository>
+            <unitdate>1626/1948</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Malenovice; Malenovice Market Town; National Committee of Malenovice; National Committee of Gotwaldov-Malenovice district</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Malenovice Town Archives and the Malenovice National Committee / NAD 620</p>
+        </odd>
+        <custodhist>
+            <p>The municipal documents were stored at the town hall in earlier times. Parts of the documents were destroyed in fires. The first appraisal was probably carried out in 1955 by an archivist. Other additions to the fonds date from 1958, 1965, 1970 and 1971. The fonds was processed and an inventory made in 1978. The archive material of the town of Malenovice and the local national committee was organized into one fonds mainly because the minutes of the meetings of the council and the board and the financial commission continued to be made without interruption even after 1945, and also because the local national committee was active for only three years.</p>
+        </custodhist>
+        <bioghist>
+            <p>The earliest record of Malenovice dates from 1321. It was promoted to a market town in the 1460s. The last owner of the Malenovice estate and the castle was the Šternberk family (1804–1945), which also performed patrimonial administration of the town until 1849. After the reforms of 1848–1849, the district governor's office in Holešov (1850–1855), the mixed district office of Napajedla (1855–1868), and the political district of Uherské Hradiště (1868–1935), performed first-instance supervision over the municipality. From 1935, it was part of the newly established political district of Zlín. Since 1 January 1949, Malenovice became part of the newly established town of Gottwald called Gottwaldov VIII -Malenovice.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipality self-government. With its scope, it belongs to the fonds of small towns. It contains only particulars about Jews: anti-semitic lectures by the Vlajka organization and the post-war investigation of their members 1940–1945: announcements, lectures “Judaism and Modern Nationalism,” Czech Labor Front, speaker Vykydal from Želechovice, 20 July 1940; "Jews and London must be tried by the People's Court", convened by Jaroslav Pagáč from Zlín, 6 December 1941; the issue of handing over German and Czech members of the Vlajka by the Security Commission in Zlín to Malenovice as their place of residence, June 9, 1945.Then there are documents from the Holocaust period and its post-war investigation: Jews and Jewish property: regulation of contact between non-Jewish and Jewish people, list of Jews and property (Manuel, Huppert, Beywasser, Politzer, Schlesinger, Kylián, Benešovský, Kvasničková, Mayer), residence, extension of the powers of the national administration of the Jewish Council of Elders in Prague, an inquiry from Palestine concerning the Kohn-Politzer family 1939–1947. Sufficient attention should be paid to the following material: the register of citizens 1880-1900; the book of death records 1892–1949; the statement of issued domicile certificates 1899–1932; the records of immigrants 1898–1948; the list of self-employed persons 1924–1934; the appointment of forced administrators for homesteads, houses, and trade enterprises 1935–1943.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Deeds; II. Books: a) official administrative books, b) property books,c) registration and police books; III. File material: a) auxiliary books, b) files until 1850, c) files from 1850–1948 IV. Accounting books V. Other material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koželuhová L.: Archiv městečka a MNV Malenovice (1532) 1626-1948 (1949). Inventář, 1978, 85 s., ev. č. 229.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Jewish Council of Elders in Prague</corpname></controlaccess>
+        <controlaccess><subject>anti-semitic lectures</subject><subject>Jewish property</subject><subject>Holocaust</subject><subject>register of citizens</subject><subject>forced administrators</subject></controlaccess>
+    </archdesc>
+</ead>    

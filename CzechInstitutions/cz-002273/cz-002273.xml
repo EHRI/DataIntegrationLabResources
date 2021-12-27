@@ -1,0 +1,760 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>307</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Kamenice nad Lipou</titleproper>
+            <subtitle>Archives of the Town of Kamenice nad Lipou / NAD 307</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1462/1951</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>307</unitid>
+            <unittitle>Archiv města Kamenice nad Lipou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>23,34 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1462/1951</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Kamenice nad Lipou Municipality; Municipal Office of Kamenice nad Lipou (1850-1945); National Committee of Kamenice nad Lipou (1945-1960); National Committee of Kamenice nad Lipou (1960-1990)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Kamenice nad Lipou / NAD 307</p>
+        </odd>
+        <custodhist>
+            <p>The documents were stored at the town hall. After the town hall fire in 1819, new spaces for storing documents were gradually established. The registry had not been given due care for many years. Individual parts of it were scattered in buildings around the town. At the beginning of the 1950s, the municipal archive was taken over by the Kamenice nad Lipou District Archives, from which it was transferred to the Pelhřimov District Archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Kamenice nad Lipou comes from 1267-1278. During the 15th century, there was a town council with a mayor and municipal elders. Despite all efforts, a regulated municipality office was not established in the town in the 18th century. The municipal office was not established until 1850. At that time, a district court and a tax office were also established there. The first-instance state administration was performed from Pelhřimov. The organized Jewish community is documented there only in the 19th century. The Jewish cemetery was founded in 1803 and was used until World War II.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents, official books, and files. Jews are explicitly mentioned in the following documents: deprivation of the membership of Jew Leo Wertheimer in the council (inv. No. 328); refugees from Galicia (inv. No. 380); list of Jewish children as summer guests for recovery (inv. No. 383); apartments after Jews (inv. No. 526); lists of Jews (inv. No. 552); Jewish affairs - self-employed persons, teacher of religion, establishment of a canteen, resignation of a head, riots against Jews, kosher butcher's work, regulations regarding the origin and property of Jews 1851-1944 (inv. No. 553); synagogue, Jewish cemetery (among others, the shed at the synagogue, the wall of the cemetery, streets around the synagogue, reconstruction, lease of the synagogue and Jewish houses no. 36, 61, 102, 374) 1882-1944 (inv. No. 554); confiscation of Jewish property (inv. No. 614).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed fonds contains deeds (privileges of the town and deeds of individual burghers). The books are divided by the year 1850 and classified by subjects, followed by registry finding aids from both periods. Preserved files until 1850 are stored in five groups. They are divided into 18 groups in detail from the period after 1850. The year 1850 is also considered a dividing line in books, accounts, and accounting notes. Maps can be found at the end of the fonds.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kršilová I. – Martínek Z.: Archiv města Kamenice nad Lipou. Inventář, 2006, 145 s., ev. č. 961.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>refugees from Galicia</subject><subject>Jewish children as summer guests for recovery</subject><subject>lists of Jews</subject><subject>anti-Jewish riots</subject><subject>kashrut</subject><subject>synagogue</subject><subject>Jewish cemetery</subject><subject>property confiscation</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>10</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Pacov</titleproper>
+            <subtitle>District National Committee in Pacov / NAD 10</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1887/1962</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>10</unitid>
+            <unittitle>Okresní národní výbor Pacov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>51,29 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1887/1962</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee Pacov; Okresní hejtmanství Pelhřimov (1868-1919); Okresní národní výbor Pelhřimov (1945-1990)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee in Pacov / NAD 10</p>
+        </odd>
+        <custodhist>
+            <p>After the abolition of the Pacov district, the documents of the District National Committee were taken over into the registry of the District National Committee in Pelhřimov. As late as 1997, parts of the agenda were found in the building of the Municipal Office in Pacov. In 1966, the files went through an appraisal proceeding. They were then handed over to the Pelhřimov District Archives, where the fonds was organized and inventoried in 1967-1968. The fonds was re-inventoried in 2004.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District National Committee in Pacov was established on 1 February 1949 by a government resolution without any connection to the previous administrative institutions. The newly established Regional National Committee in Jihlava was its direct superior body. The executive body was the board, which managed all the activities of the DNC not reserved to the plenary or the chairman. The professional agenda was performed by individual departments. Commissions functioned as executive components of the board. It ceased to exist after the establishment of the Pelhřimov District National Committee for the territory of a large district on 1 July 1960.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official books, registry finding aids, files, and accounting material. The relevant material is stored in the following groups: national property, confiscation affairs, property transfers in construction, church supervision, territorial organization of churches, and registry agenda. Specifically, these are the following documents: liquidation of the forced occupation administration of Jewish property (inv. No. 170); restitution of the confiscated Jewish property, lease of the synagogue in Pacov 1949-1951 (inv. No. 415); the former Jewish prayer house in Košetice after 1945 (inv. no. 587); removal of the Jewish school in Hořepník and the synagogue in Lukavec after 1945 (inv. No. 686); establishment of the Jewish Religious Community in Jihlava after 1945 (inv. No. 697); restoration of the destroyed Jewish registry of births, deaths and marriages after 1945 (inv. No. 798).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is not divided into handling periods and contains official books, registry finding aids, and files, which are divided into 18 subject groups and accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Martínek Z.: Okresní národní výbor Pacov (1887) 1949-1960 (1962). Inventář, 2004, 151 s., ev. č. 948.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>restitutions</subject><subject>forced administration of the Jewish property</subject><subject>lease of the synagogue in Pacov</subject><subject>prayer house</subject><subject>synagogue</subject><subject>Jewish Religious Community in Jihlava</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>25</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Humpolec</titleproper>
+            <subtitle>District Court in Humpolec / NAD 25</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>25</unitid>
+            <unittitle>Okresní soud Humpolec</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>28,23 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Humpolec; The Mixed District Office Humpolec (1855-1868); People's Court of Humpolec</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Humpolec / NAD 25</p>
+        </odd>
+        <custodhist>
+            <p>The fonds has not been inventoried, so its history is unknown. From the court's registry, the documents were handed over to the Humpolec People's Court and, after the merger in 1960, to the Pelhřimov District Court, from which the documents are handed over directly to the District Archives after the statutory appraisal deadlines.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the manorial administration and with the establishment of a new organization of political and judicial administration, the Humpolec District Court was established in 1850 for the judicial district of the same name, which respected the territory of the existing estates within its borders. In the period from 26 May 1855 to 31 August 1868, the performance of political and judicial administration was merged into one office, which became the so-called mixed district office. The separation of political and judicial administration took place again in 1868, when a district court was established, functioning until 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains an agenda arising from the activities of the district court. The agenda is divided according to individual periods into sections A, B, C, and D - land books. The processed part contains the registry of deaths 1853-1897, the estate register 1893-1897, where there may be information on Jews, but only as index records. In the unprocessed part of the fonds, inheritance proceedings are preserved, including the Jewish population. From older periods they have been preserved only partially due to appraisal proceedings - only wills from 1855-1907 have been preserved. The files of D call number (inheritance) from 1933-1948 and P call number (guardians) from 1923-1948 have been completely preserved. The files can be searched on the basis of lists of names D 1899-1949, registers D 1923-1948 and registers P 1909-1934. The files of individual deceased persons contain biographical information about the persons, their relatives, property, and the settlement of the inheritance.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed part of the fonds is divided into sections A for the years 1850-1854, B for the years 1855-1897, C for the years 1898-1949, and D of the land registers. It contains, among others, the death register 1853-1897, the estate register 1893-1897; presidium diaries (1905-1948), registers and lists of names according to call numbers A, C, E, K, L, M, N, O, Sp, T, U, Z. Books of contracts of several places, library diaries (1875-1954), and a list of documents (1914-1951) have been preserved. The part of the fonds that contains call numbers D and P has not processed. However, searching in the files is possible on the basis of the preserved registers with references to the names of persons and file numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Havlová B. – Kovaříková I. – Martínek Z.: Okresní soud Humpolec. Prozatímní inventární seznam, 1994, ev. č. 77.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance matters</subject><subject>last wills</subject><subject>guardians</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>26</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Kamenice nad Lipou</titleproper>
+            <subtitle>District Court in Kamenice nad Lipou / NAD 26</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>26</unitid>
+            <unittitle>Okresní soud Kamenice nad Lipou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>92,61 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Kamenice nad Lipou;Mixed District Office Kamenice nad Lipou (1855-1868); People's Court of Kamenice nad Lipou</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Kamenice nad Lipou / NAD 26</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is not inventoried, so its history is unknown. From the court's registry, the documents were handed over to the Kamenice nad Lipou People's Court and, after the merger in 1960, to the Pelhřimov District Court, from which the documents are handed over directly to the District Archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the manorial administration and with the establishment of a new organization of political and judicial administration, the Kamenice nad Lipou District Court was established in 1850 for the judicial district of the same name, which respected the territory of the existing manors within their borders. In the period from 26 May 1855 to 31 August 1868, the performance of political and judicial administration was merged into one office, which became the so-called mixed district office. The separation of the political and judicial administration took place again in 1868, when a district court was established, which existed until 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains the agenda arising from the activities of the district court. The agenda is divided according to individual periods into sections A, B, C, and D - land books. The processed part contains registers of deaths (1850-1912), estate protocols with indexes (1868-1897), lists of last wills 1855-1897, a list of estates (1873-1881), where information about Jews from the district can be found. In the unprocessed part of the fonds, inheritance proceedings have been preserved, including the Jewish population - from older periods only selectively after appraisal proceedings. The processed part includes inheritance protocols including indexes (1857-1897), an index to wills included in the files (1855-1897), a list of last wills (1855-1897), and a list of estates (1873-1881), and inheritance files (1885- 1893). The unprocessed part includes estates (1861-1901), complete files D (inheritance) (1924-1948) and files P (guardianship) (1898-1948). For search there are a list of names D (1927-1954), index D (1929-1948), register P (1926-1949), and file P (1911-1949). The files of individual deceased persons contain biographical information about persons, their relatives, property, and the settlement of the inheritance.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed part of the collection is divided into sections A for the years 1850-1854, B for the years 1855-1897, C for the years 1898-1949, and D of the land books. It contains, among other things, civil and criminal filing protocols from 1850-1897, death registers (1850-1912), inheritance protocols with indexes (1868-1897), lists of last wills 1855-1897, list of estates (1873-1881), presidium diaries (1898-1948), registers, and lists of names for call numbers A, C, E, L, M, N, O, Sp, T, U, and Z with sub-call numbers. Land books of some municipalities and library diaries (1877-1948) have been preserved. The part of the fonds that contains call numbers D and P has not been processed. However, searching in the files is possible on the basis of the preserved registers with references to the names of persons and file numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Havlová B. – Kovaříková I. – Martínek Z.: Okresní soud Kamenice nad Lipou. Prozatímní inventární seznam, 1994, 21 s., ev. č. 78.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance matters</subject><subject>last wills</subject><subject>guardians</subject><subject>registers of deaths</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>27</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Pacov</titleproper>
+            <subtitle>District Court in Pacov / NAD 27</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>27</unitid>
+            <unittitle>Okresní soud Pacov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>84,78 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Pacov; Mixed District Office Pacov (1855-1868); People's Court of Pacov</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Pacov / NAD 27</p>
+        </odd>
+        <custodhist>
+            <p>From the court's registry, the documents were handed over to the Pacov People's Court and, after the merger in 1960, to the newly established Pelhřimov District Court, from which the documents are handed over directly to the District Archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the manorial administration and with the establishment of a new organization of political and judicial administration, the Pacov District Court was established in 1850 for the judicial district of the same name, which respected the territory of the existing manors within their borders. From 26 May 1855 to 31 August 1868, the performance of political and judicial administration was merged into one office, which became the so-called mixed district office. The separation of the political and judicial administration took place again in 1868, when a district court was established, which existed until 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains the agenda arising from the activities of the district court. The agenda is divided according to individual periods into sections A, B, C, and D - land books. The processed part of the collection contains registers of deaths (1850-1878), a statement of estates (1885-1897), a register of estates - call number A (1898-1914), and lists of estates (1885-1896), where information on Jews from the district could be found. The unprocessed part of the fonds contains inheritance proceedings, including the Jewish population - from older periods only selectively after appraisal proceedings. The files of call number D (inheritance) (1933-1948) and call number P (guardianship) (1898-1948) have been completely preserved. The files can be searched on the basis of lists of names D (1927-1954), P (1910-1949), registers D (1915-1948), and registers P (1898-1950). The files of individual deceased persons contain biographical information about persons, their relatives, property, and dealing with the inheritance.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed part of the fonds is divided into sections A for the years 1850-1854, B for the years 1855-1897, C for the years 1898-1949, and D of the land books. It contains a register of deaths 1850-1852, filing registers in civil and criminal matters (1857-1897), a register of deaths 1853-1878, a statement of estates (1885-1897), a presidium diary, a register of estates - call number A (1898-1914), registers according to call numbers C, E, L, M, N, T, Z with sub-call numbers, land books of some manors, library diaries and registers to them (1873-1948), and lists of estates (1885-1896).The part of the fonds that contains call numbers D and P has not been processed. However, searching in the files is possible on the basis of the preserved registers with references to the names of persons and file numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kovaříková I. – Martínek Z.: Okresní soud Pacov. Prozatímní inventární seznam, 1992, 17 s., ev. č. 121.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance matters</subject><subject>last wills</subject><subject>guardians</subject><subject>registers of deaths</subject><subject>statement of estates</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>28</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Pelhřimov I.</titleproper>
+            <subtitle>District Court in Pelhřimov I / NAD 28</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>28</unitid>
+            <unittitle>Okresní soud Pelhřimov I.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>88,4 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Pelhřimov; Mixed District Office Pelhřimov (1855-1868); People's Court of Pelhřimov</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Pelhřimov I / NAD 28</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is not inventoried, so its history is unknown. From the court's registry, the documents were handed over to the Pelhřimov People's Court and, after the merger in 1960, to the newly established Pelhřimov District Court, from which the documents are handed over directly to the District Archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the manorial administration and with the establishment of a new organization of political and judicial administration, the Pelhřimov District Court was established in 1850 for the judicial district of the same name, which respected the territory of the existing manors within their borders. In the period from 26 May 1855 to 31 August 1868, the performance of political and judicial administration was merged into one office, the so-called mixed district office. The separation of political and judicial administration took place again in 1868, when a district court was established, which existed until 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains an agenda arising from the activities of the district court. The agenda is divided according to individual periods into sections A, B, C, and D - land books. The processed part of the fonds contains a death register (1851-1855), a list of wills (1857-1868), and inheritance protocols (1855-1897), where information on Jews from the district could be found. The unprocessed part of the fonds contains inheritance proceedings, including the Jewish population - from older periods only selectively after appraisal proceedings. The files of call number D (inheritance) from 1933-1948 and call numbers P (guardianship) from 1902-1948 have been completely preserved. The files can be searched on the basis of name lists D (1941-1954), registers D (1910, 1929-1930, 1948-1949), registers P (1898-1950), and files P (1914-1949). The files of individual deceased persons contain biographical information about the person, their relatives, property, and dealing with the inheritance.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed part of the fonds is divided into sections A for the years 1850-1854, B for the years 1855-1897, C for the years 1898-1949 and D - land books. It contains in particular registry finding aids and official books: filing protocols in civil and criminal matters (1850-1897), registers for filing protocols (1851-1897), death register (1851-1855), registers for the registry (1855-1895), list of wills (1857-1868), estate protocols (1855-1897), orphan registers (1851-1897), reports of crimes (1857-1866), reports of misdemeanors 1872-1897, presidium registers 1898-1948. Registers, lists of names according to call numbers A, C, E, L, M, N, Sp, I, T, U, Z, all with a more detailed breakdown. Registers of documents for land books for some manors from the years 1823-1884 and book registers 1883-1948.The part of the fonds that contains call numbers D and P has not been processed. However, searching in the files is possible on the basis of the preserved registers with references to the names of persons and file numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kovaříková I. – Martínek Z. – Svoboda E.: Okresní soud Pelhřimov 1850-1949 (1952). Prozatímní inventární seznam, 1992, ev. č. 79.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance matters</subject><subject>last wills</subject><subject>guardians</subject><subject>registers of deaths</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>29</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Počátky</titleproper>
+            <subtitle>District Court in Počátky / NAD 29</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>29</unitid>
+            <unittitle>Okresní soud Počátky</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>56,78 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Počátky; Mixed District Office Počátky (1855-1868); People's Court of Počátky</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Počátky / NAD 29</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is not inventoried, so its history is unknown. From the court's registry, the documents were handed over to the Kamenice nad Lipou People's Court and, after the merger in 1960, to the newly established Pelhřimov District Court, from which the documents are handed over directly to the District Archives after the statutory appraisal proceedings deadlines.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the manorial administration and with the establishment of a new organization of political and judicial administration, the Počátky District Court was established in 1850 for the judicial district of the same name, which respected the territory of the existing estates within their borders. At the time of Bach's absolutism, with effect from 26 May 1855 to 31 August 1868, the performance of political and judicial administration was merged into one office, the so-called mixed district office. The separation of political and judicial administration took place again in 1868, when a district court was established, which existed until 1949. The Počátky District Court ceased to exist by order of the Minister of Justice No. 11/1949 Sb. on 31 January 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains an agenda arising from the activities of the district court. The agenda is divided according to individual periods into sections A, B, C, and D - land books. The unprocessed part of the fonds includes inheritance proceedings, including the Jewish population - from older periods only selectively after appraisal proceedings. The books of estates dealt with in 1864-1897 have been preserved. The files of call number D (inheritance) from 1933-1949 and call number P (guardianship) from 1898-1947 have been completely preserved. The files can be searched on the basis of name lists D (1914-1949), registers D (1931-1949), and registers P (1898-1925). The files of individual deceased persons contain biographical information about persons, their relatives, property, and dealing with the inheritance in preserved death records, wills, property inventories and descriptions of buildings, protocols on the discussion of estates, resolutions and respective documents.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed part of the fonds is divided into sections A for the years 1850-1854, B for the years 1855-1897, C for the years 1898-1949, and D - land book. It contains, among other things, filing registers and registers for them from the years 1851-1897, registers of misdemeanors (1877-1897), presidium records (1898-1947), registers and lists of names for signatures A, C, E, K, L, M, N , O, P, T, U, Z, V and land books, land protocols, real estate lists, document registers (1880-1897).The part of the fonds that contains call numbers D and P is not processed. However, searching in the files is possible on the basis of the preserved registers with references to the names of persons and file numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kovaříková I. – Martínek Z. Okresní soud Počátky 1850-1949 (1956). Prozatímní inventární seznam, 1992, 15 s., ev. č. 122.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance matters</subject><subject>guardianship</subject><subject>property matters</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Humpolec</titleproper>
+            <subtitle>District Office in Humpolec / NAD 1</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1799/1951</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1</unitid>
+            <unittitle>Okresní úřad Humpolec</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>67,42 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1799/1951</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Humpolec; Mixed District Office Humpolec; District Political Administration Humpolec; The District Office in Humpolec; District National Committee Humpolec; Humpolec District State Commissariat for stamping banknotes; Tax office of Humpolec</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office in Humpolec / NAD 1</p>
+        </odd>
+        <custodhist>
+            <p>The files of the mixed district office were transferred to the Archives of the Ministry of the Interior in 1944, then they were transferred to the State Archives in Telč in 1951 and from there to the Pelhřimov District Archives. The files of the district office from 1910–1945 were taken over by the District National Committee in Humpolec, and then in 1953 by the State Archives in Telč, where an inventory was made. After being handed over to the Pelhřimov District Archives, the fonds was re-inventoried according to modern principles.</p>
+        </custodhist>
+        <bioghist>
+            <p>On 26 May 1855, the District Mixed Office was established. It was abolished on 31 August 1868, and only the court remained in its place. In the years 1868–1905, there was no political administration office at the district level in Humpolec. The district was administered by the District Governor's Office in Německý (today Havlíčkův) Brod. The independent District Governor's Office in Humpolec was established on 1 July 1910, renamed the District Political Administration in 1919. On 1 December 1928 self-government became state administration and merged with the Political Office in the Humpolec District Office, which existed until the end of World War II. In 1945 it was replaced by the Humpolec District National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>Only a fragment of the file material has been preserved from the registry of the mixed district office, where a minimum of information about the Jewish population has been preserved. Since 1910, official books, registry finding aids, files, and accounting material have been preserved. Relevant material can be found in sub-call numbers A/3 Security, licensing, passports, citizenship and domicile right; A/4 Association matters; A/6 Church matters and register of births, deaths and marriages; I/3 Constitutional and state matters; III/2 Security matters; VI/2 Trade matters; VII/25 and 35 School, cultural and ecclesiastical matters; VIII/9 Social care matters; X/7 Agriculture, forestry and water management matters; XI/4 Technical, construction, fire and transport matters. Jews are mentioned in the following documents: Jews' protest against the payment of shop fees, the election of the head of the Jewish cultural community, estate matters (inv. No. 17); Jewish matters (inv. No. 29); filling the position of the head of Jewish registers of births, deaths and marriages (inv. No. 35); investigation of the butcher of the Jewish community (inv. No. 40); the Izák Löwy Foundation for the Jewish Cultural Community in Humpolec (inv. No. 63); a report on the members of the board of the Jewish Religious Community (inv. No. 609); Schir Zion Jewish association, Chevra Kadisha Jewish funeral association, Jewish association for girls (inv. No. 626); records of religious communities - Jewish (inv. No. 647); Jewish religious community in Humpolec: changes in statutes, meetings, election of representatives, appointment of the registrar, celebrations, foundations for the poor, inventory of war loans 1911-1929 (inv. No. 652); conversions to the Jewish Church (inv. No. 656); abolishing honorary citizenship of Jewish persons during World War II (inv. No. 881); dismissal of Jews from councils during the war (inv. no. 894); investigation into anonymous threatening letters referring to the suffering of Jews (inv. No. 941); retraining camp for Jews in Lípa, a list of inmates with foreign citizenship (inv. No. 946); distribution of leaflets against Jews, violations of the regulation on Jews in Humpolec and Havlíčkův Brod (inv. No. 986); anti-Jewish measures in trades and industry - registration of Jewish property, reports on Jewish food merchants, sales hours and closure of Jewish businesses, labeling of Jewish shops, ban on the use of laundries operated by Jews, determination of shopping districts for Jews 1913-1942 (inv. No. 1044); Jewish Church - regulations on the contact of Jews with the public, migration of Jews - reports of gendarmerie stations, marking of Jews in offices, integration of Jews into work, accommodation and resettlement of Jews, registration of Jewish children, investigation into the granting of honorary citizenship to Jews - municipal reports, anti-Jewish actions of the population, private affairs of Jews, municipal affairs in Humpolec - election of representatives, a list of Jewish organizations, cemetery - and in Havlíčkův Brod - appointment of the head, registers of births, deaths and marriages, abolition of cemetery 1938-1944 (inv. No. 1077); Foundation for the Administration of Refugee Barracks for Polish Jews in Německý Brod (inv. No. 1087); apprehending Jews among refugees 1939 (inv. No. 1112); investigation into physicians (inv. No. 1137); repair of the Jewish cemetery, search of the Jewish religious community for the registers of persons buried in Větrný Jeníkov (inv. No. 1152); land property of Jews, regulations, records, establishment of Treuhanders, introduction of forced administration of agricultural property 1939-1940 (inv. No. 1172); exclusion of Jews from fishing (inv. No. 1191); records of Jewish flats 1943 (inv. No. 1204). The 1921 census is in the unprocessed part of the fonds.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided according to the originators for the years 1855-1868 and 1910-1945. Only a fragment of the file material from the registry of the mixed district office has been preserved. Since the establishment of the district governor's office in 1910, official books, registry finding aids, files, and accounting material have been preserved.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Dědková L. – Poustka K.: Okresní úřad Humpolec – Presidiální spisy 1910-1941. Katalog, 1974, 140 s., ev. č. 62.</p></otherfindaid><otherfindaid><p>Havlová B. – Martínek Z.: Okresní úřad Humpolec (1799) 1855-1945 (1951). Inventář, 1996, s. 402, ev. č. 130.</p></otherfindaid><otherfindaid><p>Martínek Z.: Okresní úřad Humpolec – Presidiální spisy 1938-1945. Katalog, 1994, 115 s., ev. č. 172.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Izák Löwy Foundation</corpname><corpname>Chevra Kadisha</corpname><corpname>Schir Zion</corpname><corpname>Foundation for the Administration of Refugee Barracks for Polish Jews in Německý Brod</corpname></controlaccess>
+        <controlaccess><subject>Jewish Cultural Community</subject><subject>Jewish association for girls</subject><subject>conversions</subject><subject>anti-Jewish restrictions</subject><subject>Jewish Cemetery</subject><subject>forced administration</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>4</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Pelhřimov I.</titleproper>
+            <subtitle>District Office of Pelhřimov I / NAD 4</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1821/1956</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>4</unitid>
+            <unittitle>Okresní úřad Pelhřimov I.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>135 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1821/1956</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Pelhřimov; Mixed District Office Pelhřimov (1855-1868); District Political Administration Pelhřimov (1919-1928);TheDistrict Office of Pelhřimov (1928-1945); District National Committee Pelhřimov (1945-1990)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Pelhřimov I / NAD 4</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the fonds went through several appraisal proceedings. The 1930 census lists were also appraised. The registry had been stored in the Archives of the Ministry of the Interior in Prague since 1870, from where it was transferred to the State Archives in Telč in 1951. In 1963, the entire fonds was transferred to the Pelhřimov District Archives seated in Červená Řečice and gradually supplemented with other documents.</p>
+        </custodhist>
+        <bioghist>
+            <p>From 1 February 1850, the Pelhřimov District Governor's Office was established for the Pelhřimov and Kamenice regions. In 1855, the political administration was merged with the judiciary, and the so-called Mixed District Office of Pelhřimov and the Mixed District Office of Kamenice nad Lipou were established. In 1868, the Pelhřimov District Governor's Office was restored. In 1919, it was renamed the Pelhřimov Political District Administration, and on 1 December 1928, the Pelhřimov District Office. The Jewish communities in Černovice, Horní Cerekev, Hořepník, Kamenice nad Lipou, Lukavec, Nová Cerekvi, Nová Včelnice, Pacov, Pavlov and Pelhřimov fell under the administration of the originator. In 1945, it was replaced by the Pelhřimov District National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains state administration documents. References to the Jewish population may be found in documents of a general nature - presidium files, records of citizenship, and census files. The 1921 census can be found in the unprocessed part of the fonds. Jews are mentioned in the following documents: Circulars and instructions of the Czech governance concerning Jewish affairs (inv. No. 601); Jewish affairs, lists of Jews for cult elections (inv. No. 604); Jewish affairs, registries of births, deaths and marriages, copies of registries, dispensations for the performance of the functions of rabbi and teacher (inv. No. 641); documents concerning, inter alia, the appointment of the rabbi and the board of directors, statutes of Jewish religious communities, inquiries into the number of Jews, lists, financial and property matters, boundaries of religious communities, elections of officials, teaching of religion, teachers (inv. No. 653); anti-Jewish leaflets (inv. No. 672); the statutes of the Jewish Association, the Association of Czech Jews - Tomid, the Sion Choir, the establishment of the Chevra Kadisha Support and Funeral Association (inv. No. 677); combating the vagrancy of the Jews (inv. No. 681); Jewish registries of births, deaths and marriages (inv. No. 796); Jewish affairs, the cadaster of Jewish communities, general overviews, register matters, financial, statutes of Jewish religious communities, foundations (inv. No. 805); negotiations on the assessment of an equivalent of the property of the Jewish municipality (inv. No. 946); district employees from mixed Jewish marriages (inv. No. 1037); marking Jewish passports (inv. No. 1069); records, lists of Jews, police applications of Jews, inquiry into Jewish property, lists of Jewish shops, statements of Jewish property (inv. No. 1070); restrictions on Jews, residence permits issued to Jews (inv. No. 1073); lists of Jews who surrendered their weapons (inv. No. 1078); criminal proceedings with anti-Jewish perpetrators (inv. No. 1094); inventories of Jews and their property, marking Aryan shops, sales and leases of Jewish property, action against Jewish enterprises and their liquidation, forced administration - Aryanization of enterprises (inv. No. 1114); exemption from regulations applicable to Jews, Jewish registries and their storing (inv. No. 1157); Jewish religious communities, circulars, matters of Jewish registers, synagogues, appointment of the rabbi, contributions of Jews to the Jewish religious community (inv. No. 1152); payment of pensions to Jews, (inv. No. 1160); Jewish physicians (inv. No. 1184); Jewish property, (inv. No. 1219); lists of Jewish owners of motor vehicles, confiscation of bicycles and driving licenses of Jews (inv. No. 1261).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The books are divided into the administrative and registration ones (for personal, criminal, association and economic registrations). Presidium files were separated from the individual handling periods and made accessible by a catalog. Other files were divided according to the handling periods 1850-1867; 1868-1902; 1903-1935 with 1936-1945, in which they are always divided according to subject groups. Registry finding aids have been quite completely preserved. Since 1929, accounting books have been kept.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Franková L.– Havlová B.: Okresní úřad Pelhřimov (1797) 1850-1945 (1956). Inventář, 1987, 317 s., ev. č. 50.</p></otherfindaid><otherfindaid><p>Dědková L. – Poustka K.: Okresní úřad Pelhřimov – Presidiální spisy 1850-1945. Katalog, 1977, 450 s., ev. č. 64.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>the Association of Czech Jews-Tomid</corpname><corpname>Sion Choir</corpname><corpname>Chevra Kadisha</corpname></controlaccess>
+        <controlaccess><subject>lists of Jews</subject><subject>Jewish religious communities</subject><subject>elections</subject><subject>Jewish property</subject><subject>anti-Jewish restrictions</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Kamenice nad Lipou</titleproper>
+            <subtitle>Kamenice nad Lipou District Office / NAD 2</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1808/1953</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>2</unitid>
+            <unittitle>Okresní úřad Kamenice nad Lipou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>98,32 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1808/1953</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Kamenice nad Lipou District Office; District Governor's Office Pelhřimov (1868-1919); District Governor's Office Kamenice nad Lipou (1905-1919); District Political Administration Kamenice nad Lipou (1919-1928); District Office Pelhřimov, Kamenice nad Lipou branch (1942-1943); District National Committee Kamenice nad Lipou (1945-1960)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Kamenice nad Lipou District Office / NAD 2</p>
+        </odd>
+        <custodhist>
+            <p>The registry of the mixed district office underwent a drastic appraisal proceeding, either in the registry office of the district office or in some archives where it had been stored since the 1940s. The registry from 1905–1943 was almost completely transferred to the Počátky District Archives, from where it was transferred to the Pelhřimov District Archives after the merger.</p>
+        </custodhist>
+        <bioghist>
+            <p>The mixed district office of Kamenice nad Lipou began operating on May 26, 1855 as a joint office of the first instance for political and judicial administration. These offices were abolished on 31 August 1868. In the years 1868–1905, there was no office at the district level in Kamenice nad Lipou. The district was administered by the Pelhřimov District Governor's Office. The independent District Governor's Office of Kamenice nad Lipou was established on April 1, 1905. In 1919, it was renamed the District Political Administration, and on December 1, 1928, the self-government was taken over by the state administration and merged with the political office in the Kamenice nad Lipou District Office. On 1 June 1942, the independent district office was abolished and annexed to the Pelhřimov District Office as a branch, which was definitively abolished on 30 September 1943. In 1945, it was replaced by the Kamenice nad Lipou District National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains state administration documents. In the agenda of the mixed district office, the relevant documents can be found in the call number 2.3.5 Religious and ecclesiastical affairs. Documents on the topic can be found in the handling of 1905-1932 in call numbers 4.1. Register agenda, 5. 4. Church agenda, 8.1. Police matters, passports, war refugees and foreigners, 13. 1. Military matters; in the handling of 1932-1943 in call numbers I.3 President of the Republic, I.11 Statistics, I.12 Citizenship, I.17 Elections to provincial and district councils, I.18 Elections to municipal councils, III.2 Public peace, III. 4 Passports, III.5 Population records, III.21 Criminal-administrative law, IV.10 Other agendas, VI.2 Trade licenses; VII/34 Register Matters, VIII/9 Refugee Care. Information on the Jewish population may be found in documents of a general nature, presidium files, records of certificates of the Czechoslovak citizenship; records of issued identity cards; records of exits and transfers from religious societies; records of changes in religion; records of travel documents; censuses: preserved in in. No. 46 - the election of representatives to the 4th provincial Jewish community 1862-1867. Matters of individual Jewish religious communities in general 1903-1925 (inv. No. 542) and individually according to places 1897-1925 (inv. No. 543), Jewish funeral association Chevra Kadisha 1902-1921 (inv. No. 544); entrances, transfers and exits from churches 1912-1929 (inv. No. 552); records of foreigners 1894-1931 (inv. No. 602); war refugees from Galicia 1914-1921 (inv. No. 610); records of Jewish refugees from Galicia summoned to the military parade of 1915 (inv. No. 734); Jewish war refugees - conscription duty 1916-1917 (inv. No. 755); honorary citizenship of Jews 1940 (inv. No. 903; statistical reports - lists of Jews and Jewish religious communities 1939-1941 (inv. No. 916 and 917); residence right of Jews 1934-1942 (inv. No. 920); exclusion of Jews from municipal councils 1931-1942 (inv. No. 930), 1932-1942 regulations concerning Jews (inv. No. 992), re-investigation into home affiliation of Jews 1930-1941 (inv. No. 993), Jewish associations 1930-1942 (inv. No. 1054), identification of the Jewish property 1942-1943 (inv. No. 1061), a list of Jewish tradesmen and factories 1933-1943 (inv. No. 1086-1087), Jewish religious communities 1928-1943 (inv. No. 1158), religious conversions 1933-1943 (inv. No. 1159), irregularities in Jewish registries 1931-1942 (inv. No. 1163), compensation for damage to the Spa of St. Kateřina which was burned by Jewish refugees from Galicia 1934-1942 (inv. No. 1210); opening hours for persons of non-Aryan origin 1941 (inv. No. 1211).</p>
+        </scopecontent>
+        <arrangement>
+            <p>Documents from 1905 are divided into books, file material, i.e. registry finding aids, presidium files, ordinary files, divided into two handling periods of 1905-1932 and 1932-1943, and accounting and other material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Dědková L. – Poustka K.: Okresní úřad Kamenice nad  Lipou – Presidiální spisy, 1855-1867, 1905-1943. Katalog, 1974, 236 s., ev. č. 63.</p></otherfindaid><otherfindaid><p>Havlová B. – Krčilová I. – Langhammerová M. – Martének Z.: Okresní úřad Kamenice nad Lipou (1808) 1855-1943 (1953). Inventář, 2002, 327 s., ev. č. 929.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Spa of St. Kateřina</corpname><corpname>Chevra Kadisha</corpname></controlaccess>
+        <controlaccess><subject>Jewish refugees from Galicia</subject><subject>Jewish Religious Community</subject><subject>list of Jews</subject><subject>jewish property</subject><subject>religious conversions</subject></controlaccess>
+    </archdesc>
+</ead>    

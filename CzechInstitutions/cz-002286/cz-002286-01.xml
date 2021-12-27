@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>470</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Nejvyšší správní soud, Praha</titleproper>
+            <subtitle>Supreme Administrative Court in Prague / NAD 470</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 240</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1918/1951 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>470</unitid>
+            <unittitle>Nejvyšší správní soud, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>138 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1918/1951 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Supreme Administrative Court in Prague</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Supreme Administrative Court in Prague / NAD 470</p>
+        </odd>
+        <custodhist>
+            <p>The file material of the fonds was taken over by the Central Archive of the Ministry of the Interior in Prague from the Administrative Court in Bratislava in 1952. The archival processing of the fonds began in March 1963.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Supreme Administrative Court in Prague with jurisdiction over the whole of Czechoslovakia was established on the basis of Act No. 3/1918 Sb. z. a n. The Act defined only the organizational principles relying on the wording of the old Austrian laws. The direct predecessor of the Supreme Administrative Court in Prague was the Administrative Court of Justice in Vienna. It specialized in assessing the legality of decisions of administrative bodies, mainly of a civil nature, and only exceptionally it was invited to revise defective laws. The system conceived in this way was also adopted in the newly established Czechoslovakia as the Supreme Administrative Court.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The presidium files may concern matters of civil servants. In addition to the legislative documentation, the presidium also retained all significant internal organizational materials that reflect the staffing, management and actions of the Supreme Administrative Court, etc. Very valuable may be their own court decisions, which describe the facts, allow for insight into such details of property and intentions of the complainant that are difficult to achieve elsewhere. Documents directly relating to Jews can also be found in the documents - information on the placement of Jews in Terezín, non-public trial materials - indebtedness of Jewish property, confiscation of property, debts, orders to leave apartments, cancellation of leases; also, information on the statutes of Jewish communities and their property, complaints against decisions in matters of citizenship, domicile, eviction, dissolution of Jewish religious communities, etc.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds consists of the registry finding aids (negotiation protocols, elenches, and registers) and file material, which is stored by groups (things), and internally by years.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kreč, J.: Nejvyšší správní soud 1918-1951. Inventář, 1970, 298 s., ev. č. 698.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Court</subject><subject>Property confiscation</subject><subject>Jewish Political Parties</subject><subject>Associations</subject><subject>Complains</subject><subject>Jewish apartments</subject><subject>dissolution of Jewish religious communities</subject></controlaccess>
+    </archdesc>
+</ead>    
+

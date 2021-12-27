@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1320</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Soukromá obecná škola židovská Strakonice</titleproper>
+            <subtitle>Private Jewish Primary School of Strakonice / NAD 1320</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1906/1907  </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1320</unitid>
+            <unittitle>Soukromá obecná škola židovská Strakonice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>0,01 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1906/1907  </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Private Jewish Primary School of Strakonice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Private Jewish Primary School of Strakonice / NAD 1320</p>
+        </odd>
+        <custodhist>
+            <p>No information has been preserved about the transfer of the fonds to the State District Archives in Strakonice. The fonds was most likely taken out of another fonds in the past.</p>
+        </custodhist>
+        <bioghist>
+            <p>The history of the originator is unknown.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains only a list of children attending the Private Jewish Primary School in Strakonice, probably in the school year of 1906-1907. There is no dating on the material and the time range is determined only by estimation.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds has not been processed yet.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>not accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Private Jewish Primary School</subject><subject>list of pupils</subject></controlaccess>
+    </archdesc>
+</ead>    

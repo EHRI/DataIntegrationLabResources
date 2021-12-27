@@ -1,0 +1,228 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1394</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Kladno</titleproper>
+            <subtitle>District Court of Kladno / NAD 1394</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kladno</publisher>
+            <address>
+                <addressline>Severní 3127, Kladno, PSČ 272 04</addressline>
+                <addressline> +420 312 243 992</addressline>
+                <addressline>http://www.soapraha.cz/kladno/</addressline>
+                <addressline>soka-kladno@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1878/1959</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1394</unitid>
+            <unittitle>Okresní soud Kladno</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>419,73 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kladno</corpname>
+            </repository>
+            <unitdate>1878/1959</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Unhošť; District Court of Unhošť as a part of the Mixed District Office (1855-1868); District Court of Kladno (1868-1952); People's Court of Kladno (1952-1961); District Court of Kladno (1961-)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Kladno / NAD 1394</p>
+        </odd>
+        <custodhist>
+            <p>The files were stored in the registry according to the then valid file rules and plan. The materials of the fonds were handed over to the Archives of the Czech Lands in 1940, and in the post-war period to the State Archives in Prague. The fonds was partially inventoried in the 1960s and gradually transferred to the District Archives in Kladno. The fonds was organized there, and a new partial inventory was made for it in 2016. The fonds also includes the land agendas of the Unhošť and Kladno district offices, which are older than the fonds itself.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Kladno District Court was established in 1877, being separated from the Unhošť District Court. It was subordinated to the District Governor's Office in Smíchov and since 1893 to the newly established Governor's Office in Kladno. The agenda originally included mainly civil affairs and less serious criminal cases. Later, a criminal court for juveniles (1931), a labor court (1934-44), and an arbitral tribunal, were established. The judiciary in Czechoslovakia began to function in a completely different way after the Communist coup in 1948.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents originated from the activities of the district court, file material, and the agenda of land registers. Information on Jews can be found especially in inheritance files, where it is possible to search by names of persons. Declarations of death from the war period are also relevant - one can find information on Lidice citizens and Jewish citizens taken into concentration camps. The subsequent inheritance agenda dealing with the inheritance of these murdered citizens is relevant, too. The files can also be found in the handling period of 1924-48, those concerning Jews until 1960. In the handling period of 1924–1948, it is necessary to point out the year 1942, where there is a record of the supply of yellow Jewish stars for prisoners of Jewish origin (Pres 37/16/1942). Probate matters (IV, A, D) are the most extensive and comprehensively preserved agenda in the fonds. The files reflect the property relations of individual families in the district and property transfers within families. They are also evidence of the impact of the First and Second World Wars on the population. These files were widely used in connection with restitutions. At the same time, they are a great source of information not only for authorities, but also for amateur genealogists dealing with their family trees. Declarations of death and proof of death (M) gained importance after World War II, especially in 1949–1950, when the case of murdered citizens of Lidice, including children, was discussed. In most cases, these matters were handled by the Society for the Reconstruction of Lidice and Ležáky on behalf of the survivors (inv. no. 538, boxes no. 1033 and 1034). Procedures for the redemption of instruments (Um) can only be found in the post-war period. There are procedures for the redemption of deposits of persons lost during the war (inv. no. 528, boxes no. 728 and inv. no. 539, box no. 1035).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. File material (file finding aids - filing protocols, registers, indexes), Files presidium files, civil and criminal files, and extraordinary courts); II. Land book agenda: 1. Books, 2. File material (File finding aids and Files). Files and finding aids are further divided according to individual handling periods.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Hrnčířová K. – Kosová V. – Veverková I.: Okresní soud Kladno (1850) 1878-1959 (1974). Dílčí inventář, 2016, 96 s., ev. č. 114.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28237885%29%29</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Society for the Reconstruction of Lidice and Ležáky</corpname></controlaccess>
+        <controlaccess><subject>Land registers</subject><subject>death records</subject><subject>concentration camps</subject><subject>inheritance agenda</subject><subject>Jewish persecution</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>129</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Smečno</titleproper>
+            <subtitle>Archives of the Town of Smečno / NAD 129</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kladno</publisher>
+            <address>
+                <addressline>Severní 3127, Kladno, PSČ 272 04</addressline>
+                <addressline> +420 312 243 992</addressline>
+                <addressline>http://www.soapraha.cz/kladno/</addressline>
+                <addressline>soka-kladno@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>129</unitid>
+            <unittitle>Archiv města Smečno</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>7,36 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kladno</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Smečno Municipality; Controlled town council of Smečno (1784 - 1850); Municipal Office of Smečno (1850 - 1945); National Committee of Smečno (1945 - 1990)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Smečno / NAD 129</p>
+        </odd>
+        <custodhist>
+            <p>The fonds originated from the activities of the mayor and the council (12 councilors) of this non-royal town, and after 1850 from the activities of the municipal council and the board. The fonds was stored in the town hall building, where it suffered considerable damage, especially during the war. Later, a part of the fonds was discarded by the Municipal National Committee. In 1956, it was handed over to the district and town archives in Slaný. The fonds was organized, and in 1972, an inventory was made for it.</p>
+        </custodhist>
+        <bioghist>
+            <p>The municipality was promoted to a town in 1510 and was renamed Muncifaj. In 1882, the town council asked to change the name of the town back to Smečno. The town had been owned by the Martinic, later Clam-Martinic, family since the 16th century. After 1850, the town of Smečno was part of the political, judicial and tax district of Slaný, Prague Region. Since 1849, elected representatives had stood at the head of the municipality.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds deals with the history of the town of Smečno and contains deeds, official books, auxiliary books, files, and accounting material. The considerably fragmented fonds also contains information about Jews in the town .Files until 1850: inv. no. 161 A complaint of the Hosiery Guild against Jews for their door-to-door stocking trade (1711?), inv. no. 193 Leasing municipal property: b) a grain store to Jew Abraham 1791-1815, d) a teams of horses to Jew Abraham 1796, f) a tavern at the town hall 1841, inv. no. 199, also the maintenance of the army and other military affairs (an excerpt from a notification 1683, collections for the army, accommodation, leasing of supplies for the army to Jew Marek Gras). Documents after 1850 - information about Jews in: inv. no. 386 Probate 1851-1945; inv. no. 392 Jewish property - Rudolf Steiner 1940-41. Information can also be found in the records, especially inv. no. 84 Population records after 1856 (no date); inv. no. 85, 86, 87, Record of all population; inv. no. 88 Register of domicile certificates and laborers' books issued to members of the municipality 1903-1922; inv. no. 295 Register and numbering of houses (1856-1901), census (1870-1921).</p>
+        </scopecontent>
+        <arrangement>
+            <p>Name of the town until 1882 - Muncifaj. The fonds is divided into: I. Deeds; II. Official books (A. until 1850, B. after 1850); III. Registry (Auxiliary books, Files); IV. Accounting material; V. Others (2 seal matrixes)</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Krotilová J.: Archiv města Smečno 1603-1945 (1963). Inventář, 1972, 71 s., ev. č. 32.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28237198%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>population records</subject><subject>domicile certificates</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>741</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Židovská náboženská obec Unhošť</titleproper>
+            <subtitle>Jewish Religious Community of Unhošť / NAD 741</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kladno</publisher>
+            <address>
+                <addressline>Severní 3127, Kladno, PSČ 272 04</addressline>
+                <addressline> +420 312 243 992</addressline>
+                <addressline>http://www.soapraha.cz/kladno/</addressline>
+                <addressline>soka-kladno@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1941/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>741</unitid>
+            <unittitle>Židovská náboženská obec Unhošť</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown </physfacet>
+                <extent>0,28 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kladno</corpname>
+            </repository>
+            <unitdate>1941/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Jewish Religious Community of Unhošť</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Jewish Religious Community of Unhošť / NAD 741</p>
+        </odd>
+        <custodhist>
+            <p>The archive material was taken over into the archives in 1975.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Jewish community of Unhošť was established by grouping smaller villages together in order to create the Jewish cultural and religious community (establishing the synagogue, the mikveh, the religious school, the Chevra Kadisha, etc.). The synagogue with a room for the Jewish school was there until its abolition in 1897.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains a register of members from 1941/1942 and files - methodological instructions for the interpretation of Jewish laws.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds has not been processed.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Not accessible.</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish laws</subject><subject>Community members</subject></controlaccess>
+    </archdesc>
+</ead>    

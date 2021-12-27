@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>307</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Kamenice nad Lipou</titleproper>
+            <subtitle>Archives of the Town of Kamenice nad Lipou / NAD 307</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1462/1951</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>307</unitid>
+            <unittitle>Archiv města Kamenice nad Lipou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>23,34 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1462/1951</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Kamenice nad Lipou Municipality; Municipal Office of Kamenice nad Lipou (1850-1945); National Committee of Kamenice nad Lipou (1945-1960); National Committee of Kamenice nad Lipou (1960-1990)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Kamenice nad Lipou / NAD 307</p>
+        </odd>
+        <custodhist>
+            <p>The documents were stored at the town hall. After the town hall fire in 1819, new spaces for storing documents were gradually established. The registry had not been given due care for many years. Individual parts of it were scattered in buildings around the town. At the beginning of the 1950s, the municipal archive was taken over by the Kamenice nad Lipou District Archives, from which it was transferred to the Pelhřimov District Archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Kamenice nad Lipou comes from 1267-1278. During the 15th century, there was a town council with a mayor and municipal elders. Despite all efforts, a regulated municipality office was not established in the town in the 18th century. The municipal office was not established until 1850. At that time, a district court and a tax office were also established there. The first-instance state administration was performed from Pelhřimov. The organized Jewish community is documented there only in the 19th century. The Jewish cemetery was founded in 1803 and was used until World War II.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents, official books, and files. Jews are explicitly mentioned in the following documents: deprivation of the membership of Jew Leo Wertheimer in the council (inv. No. 328); refugees from Galicia (inv. No. 380); list of Jewish children as summer guests for recovery (inv. No. 383); apartments after Jews (inv. No. 526); lists of Jews (inv. No. 552); Jewish affairs - self-employed persons, teacher of religion, establishment of a canteen, resignation of a head, riots against Jews, kosher butcher's work, regulations regarding the origin and property of Jews 1851-1944 (inv. No. 553); synagogue, Jewish cemetery (among others, the shed at the synagogue, the wall of the cemetery, streets around the synagogue, reconstruction, lease of the synagogue and Jewish houses no. 36, 61, 102, 374) 1882-1944 (inv. No. 554); confiscation of Jewish property (inv. No. 614).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed fonds contains deeds (privileges of the town and deeds of individual burghers). The books are divided by the year 1850 and classified by subjects, followed by registry finding aids from both periods. Preserved files until 1850 are stored in five groups. They are divided into 18 groups in detail from the period after 1850. The year 1850 is also considered a dividing line in books, accounts, and accounting notes. Maps can be found at the end of the fonds.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kršilová I. – Martínek Z.: Archiv města Kamenice nad Lipou. Inventář, 2006, 145 s., ev. č. 961.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>refugees from Galicia</subject><subject>Jewish children as summer guests for recovery</subject><subject>lists of Jews</subject><subject>anti-Jewish riots</subject><subject>kashrut</subject><subject>synagogue</subject><subject>Jewish cemetery</subject><subject>property confiscation</subject></controlaccess>
+    </archdesc>
+</ead>    

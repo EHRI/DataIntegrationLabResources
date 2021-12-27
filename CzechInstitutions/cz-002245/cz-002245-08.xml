@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1192</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Nová Paka</titleproper>
+            <subtitle>District Office of Nová Paka / NAD 1192</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1855/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1192</unitid>
+            <unittitle>Okresní úřad Nová Paka</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>93,64 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1855/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Nová Paka; District Political Administration Nová Paka; District Office Nová Paka; District National Committee Nová Paka</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Nová Paka / NAD 1192</p>
+        </odd>
+        <custodhist>
+            <p>Documents from 1855-1868 were originally stored in the registry of the office and after its abolition they became part of the registry of the Jičín district governor's office. After the establishment of the district governor's office in Nová Paka in 1903, the files returned to Nová Paka and a new central office was established. After the abolition of the district office in 1942, the files remained in the Nová Paka office. In 1958, the material was handed over to the State Archives in Kuks. There, the fonds was processed and subsequently transferred to the Jičín District Archives. In 1969, a catalog of presidium files was compiled for the fonds. In 2005, the fonds was re-inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1850-1855, the judicial district of Nová Paka was part of the political district of Hořice, under the District Governor's Office in Hořice. In 1855, a mixed district office was established in Nová Paka. After its abolition in 1868, official activities were transferred to the district governor's office in Jičín. In 1903, the judicial district of Nová Paka was separated and a district governor's office was established there. In 1918, the district governor's office was renamed the district political administration, and in 1928 the district office. In May 1942, the office was abolished. In May 1945, a district national committee was established in Nová Paka.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the Nová Paka district, official books, file material and accounting material. General files are further divided according to subject groups. The following subject groups are relevant to Jewish issues: Handling period 1903-1936: 5. Church and religious affairs; 8. Police matters; census operators. Handling period 1937-1942: III. Security and criminal matters; VI. Trades, commerce, industry; VII. Education, religion, registry and foundation matters; VIII. Social care; IX. Health and veterinary matters; X. Agriculture. Direct references to Jews can be found in the following files: A contribution to the Jewish religious community in Habrová made by Markus Laufr; Jewish religious community in Hořice 1859-1905; Visa duty with Poland - abolition and restriction of Jewish emigration 1930; Jews 1939-1942; Jewish concessions 1939; Religious stratification in the district, lists of Jewish enterprises in the district 1939; Jewish religious communities 1937-1940; Lists of Jewish apartments 1940; Marking Jewish physicians - an ordinance 1940; MUDr. Vojtěch Kohn, confiscation of Jewish property 1941; Inventory of agricultural and forest real estate owned or rented by Jews 1939. In the presidium files, these are mainly circulars, decrees and regulations concerning the persecution of Jews; Jewish emigrants; Lists of Jews living in the district of Nová Paka; Taking radios from Jews; Arresting MUDr. Vojtěch Kohn; House search in Štěpán Fuchs's place; Watching Jewish members living in the house of industrialist Hoffman; Measures concerning the contact of Jews with Aryans; Removal of anti-German inscriptions by Jewish groups; Reporting school inspector Václav Vaníček for contacts with Jew Fuchs; Hairdressers serving Jews. What should not be left out in the research is documents relating to the 1921 census, registry agenda, domicile right, citizenship, police matters, trade licensing matters, church affairs, associations and social organizations.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into three basic handling periods, namely 1855-1868, 1903-1936, 1937-1942. Within the individual periods, official and accounting files and registry finding aids come before the actual file agenda. The actual file material is divided into presidium and general files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Česáková M. – Heligrová M. – Krausová J.: Okresní úřad Nová Paka (1792) 1855-1942 (1950). Inventář, 2005, 429 s., ev. č. 380.</p></otherfindaid><otherfindaid><p>Johnová B.: Okresní úřad Nová Paka – Prezidiální spisy 1855-1942. Katalog, 1969, 58 s., ev. č. 193.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>census records</subject><subject>Jewish religious community in Habrová</subject><subject>Jewish religious community in Hořice</subject><subject>anti-Jewish restrictions</subject><subject>Jewish emigration</subject><subject>Jewish property</subject><subject>Jewish businesses</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

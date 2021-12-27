@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>780</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Hořice</titleproper>
+            <subtitle>Archives of the Town of Hořice / NAD 780</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1582/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>780</unitid>
+            <unittitle>Archiv města Hořice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>72,32 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1582/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Hořice; Magistrat of the City of Hořice; Municipal Office of Hořice; National Committee of Hořice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Hořice / NAD 780</p>
+        </odd>
+        <custodhist>
+            <p>Town books, deeds and other documents were kept at the town hall. At the end of the 19th century, the documents became part of the fonds of the Hořice Town Museum, and a temporary inventory was made. After the establishment of the town archives, the fonds was separated from the museum collections. In 1953, the town archives were changed to the district archives. After the territorial reorganization in 1960 and the abolition of the Hořice district, the fonds became part of the Jičín District Archives. It was organized in 1962.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Hořice appeared in the 1140s in the charter of the Strahov Monastery. Jews were first mentioned to be settled in Hořice in 1524, but their influx did not come until the late sixteenth century, when a Jewish community was probably established there. Jews were mainly engaged in trade and often got into conflict with the Hořice guilds. A dispute in 1681 was resolved by Countess Marie Kateřina Strozziová who issued special instructions, where she defined the possible scope of their business activities for the Jews. As part of the Josephine reforms, the so-called regulated municipality was established in Hořice, and since 1849 an independent municipal municipality. The town was included in the political and judicial district of Hořice.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipality of Hořice: books, file material, accounting material, plans, and seal matrixes. In the period before 1850, there are records of the Hořice Jews mainly in the town books, - court books, books on hereditary leases, minutes of council meetings and protocols. In general, these are records relating to the sale and purchase of houses and land, debts, petty offenses, trade, complaints, and taxes. For the second half of the 18th and the 19th centuries, a number of Jewish land books have been preserved in the fonds - Jewish book containing original covenants and other Jewish affairs 1756-1840, Jewish contract book 1804-1828, Jewish contract book 1841-1879, Jewish contract book for school seats in the synagogue 1828-1866 and Jewish general book of assets and liabilities for school seats in the synagogue 1844-1872. As for the 20th century, the fonds includes a folder concerning a Jewish funeral office from 1907, and the Holocaust period is covered by the general affairs folder, which contains various regulations, decrees, circulars and correspondence. Neither should be left out commemorative books of the town (chronicles), memorial books of Professor Jandera with registers, lists of inhabitants, registers of members of the municipality and foreign persons, war records of inhabitants and documents concerning domicile and trade matters.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: Mayor's office and municipality office 1582-1849 - I Deeds, II Books, III Files, IV Plans, V Seal matrixes; Municipality office 1850-1949 - I Books, II File material - a) registry finding aids, b) files (according to the file plan from 1910), III Accounting material, IV Plans, V Seal matrixes, VI Various.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Johnová B. – Kratochvílová A. – Trejbal, J.: Městský úřad v Hořicích 1582-1949. Inventář, 1962, 87 s., ev. č. 29.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish land books</subject><subject>Jewish contract book</subject><subject>Jewish funeral office</subject><subject>anti-Jewish persecution</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

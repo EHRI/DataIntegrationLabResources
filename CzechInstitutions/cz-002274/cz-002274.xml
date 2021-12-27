@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Milevsko</titleproper>
+            <subtitle>District Office of Milevsko / NAD 1</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Písek</publisher>
+            <address>
+                <addressline>Nádražní 2149, 39701 Písek</addressline>
+                <addressline> +420 382 210 348</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/pisek/soka-pisek-uvod/63-statni-okresni-archiv-pisek</addressline>
+                <addressline>posta-pi@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1</unitid>
+            <unittitle>Okresní úřad Milevsko</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>87,89 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Písek</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Milevsko; District Governor's Office Milevsko; The District Political Administration Milevsko</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Milevsko / NAD 1</p>
+        </odd>
+        <custodhist>
+            <p>The office documents from 1850-1868 are lost. There are large losses in the handling period of 1868-1906 due to non-systematic appraisals of the archive material. The files from 1906-1945 were transferred from the district offices to the district archives, being connected with the older part in 1958-1960. The inventory was completed in 1961. A selection catalog for presidium files was compiled. In 1997, the census sheets of 1921 were taken over from the Třeboň archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district governor's office began its activities in 1850 for the judicial districts of Milevsko, Bechyně and Sedlec. In 1855, the district governor's office became a mixed district office for political and judicial administration, with jurisdiction over the Milevsko judicial district. In 1868, the mixed district offices were abolished; in Milevsko, a district governor's office was again established for the judicial districts of Milevsko and Bechyně. In 1918, a new name of the office was introduced - Milevsko District Political Administration, and from 1928, Milevsko District Office. On June 1, 1942, the district office was abolished and connected to the district of the Tábor District Office. In May 1945, the Milevsko District National Committee was established.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration for the Milevsko district. Jewish issues can be found mainly in the books of records: changes in religion, trade registers (a large number of small Jewish merchants and traders, also owners of larger industrial enterprises) and related trade files. Another great source of information is the census for the entire district of Milevsko, which, with a few exceptions, has been preserved from 1869, 1880, 1890, 1900, 1910, and 1921. In the file handling 1868-1905, the affairs of Jewish religious communities are included in religious matters and in other file handlings (1906-1936, 1936-1941), the district Jewish issues have a separate number. There are also minute pieces of information on Jews in the presidium files of the district office.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The general part of the documents is divided into books, file material and accounting books. The files are divided chronologically into four surviving registry plans: 1868-1906, 1906-1936, 1936-1941, and 1941-1948. Each registry plan is divided into subject groups. The presidium files from the period of 1919-1942 are arranged chronologically and a selection catalog was made for them. Another unit is the census for the Milevsko district. The fonds also includes associated agendas of the district office.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Cihla L. – Korejsová M. – Sedláková M.: Okresní úřad Milevsko (1795) 1850-1945 (1952). Inventář, 1961, 154 s., ev.č. 1.</p></otherfindaid><otherfindaid><p>Cihla L.: Okresní úřad Milevsko. Katalog presidiálních spisů 1919-1942, 1968, 53 s., ev.č. 2.</p></otherfindaid><otherfindaid><p>Pešta J.: Okresní úřad Písek I. Dodatek č. 1 k inventáři (sbírka map k vodní knize) (1828) 1889. Inventář, 2014, 47 s, ev.č. 1406.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/275319</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>changes in religion</subject><subject>trade registers</subject><subject>census records</subject><subject>Jewish religious community</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>905</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv městečka Slavičín</titleproper>
+            <subtitle>Archives of the Town of Slavičín / NAD 905</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Zlín</publisher>
+            <address>
+                <addressline>Klečůvka-zámek, 763 11 Želechovice nad Dřevnicí</addressline>
+                <addressline> +420 577 901 132</addressline>
+                <addressline>www.mza.cz/zlin</addressline>
+                <addressline>soka_zlin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1730/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>905</unitid>
+            <unittitle>Archiv městečka Slavičín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>3,03 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Zlín</corpname>
+            </repository>
+            <unitdate>1730/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Slavičín; Slavičín Municipality; Municipal Office of Slavičín-Mladotice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Slavičín / NAD 905</p>
+        </odd>
+        <custodhist>
+            <p>The documents were stored in the premises of the municipal self-government. Selected materials remained stored in the city registry until 1961. The first inventory was compiled in 1963. Later, the fonds was supplemented by additions and the inventory modified.</p>
+        </custodhist>
+        <bioghist>
+            <p>The oldest record of Slavičín dates from 1256. The patrimonial administration of the municipality was performed by the holder of the Slavičín manor until 1849. After the reforms of 1848–1849, the district governor's office in Uherský Brod (1850–1855, 1868–1949) and the mixed district office in Valašské Klobouky (1855–1868) exercised the first-instance supervision over the municipality. In terms of jurisdiction, in 1850–1923 the town belonged to the district of the Valašské Klobouky judicial district, and in 1923–1949 to the Bojkovice judicial district. Slavičín gained the status of a town in 1964.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The permanent settlement of Jews (the Zimlich family) in the village began as early as the end of the 18th century and was connected with the operation of shops and later also the operation of pubs. Gradually, the number of people of Jewish descent grew to several tens. With the occupation of the Czech lands by the Nazi Germany, the Jews were persecuted. In Slavičín, among other things, they had to perform forced work on the construction of a German training shooting range at Blyštický potok, where they were taken daily. After their internment in Uherský Brod, forced administration was imposed on their property. The transports were taken to concentration and extermination camps, from where only a few returned. The fonds of the Archives of the Town of Slavičín contains documents of the municipality self-government, deeds, official books, file material, and accounting material. Jews are explicitly mentioned in documents from the Holocaust period: Jewish affairs - a report by the Jewish religious community in Uherský Brod on the possibility of Jewish movement and compulsory reporting of residence, forced administration of Jewish property of Cyrill Berger and Malvine Bergerová in Slavičín (administrator Dr. Schulze, Brno), 1941. Sufficient attention should be paid to the following material: List of issued residence certificates, 1912–1941; home affiliation: applications for and loss of home affiliation 1881–1944; marital separation 1937–1940; protocols on the inspection of the dead: Slavičín, Hrádek, Vrbětice 1896–1925; construction matters: construction files and plans for the construction of residential houses and farm buildings (nos. 4–243 and without nos.), statement of constructions and complaints about offenses against the building regulations 1880–1944.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Deeds; II. Official books: III. File material: A. auxiliary books, B. files, IV. Accounting material; V. Other material: a) photographs, b) collection and documentation material. The Health Corps for the Slavičín District is affiliated to the fonds and divided as follows: I. Official books; II. Files; III. Other material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koželuhová L. – Štroblík V.: Archiv městečka Slavičín 1730-1945 (1985). Inventář, 1998, s. 23, ev. č. 33.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>forced work</subject><subject>forced administration</subject><subject>transports</subject><subject>Jewish religious community in Uherský Brod</subject><subject>construction matters</subject><subject>home affiliation</subject></controlaccess>
+    </archdesc>
+</ead>    
+

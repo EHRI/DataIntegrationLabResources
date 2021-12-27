@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>337</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Chrudim I</titleproper>
+            <subtitle>District Office of Chrudim I / NAD 337</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Chrudim</publisher>
+            <address>
+                <addressline>Filištínská 37, Chrudim, 537 01</addressline>
+                <addressline> + 420 469 660 408</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-chrudim/</addressline>
+                <addressline>podatelna-cr@ ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>337</unitid>
+            <unittitle>Okresní úřad Chrudim I</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>213,99 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Chrudim</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="rus">rus</language><language langcode="hun">hun</language><language langcode="ita">ita</language><language langcode="srp">srp</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Chrudim; District Office of Chrudim; District Political Administration Office Chrudim; District National Committee Chrudim </name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Chrudim I / NAD 337</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives in Chrudim. The first part of the fonds from 1850-1936 was organized in 1960, the second part, from 1936-1945, in 1968. The entire fonds was re-inventoried in 2011.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Governor's Office in Chrudim was established in 1850. In 1855, its successor - Mixed District Political Office - began to function until 1868, when the District Governor's Office was re-established. In 1919, the Governor's Office was renamed the District Political Administration and later the District Office of Chrudim. It was still headed by the district governor. During the Nazi occupation, the District Office was under the Oberlandrat Pardubice until 1942, and from June 1942 under the Oberlandrat of Hradec Králové. In 1945, the District National Committee was established in Chrudim.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the Chrudim district. Jewish affairs can be found in many of the agendas of this administration. The presidium files of the office reflect various phenomena, such as anti-Jewish sentiments, riots in municipalities with Jewish communities, and during the war the agenda concerning the Galician refugees who arrived in the district. There one can find records of Jewish members of the civil service, lists of Jewish emigrants from the Sudetenland, lists of Jewish shops and businesses in the district, and Jews with Polish citizenship. After the Nazi occupation, the Office dealt with the labeling of Jewish shops, the behavior of the Czech population towards Jews, the exclusion of Jews from public administration and their compliance with prohibitions and regulations. Census sheets of individual municipalities of the district have been preserved from 1900, 1910 and 1921. An exception is Chrudim, for which census sheets from 1857 (fragment), 1869, 1880, and 1890 (only part of the district) have also been preserved.The handling period of 1850-1855 contains various files concerning the Jewish population in the following agendas: property; affairs of Jewish religious communities (1853-1854); Jewish associations; construction agenda - plans for the restoration of the burned-out Jewish houses in Přestavlky (1850), and others.The handling period of 1855-1868 contains an agenda for Jewish affairs in the following areas: affairs of municipalities - statements of the Jewish National Community; citizenship, domicile right, registry and marital affairs - keeping Jewish registries in the district (1855-1861), applications for marriage permission (1850-1868); religion and clergy; education and upbringing - matters relating to Jewish schools; construction matters; agriculture, industry and trades, transport, post office, and telegraph.The handling period of 1868-1902 contains numerous Judaica in the agendas: religion and clergy - issues of the Jewish National Community; education and upbringing - lists of non-Catholics and Jews (1874-1876); Jewish schools (1855-1888); health care - a plan to establish a Jewish cemetery in Chrudim (1889-1891); and charitable foundations.The handling period of 1903-1936 - the key Judaica can be found in the category of religion and clergy, which also contains the agendas of individual Jewish communities. Individually, Judaica can be searched by name in other agendas.The handling period of 1937-1945 mainly includes sources for the study of war persecution and the Holocaust. The Office compiled lists of Jewish employees and lawyers, and Jewish and other emigrants (1939). The offenses against the Act on the Organization of Political Administration and trade offenses, which also include Jews (1936-1944), are organized alphabetically. In the section called trades, business, and industry, one may find lists of Jewish trades and others. In the field of social care, it is a list of Jewish flats - reports of police stations from individual municipalities (1941-1942). In the transport affairs section, there is a unique collection of confiscated Jewish driving licenses, which is a unique set of documents with photographs (1925-1941).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains file material, official books, maps and plans, and census sheets. The fonds was newly arranged and described in a database system, which also enables full-text search, for example, by names, which are given in applications for travel documents, trade licenses, construction, etc.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Available upon request due to the personal data protection.</p>
+        </accessrestrict>
+        <otherfindaid><p>Bergmann I.  – Grimmlová J. – Langová A. – Růžičková R. – Šrámek P. – Šulc I. – Šulcová R. – Vaněček J.: Okresní úřad Chrudim I. Díl I.-III.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Anti-Jewish sentiments</subject><subject>Anti-Jewish riots</subject><subject>Galician refugees</subject><subject>Jewish emigrants from the Sudetenland</subject><subject>Jewish shops and businesses</subject><subject>Polish Jews</subject><subject>anti-Jewish restrictions</subject><subject>census sheets</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

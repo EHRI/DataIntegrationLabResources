@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1127</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Třešť</titleproper>
+            <subtitle>Archives of the Town of Třešť / NAD 1127</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1562/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1127</unitid>
+            <unittitle>Archiv města Třešť</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>43,12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1562/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="heb">heb</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Třešť; Market town Třešť; National Committee of Třešť</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Třešť / NAD 1127</p>
+        </odd>
+        <custodhist>
+            <p>The documents were stored at the town hall and after 1950 they were handed over to the District Archives in Třešť. After the demise of the Třešť district in 1960, the Jihlava District Archives took over the documents and deposited them in its branch in the Telč chateau. After the cancellation of the branch, or the depository, the archives were transferred from Telč to Jihlava in 2005.</p>
+        </custodhist>
+        <bioghist>
+            <p>Třešť had been a non-royal town with a strong Jewish minority since the 15th century. Jews were mentioned to live in Třešť as early as the second half of the 13th century. From 1686, the compact Jewish settlement (ghetto) had been separated from the Christian community. In 1850–1864 Třešť was part of the judicial district of Jihlava, and in 1864–1911 a part of the judicial district of Jihlava-Country. In 1902, Třešť was promoted to a town. In 1908 the judicial district of Třešť was declared to be established and in 1911 came into being, ceasing to exist in 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official books and files of the town of Třešť. Books: A list of Jewish families 1789–1840 (only men as heads of households), A book of documents of the Jewish synagogue (1790) 1811–1860, The principal book of seats in the synagogue in Třešť 1811–1873. Files: Jewish cemetery - an agreement between the town and the Jewish community 1736–1739, Jews (various files in the dossier with the old calling number 339): files about the synagogue 1941–1942, the topographic plan of the synagogue and the immediate vicinity in 1920s and 1930s, Jewish property 1942–1944, lists of Jewish inhabitants by age categories - after 1939, a list of Jewish flats - after 1939, a list of Aryanized Jewish plots 1940–1942, 2 photographs of a commemorative Hebrew inscription in the synagogue about the fire of the Jewish town on October 2, 1824, a Czech translation of the inscription, made by Prof. Dr. Hugo Jokl in 1957, an obituary of Prof. Jokl from 1960.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds has not been processed.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>not accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There is only incomplete list of the documents added to the fonds. Part of the official books concerning criminal agenda taken from the archives in Brno in 1970´s is listed on the paper cards.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Synagogue</subject><subject>synagogue seats</subject><subject>Jewish Religious Community Třešť</subject><subject>Aryanization</subject><subject>Jewish Cemetery</subject></controlaccess>
+    </archdesc>
+</ead>    

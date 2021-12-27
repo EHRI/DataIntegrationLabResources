@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>25</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Humpolec</titleproper>
+            <subtitle>District Court in Humpolec / NAD 25</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>25</unitid>
+            <unittitle>Okresní soud Humpolec</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>28,23 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Humpolec; The Mixed District Office Humpolec (1855-1868); People's Court of Humpolec</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Humpolec / NAD 25</p>
+        </odd>
+        <custodhist>
+            <p>The fonds has not been inventoried, so its history is unknown. From the court's registry, the documents were handed over to the Humpolec People's Court and, after the merger in 1960, to the Pelhřimov District Court, from which the documents are handed over directly to the District Archives after the statutory appraisal deadlines.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the manorial administration and with the establishment of a new organization of political and judicial administration, the Humpolec District Court was established in 1850 for the judicial district of the same name, which respected the territory of the existing estates within its borders. In the period from 26 May 1855 to 31 August 1868, the performance of political and judicial administration was merged into one office, which became the so-called mixed district office. The separation of political and judicial administration took place again in 1868, when a district court was established, functioning until 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains an agenda arising from the activities of the district court. The agenda is divided according to individual periods into sections A, B, C, and D - land books. The processed part contains the registry of deaths 1853-1897, the estate register 1893-1897, where there may be information on Jews, but only as index records. In the unprocessed part of the fonds, inheritance proceedings are preserved, including the Jewish population. From older periods they have been preserved only partially due to appraisal proceedings - only wills from 1855-1907 have been preserved. The files of D call number (inheritance) from 1933-1948 and P call number (guardians) from 1923-1948 have been completely preserved. The files can be searched on the basis of lists of names D 1899-1949, registers D 1923-1948 and registers P 1909-1934. The files of individual deceased persons contain biographical information about the persons, their relatives, property, and the settlement of the inheritance.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed part of the fonds is divided into sections A for the years 1850-1854, B for the years 1855-1897, C for the years 1898-1949, and D of the land registers. It contains, among others, the death register 1853-1897, the estate register 1893-1897; presidium diaries (1905-1948), registers and lists of names according to call numbers A, C, E, K, L, M, N, O, Sp, T, U, Z. Books of contracts of several places, library diaries (1875-1954), and a list of documents (1914-1951) have been preserved. The part of the fonds that contains call numbers D and P has not processed. However, searching in the files is possible on the basis of the preserved registers with references to the names of persons and file numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Havlová B. – Kovaříková I. – Martínek Z.: Okresní soud Humpolec. Prozatímní inventární seznam, 1994, ev. č. 77.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance matters</subject><subject>last wills</subject><subject>guardians</subject></controlaccess>
+    </archdesc>
+</ead>    

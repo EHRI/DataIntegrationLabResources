@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1272</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Jičín I</titleproper>
+            <subtitle>District Office of Jičín I / NAD 1272</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1946</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1272</unitid>
+            <unittitle>Okresní úřad Jičín I</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>239,47 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1850/1946</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Jičín; District Governor's Office Jičín; District Political Administration Jičín (Bezirksverwaltung Jitschin); District National Committee Jičín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Jičín I / NAD 1272</p>
+        </odd>
+        <custodhist>
+            <p>Throughout their activities, documents from the official activities of the district governor's office, the district political administration and the district office were stored in one registry, where they were divided for each period into individual thematic registry departments. In the 1950s, the considerably damaged agenda was transferred to the State Archive in Kuks, where it was supplemented by the material from the Archives of the Ministry of the Interior and the Regional Archives in Litoměřice. The fonds was inventoried there in 1958-1959. In 1962, it was moved to the Jičín District Archives and in 1970 a catalog of the presidium files was made. In 2004-2005, the fonds was re-inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Governor's Office in Jičín was established as the first-instance office of the political administration in 1850. In 1855, a mixed district office (judicial and political administration) was established in Jičín. After its abolition in 1868, the district governor's office was re-established in Jičín. In 1918, the office was renamed the political district administration, headed by district governors. Based on that, in 1928, the Jičín District Office became the political office with general powers of the first instance. In May 1945, a district national committee was established in Jičín.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the Jičín District such as official books, registry finding aids, files, and accounting material. The general files are divided according to subject groups. Relevant for Jewish issues are mainly these subject groups (in all handling periods): Municipal affairs; Church and religious affairs; Education; Citizenship, domicile, matrimonial and register matters; Police matters; census sheets (1891-1902); Association affairs; census sheets (1891-1902); Matters of associations and political parties; census sheets (1913-1936); Trade affairs; Associations and assemblies. Handling period 1942-1946: VI Small businesses, trade and industry; VII Education and enlightenment, religion, register and foundation matters. Direct references to Jews can be found in the following documents: An inventory of property that passed into the possession of the Israelites in the period from 1 January 1848 to 20 October 1853; Establishment of the Jewish community; A debt of Jewish Rabbi Abraham Grünfeld; Appointment of the regional rabbi Abraham Grünfeld from the Jičín Jewish community; Jewish Endowment Fund 1850-1854; Ordinance on Jewish Schools and Jewish Children Attending Catholic Schools 1850-1854; Separate teaching of religion to Jewish children 1850-1854; Orders and circulars concerning the Jewish community 1850-1868; Regulations concerning Jewish registers; Jewish religious communities in the district; Jewish religious community in Libáň - buying a house; Election of a representative to the Representation of Czech Jewry in Prague; Vincent Lustig Foundation 1891-1902; Election of a Jewish rabbi in Libáň 1894; Introduction to the teaching of the Jewish religion; Jewish funeral fraternity; Czech-Jewish National Unity in Jičín; Jewish religious community in Jičín (increase in fees, religious tax, election of representatives); Sarah Brisker Foundation 1911-1914; Mergers and separations of Jewish religious communities (Libáň, Mladá Boleslav, Rožďalovice, Nymburk) 1914-1923; Support for rabbis and officials of Jewish religious communities 1921-1926; Representation of the rural Jewry 1927-1928; Modification of the districts of religious Jewish communities, preservation of property 1931; Union of Czechs and Jews in the Czechoslovak Republic 1920; Withdrawal of honorary citizenship of Jews - survey of municipalities; Marking of Jewish shops; Participation of Jews in auctions - a circular; Jewish agricultural property 1939-1940; List of Jewish enterprises and factories 1939-1940; Arization of Jewish Enterprises 1940; Lists of Jews and registered securities 1940; Circulars, fines, misdemeanors - permission to take over the Jewish firm of O. Goliath in Jičín, Proposal for the appointment of Treuhänder in Jewish shops, Salaries in favor of Jews; List of business and trade enterprises of Jewish property; List of Jewish associations; List of Jews and Jewish property - liquidation of companies 1942-1943; Jews as members of trade associations. In the presidium files, these are mainly circulars and regulations concerning the persecution of Jews and a large number of files are devoted to Otto Goliath and other family members in connection with their involvement in the Communist Party. The following should also be taken in consideration: Documents relating to the census sheets of 1900, 1910 and 1921, the register agenda, domicile, citizenship, police matters, trade license matters, church affairs, associations and social organizations.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into eight basic handling periods, namely 1850-1855, 1855-1868, 1868-1890, 1891-1902, 1903-1912, 1913-1936, 1937-1941, and 1942-1946. Within the individual periods, official books, accounting books and registry finding aids are preceded by the actual file agenda. The actual file material is divided into presidium and general files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Česáková M. – Heligrová M. – Krausová J.: Okresní úřad Jičín (1764) 1850-1946 (1949). Inventář, 2004, 576 s., ev. č. 372.</p></otherfindaid><otherfindaid><p>Johnová B.: Okresní úřad Jičín – Prezidiální spisy 1850-1944. Katalog, 1970, 358 s., ev. č. 194.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Jewish Endowment Fund</corpname><corpname>Vincent Lustig Foundation</corpname><corpname>Czech-Jewish National Unity in Jičín</corpname><corpname>Chevra Kadisha</corpname><corpname>Jewish firm of O. Goliath in Jičín</corpname></controlaccess>
+        <controlaccess><subject>Jewish Religious Community</subject><subject>census records</subject><subject>Jewish property</subject><subject>Jewish Schools</subject><subject>Aryanization</subject><subject>Jewish businesses</subject><subject>persecution of Jews</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>10</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv obce Dolní Beřkovice</titleproper>
+            <subtitle>Archives of the Municipality of Dolní Beřkovice / NAD 10</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Mělník</publisher>
+            <address>
+                <addressline>Pod Vrchem 3358, Mělník, PSČ 276 01</addressline>
+                <addressline> +420 315 622 629</addressline>
+                <addressline>http://www.soapraha.cz/melnik/</addressline>
+                <addressline>soka-melnik@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1866/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>10</unitid>
+            <unittitle>Archiv obce Dolní Beřkovice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>1.12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Mělník</corpname>
+            </repository>
+            <unitdate>1866/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Dolní Beřkovice; District National Committee Dolní Beřkovice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Municipality of Dolní Beřkovice / NAD 10</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives of Mělník. The documents were handed over in 1961 and the fonds was subsequently processed. In 2009, the accounting books of the municipality from 1943-1944 were taken over, and later the commemorative book of the municipality from the period of 1923-1962. The fonds was processed, and an inventory made, in 2019.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Dolní Beřkovice dates from from 1318. Since 1850, the municipality had always belonged to the political and judicial district of Mělník. The municipal self-government was established in 1850, being administered by the municipal council and the board, headed by the mayor. From 1864, two compulsory bodies were at the head of the municipality, the municipal committee and municipal board. The executive body was the mayor, who implemented the resolutions of the municipal committee. Since 1919, the bodies of municipalities included the municipal council, the municipal board, the mayor, his deputies, and commissions.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipal self-administration of Dolní Beřkovice such as official books, file material, accounting material, and other material. Very detailed information can be found in the domicile registration sheets from the period 1880-1946 (inv. no. 14) as well as in the granting of domicile right 1901-1945 (inv. no. 15) and domicile certificates. Jews from the municipality are explicitly mentioned in documents from 1939-1944, inv. no. 22, the scope of the documents being 1 box.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Official books and protocol records; II. File material; III. Accounting material; IV. Other material</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible.</p>
+        </accessrestrict>
+        <otherfindaid><p>Machová V.: Archiv obce Dolní Beřkovice 1866-1945 (1962). Inventář, 2018, ev. č. 879</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28273226%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>domicile registration</subject><subject>domicile right</subject></controlaccess>
+    </archdesc>
+</ead>    

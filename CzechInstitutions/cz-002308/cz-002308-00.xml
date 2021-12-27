@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>331</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Vsetín</titleproper>
+            <subtitle>Archive of the Town of Vsetín / NAD 331</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Vsetín</publisher>
+            <address>
+                <addressline>4. května 227, 755 01 Vsetín, Czechia</addressline>
+                <addressline> +420 571 424 684</addressline>
+                <addressline>https://www.mza.cz/vsetin/</addressline>
+                <addressline>soka_vsetin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1674/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>331</unitid>
+            <unittitle>Archiv města Vsetín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>22,1 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Vsetín</corpname>
+            </repository>
+            <unitdate>1674/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Vsetín Municipality; Municipal Office of Vsetín (1850-1945); National Committee of Vsetín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archive of the Town of Vsetín / NAD 331</p>
+        </odd>
+        <custodhist>
+            <p>The registry used to be stored at the town hall. The town documents burned down in the 18th century. Part of the documents were moved to the Provincial Archives in Brno in the 19th century. Gradually, the fonds was taken over from Brno and the Municipal National Committee of Vsetín in the 1960s. The fonds was processed and organized. It has been preserved with considerable gaps, but in relatively good condition. The inventory was made in 1980.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Vsetín dates from 1308. The town was managed by the municipal council headed by the mayor. After 1949, the administration of the municipality was performed by an elected body - the municipal committee headed by the mayor. During the Nazi occupation, the town was headed by the government commissioner. In 1945, the municipal office of the town was abolished and the local national committee was formed. The oldest evidence of Jewish settlement dates from 1669. In 1880, 111 Jews (2% of the population) lived there. There was a Jewish community, after 1890 belonging to the Jewish religious community of Hranice. The 19th century synagogue was burned and demolished by the Nazis.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the administrative bodies of the town of Vsetín. It contains deeds, official books, files, and accounting material. Jews are explicitly mentioned in documents from the 18th and 19th centuries. From the 18th century these are: Investigation of Jews Aaron Hercle and Fabián Feitl 1719; inv. no 228 Investigation of Jew Gabriel Hirschl 1720-31; Leasing the Vsetín distillery to Jew Scheuer Bärl 1773-1778; Relevant to the history of Jews in the 19th century are the following documents: inv. no. 258 Permission for a wine bar to Catherine, the widow of Jew Jakub Hass 1819; inv. no. 274 debts on the houses of Jews Šimon Fuchsel and Gotlieb Hirsch in Ostrava 1832; inv. no. 298 The area of ​​the land of Josef Kohn, the owner of a potassium carbonate plant 1847; inv. no. 449 Protocols on confiscation of gold and silver jewelry and valuables from Jews in the Vsetín district 1940; inv. no. 309 - S. Reich glassworks buildings 1899-1904; inv. no. 309 The industrial track to the Kohn furniture company (1905-1909; inv. no. 309 List of Jews who declared their Czech nationality (1919-1923); Workers in the Reich company 1919-23; inv. no. 309 Survey on the activities of the Marian Support Institute at the Jakub and Josef Kohn Company 1931-33, inv. no. 390, Purchase of a burnt-out synagogue of the Jewish religious community in Vsetín 1939; Report of agricultural and forest property in the hands of Germans, Jews, the state and the church 1940-41, Registry after 1850 (secret): inv. no. 354 Confiscated goods from the S. Reich and Comp. factory 1933-35.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds containes: I. Deeds; II. Official books (registration, administrative, commemorative); III. File material (registry finding aids, files); IV. Accounting material (books); Maps and plans</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Baletka L.: Archiv města Vsetín 1674-1945 (1960). Inventář, 1980, 141 s., ev. č. 111.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Kohn furniture company</corpname><corpname>Jakub and Josef Kohn Company</corpname></controlaccess>
+        <controlaccess><subject>Jewish businesses</subject><subject>potassium carbonate plant</subject><subject>confiscation of Jewish property</subject><subject>synagogue</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    

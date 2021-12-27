@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>374</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Ústředna obchodních a živnostenských komor, Praha</titleproper>
+            <subtitle>Headquarters of Chambers of Commerce and Trade, Prague / NAD 374</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 240</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1922/1948</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>374</unitid>
+            <unittitle>Ústředna obchodních a živnostenských komor, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>186,10 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1922/1948</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Headquarters of Chambers of Commerce and Trade</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Headquarters of Chambers of Commerce and Trade, Prague / NAD 374</p>
+        </odd>
+        <custodhist>
+            <p>The registry of the Headquarters was taken over by the then Central Archives of the Ministry of Interior in 1950. In 1955, the processing of the fonds was started and was not completed until 1966. Insignificant materials were shredded; the files from the period of German occupation were left without being appraised. The fonds was stored in the branch of the State Central Archives in Mníšek pod Brdy. In 1987, 22 files were transferred to the State Regional Archives in Prague.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Headquarters of the Commerce and Trade Chambers in the Czechoslovak Republic was established in 1922. The Chambers of Commerce and Trade defended the interests of the associated entrepreneurs, issued certificates and various publications, and were used by the state administration to support the local economy. The Headquarters was created as a free association on the basis of municipal law. It was supposed to help adapt the Chambers of Commerce and Trade to the conditions of the newly established Czechoslovakia and give a solid organizational form to mutual cooperation of the Chambers. Under the Protectorate, the scope of the Headquarters and individual chambers was considerably limited. In the years of 1945-1948, the chambers resumed their activities to the original extent, but after the communist coup they were abolished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds includes materials on the organization, development and personnel matters of the Headquarters, minutes from meetings, documents on its legislative work; materials on the economic development in the Czechoslovak Republic and abroad, tax and customs policies, trade fairs and congresses, pricing policy, combating usury, etc.; numerous documents on foreign trade, international trade agreements, reports of Czechoslovak embassies for the Headquarters (situation on local markets, characteristics of individual companies in individual countries). Information on Jews can be specifically found in the following materials: the operation of real estate agencies and credit bureaus by non-Aryans (in 1939), the reporting of Jewish property in Germany (in 1938); other materials after 1939 such as Jewish property, the legal status of Jews, their exclusion from economic life, forced labor, the appointment of administrators to non-Aryan enterprises, the returning of property to Jews in 1945. Materials concerning individual Jewish entrepreneurs can also be expected to be found there.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: a) Registry finding aids (protocols, registers), b) Files: sorted chronologically according to individual years; the inventory gives sample records; at the end, there are material files with and without registration numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šturz J. a kol.: Ústředna obchodních a živnostenských komor (ÚOŽK) 1922-1948. Inventář, 1966, 449 s., ev. č. 497.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Tax and customs policies</subject><subject>pricing policy</subject><subject>usury</subject><subject>foreign trade</subject><subject>companies</subject><subject>non-Aryans</subject><subject>Jewish property in Germany</subject><subject>Jewish property, the legal status of Jews</subject><subject>exclusion from economic life</subject><subject>forced labor</subject><subject>administrators to non-Aryan enterprises</subject><subject>returning Jewish property after 1945</subject></controlaccess>
+    </archdesc>
+</ead>    
+

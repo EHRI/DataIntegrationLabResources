@@ -1,0 +1,846 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>390</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Bechyně</titleproper>
+            <subtitle>Archives of the Town of Bechyně / NAD 390</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1444/1945 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>390</unitid>
+            <unittitle>Archiv města Bechyně</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>40,49 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1444/1945 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Bechyně</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Bechyně / NAD 390</p>
+        </odd>
+        <custodhist>
+            <p>A lot of the town's documents were destroyed in the mid-18th century. The oldest inventory of the town archives dates from 1769. In the period municipal office, the registry was divided into - Politicum and Judiciale, for each part being kept a separate filing protocol (filing protocols in judicialibus have not been preserved). The town archive material was stored at the town hall. In 1943, it was moved to the museum building. The first part of the fonds was handed over to the archives in 1953. Other additions were taken over in the period of 1967-2013. The fonds was processed, and in 1981, the files were reclassified and processed in the form of a supplement to the inventory.</p>
+        </custodhist>
+        <bioghist>
+            <p>The town of Bechyně was founded in about 1323. After 1340, Bechyně was owned by various aristocratic families (the Šternberk family, the Bechyně family from Lažany, the Švamberks, the Rožmberks, the Paars). The first record of the stay of Jews in the town is a tax census from 1570. The Jewish religious community was founded in the town in the 17th century and it was abolished during the Nazi occupation. Since 1850 Bechyně was part of the Bechyně judicial district, in 1850-1855 the Milevsko political district, 1855-1868 Bechyně, 1868-1949 Milevsko.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the local self-government, deeds, books, file material and accounting material. Information of Jews can be found in documents from 1826 and 1939-1945 (persecution of Jews during the Nazi occupation, inventories of Jewish property, Jewish flats, Kohn's lands).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds structure: I. Deeds; II. Books; III. File material: a) registry finding aids, b) files; IV. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lintner J. – Poustka K.: Archiv města Bechyně 1444-1948. Inventář, 1962, 78 s., ev. č. 19.</p></otherfindaid><otherfindaid><p>Vančata V.: Archiv města Bechyně (1751) 1792-1945 (1946). Doplněk inventáře, 1981, 23 s., ev. č. 150.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000150/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>persecution of Jews</subject><subject>inventories of Jewish property</subject><subject>Jewish flats</subject><subject>Kohn's lands</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>147</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Tábor</titleproper>
+            <subtitle>Archives of the Town of Tábor / NAD 147</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1406/1945  </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>147</unitid>
+            <unittitle>Archiv města Tábor</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>116,32 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1406/1945  </unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Tábor</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Tábor / NAD 147</p>
+        </odd>
+        <custodhist>
+            <p>The original town archives only consisted of town privileges. Books and files were stored in the registry office. In 1871, two appraisals of documents were carried out leading to destruction of files and books from the 17th and 18th centuries and files from the late 18th century to 1851. After the founding of the town museum in 1878, the town archives became part of it. The remains of the town archives were processed in 1890—1894, and in 1962 an inventory list was made. Other documents of the fonds were handed over to the archives in 1958-2015. The fonds was processed and a registry finding aid was made.</p>
+        </custodhist>
+        <bioghist>
+            <p>Tábor was founded in 1420 by the Hussites. The town was headed by four elected governors. Tábor became a royal town in 1750 and Maria Theresa promoted Tábor to regional town (remaining so until 1848). In 1960, Tábor became the center of a large district, which also included the existing Soběslav district, and parts of the Milevsko, Votice, Pacov and Týn nad Vltavou districts. Political district: Tábor. Judicial district: Tábor.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains the local government documents, deeds, official books, file material, and accounting material. Information on Jews can be found in documents from 1628-1945 (debts of the municipality to the Prague Jews David Lury and Aaron Tausk and to Matyáš Žlutický of Tábor, and the debt of Saul Israel to the municipality 1622; debts of the Jewish population; the permission of the town council to establish a Jewish cemetery (copy) 1634, list of Jewish families living in Tábor 1691, the number of children registered in Jewish registries 1913-1916, the proposal of the city council to close the Jewish cemetery 1937, the proposal to remove the Jewish cemetery 1940, the proposal for anti-Jewish actions 1941, persecution of Jews,1942-1945; general book of funds and foundations (Jewish communities) 1906-1921 (1924).</p>
+        </scopecontent>
+        <arrangement>
+            <p>Fonds structure: I. Deeds; II. Books: A) until 1850, B) from 1850; III. File material: A) registry finding aids, B) files: 1) pre-municipal period (1400) -1789 (1859), 2) files of the regulated municipality, 3) files of the municipal office (1841) 1851-1945 (1955), 4) files of associated agendas; IV. Accounting material: until 1850, after 1850; V. Other material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Vančata V.: Archiv města Tábor 1406-1945 (1955). Prozatímní inventární seznam, 2000, 187 s., ev. č. 973.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish children</subject><subject>Jewish cemetery</subject><subject>persecution of the Jews</subject><subject>Jewish foundations</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>489</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Jistebnice</titleproper>
+            <subtitle>Archives of the Town of Jistebnice / NAD 489</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1388/1945 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>489</unitid>
+            <unittitle>Archiv města Jistebnice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>8,83 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1388/1945 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Jistebnice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Jistebnice / NAD 489</p>
+        </odd>
+        <custodhist>
+            <p>The fonds arose from the activities of the town self-government. Initially, the files were stored chronologically according to case numbers. In 1892, the registry was divided into seven subject groups marked with Roman numerals. The files were marked with a registration number, consisting of a Roman numeral, a year and an Arabic numeral. This system was used by the municipality until about 1928. The archives were located at the town hall and after the establishment of the local museum were joined with the museum. After 1950, the separate local archives were created in Jistebnice, but in 1964 it was abolished. The fonds was handed over to the Tábor District Archives and processed in 1964.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first report about Jistebnice comes from 1262, when it was owned by the Rožmberks. In 1549, Jistebnice was acquired by the Lobkowicz family, and from 1829 it was owned by the Nádherný family from Borutín. The Jewish religious community in Jistebnice existed in the 17th century and after 1930 it was connected with the Tábor Jewish community. Political district: 1850-1855 Sedlec, 1866 Sedlčany, 1880 Tábor. Judicial district: 1866 Sedlec, 1880 Tábor.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the local self-government, official books, files and accounting material. Information on Jews can be found in documents from 1628-1945. Before 1850, these only individual items (a printed patent against the Jews 1725; a testimony of the Jewish population in a dispute 1726; the interrogation of Eliška, a Jew, accused of selling stolen goods 1727). After 1850, these are registry matters, and from the period of WW II the persecution of Jews.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Fonds structure: I. Privileges; II. Books: A) before 1850, B) official books after 1850, C) auxiliary books after 1850; III. A) Individual items before 1850; III. B) Library agenda before 1850; III. C) files: from 1850-1891, 1892-1927, 1928-1945; IV. A) Accounting material before 1850; IV. B) Accounting material 1850-1945; V. Other.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Mácová L.: Archiv města Jistebnice 1388-1945 (1958). Inventář, 1970, 77 s., ev. č. 76.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000076/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Jewish registry matters, anti-Jewish persecution</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>240</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Soběslav</titleproper>
+            <subtitle>Archives of the Town of Soběslav / NAD 240</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1371/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>240</unitid>
+            <unittitle>Archiv města Soběslav</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>105,39 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1371/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Soběslav</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Soběslav / NAD 240</p>
+        </odd>
+        <custodhist>
+            <p>As early as the 16th century, the town's documents were stored and marked according to a certain order. From 1802, the files were classified into the Politica and Judicialia groups according to reference numbers. In 1852, a file plan of 16 departments was introduced, operating until 1854, then until 1945 they were sorted by reference numbers. The town archives were first organized in 1670. In 1854, the inventory of the archives was made. The fonds was processed in 1965-1966. Parts of the fonds were handed over to the archives in 1952-2015.</p>
+        </custodhist>
+        <bioghist>
+            
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the local self-government, deeds, official books, files and accounting material. Information on Jews can be found in individual items in the thematic group Religious life in the town, Jews, 1850-1943; and Persecution of Jews, 1920-1945.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Fonds structure: I. Deeds; II. Official books: until 1850, after 1850; III. Auxiliary books and files: registry finding aids, files: I. Files of the mayor's office and the municipality, II. town office files 1850-1945; IV. Accounting material; V. Maps and plans.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lintner J.: Archiv města Soběslav 1371-1945 (1950). Inventář, I. díl, 1966, 149 s., ev. č. 38.</p></otherfindaid><otherfindaid><p>Lintner J.: Archiv města Soběslav 1371-1945 (1950). Inventář, II. díl, 1966, 383 s., ev. č. 39.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000039/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>persecution of Jews</subject><subject>Jewish religion</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>65</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Tábor</titleproper>
+            <subtitle>District National Committee of Tábor / NAD 65</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1990</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>65</unitid>
+            <unittitle>Okresní národní výbor Tábor</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>243,17 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1945/1990</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee of Tábor</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Tábor / NAD 65</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the fonds began to be accepted into the District Archives in Tábor as early as 1961. The fonds was not stored in one place. A relatively large number of documents got in the archives after the abolition of the District Office in 2002. In 2003, after the Tábor State District Archives moved to a new building, the entire fonds was consolidated, processed and made available by a temporary inventory list.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Tábor District National Committee administered the Tábor District in 1945-1990. From 1949, it dealt with, among other things, the agenda of confiscation of agricultural property, technical and economic modifications of land, hunting and permitting of agricultural credit, and carried out a new land reform. Commissions became the executive component of the district national committee. It also had its elected bodies, a council and a plenum. In 1990, the Tábor District National Committee was transformed into the Tábor District Office.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds is linked to the Tábor District Office. It contains documents concerning municipal affairs, population movements, emigration, domicile right, education, health, police, construction, poverty, charity, agriculture, trades, finance and the military. Jews are explicitly mentioned in the following documents: persecution of Jews during the Nazi occupation (lists made in 1947); Jewish religious community - members of the leadership in Tábor 1948; territorial organization of churches - Jewish religious community 1949-1989.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: Official books; File material (registry finding aids, files). The files are divided into the handling units: 1945-1948, 1949-1950, 1951-1954, 1955-1976, 1977-1990; People's Control Committee; Personal use of land; Transfer of ownership (cancellation of rents); Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Mácová L.: Lesní dohlédací služba Okresního úřadu a Okresního národního výboru Tábor 1899-1960. Prozatímní inventární seznam, 1975, 25 s., ev. č. 473.</p></otherfindaid><otherfindaid><p>Mácová L.: Technické oddělení Okresní národní výbor Tábor 1939-1949. Prozatímní inventární seznam, 1976, 6 s., ev. č. 485.</p></otherfindaid><otherfindaid><p>Vančata, V.: Lesní dohlédací služba Okresního úřadu a Okresního národního výboru Tábor – mapy 1927-1954. Prozatímní inventární seznam, 1991, 12 s., ev. č. 670.</p></otherfindaid><otherfindaid><p>Vančata V.: Okresní národní výbor Tábor (1904) 1945-1990 (2001). Prozatímní inventární seznam, 2007, 248 s., ev. č. 1060.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>emigration</subject><subject>persecution</subject><subject>Jewish religious community</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>70</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Bechyně</titleproper>
+            <subtitle>District Court in Bechyně / NAD 70</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>70</unitid>
+            <unittitle>Okresní soud Bechyně</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>46,76 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1949 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Bechyně; Mixed District Office Bechyně</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Bechyně / NAD 70</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the fonds were taken over from the Archives of the Ministry of the Interior in Prague in 1938-1941, from where they were transferred to the State Archives in Třeboň in 1949-1951. The other registry of the abolished court passed in 1960 to the District Court in České Budějovice. From there, these documents were taken over in 1961 by the District Archives in Tábor. Gradually, it also took over the documents of the District Court in Bechyně from 1850-1897, which had been until then stored in the State Archives in Třeboň.</p>
+        </custodhist>
+        <bioghist>
+            <p>The activities of the District Court in Bechyně began on 27 May 1850 and was included in the district of the Regional Court in Tábor. In the years of 1855-1868, the so-called mixed district office was established (political and judicial agenda). In 1868, this mixed district office was abolished and only the district court remained in Bechyně. The seat of the district office was again transferred to Milevsko. This situation remained virtually unchanged until January 29, 1949, when the District Court in Bechyně was abolished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Bechyně District Court from the years (1849) 1850-1949 concerning the civil and criminal agendas, as well as the agenda for the establishment of new land registers. Information on Jews can be found in expropriation documents ordered by the Gestapo during the Nazi occupation, and the inheritance agenda (file No D) of Jews perished in WW II in concentration camps dealt with in 1946.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: 1. Court agenda (A. Record aids B. Files); 2. Land book agenda; II. File material; The period since the establishing of new land registers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Mácová L. – Vančata, V.: Okresní soud Bechyně (1949) 1850-1949. Inventář, 1973, 38 s., ev. č. 94.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000094/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>inheritance agenda</subject><subject>expropriation documents</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>71</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Mladá Vožice</titleproper>
+            <subtitle>District Court of Mladá Vožice / NAD 71</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>71</unitid>
+            <unittitle>Okresní soud Mladá Vožice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>71,84 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1949 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Mladá Vožice; Mixed District Office Mladá Vožice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Mladá Vožice / NAD 71</p>
+        </odd>
+        <custodhist>
+            <p>Documents up to 1897 were handed over by the district court in the years 1940-1949 to the Archives of the Ministry of the Interior in Prague and documents concerning land books to the former Archives of the Czech Lands. In the years 1962-1963, the documents were taken to the District Archives in Tábor. Part of the fonds is stored in the State District Archives of Benešov.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Court in Mladá Vožice began to operate on 10 June 1850, being part of the district of the Regional Court in Tábor. In the years 1855-1868, the so-called mixed district office was established (political and judicial agenda). In 1868, this mixed district office was abolished and only the district court remained in Mladá Vožice. The political agenda was taken over by the Mladá Vožice District Office. In 1949, the District Court in Mladá Vožice was abolished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Mladá Vožice District Court from (1836) 1850-1949 concerning the civil and criminal agendas, as well as the agenda for the establishment of new land registers. As part of the inheritance agenda (file no. D) there are the inheritance proceedings of Jews who died during World War II, for example in concentration camps, dealt with especially in 1946.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: A. Registration finding aids; B. Files; Land book agenda.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lintner J.: Okresní soud Mladá Vožice 1850-1897. Inventář, 1964, 53 s., ev. č. 33.</p></otherfindaid><otherfindaid><p>Lintner, J. – Vančata, V.: Okresní soud Mladá Vožice 1850-1949. Inventář, 1973, 9 s., ev. č. 95.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>inheritance agenda</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>72</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Soběslav I.</titleproper>
+            <subtitle>District Court of Soběslav I / NAD 72</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>72</unitid>
+            <unittitle>Okresní soud Soběslav I.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>72,81 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Soběslav; Mixed District Office Soběslav</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Soběslav I / NAD 72</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the Soběslav District Court from 1850-1949 were handed over to the District Archives in Tábor in 1952-2003.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Soběslav District Court was established in 1949, replacing the abolished privileged and superior court. In the years 1855-1868, the so-called mixed district office was established (political and judicial agenda). In 1868, this mixed district office was abolished and only the district court remained in Soběslav. The political agenda was taken over by the Tábor District Office. The court ruled in basic civil and criminal cases. In 1949, the District Court in Soběslav was abolished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Soběslav District Court from the years 1850-1949 (1951) concerning the civil and criminal agendas, as well as the agenda for the establishment of new land registers. As part of the inheritance agenda (file no. D), there are the inheritance proceedings of Jews who died during World War II, for example in concentration camps, dealt with especially in 1946.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: 1. Court agenda - A. Auxiliary books - presidium, civil, criminal); B. Files - presidium files, civil files, criminal files; 2. Land book agenda.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lintner J.: Okresní soud Soběslav 1850-1949. Prozatímní inventární seznam, 1975, 54 s., ev. č. 474.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>inheritance agenda</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>69</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Tábor I.</titleproper>
+            <subtitle>District Court of Tábor I / NAD 69</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>69</unitid>
+            <unittitle>Okresní soud Tábor I.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>85,11 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Tábor; Mixed District Office Tábor</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Tábor I / NAD 69</p>
+        </odd>
+        <custodhist>
+            <p>The file material of the District Court in Tábor was transferred in 1949 from the court registry office to the then Regional Depository. The documents of the District Court were transferred from the State Archives in Třeboň after 1960 into the District Archives in Tábor. The fonds was organized in 1958, and in 1960 a revision was carried out. In 1972, another revision, an addition, an internal appraisal and cataloging of criminal records took place. After this date, the fonds was being added to until 2008.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Tábor District Court began to operate in 1850, being part of the district of the Tábor Regional Court. It also worked as the district criminal court. District Court Tábor I was abolished on January 29, 1949. The agenda of the abolished district court was taken over by the People's Court in Tábor.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Tábor I District Court from the years 1850-1949 (1984), concerning the civil and criminal agendas, as well as the agenda for the establishment of new land registers. As part of the inheritance agenda (file no. D), there are the inheritance proceedings of Jews who died during World War II, for example in concentration camps, dealt with especially in 1946.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The Tábor I District Court is divided as follows: 1850-1897 - Registration finding aids; Files (civil, criminal); Land book agenda 1898-1921 - Registration finding aids; Files; 1921-1949 - A. Court agenda - I. File material (a) registry finding aids; (b) files; B. Land book agenda.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Crkovská F. – Vančata V.: Okresní soud Tábor 1850-1897. Inventář, 1973, 44 s., ev. č. 93.</p></otherfindaid><otherfindaid><p>Crkovský F.: Okresní soud Tábor 1867-1927. Katalog, 1975, 48 s., ev. č. 115.</p></otherfindaid><otherfindaid><p>Vančata V.: Okresní soud Tábor 1898-1923 (1933). Inventář, 1989, 14 s., ev. č. 206.</p></otherfindaid><otherfindaid><p>Říhová H.: Okresní soud Tábor. Manipulační období 1924-1949. Prozatímní inventární seznam č. 1 (1864) 1924-1949 (1984), 2009, 37 s., ev. č. 1083.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000206/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>inheritance agenda</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>73</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Veselí nad Lužnicí</titleproper>
+            <subtitle>District Court of Veselí nad Lužnicí / NAD 73</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>73</unitid>
+            <unittitle>Okresní soud Veselí nad Lužnicí</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>62,14 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1949 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Veselí nad LužnicMixed District Office Veselí nad Lužnicí</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Veselí nad Lužnicí / NAD 73</p>
+        </odd>
+        <custodhist>
+            <p>The District Court in Veselí nad Lužnicí began to operate on 10 June 1850 as part of the district of the Regional Court in Tábor and the District Criminal Court in Tábor. In the years 1855-1868, the so-called mixed district office was established (political and judicial agenda). In 1868, this mixed district office was abolished and only the district court remained in Veselí nad Lužnicí. The political agenda was taken over by the Veselí nad Lužnicí District Office. In 1949, the District Court in Veselí nad Lužnicí was abolished.</p>
+        </custodhist>
+        <bioghist>
+            <p>The documents of the Veselí nad Lužnicí District Court were transferred to the former Archives of the Ministry of the Interior in Prague in 1920 and 1941, and from there they were transferred to Třeboň in 1949-1952. More recent material was taken over from there in 1960 (after the abolition of the People's Court in Soběslav) and organized in the District Archives in Tábor.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the District Court of Veselí nad Lužnicí from the years 1850-1949 concerning the civil and criminal agendas, as well as the agenda for the establishment of new land registers. As part of the inheritance agenda (file no. D), there are the inheritance proceedings of Jews who died during World War II, for example in concentration camps, dealt with in 1946.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: Court agenda - Auxiliary books; Auxiliary books 1855-1897, 1898-1949; Files 1850-1855; 1855-1897; 1898-1923; 1924-1949; Land book agenda; Other.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kol. autorů: Okresní soud Veselí nad Lužnicí 1850-1949. Inventář, 1967, 38 s., ev. č. 40.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000040/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>inheritance agenda</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Tábor I.</titleproper>
+            <subtitle>District Office of Tábor I / NAD 1</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1</unitid>
+            <unittitle>Okresní úřad Tábor I.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>301,28 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Tábor; District Office of Tábor; District Political Administration Tábor; District National Committee Tábor</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Tábor I / NAD 1</p>
+        </odd>
+        <custodhist>
+            <p>During World War II, a substantial part of the material from 1850-1911 was transferred to the Archives of the Ministry of the Interior in Prague, and from there to the State Archives in Třeboň in 1949. Another part of the fonds was taken over by the Archives in Třeboň in 1957 and 1959 directly from the registry office of the District National Committee in Tábor. The fonds is now stored in the State District Archives in Tábor.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1850, district governor's offices were established. In 1855, it was decided to establish mixed political-judicial district offices. In Tábor, where the regional court had been operating since 1850, a purely political district office was established, which operated for the district of the judicial district of Tábor. In 1868, the Tábor Supervisory District Governor's Office was established instead of the district office. In 1928, the district governor's office again became the district office. In 1945, it was transformed into the Tábor District National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Tábor District Office from (1808) 1850-1945 (1958), official books, files, accounting material, and others. The documents concern municipal affairs, population movements (1869-1910 census), emigration, residence right, education, health, police, construction, poverty, charity, agriculture, trades, finance, and the military. The fonds also contains correspondence on Jewish registries, documents on the Jewish religious communities of Choustník, Chýnov, Jistebnice, Radenín, Tučapy, Soběslav, and Tábor, documents concerning the construction of a Jewish cemetery in Tábor (including a plan), the election of Jiří Guttmann as a representative of the Jewish population for the district of the former Regional Office Tábor, election of the rabbi in Soběslav, sale of the synagogue in Tučapy, statistics of Jewish companies, a request from the Vlajka organization to introduce discriminatory measures against Jews, a proposal to sell the synagogue in Tábor, a list of all Jews in the district, Jewish register cards (including photos).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Books (administrative books, registration books); II. File material (registry finding aids, files). The files contain handling periods 1850-1855, 1855-1868, 1868-1911, 1912-19130, 1931-1938, 1938-1947, census operas; III. Accounting material; IV. Other material (maps and plans); V. Associated agendas.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kol. autorů: Okresní úřad Tábor (1839) 1850-1945 (1950). Inventář, 1961, 599 s., ev. č. 17.</p></otherfindaid><otherfindaid><p>Vančata V.: Okresní úřad Tábor 1850-1945 (1947). Katalog, 1972, 241 s., ev. č. 89.</p></otherfindaid><otherfindaid><p>Šeda O.: Okresní úřad Tábor I. 1921. Prozatímní inventární seznam, 1966, 11 s., ev. č. 401.</p></otherfindaid><otherfindaid><p>Kol. autorů: Dohlédací okresní hejtman Tábor (1853) 1868- 1929. Prozatímní inventární seznam, 1974, 40 s., ev. č. 1020.</p></otherfindaid><otherfindaid><p>Prchlíková A.: Odborný poradce Státního pozemkového úřadu Tábor 1920-1922. Prozatímní inventární seznam, 1979, 5 s., ev. č. 1021.</p></otherfindaid><otherfindaid><p>Vančata V.: Okresní úřad Tábor I. vodní kniha (prozatímní inventární seznam č. 4) 1850-1945 (1953). Prozatímní inventární seznam, 2003, 9 s., ev. č. 1033.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000089/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>rabbi</subject><subject>elections</subject><subject>synagogue</subject><subject>Jewish companies</subject><subject>anti-Jewish measurments</subject><subject>list of Jews</subject></controlaccess>
+    </archdesc>
+</ead>    

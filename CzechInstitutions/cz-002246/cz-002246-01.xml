@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>225</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv obce Puklice</titleproper>
+            <subtitle>Archives of the Municipality of Puklice / NAD 225</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1861/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>225</unitid>
+            <unittitle>Archiv obce Puklice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>1,52 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1861/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Puklice; Regierungskomissär Puklitz; National Committee of Puklice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Municipality of Puklice / NAD 225</p>
+        </odd>
+        <custodhist>
+            <p>The documents arose from the activities of the municipal office in Puklice, where they were also stored. In 1953 and 1963 they were transferred to the District Archives in Jihlava and were organized in 1958 and 1978.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Puklice dates to 1318. It was the center of the manor, which was owned by various aristocratic families. After 1848, it was an independent municipality, which in 1850-1949 was part of the judicial and political district of Jihlava. </p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipal self-government. Jewish issues can be found in an item from the Holocaust period titled Jewish Cemetery - Puklice 1941-1944.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains official, auxiliary and accounting books and files. 0,04 linear meters are not processed.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Berková, O.: Obecní úřad Puklice 1861-1945 (1951). Inventář, 1978, 10 s., ev. č. 268.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Cemetery</subject></controlaccess>
+    </archdesc>
+</ead>    

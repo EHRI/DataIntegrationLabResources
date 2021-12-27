@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>790</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Praha-západ</titleproper>
+            <subtitle>District National Committee of Praha-západ / NAD 790</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive of Prague-West in Prague</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 257 710 492</addressline>
+                <addressline>http://www.soapraha.cz/praha-zapad/</addressline>
+                <addressline>soka-praha.zapad@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1949/1990</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>790</unitid>
+            <unittitle>Okresní národní výbor Praha-západ</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>528,76 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive of Prague-West in Prague</corpname>
+            </repository>
+            <unitdate>1949/1990</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee of Praha-západ; District Office of Praha-venkov (1927 - 1941); District Office of Praha-venkov-jih (1942 - 1945); District National Committee of Praha-venkov-jih (1945 - 1949); District National Committee of Praha-západ (1949 - 1990); District Office of Praha-západ (1990 - 2002)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Praha-západ / NAD 790</p>
+        </odd>
+        <custodhist>
+            <p>The fond arose from activities of the District National Committee of Praha-západ in 1949-1960. The central registry was not properly kept, so there were numerous losses of material. The fonds was transferred to the archives in 1960 and 1967-69, being organized in 1968-69. In 1970, an inventory was created to it.</p>
+        </custodhist>
+        <bioghist>
+            <p>The administrative district of Praha-západ was established in 1949 on the territory of the former judicial districts of Praha-sever and Praha-západ and part of the Unhošť region. The district was part of the Prague region. The District National Committee of Praha-západ started its activities in 1949. In 1960, the district and the office were abolished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds arose from the activities of the District National Committee of Prague-West. Contains books, file material and accounting material. Information on Jews can be found in the following documents: inv. no. 313 National administration (since 1945); inv. no. 316 Restitution - allocation of property, call no. 566 (1949–1950); inv. no. 553 Overview of the religiosity of the district of Praha-západ, call no. 290 (1954); inv. no. 557 Libuš-rejection of kosher, call no. 295.9 (1952).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Administrative and accounting books; II. File material - registry finding aids and files; Accounting material - incorporated into the file material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šmilauerová E.: Okresní národní výbor Praha-západ 1949-1960. Inventář, 1970, 187 s., ev. č. 80.</p></otherfindaid><otherfindaid><p>Šmilauerová E.: Okresní národní výbor Praha-západ 1960-1968. Inventář, 1988, 140 s., ev. č. 126.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    

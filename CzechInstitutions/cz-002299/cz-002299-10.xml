@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Tábor I.</titleproper>
+            <subtitle>District Office of Tábor I / NAD 1</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1</unitid>
+            <unittitle>Okresní úřad Tábor I.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>301,28 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Tábor; District Office of Tábor; District Political Administration Tábor; District National Committee Tábor</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Tábor I / NAD 1</p>
+        </odd>
+        <custodhist>
+            <p>During World War II, a substantial part of the material from 1850-1911 was transferred to the Archives of the Ministry of the Interior in Prague, and from there to the State Archives in Třeboň in 1949. Another part of the fonds was taken over by the Archives in Třeboň in 1957 and 1959 directly from the registry office of the District National Committee in Tábor. The fonds is now stored in the State District Archives in Tábor.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1850, district governor's offices were established. In 1855, it was decided to establish mixed political-judicial district offices. In Tábor, where the regional court had been operating since 1850, a purely political district office was established, which operated for the district of the judicial district of Tábor. In 1868, the Tábor Supervisory District Governor's Office was established instead of the district office. In 1928, the district governor's office again became the district office. In 1945, it was transformed into the Tábor District National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Tábor District Office from (1808) 1850-1945 (1958), official books, files, accounting material, and others. The documents concern municipal affairs, population movements (1869-1910 census), emigration, residence right, education, health, police, construction, poverty, charity, agriculture, trades, finance, and the military. The fonds also contains correspondence on Jewish registries, documents on the Jewish religious communities of Choustník, Chýnov, Jistebnice, Radenín, Tučapy, Soběslav, and Tábor, documents concerning the construction of a Jewish cemetery in Tábor (including a plan), the election of Jiří Guttmann as a representative of the Jewish population for the district of the former Regional Office Tábor, election of the rabbi in Soběslav, sale of the synagogue in Tučapy, statistics of Jewish companies, a request from the Vlajka organization to introduce discriminatory measures against Jews, a proposal to sell the synagogue in Tábor, a list of all Jews in the district, Jewish register cards (including photos).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Books (administrative books, registration books); II. File material (registry finding aids, files). The files contain handling periods 1850-1855, 1855-1868, 1868-1911, 1912-19130, 1931-1938, 1938-1947, census operas; III. Accounting material; IV. Other material (maps and plans); V. Associated agendas.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kol. autorů: Okresní úřad Tábor (1839) 1850-1945 (1950). Inventář, 1961, 599 s., ev. č. 17.</p></otherfindaid><otherfindaid><p>Vančata V.: Okresní úřad Tábor 1850-1945 (1947). Katalog, 1972, 241 s., ev. č. 89.</p></otherfindaid><otherfindaid><p>Šeda O.: Okresní úřad Tábor I. 1921. Prozatímní inventární seznam, 1966, 11 s., ev. č. 401.</p></otherfindaid><otherfindaid><p>Kol. autorů: Dohlédací okresní hejtman Tábor (1853) 1868- 1929. Prozatímní inventární seznam, 1974, 40 s., ev. č. 1020.</p></otherfindaid><otherfindaid><p>Prchlíková A.: Odborný poradce Státního pozemkového úřadu Tábor 1920-1922. Prozatímní inventární seznam, 1979, 5 s., ev. č. 1021.</p></otherfindaid><otherfindaid><p>Vančata V.: Okresní úřad Tábor I. vodní kniha (prozatímní inventární seznam č. 4) 1850-1945 (1953). Prozatímní inventární seznam, 2003, 9 s., ev. č. 1033.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000089/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>rabbi</subject><subject>elections</subject><subject>synagogue</subject><subject>Jewish companies</subject><subject>anti-Jewish measurments</subject><subject>list of Jews</subject></controlaccess>
+    </archdesc>
+</ead>    

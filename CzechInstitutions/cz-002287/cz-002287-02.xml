@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>141</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Říčany</titleproper>
+            <subtitle>District Office of Říčany  / NAD 141</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Prague-East in Přemyšlení</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 284 890 487</addressline>
+                <addressline>http://www.soapraha.cz/praha-vychod/</addressline>
+                <addressline>soka-praha.vychod@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1855/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>141</unitid>
+            <unittitle>Okresní úřad Říčany</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>54,54 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Prague-East in Přemyšlení</corpname>
+            </repository>
+            <unitdate>1855/1942</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Říčany; District Office of Praha-venkov-jih, Říčany Branch (1928-); Okresní správa politická Říčany; District Political Administration Žižkov, Říčany Branch</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Říčany  / NAD 141</p>
+        </odd>
+        <custodhist>
+            <p>The fonds arose from the activities of the District Office in Říčany. It includes materials from the period of the mixed political-judicial district in 1855-68. Most of the other material comes from 1923-42. The material is divided into 2 handling periods,1923-30 and 1931-42. The material is in fragments, especially in the first handling period. It was caused by losses during moving. The fonds began to be taken over by the District Archives of Říčany in 1952. Later it was taken over by the District Archives of Praha-východ. The fonds was organized and inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1848, a municipal administration was established. The town was headed by the municipal council with the mayor. A new judicial district was established in Říčany in 1850, and a political district was established in 1855, with the exception of the period of 1855-68, when there was a mixed political-judicial district office. It was part of the district governor's office in Jílové, later in Český Brod, Žižkov, and Praha-Okolí. The district governor's office was renamed in 1918 the district political administration. The district governors were at the head of the district political administrations. In 1942, the District Office was abolished, only the judicial district remained, being annexed to the District Office of Praha-venkov-jih.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the district office: official books, file material, accounting material, and others. Explicit mentions of Jews can be found in the following documents: inv. no. 411 Abolition of the Jewish religious community (Strančice) 1934-1939; inv. no. 420 Records of foreigners, permitting travel to Jews, dissolution of summer camps 1939-1942; inv. no. 454 Reports on Jewish property [567] 1940; inv. no. 454 Reports on of Jewish property [567] 1940; inv. no. 454 Trade establishments, trade associations, fire inspections of enterprises, Jewish trades 1940-1942; religious matters - inv. no. 408 Religious and ecclesiastical matters, cemetery regulations - persons of Jewish origin baptized before 1875, cemetery fees, cemetery list; 1873-1942 (box 233); inv. no. 410 Religious conversion (box 235); Jews are also explicitly mentioned in presidium files (1923-1942), specifically, Forced labor; Jewish shops and businesses; restrictions on free movement; Jews of Polish nationality; regulation of the contact between the Jews and other populations; ban on entry to the museum and other cultural and scientific institutions.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Official books, II. File material (containing census sheets), III. Accounting books, IV. Other material (maps, plans, stamps, seal matrixes), V. Associated agenda of the district office.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Michálek I.: Okresní úřad Říčany (1853) 1855-1942 (1958). Inventář, 2016, 98 s., ev. č. 412.</p></otherfindaid><otherfindaid><p>Bilkovský M.: Okresní úřad Říčany – Katalog presidiálních spisů. Sv. II, 1. 1. 1923-14. 3. 1939. Katalog, 1972, 142 s., ev. č. 47.</p></otherfindaid><otherfindaid><p>Bilkovský M.: Okresní úřad Říčany  – Katalog presidiálních spisů. Sv. 3., 1939-1942. Katalog, 1973, 22 s., ev. č. 48</p></otherfindaid><otherfindaid><p>Kolektiv: Okresní úřad Říčany – Presidiální spisy. Sv.3., (Rejstřík) 15. 3. 1939-1. 6. 1942 (15. 8. 1942). Katalog, 1970, 121 s., ev. č. 44.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%2843441%29%29</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>The Jewish religious community Strančice</corpname></controlaccess>
+        <controlaccess><subject>Jewish property</subject><subject>Anti-Jewish restrictions</subject><subject>religious matters</subject><subject>baptizm of the Jews</subject><subject>forced labour</subject><subject>Polish Jews</subject></controlaccess>
+    </archdesc>
+</ead>    

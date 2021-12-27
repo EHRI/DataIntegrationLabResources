@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>209</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Pardubice (1945–1949)</titleproper>
+            <subtitle>Pardubice District National Committee (1945–1949) / NAD 209</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pardubice</publisher>
+            <address>
+                <addressline>Bělobranské nám. 1, 530 02 Pardubice</addressline>
+                <addressline> +420 466 009 611</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-pardubice/</addressline>
+                <addressline>podatelna.pu@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>209</unitid>
+            <unittitle>Okresní národní výbor Pardubice (1945–1949)</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>47,14 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pardubice</corpname>
+            </repository>
+            <unitdate>1945/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee Pardubice; Penal Adjudication Commission</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Pardubice District National Committee (1945–1949) / NAD 209</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the fonds of the Pardubice District National Committee (1945–1949) were transferred to the District Archives from the District National Committee as part of the appraisal proceedings carried out in 1960. In the years 1967-1968, all documents were organized as well as the archive material of the District National Committee (1945-1949), the South Moravian National Committee (1949-1954), and District National Committee (1954-1960). Documents of special agendas - administration of national property, application, compensation for war damage, and files of the criminal finding commission were included in the documents of the Pardubice District National Committee.</p>
+        </custodhist>
+        <bioghist>
+            <p>The administrative district of Pardubice was established in 1945 from the judicial districts of Holice, Pardubice, and Přelouč. Its territory thus coincided with the territory of the former district office. The Pardubice District National Committee as an administrative body started working as early as the beginning of May 1945. The inaugural meeting of the Pardubice District National Committee coincided with the inaugural meeting of the Pardubice Municipal National Committee. The activities of the District National Committee Pardubice were terminated by the establishing of the Single National Committee of Pardubice in 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the Pardubice District: registration and administrative books, files, and accounting material. Jews are explicitly mentioned in the following documents: war damage claims 1945–1949 (1952), support for members of families affected by the Nazi occupation (1943–1945), restitution of Jewish property 1945–1949.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The file plan valid for these institutions in the years 1937–1948 was used to organize the fonds. The fonds is divided into I. Registration and administrative books, II. Files - a) Auxiliary books, b) Files, and III. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Hloušek L. – Nešpor F. – Žandová E.: Okresní národní výbor Pardubice (1945–1949). Manipulační seznam 2. typu, 2013, 29 s., ev. č. 1173.</p></otherfindaid><otherfindaid><p>Frajdlová E.: Katalog Presidiálních spisů ONV Pardunice 1945. Katalog, 1974, 173 s., ev. č. 1035.</p></otherfindaid><otherfindaid><p>Frajdlová E.: Presidiální spisy ONV Pardubice 1946. Katalog, 1975, 96 s., ev. č. 1036.</p></otherfindaid><otherfindaid><p>Frajdlová E.: Presidiální spisy ONV Pardubice 1947. Katalog, 1975, 66 s., ev. č. 1037.</p></otherfindaid><otherfindaid><p>Frajdlová E.: Katalog presidiálních a důvěrních spisů ONV Pardubice 1948. Katalog, 1976, 141 s., ev. č. 1038.</p></otherfindaid><otherfindaid><p>Žandová E.: Okresní nárdoní výbor Pardubice – Rejstříky k zápisům rady a pléna 1945-1946. Rejstřík, 1975, 116 s., ev. č. 1045.</p></otherfindaid><otherfindaid><p>Žandová E.: Okresní nárdoní výbor Pardubice – Rejstříky k zápisům rady a pléna 1947. Rejstřík, 1978, 134 s., ev. č. 1046.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>restitutions</subject><subject>war damage claims</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    

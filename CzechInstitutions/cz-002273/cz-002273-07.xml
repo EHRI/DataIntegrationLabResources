@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Humpolec</titleproper>
+            <subtitle>District Office in Humpolec / NAD 1</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1799/1951</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1</unitid>
+            <unittitle>Okresní úřad Humpolec</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>67,42 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1799/1951</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Humpolec; Mixed District Office Humpolec; District Political Administration Humpolec; The District Office in Humpolec; District National Committee Humpolec; Humpolec District State Commissariat for stamping banknotes; Tax office of Humpolec</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office in Humpolec / NAD 1</p>
+        </odd>
+        <custodhist>
+            <p>The files of the mixed district office were transferred to the Archives of the Ministry of the Interior in 1944, then they were transferred to the State Archives in Telč in 1951 and from there to the Pelhřimov District Archives. The files of the district office from 1910–1945 were taken over by the District National Committee in Humpolec, and then in 1953 by the State Archives in Telč, where an inventory was made. After being handed over to the Pelhřimov District Archives, the fonds was re-inventoried according to modern principles.</p>
+        </custodhist>
+        <bioghist>
+            <p>On 26 May 1855, the District Mixed Office was established. It was abolished on 31 August 1868, and only the court remained in its place. In the years 1868–1905, there was no political administration office at the district level in Humpolec. The district was administered by the District Governor's Office in Německý (today Havlíčkův) Brod. The independent District Governor's Office in Humpolec was established on 1 July 1910, renamed the District Political Administration in 1919. On 1 December 1928 self-government became state administration and merged with the Political Office in the Humpolec District Office, which existed until the end of World War II. In 1945 it was replaced by the Humpolec District National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>Only a fragment of the file material has been preserved from the registry of the mixed district office, where a minimum of information about the Jewish population has been preserved. Since 1910, official books, registry finding aids, files, and accounting material have been preserved. Relevant material can be found in sub-call numbers A/3 Security, licensing, passports, citizenship and domicile right; A/4 Association matters; A/6 Church matters and register of births, deaths and marriages; I/3 Constitutional and state matters; III/2 Security matters; VI/2 Trade matters; VII/25 and 35 School, cultural and ecclesiastical matters; VIII/9 Social care matters; X/7 Agriculture, forestry and water management matters; XI/4 Technical, construction, fire and transport matters. Jews are mentioned in the following documents: Jews' protest against the payment of shop fees, the election of the head of the Jewish cultural community, estate matters (inv. No. 17); Jewish matters (inv. No. 29); filling the position of the head of Jewish registers of births, deaths and marriages (inv. No. 35); investigation of the butcher of the Jewish community (inv. No. 40); the Izák Löwy Foundation for the Jewish Cultural Community in Humpolec (inv. No. 63); a report on the members of the board of the Jewish Religious Community (inv. No. 609); Schir Zion Jewish association, Chevra Kadisha Jewish funeral association, Jewish association for girls (inv. No. 626); records of religious communities - Jewish (inv. No. 647); Jewish religious community in Humpolec: changes in statutes, meetings, election of representatives, appointment of the registrar, celebrations, foundations for the poor, inventory of war loans 1911-1929 (inv. No. 652); conversions to the Jewish Church (inv. No. 656); abolishing honorary citizenship of Jewish persons during World War II (inv. No. 881); dismissal of Jews from councils during the war (inv. no. 894); investigation into anonymous threatening letters referring to the suffering of Jews (inv. No. 941); retraining camp for Jews in Lípa, a list of inmates with foreign citizenship (inv. No. 946); distribution of leaflets against Jews, violations of the regulation on Jews in Humpolec and Havlíčkův Brod (inv. No. 986); anti-Jewish measures in trades and industry - registration of Jewish property, reports on Jewish food merchants, sales hours and closure of Jewish businesses, labeling of Jewish shops, ban on the use of laundries operated by Jews, determination of shopping districts for Jews 1913-1942 (inv. No. 1044); Jewish Church - regulations on the contact of Jews with the public, migration of Jews - reports of gendarmerie stations, marking of Jews in offices, integration of Jews into work, accommodation and resettlement of Jews, registration of Jewish children, investigation into the granting of honorary citizenship to Jews - municipal reports, anti-Jewish actions of the population, private affairs of Jews, municipal affairs in Humpolec - election of representatives, a list of Jewish organizations, cemetery - and in Havlíčkův Brod - appointment of the head, registers of births, deaths and marriages, abolition of cemetery 1938-1944 (inv. No. 1077); Foundation for the Administration of Refugee Barracks for Polish Jews in Německý Brod (inv. No. 1087); apprehending Jews among refugees 1939 (inv. No. 1112); investigation into physicians (inv. No. 1137); repair of the Jewish cemetery, search of the Jewish religious community for the registers of persons buried in Větrný Jeníkov (inv. No. 1152); land property of Jews, regulations, records, establishment of Treuhanders, introduction of forced administration of agricultural property 1939-1940 (inv. No. 1172); exclusion of Jews from fishing (inv. No. 1191); records of Jewish flats 1943 (inv. No. 1204). The 1921 census is in the unprocessed part of the fonds.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided according to the originators for the years 1855-1868 and 1910-1945. Only a fragment of the file material from the registry of the mixed district office has been preserved. Since the establishment of the district governor's office in 1910, official books, registry finding aids, files, and accounting material have been preserved.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Dědková L. – Poustka K.: Okresní úřad Humpolec – Presidiální spisy 1910-1941. Katalog, 1974, 140 s., ev. č. 62.</p></otherfindaid><otherfindaid><p>Havlová B. – Martínek Z.: Okresní úřad Humpolec (1799) 1855-1945 (1951). Inventář, 1996, s. 402, ev. č. 130.</p></otherfindaid><otherfindaid><p>Martínek Z.: Okresní úřad Humpolec – Presidiální spisy 1938-1945. Katalog, 1994, 115 s., ev. č. 172.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Izák Löwy Foundation</corpname><corpname>Chevra Kadisha</corpname><corpname>Schir Zion</corpname><corpname>Foundation for the Administration of Refugee Barracks for Polish Jews in Německý Brod</corpname></controlaccess>
+        <controlaccess><subject>Jewish Cultural Community</subject><subject>Jewish association for girls</subject><subject>conversions</subject><subject>anti-Jewish restrictions</subject><subject>Jewish Cemetery</subject><subject>forced administration</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,228 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>822</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Kralupy nad Vltavou</titleproper>
+            <subtitle>District Office of Kralupy nad Vltavou / NAD 822</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Mělník</publisher>
+            <address>
+                <addressline>Pod Vrchem 3358, Mělník, PSČ 276 01</addressline>
+                <addressline> +420 315 622 629</addressline>
+                <addressline>http://www.soapraha.cz/melnik/</addressline>
+                <addressline>soka-melnik@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1913/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>822</unitid>
+            <unittitle>Okresní úřad Kralupy nad Vltavou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>33,69 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Mělník</corpname>
+            </repository>
+            <unitdate>1913/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Kralupy nad Vltavou; District Office of Kralupy nad Vltavou; District Political Administration Kralupy nad Vltavou; District National Committee Kralupy nad Vltavou</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Kralupy nad Vltavou / NAD 822</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was partly damaged by improper storing. It was taken over in 1955 from the District National Committee. In 1958, it was supplemented with 50 boxes from the State Archives in Prague. The fonds was organized, and in 1965, an inventory was made.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1850, the Velvary court district was established belonging to the Slaný governor's office, where Kralupy also belonged to. In 1855, a mixed district office was established in Velvary, including the Kralupy district, too. After its abolition in 1868, Kralupy belonged to the district governor's office in Slaný. The Kralupy District Court was established in 1912, and the district governor's office in 1913, renamed in 1918 the political district administration. In 1927 it was renamed the district office again. Between 1939 and 1945, the office was put under the supervision of the Nazi authorities, being subject to the Oberlandrat in Kladno. After 1945, the district national committee was established.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official documents: official books, file material and accounting material. The file material includes trade matters arranged alphabetically according to the names of persons and factories. Larger companies are listed by their names in the Commercial Register. One can search for Jewish people by name. Jews are explicitly mentioned in the following documents: documents of the Jewish religious community from 1938-42 (inv. no. 324); a file of citizens of Jewish religion A-W; records of Jewish property (cottages, businesses, etc.) (inv. no. 485), list of permits issued to Jews to travel to work and back (inv. no. 454).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Official books and protocol records; II. File material; III. Accounting material; IV. Appendices</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Havelková V.: Okresní úřad Kralupy nad Vltavou 1913-1942. Inventář, 1965, 62 s., ev. č. 3.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28275784%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>trade matters</subject><subject>Jewish religion</subject><subject>Jewish religious community</subject><subject>Jewish property</subject><subject>permission to travel</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>10</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv obce Dolní Beřkovice</titleproper>
+            <subtitle>Archives of the Municipality of Dolní Beřkovice / NAD 10</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Mělník</publisher>
+            <address>
+                <addressline>Pod Vrchem 3358, Mělník, PSČ 276 01</addressline>
+                <addressline> +420 315 622 629</addressline>
+                <addressline>http://www.soapraha.cz/melnik/</addressline>
+                <addressline>soka-melnik@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1866/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>10</unitid>
+            <unittitle>Archiv obce Dolní Beřkovice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>1.12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Mělník</corpname>
+            </repository>
+            <unitdate>1866/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Dolní Beřkovice; District National Committee Dolní Beřkovice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Municipality of Dolní Beřkovice / NAD 10</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives of Mělník. The documents were handed over in 1961 and the fonds was subsequently processed. In 2009, the accounting books of the municipality from 1943-1944 were taken over, and later the commemorative book of the municipality from the period of 1923-1962. The fonds was processed, and an inventory made, in 2019.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Dolní Beřkovice dates from from 1318. Since 1850, the municipality had always belonged to the political and judicial district of Mělník. The municipal self-government was established in 1850, being administered by the municipal council and the board, headed by the mayor. From 1864, two compulsory bodies were at the head of the municipality, the municipal committee and municipal board. The executive body was the mayor, who implemented the resolutions of the municipal committee. Since 1919, the bodies of municipalities included the municipal council, the municipal board, the mayor, his deputies, and commissions.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipal self-administration of Dolní Beřkovice such as official books, file material, accounting material, and other material. Very detailed information can be found in the domicile registration sheets from the period 1880-1946 (inv. no. 14) as well as in the granting of domicile right 1901-1945 (inv. no. 15) and domicile certificates. Jews from the municipality are explicitly mentioned in documents from 1939-1944, inv. no. 22, the scope of the documents being 1 box.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Official books and protocol records; II. File material; III. Accounting material; IV. Other material</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible.</p>
+        </accessrestrict>
+        <otherfindaid><p>Machová V.: Archiv obce Dolní Beřkovice 1866-1945 (1962). Inventář, 2018, ev. č. 879</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28273226%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>domicile registration</subject><subject>domicile right</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1110</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Mělník</titleproper>
+            <subtitle>District Office of Mělník / NAD 1110</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Mělník</publisher>
+            <address>
+                <addressline>Pod Vrchem 3358, Mělník, PSČ 276 01</addressline>
+                <addressline> +420 315 622 629</addressline>
+                <addressline>http://www.soapraha.cz/melnik/</addressline>
+                <addressline>soka-melnik@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1110</unitid>
+            <unittitle>Okresní úřad Mělník</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>169,96 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Mělník</corpname>
+            </repository>
+            <unitdate>1850/1945 </unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Mělník; District Office of Mělník; District National Committee Mělník (1945-1990)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Mělník / NAD 1110</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives in Mělník. It was taken over in June 1952 and inventoried in 2010.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Mělník District Governor's Office was established in 1850 and operated as a body of political administration until 1855. Between 1855 and 1868, a mixed district office functioned here, as a body of political and judicial administration. After its abolition, the District Governor's Office was established again, later renamed the District Political Administration, and from 1928 again the District Office of Mělník. After 1945, the district office was abolished and replaced by the District National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official documents of the Mělník district. Information on Jews can be found in: documents of the Mělník Jewish Religious Association from 1871-78 and the Jewish Funeral Fraternity (inv. no. 880); documents of the Mělník Jewish Religious Community from 1907-22 (inv. no. 920); presidium files from 1939-42 (inv. no. 833-836); registration cards of Jews, sorted by persons [A-W] and by municipalities [B-V] (inv. no. 1104); lists of employees - Jews, affairs of the Jewish population and the Jewish Religious Community during the Protectorate, (inv. no. 1172, 1282); Jewish registries (1938-43) (inv. no. 1361); list of arrested Jews (inv. no. 335); records of Jewish property (cottages, businesses, etc.), various regulations and measures against Jews; lecture by Josef Rozsévač-Rys on Jewish masonry (inv. no. 506).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into official books and manuscripts, registry finding aids, and files. The fonds contains 103 boxes and folders of census records - census in 1900, 1910 and 1921.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible.</p>
+        </accessrestrict>
+        <otherfindaid><p>Mach V. – Machová V.: Okresní úřad Mělník 1850-1945 (1952). Inventář, 2011, ev. č. 776.</p></otherfindaid><otherfindaid><p>Havelková V. – Marjanková M.: Okresní úřad Mělník – Presidiální spisy I. Část 1. Katalog, 1973, ev. č. 11</p></otherfindaid><otherfindaid><p>Havelková V. – Marjanková M.: Okresní úřad Mělník – Presidiální spisy I. Díl 2. Katalog, 1973, ev. č. 12</p></otherfindaid><otherfindaid><p>Marjanková M.: Okresní úřad Mělník – Presidiální spisy II. Katalog, 1972, ev. č. 10</p></otherfindaid><otherfindaid><p>Havelková V.: Okresní úřad Mělník – Presidiální spisy III. Katalog, 1969, ev. č. 5</p></otherfindaid><otherfindaid><p>Havelková V. – Marjanková M.: Okresní úřad Mělník – Presidiální spisy IV. Katalog, 1973, ev. č. 13.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28280924%29%29</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Mělník Jewish Religious Association</corpname><corpname>Chevra Kadisha Mělník</corpname><corpname>Mělník Jewish Religious Community</corpname></controlaccess>
+        <controlaccess><subject>census records</subject><subject>Jewish registries</subject><subject>arrested Jews</subject><subject>Jewish property</subject><subject>Jewish masonry</subject></controlaccess>
+    </archdesc>
+</ead>    

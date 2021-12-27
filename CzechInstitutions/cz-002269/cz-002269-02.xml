@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>3</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Olomouc – venkov</titleproper>
+            <subtitle>District Office of Olomouc – region / NAD 3</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Olomouc</publisher>
+            <address>
+                <addressline>U Husova sboru 10, 771 11, Olomouc, Czechia</addressline>
+                <addressline> +420 585 236 101</addressline>
+                <addressline>https://www.archives.cz/web/soka/olomouc/o_archivu/</addressline>
+                <addressline>podatelna@ol.archives.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>3</unitid>
+            <unittitle>Okresní úřad Olomouc – venkov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>87,52 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Olomouc</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Olomouc – region; District marshal's office Olomouc; Judicial District Office Olomouc;</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Olomouc – region / NAD 3</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the district office were, after its demise, largely taken over by its successor - the district national committee. However, in 1949–1954, some of the files were transferred to the Municipal National Committee in Olomouc. The State Archives in Janovice u Rýmařova began to take over the documents in 1956, and in 1971 the State Archives in Olomouc took over the fonds. In 1997, the census sheets of 1921 were added to the fonds. 0,45 linear meter is not processed yet.</p>
+        </custodhist>
+        <bioghist>
+            <p>When being founded in 1850, the regional political district of Olomouc consisted of three judicial districts - Olomouc, Prostějov, and Plumlov. After the administrative reform in 1855, the judicial districts of Prostějov and Plumlov were separated from it. However, the Olomouc judicial district consisted of two political districts (the city of Olomouc and Olomouc-region). In 1850-1945, the district administration was carried out by the district office seated in Olomouc, called the district marshal's office in 1850-1918, the district political administration in 1918–1928, and the district office in 1928–1945. The jurisdiction of the office included Jewish communities in Prostějov (until 1855) and in Olomouc.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the state administration of the political district of Olomouc, including documents concerning the Jewish religious community in Olomouc from 1920-1936; documents concerning the moving of Jews of foreign nationality to Czechoslovakia from 1936; lists for confiscating Jewish property from 1940-1941. In addition, the fonds includes the implementation of the Government Order on Jews and Jews of Mixed-race in the Public Service, and the files evidencing the confiscation of Jewish assets. The catalog of presidium files from 1918–1937 includes ordinances from 1918–1919 on the anti-Jewish riots in Holešov, notices about the Jewish association “Poale Zion” in Moravia, or the anti-Jewish style of writing of the magazines Pozor and Našinec. Furthermore, there are lists of Jews and a circular concerning anti-Jewish riots, and also a proposal of the Jewish religious community to honor the officials of the Jewish Women's Association. The presidium files from 1938–1945 include circulars on the spreading of anti-Jewish leaflets from 1938, on the danger of Jewish immigration to Czechoslovakia from 1938, as well as circulars with press instructions from 1939, circulars on declarations of non-Jewish origin from 1940, on marking Jews, the closing and destruction of synagogues, the measures against "Jew-friendly" Czechs, interventions against evacuated Jews, etc., from 1938-1942. We also learn about the Jewish population from the census of 1921.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds was divided into two handling periods. The 1st handling period (1850–1928) is further divided into A - N call numbers; the 2nd handling period (1928–1935) is divided into I – IX call numbers. The later filing system, which had been in place since 1935, had a total of 11 groups marked with Roman numerals again. However, these groups are divided into further subgroups. The factual groups in particular included electoral files, criminal files, granting concessions, purchase contracts, and other larger units.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bartl Z. – Hartlová Z. – Spáčil V.: Okresní úřad Olomouc – venkov (1801) 1850-1945 (1950). Inventář, 1980, 171 s., ev. č. 7.</p></otherfindaid><otherfindaid><p>Miklošová M. – Spáčil V.: Okresní úřad Olomouc-venkov – Presidiální spisy 1918-1937. Katalog, 1970, 147 s., ev. č. 8.</p></otherfindaid><otherfindaid><p>Miklošová M. – Spáčil V.: Okresní úřad Olomouc – venkov – Presidiální spisy 1938-1945. Katalog, 1968, 209 s., ev. č. 9.</p></otherfindaid><otherfindaid><p>Bartl Z. – Spáčil V.: Okresní úřad Olomouc – venkov, Presidiální spisy, Věcné skupiny, 1917-1945. Katalog, 1981, 11 s., ev. č. 10.</p></otherfindaid><otherfindaid><p>Koudela M.: Okresní úřad Olomouc – venkov (Dodatek) – Sčítání lidu 1921. Inventář, 2015, 19 s., ev. č. 2000.</p></otherfindaid>
+        <otherfindaid><p>https://digi.archives.cz/da/searchlink?fcAr=227102010-0&amp;fcDb=10026</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Poale Zion</subject><subject>Jewish Property</subject><subject>print</subject><subject>List of the Jews</subject><subject>Jewish Women's association</subject></controlaccess>
+    </archdesc>
+</ead>    

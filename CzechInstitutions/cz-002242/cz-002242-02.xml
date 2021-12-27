@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>454</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Židovská náboženská obec Hradec Králové</titleproper>
+            <subtitle>Jewish Religious Community in Hradec Králové / NAD 454</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Hradec Králové</publisher>
+            <address>
+                <addressline>Škroupova 695/2, 500 02 Hradec Králové</addressline>
+                <addressline> +420 495 402 611</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-hradec-kralove/</addressline>
+                <addressline>podatelna.hk@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1957</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>454</unitid>
+            <unittitle>Židovská náboženská obec Hradec Králové</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>0,12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Hradec Králové</corpname>
+            </repository>
+            <unitdate>1945/1957</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Jewish Religious Community in Hradec Králové</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Jewish Religious Community in Hradec Králové / NAD 454</p>
+        </odd>
+        <custodhist>
+            <p>unknown</p>
+        </custodhist>
+        <bioghist>
+            <p>This is the fonds of the Jewish Religious Community in Hradec Králové, but the files mainly relate to Nový Bydžov.Hradec Králové has been an important city since the Middle Ages. The first report on Jewish settlement dates back to the 14th century, when the Jewish Square and a plan are documented in the surviving documents. There was no synagogue or Jewish school at that time. In 1454 the Jews were expelled from the city. In 1651, Hradec had several Jewish inhabitants and their own rabbi (David Tachovský). In 1860, there was already a Jewish community with an elected board there. In 1877, a funeral fraternity was founded. As a result of internal disputes, the election of the board ceased to be elected in 1890. In the period 1890-1894, the municipality was administered by a committee. Afterwards, Bohumír Weiss was elected the mayor, and the election of the mayor lasted until 1933. In 1905, a synagogue was built in the city instead of the then prayer house.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains mostly the correspondence of the rabbi with members of the Jewish community, lawyers and doctors. In addition to the correspondence, there is also archive material from the period of the Second World War, including the restitution issues of Jewish property. There is also the correspondence of the Jewish religious community in Kolín in the fonds. There are also documents about the first Czech Mutual Insurance Company. The fonds also includes Nazi documents as well as archive material concerning the purchase of the synagogue.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is not arranged.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Czech Mutual Insurance Company</corpname></controlaccess>
+        <controlaccess><subject>correspondence of the rabbi</subject><subject>Jewish religious community</subject><subject>Jewish property</subject><subject>synagogue</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,684 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1283</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Hořice</titleproper>
+            <subtitle>District Office of Hořice / NAD 1283</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1283</unitid>
+            <unittitle>Okresní úřad Hořice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>30,6 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1850/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Hořice; Political branch of the District Governor's Office in Nová Paka with seat in Hořice; District Office of Hořice; National Committee of Hořice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Hořice / NAD 1283</p>
+        </odd>
+        <custodhist>
+            <p>Documents from 1850-1868 were stored in one registry. After the establishment of the political branch in Hořice, the documents were registered in the newly established office, and in 1928 they were moved to the central registry of the District Office in Nová Paka. In 1935, they moved again to the District Office building in Hořice. From the registry office of the District National Committee ithe whole agenda passed in the 1950's to the State Archives in Kuks, later to the State Regional Archives in Zámrsk, where the fonds was processed and subsequently transferred to the Jičín District Archives. In 1970, a catalog of the presidium files was compiled there, and in 2004-2005 the fonds was re-inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Governor's Office was established as a political administration office in 1850. In 1855, a mixed district office (judicial and political administration) was established. In 1868, it was abolished and all official activities were transferred to the District Governor's Office in Hradec Králové. In 1910, a political branch of the District Governor's Office in Nová Paka was established in Hořice, renamed in 1919 to the District Political Administration and in 1928 to the District Office. An independent District Office with its seat in Hořice was established by a government decree of 26 April 1935. It was abolished in 1942, and in May 1945 a District National Committee was established in Hořice.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the Hořice district, official books, registry finding aids and files, and accounting material. General files are divided into subject groups. The following subject groups in particular are relevant to Jewish issues: Handling period 1850-1855: 4. Citizenship, domicile right; 8. Police matters; 11. Trades. Handling period 1855-1868: 4. Citizenship, domicile right; 8. Police matters; 9. Construction and fire safety. Handling period 1910-1928: 4. Register matters; 8. Police matters; 9. Construction and fire safety; 15. Trades, industry. Handling period 1935-1942: 4. Citizenship, domicile right, register matters; 8. Police matters; 15. Trades, industry. Direct references to Jews can be found in the following documents: List of owners of Jewish factories, trades and shops 1926-1946; Marking of Jewish shops; Investigating the hiding of Jewish capital; Examination of Jewish accounts; Steinský Rudolf - Sehnoutka Comp. 1941-1942; Operation of a door-to-door shop, Sára Schöpsová 1857; Charlota Schnabelová Tannery 1860; Passports for Jews 1938; Lists of Jews 1940; Jewis of mixed race in public service - a circular 1942; Transfers to Jewish Real Estate - a circular 1940; Legal status of Jews - a circular; List of clothing of Jewish Professor Levit 1942; Fridrich Hirsch - construction of the factory 1856-1861; Hirsch Karel - foundation 1924. In the presidium files, these are mainly circulars and regulations concerning the persecution of Jews; List of the Jewish working group for the removal of anti-German inscriptions 1941; Survey of Jewish enterprises 1939; Numbers of employees of Steinský Rudolf - Sehnoutka Comp., Feuerstein Comp. and Hirsch Comp. What should not be left out during the study is documents relating to domicile right, citizenship, police matters, trade matters, including the files of self-employed persons of the Hořice district, associations and the files of associations and social organizations.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into four basic handling periods, namely 1850-1855, 1855-1868, 1910-1928 and 1935-1942. Within the individual periods, official and accounting books and registry finding aids come before the actual file agenda. The actual file material is divided into presidium files and general files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Česáková M.  – Heligrová M.  – Krausová J.: Okresní úřad Hořice (1800) 1850-1942 (1952). Inventář, 2004-2005, 209 s., ev. č. 376.</p></otherfindaid><otherfindaid><p>Johnová B.: Okresní úřad Hořice – Prezidiální spisy 1935-1942. Katalog, 1969-1970, 173 s., ev. č. 192.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Sehnoutka Comp.</corpname><corpname>Hirsch Karel - foundation</corpname><corpname>Feuerstein Comp.</corpname><corpname>Hirsch Comp</corpname></controlaccess>
+        <controlaccess><subject>Jewish factories, trades and shops</subject><subject>anti-Jewish restrictions</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1272</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Jičín I</titleproper>
+            <subtitle>District Office of Jičín I / NAD 1272</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1946</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1272</unitid>
+            <unittitle>Okresní úřad Jičín I</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>239,47 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1850/1946</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Jičín; District Governor's Office Jičín; District Political Administration Jičín (Bezirksverwaltung Jitschin); District National Committee Jičín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Jičín I / NAD 1272</p>
+        </odd>
+        <custodhist>
+            <p>Throughout their activities, documents from the official activities of the district governor's office, the district political administration and the district office were stored in one registry, where they were divided for each period into individual thematic registry departments. In the 1950s, the considerably damaged agenda was transferred to the State Archive in Kuks, where it was supplemented by the material from the Archives of the Ministry of the Interior and the Regional Archives in Litoměřice. The fonds was inventoried there in 1958-1959. In 1962, it was moved to the Jičín District Archives and in 1970 a catalog of the presidium files was made. In 2004-2005, the fonds was re-inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Governor's Office in Jičín was established as the first-instance office of the political administration in 1850. In 1855, a mixed district office (judicial and political administration) was established in Jičín. After its abolition in 1868, the district governor's office was re-established in Jičín. In 1918, the office was renamed the political district administration, headed by district governors. Based on that, in 1928, the Jičín District Office became the political office with general powers of the first instance. In May 1945, a district national committee was established in Jičín.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the Jičín District such as official books, registry finding aids, files, and accounting material. The general files are divided according to subject groups. Relevant for Jewish issues are mainly these subject groups (in all handling periods): Municipal affairs; Church and religious affairs; Education; Citizenship, domicile, matrimonial and register matters; Police matters; census sheets (1891-1902); Association affairs; census sheets (1891-1902); Matters of associations and political parties; census sheets (1913-1936); Trade affairs; Associations and assemblies. Handling period 1942-1946: VI Small businesses, trade and industry; VII Education and enlightenment, religion, register and foundation matters. Direct references to Jews can be found in the following documents: An inventory of property that passed into the possession of the Israelites in the period from 1 January 1848 to 20 October 1853; Establishment of the Jewish community; A debt of Jewish Rabbi Abraham Grünfeld; Appointment of the regional rabbi Abraham Grünfeld from the Jičín Jewish community; Jewish Endowment Fund 1850-1854; Ordinance on Jewish Schools and Jewish Children Attending Catholic Schools 1850-1854; Separate teaching of religion to Jewish children 1850-1854; Orders and circulars concerning the Jewish community 1850-1868; Regulations concerning Jewish registers; Jewish religious communities in the district; Jewish religious community in Libáň - buying a house; Election of a representative to the Representation of Czech Jewry in Prague; Vincent Lustig Foundation 1891-1902; Election of a Jewish rabbi in Libáň 1894; Introduction to the teaching of the Jewish religion; Jewish funeral fraternity; Czech-Jewish National Unity in Jičín; Jewish religious community in Jičín (increase in fees, religious tax, election of representatives); Sarah Brisker Foundation 1911-1914; Mergers and separations of Jewish religious communities (Libáň, Mladá Boleslav, Rožďalovice, Nymburk) 1914-1923; Support for rabbis and officials of Jewish religious communities 1921-1926; Representation of the rural Jewry 1927-1928; Modification of the districts of religious Jewish communities, preservation of property 1931; Union of Czechs and Jews in the Czechoslovak Republic 1920; Withdrawal of honorary citizenship of Jews - survey of municipalities; Marking of Jewish shops; Participation of Jews in auctions - a circular; Jewish agricultural property 1939-1940; List of Jewish enterprises and factories 1939-1940; Arization of Jewish Enterprises 1940; Lists of Jews and registered securities 1940; Circulars, fines, misdemeanors - permission to take over the Jewish firm of O. Goliath in Jičín, Proposal for the appointment of Treuhänder in Jewish shops, Salaries in favor of Jews; List of business and trade enterprises of Jewish property; List of Jewish associations; List of Jews and Jewish property - liquidation of companies 1942-1943; Jews as members of trade associations. In the presidium files, these are mainly circulars and regulations concerning the persecution of Jews and a large number of files are devoted to Otto Goliath and other family members in connection with their involvement in the Communist Party. The following should also be taken in consideration: Documents relating to the census sheets of 1900, 1910 and 1921, the register agenda, domicile, citizenship, police matters, trade license matters, church affairs, associations and social organizations.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into eight basic handling periods, namely 1850-1855, 1855-1868, 1868-1890, 1891-1902, 1903-1912, 1913-1936, 1937-1941, and 1942-1946. Within the individual periods, official books, accounting books and registry finding aids are preceded by the actual file agenda. The actual file material is divided into presidium and general files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Česáková M. – Heligrová M. – Krausová J.: Okresní úřad Jičín (1764) 1850-1946 (1949). Inventář, 2004, 576 s., ev. č. 372.</p></otherfindaid><otherfindaid><p>Johnová B.: Okresní úřad Jičín – Prezidiální spisy 1850-1944. Katalog, 1970, 358 s., ev. č. 194.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Jewish Endowment Fund</corpname><corpname>Vincent Lustig Foundation</corpname><corpname>Czech-Jewish National Unity in Jičín</corpname><corpname>Chevra Kadisha</corpname><corpname>Jewish firm of O. Goliath in Jičín</corpname></controlaccess>
+        <controlaccess><subject>Jewish Religious Community</subject><subject>census records</subject><subject>Jewish property</subject><subject>Jewish Schools</subject><subject>Aryanization</subject><subject>Jewish businesses</subject><subject>persecution of Jews</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>780</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Hořice</titleproper>
+            <subtitle>Archives of the Town of Hořice / NAD 780</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1582/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>780</unitid>
+            <unittitle>Archiv města Hořice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>72,32 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1582/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Hořice; Magistrat of the City of Hořice; Municipal Office of Hořice; National Committee of Hořice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Hořice / NAD 780</p>
+        </odd>
+        <custodhist>
+            <p>Town books, deeds and other documents were kept at the town hall. At the end of the 19th century, the documents became part of the fonds of the Hořice Town Museum, and a temporary inventory was made. After the establishment of the town archives, the fonds was separated from the museum collections. In 1953, the town archives were changed to the district archives. After the territorial reorganization in 1960 and the abolition of the Hořice district, the fonds became part of the Jičín District Archives. It was organized in 1962.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Hořice appeared in the 1140s in the charter of the Strahov Monastery. Jews were first mentioned to be settled in Hořice in 1524, but their influx did not come until the late sixteenth century, when a Jewish community was probably established there. Jews were mainly engaged in trade and often got into conflict with the Hořice guilds. A dispute in 1681 was resolved by Countess Marie Kateřina Strozziová who issued special instructions, where she defined the possible scope of their business activities for the Jews. As part of the Josephine reforms, the so-called regulated municipality was established in Hořice, and since 1849 an independent municipal municipality. The town was included in the political and judicial district of Hořice.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipality of Hořice: books, file material, accounting material, plans, and seal matrixes. In the period before 1850, there are records of the Hořice Jews mainly in the town books, - court books, books on hereditary leases, minutes of council meetings and protocols. In general, these are records relating to the sale and purchase of houses and land, debts, petty offenses, trade, complaints, and taxes. For the second half of the 18th and the 19th centuries, a number of Jewish land books have been preserved in the fonds - Jewish book containing original covenants and other Jewish affairs 1756-1840, Jewish contract book 1804-1828, Jewish contract book 1841-1879, Jewish contract book for school seats in the synagogue 1828-1866 and Jewish general book of assets and liabilities for school seats in the synagogue 1844-1872. As for the 20th century, the fonds includes a folder concerning a Jewish funeral office from 1907, and the Holocaust period is covered by the general affairs folder, which contains various regulations, decrees, circulars and correspondence. Neither should be left out commemorative books of the town (chronicles), memorial books of Professor Jandera with registers, lists of inhabitants, registers of members of the municipality and foreign persons, war records of inhabitants and documents concerning domicile and trade matters.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: Mayor's office and municipality office 1582-1849 - I Deeds, II Books, III Files, IV Plans, V Seal matrixes; Municipality office 1850-1949 - I Books, II File material - a) registry finding aids, b) files (according to the file plan from 1910), III Accounting material, IV Plans, V Seal matrixes, VI Various.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Johnová B. – Kratochvílová A. – Trejbal, J.: Městský úřad v Hořicích 1582-1949. Inventář, 1962, 87 s., ev. č. 29.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish land books</subject><subject>Jewish contract book</subject><subject>Jewish funeral office</subject><subject>anti-Jewish persecution</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>14</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Jičín</titleproper>
+            <subtitle>Archives of the Town of Jičín / NAD 14</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1361/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>14</unitid>
+            <unittitle>Archiv města Jičín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>131,12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1361/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="heb">heb</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Jičín; Magistrat of the City of Jičín; Municipal Office of Jičín; National Committee of Jičín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Jičín / NAD 14</p>
+        </odd>
+        <custodhist>
+            <p>Municipal books, deeds and other documents were kept at the town hall. Since the 1960s, the oldest documents had become part of the Museum Association's collections. An overview of the archival materials was published in 1905 in the Catalog of the Archives and Library of the Museum Association in Jičín. The museum and town hall parts were merged in the 1950s due to the establishment of the District Archives in Jičín. The fonds was organized in 1963 and today the additions are stored in the State District Archives in Jičín.</p>
+        </custodhist>
+        <bioghist>
+            <p>Jičín was first mentioned in sources in 1293, being called town in 1304. Jews probably lived there since ancient times, as evidenced by the records of the oldest town book from the 14th century. In 1651, they were granted various privileges. Disputes often erupted between the town administration, local Jews and the nobility over the payment of taxes and the protection fee. As part of the Josephine reforms, a so-called regulated municipality was established in Jičín, and an independent municipality office in 1849. The town was part of the political and judicial district of Jičín.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipality of Jičín (books, files, and accounting material) and maps the history of the city since the 14th century, which had included the Jewish population since times immemorial. Before 1850, there are mentions of Jews from Jičín especially in municipal books, namely court books, market books, council minutes and protocols, and the registers of the population. From the 19th century, a number of Jewish land books have been preserved in the fonds such as a market book with a list of newly built Jewish houses 1773-1831, books of seats in the synagogue 1808-1877, a book of debts 1799-1859, a book of receipts 1802-1861, a book of wills 1809-1837, a book of the last inventories 1798-1799, a book of estates 1799-1847, and a book of inheritance applications 1803-1837. There are also files related to the Jewish fund, the Kantor Foundation, refugees from Halič 1918-1920 and lists of Jewish families 1851-1894. The Holocaust period is mainly mentioned in a component of the disorganized part of the fonds, which contains various regulations, ordinances, correspondence, inventories, and related matters concerning Jewish property after the end of World War II. One should also take into consideration commemorative books of the town (chronicles) and appendices, descriptive sheets of the inhabitants, conscription sheets, minutes of the town council meetings, documents concerning self-employed persons and a war file of the population register.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: Mayor's office a municipality office 1361-1790 - I. Files, Handling periods according to J. Jakubiček, II. Books; Regulated municipality office 1791-1850 - Political books, Court books, Files, Accounting material; Municipal office 1850-1949 - Books, Files, Accounting Material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Johnová B. – Trejbal J.: Městský úřad v Jičíně 1361-1949. Inventář, 1963, 242 s., ev. č. 185.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>the Jewish fund</corpname><corpname>the Kantor Foundation</corpname></controlaccess>
+        <controlaccess><subject>Jewish land books</subject><subject>synagogue seats</subject><subject>last wills</subject><subject>inheritance</subject><subject>refugees from Galicia</subject><subject>Jewish property</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1282</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Hořice</titleproper>
+            <subtitle>District Court in Hořice / NAD 1282</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1282</unitid>
+            <unittitle>Okresní soud Hořice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>206,05 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1850/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Hořice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Hořice / NAD 1282</p>
+        </odd>
+        <custodhist>
+            <p>The documents were stored in the registry of the District Court in Hořice. In 1941, the oldest files were transferred to the Archives of the Ministry of the Interior in Prague, from where they were transferred to the State Archives in Kuks in 1950-1958. There the fonds was organized in 1965 and in 1971 it was transferred to the Jičín District Archives, where it was internally appraised and documents up to 1897 were re-inventoried. Part of the registry was transferred to the office of the successor organization, i.e. the District Court in Jičín, from where the material was gradually transferred to the Jičín archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Court in Hořice was established due to a new organization of the judiciary in 1850. It ruled in civil and legal proceedings, the land register agenda being transferred to it, and in criminal matters its power was limited to less serious acts. In the years 1855-1868, the political administration was merged with the judiciary into the so-called mixed district office. In 1868, the Hořice District Court became independent again, and in 1948 it was renamed the People's Court in Hořice. In 1960, the Hořice District Court ended its existence, and its agenda was taken over by the District Court in Jičín.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the court administration of the Hořice judicial district. Of particular interest are the files from the post-war period, namely M - Declaration of death from 1945-1949 and D - estate file, concerning the property of the respective Jewish families. Files M - Richard and Emilie Passer, Olga Schanzerová, Karel Beutler, Bedřich, Josef and Markéta Lamm, the Berger family, Emilie and Alice Munkova, Lavecký family, Hugo Lewith, the Kaufmann family, Olga Singerová, Irma and Bedřich Baumann, Richard and Štěpánka Strauss, Alfred Hirsch, Otto Putzker, Gustav Kantor, Irena Mautnerová. Files D - the above-mentioned families. When searching for a specific inheritance file, it is possible to use the books of auxiliary records - registers D, which are stored in the registry of the Jičín District Court.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds has only been processed for the oldest period 1850-1897. Books and registry finding aids are registered separately, which are sorted according to individual agendas and file call numbers. According to the valid file plans for the given periods, the files are also sorted, while within each file call number the files are arranged chronologically. The land register agenda is kept separately. For the unprocessed part, the books and registry finding aids are registered separately according to the individual agenda and the files are sorted according to the valid file plans, while within each file call number they are arranged chronologically.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Johnová B. – Heligrová M.: Okresní soud Hořice 1851-1897. Inventář, 1972, 25 s., ev. č. 197.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>declaration of death</subject><subject>inheritance file</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1273</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Jičín</titleproper>
+            <subtitle>Jičín District National Committee / NAD 1273</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1990</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1273</unitid>
+            <unittitle>Okresní národní výbor Jičín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>209,61 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1945/1990</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Jičín District National Committee</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Jičín District National Committee / NAD 1273</p>
+        </odd>
+        <custodhist>
+            <p>Throughout its activities, documents from the activities of the district national committee were stored in one registry, where they were sorted according to the valid file plans. From 1961, the documents intended for permanent storing were gradually handed over to the Jičín District Archives. In 1970, an inventory was made for the activities of the office carried out in 1945-1960, and in 1986 for the activities carried out in 1960-1976. In the years 1998-1999, the fonds was re-inventoried and supplemented by numerous additions. The files relating to land reforms and part of the financial files remain unprocessed.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District National Committee in Jičín was established in 1945 pursuant to a government decree, with the authority to manage all public affairs in the district. The main body was the plenary, and another body was the council, which managed the official apparatus of the national committees, its members chairing individual departments. After 1948, the actual performance of the administration was ensured by the District National Committee council, which consisted of the chairman, deputies, and officials. The District National Committee in Jičín was canceled in 1990.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the public administration of the Jičín district. The documents are divided according to subject groups (sections), the most important being the files included in the agenda from 1945-1948: Presidium files; III. Safety; VI. Trades, commerce and industry; from 1949-1950: 2. Internal administration; 3. Education; 5. Economy; and from 1951-1954: 1. Common economic affairs and the managing of the economy; 2. Internal administration. Direct references to Jews can be found in the following documents: Confiscation of Jewish property - applications for the lease of real estate; Confiscation, national administration (Fischer, Goliath, Picek); Property secured or acquired by the Czechoslovak state (the Goliaths); Jewish religious community. Documents relating to presidium files, minutes of plenary and the district national committee meetings, citizenship, population registration, confiscation and nationalization of private property should not be omitted within the research.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into six basic handling periods, with documents from the first three handling periods being relevant, i.e. 1945-1948, 1949-1950 and 1950-1954. The minutes of the meetings of the council, the board and the individual commissions are placed before the actual file agenda.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Heligrová M. – Krausová J. – Machová R.: Okresní národní výbor Jičín 1945-1990. Inventář, 1998-1999, 489 s., ev. č. 272.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish property</subject><subject>confiscation</subject><subject>national administration</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>112</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Jičín</titleproper>
+            <subtitle>District Court in Jičín / NAD 112</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/2004</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>112</unitid>
+            <unittitle>Okresní soud Jičín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>606,54 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1850/2004</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Jičín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Jičín / NAD 112</p>
+        </odd>
+        <custodhist>
+            <p>The documents were continuously stored in the registry of the District Court in Jičín, which moved three times during its existence in Jičín. In 1941, the oldest files were transferred to the Archives of the Ministry of the Interior in Prague, from where they were transferred to the State Archives in Kuks in 1950. In the years 1972-1973, all material was transferred to the Jičín District Archives, where the oldest part was processed in 1975. Regular appraisals have been taking place since the 1990s, and the archives regularly take over court files on the basis of a file and appraisal plan.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Court in Jičín was established due to a new organization of the judiciary in 1850. It ruled in civil and legal proceedings, the land register agenda was transferred to it, and in criminal matters it was limited to less serious acts. In the years 1855-1868, the political administration was merged with the judiciary into a so-called mixed district office. In 1868, the Jičín District Court became independent again and functioned even after 1948 when it was renamed the People's Court in Jičín.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the court administration of the Jičín district. Of particular interest are the files from the post-war period, namely M - the declarations of death from 1945-1952 and D - inheritance files concerning the property of the relevant Jewish families. Files M - the Steiners, the Hellers, the Lustigs, the Hahns, the Hermanns, the Stránskýs, the Poláks, the Schicks, the Neumanns, the Hönigsfelds, the Guths, the Fischers, the Brauns, the Fišls, the Picks, the Kareis, the Netels, the Ornsteins, the Kantors, Vilém Bondy, Josef Hecht, Irena Korteová, Erika Fleischerová. Files D - the above-mentioned families. When searching for a specific inheritance file, it is possible to use the books of auxiliary records - registers D, which are stored in the registry room of the Jičín District Court from the given period.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Only the oldest period of 1850-1897 has been processed. Books and registry finding aids, sorted according to individual agendas and file numbers, are registered separately. The files are also sorted according to the valid file plans for the given period, and within each file number the files are arranged chronologically. The land register agenda is kept separately. For the unprocessed part, books and registry finding aids are registered separately according to the individual agendas, and the files are sorted according to valid file plans, while within each file number they are arranged chronologically.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Heligrová M. – Kučerová Z.: Okresní soud Jičín 1850-1897. Inventář, 1975, 33 s., ev. č. 309.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>declaration of death</subject><subject>inheritance file</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>266</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Libáň</titleproper>
+            <subtitle>District Court in Libáň / NAD 266</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1849/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>266</unitid>
+            <unittitle>Okresní soud Libáň</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>145,41 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1849/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Libáň</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Libáň / NAD 266</p>
+        </odd>
+        <custodhist>
+            <p>The documents were stored in the registry of the District Court in Libáň. In 1941, the oldest files were transferred to the Archives of the Ministry of the Interior in Prague, from where they were transferred to the State Archives in Kuks in 1950, where other additions followed. Part of the registry was transferred to the registry office of the successor organization, i.e. the District Court in Jičín. In the years 1972-1973, all material from Kuks was transferred to the Jičín District Archives, where it was gradually supplemented with files taken from the Jičín District Court.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Court in Libáň was established due to a new organization of the judiciary in 1850. It ruled in civil proceedings, the land register agenda was transferred to it, and in criminal matters its jurisdiction was limited to less serious crimes. In the years 1855-1868, the political administration was merged with the judiciary into the so-called mixed district office. In 1868, the Libáň District Court became independent again and functioned until 1949, when it was abolished, its jurisdiction being transferred to the District Court in Jičín.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the court administration of the Libáň judicial district. Of particular interest are the files from the post-war period, namely files M - Declaration of Dead from 1945-1947, files D - inheritance files concerning the property of the respective Jewish families, files M - Otto Kaufman, Dina Seidlová, Hana Lustigová, Ida Lustigová, Olga Hellerová, Evžen Heller, Marie Hellerová, Jiří Heller, Alena Hellerová and Terezie Hellerová, and files D - the above mentioned families. When searching for a specific inheritance file, it is possible to use the book of auxiliary records - register D from the years 1939-1949.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Only a small part of the documents from the period 1850-1944 has been processed. Registry finding aids and books, divided into civil and criminal matters, are processed for the oldest period. The files are divided into the handling periods 1850-1855 and 1855-1897, where they are further sorted chronologically according to individual agendas and file numbers. The land register agenda is kept separately. For the following period until 1944, only presidium files have been processed. In the unprocessed part, books and registry finding aids are registered separately according to the individual agendas, and the files are sorted according to the valid file plans, while within each file number they are arranged chronologically.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Košnar S. – Letocha J.: Okresní soud Libáň 1850-1944. Inventář, 1965, 22 s., ev. č. 70.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>sdistrict court</subject><subject>declaration of death</subject><subject>inheritance file</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1192</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Nová Paka</titleproper>
+            <subtitle>District Office of Nová Paka / NAD 1192</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1855/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1192</unitid>
+            <unittitle>Okresní úřad Nová Paka</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>93,64 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1855/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Nová Paka; District Political Administration Nová Paka; District Office Nová Paka; District National Committee Nová Paka</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Nová Paka / NAD 1192</p>
+        </odd>
+        <custodhist>
+            <p>Documents from 1855-1868 were originally stored in the registry of the office and after its abolition they became part of the registry of the Jičín district governor's office. After the establishment of the district governor's office in Nová Paka in 1903, the files returned to Nová Paka and a new central office was established. After the abolition of the district office in 1942, the files remained in the Nová Paka office. In 1958, the material was handed over to the State Archives in Kuks. There, the fonds was processed and subsequently transferred to the Jičín District Archives. In 1969, a catalog of presidium files was compiled for the fonds. In 2005, the fonds was re-inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1850-1855, the judicial district of Nová Paka was part of the political district of Hořice, under the District Governor's Office in Hořice. In 1855, a mixed district office was established in Nová Paka. After its abolition in 1868, official activities were transferred to the district governor's office in Jičín. In 1903, the judicial district of Nová Paka was separated and a district governor's office was established there. In 1918, the district governor's office was renamed the district political administration, and in 1928 the district office. In May 1942, the office was abolished. In May 1945, a district national committee was established in Nová Paka.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the Nová Paka district, official books, file material and accounting material. General files are further divided according to subject groups. The following subject groups are relevant to Jewish issues: Handling period 1903-1936: 5. Church and religious affairs; 8. Police matters; census operators. Handling period 1937-1942: III. Security and criminal matters; VI. Trades, commerce, industry; VII. Education, religion, registry and foundation matters; VIII. Social care; IX. Health and veterinary matters; X. Agriculture. Direct references to Jews can be found in the following files: A contribution to the Jewish religious community in Habrová made by Markus Laufr; Jewish religious community in Hořice 1859-1905; Visa duty with Poland - abolition and restriction of Jewish emigration 1930; Jews 1939-1942; Jewish concessions 1939; Religious stratification in the district, lists of Jewish enterprises in the district 1939; Jewish religious communities 1937-1940; Lists of Jewish apartments 1940; Marking Jewish physicians - an ordinance 1940; MUDr. Vojtěch Kohn, confiscation of Jewish property 1941; Inventory of agricultural and forest real estate owned or rented by Jews 1939. In the presidium files, these are mainly circulars, decrees and regulations concerning the persecution of Jews; Jewish emigrants; Lists of Jews living in the district of Nová Paka; Taking radios from Jews; Arresting MUDr. Vojtěch Kohn; House search in Štěpán Fuchs's place; Watching Jewish members living in the house of industrialist Hoffman; Measures concerning the contact of Jews with Aryans; Removal of anti-German inscriptions by Jewish groups; Reporting school inspector Václav Vaníček for contacts with Jew Fuchs; Hairdressers serving Jews. What should not be left out in the research is documents relating to the 1921 census, registry agenda, domicile right, citizenship, police matters, trade licensing matters, church affairs, associations and social organizations.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into three basic handling periods, namely 1855-1868, 1903-1936, 1937-1942. Within the individual periods, official and accounting files and registry finding aids come before the actual file agenda. The actual file material is divided into presidium and general files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Česáková M. – Heligrová M. – Krausová J.: Okresní úřad Nová Paka (1792) 1855-1942 (1950). Inventář, 2005, 429 s., ev. č. 380.</p></otherfindaid><otherfindaid><p>Johnová B.: Okresní úřad Nová Paka – Prezidiální spisy 1855-1942. Katalog, 1969, 58 s., ev. č. 193.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>census records</subject><subject>Jewish religious community in Habrová</subject><subject>Jewish religious community in Hořice</subject><subject>anti-Jewish restrictions</subject><subject>Jewish emigration</subject><subject>Jewish property</subject><subject>Jewish businesses</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

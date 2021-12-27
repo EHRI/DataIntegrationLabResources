@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>811/39</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Národní výbor města Plzně – Spolkové oddělení</titleproper>
+            <subtitle>National Committee of the City of Pilsen – Department of Associations / NAD 811/39</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Pilsen City Archives</publisher>
+            <address>
+                <addressline>Veleslavínova 19, Plzeň, 306 32, Czechia</addressline>
+                <addressline> +420 378 032 609</addressline>
+                <addressline>https://amp.plzen.eu/</addressline>
+                <addressline>maglic@plzen.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1864/1956 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>811/39</unitid>
+            <unittitle>Národní výbor města Plzně – Spolkové oddělení</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>18,32 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Pilsen City Archives</corpname>
+            </repository>
+            <unitdate>1864/1956 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>The District Office Pilsen; Pilsen Police Directorate; National Committee of the City of Pilsen; Pilsen District National Committee</name>
+            </origination>
+        </did>
+        <odd>
+            <p>National Committee of the City of Pilsen – Department of Associations / NAD 811/39</p>
+        </odd>
+        <custodhist>
+            <p>The documents were originally stored in the registry of the District Office, later at the succeeding supervisory authorities. The Archives of the City of Pilsen took over this agenda gradually, most of it by January 1958. The files of individual associations were put into folders. A card register was used for orientation. It was sorted into several groups according to names (associations, unions, clubs) and contained the basic information about individual associations and call numbers.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the adoption of Acts No. 134 and 135/1867 (Association and Assembly Act), the associations were subject to the supervision of the Pilsen District Office, later to the Pilsen Police Directorate and the NB Pilsen District Headquarters, which became part of the National Committee. After 1949, a Unified National Committee was established, where the supervisory authority was the 3rd Department - Association Department, later National Committee of the City of Pilsen - Department of Internal Affairs. The associations sent to the supervisory body the statutes, changes, reports on officials and on all events except for the Board meetings. (The file of the B’nai B’rith Lodge, liquidated during the Protectorate, also contains interrogations of their officials.) Most of the associations ceased to exist by 1956 under Act No. 68/1951.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains a register agenda of associations managed by the Pilsen District Office, then by the Pilsen Police Directorate, then by the Pilsen District National Committee and then by the National Committee of the City of Pilsen. The transfer of the association agenda between the individual originators was linked with the legal development of the position of these originators. Primary Judaica: The Jewish Women Society in Pilsen 1871-1945 (Inv. No. 708), The Association for the Education of Poor Jewish Orphans and Fellow Believers in General 1880-1946 (Inv. No. 710), The Association of Jewish Women and Girls in Pilsen 1909-1946 (Inv. No. 712), The Jewish Swimming Club Pilsen 1937-1946 (Inv. No. 714-), The Jewish Women's Organization Pilsen 1935-1946 (Inv. No 718), The Zionist People's Association 1902-1946 (Inv. No. 722), The Israelite Charitable Association for Free Catering in Pilsen 1900-1950 (Inv. No. 724), The Israelite Charitable Association Chevra-Kadisha 1864-1952 (Inv. No. 726), "Makkabi" Jewish Sports Association in Pilsen 1940-1956 (Inv. No 728), The Jewish Center of Social Care in Pilsen 1924-1941 (Inv. No. 730), The Jewish Religious Community in Pilsen 1949-1958 (Inv. No. 1123), The Czech-Jewish National Association, branch in Pilsen 1893-1943 (Inv. No. 1238), The New-Zionist Organization in Czechoslovakia, branch in Pilsen 1939 (Inv. No. 1709) , The Jewish Sports Club "Hagibor" 1921-1927 (Inv. No 1825), The Jewish Scout Association with the name "Brit Trumpeldor" for Czechoslovakia, Pilsen 1930-1934 (Inv. No. 1848), The Central Zionist Union for Czechoslovakia 1936-1939 (Inv. No. 1862), Ortsgruppe Pilsen des Jüdischen Wanderbundes „Blau-Weiss“ in Prague, The Association of Jewish Youth "Techelet-Lavan", Jewish Scout Association in Pilsen 1917-1932 (Inv. No. 1939), The Jewish Women's Union for Cultural Work in Palestine Pilsen 1924-1939 (Inv. No. 2084), Israelitischer humanitätsverein "Union“ B’nai B’rith in Pilsen (Union I.O.B.B. lodge) 1892-1939 (Inv. No. 2139).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains a register agenda of associations. In the early 1960s, the Archives of the City of Pilsen organized the fonds and made a partial inventory. The original system of orientation in the files according to call numbers was retained, but to facilitate the searches, a register was made, divided into 20 groups and further into subgroups. Furthermore, a local register was made, too. In these, the associations are listed alphabetically, the files being marked with inventory numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bělohlávek M. – Ressler, M.: Národní výbor města Plzně. Spolkové oddělení 1864-1956 (1974). Dílčí inventář, 1974, 300 s., ev. č. 24, sign. I/13.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Chevra-Kadisha</corpname><corpname>Makkabi</corpname><corpname>The Jewish Religious Community</corpname><corpname>The Czech-Jewish National Association</corpname><corpname>Hagibor</corpname><corpname>The Jewish Scout Association Brit Trumpeldor</corpname><corpname>The Central Zionist Union for Czechoslovakia</corpname><corpname>The Association of Jewish Youth "Techelet-Lavan"</corpname><corpname>Jewish Scout Association</corpname><corpname>The Jewish Women's Union for Cultural Work in Palestine</corpname><corpname>Union“ B’nai B’rith</corpname></controlaccess>
+        
+    </archdesc>
+</ead>    

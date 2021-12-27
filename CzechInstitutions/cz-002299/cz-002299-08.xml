@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>69</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Tábor I.</titleproper>
+            <subtitle>District Court of Tábor I / NAD 69</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>69</unitid>
+            <unittitle>Okresní soud Tábor I.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>85,11 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Tábor; Mixed District Office Tábor</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Tábor I / NAD 69</p>
+        </odd>
+        <custodhist>
+            <p>The file material of the District Court in Tábor was transferred in 1949 from the court registry office to the then Regional Depository. The documents of the District Court were transferred from the State Archives in Třeboň after 1960 into the District Archives in Tábor. The fonds was organized in 1958, and in 1960 a revision was carried out. In 1972, another revision, an addition, an internal appraisal and cataloging of criminal records took place. After this date, the fonds was being added to until 2008.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Tábor District Court began to operate in 1850, being part of the district of the Tábor Regional Court. It also worked as the district criminal court. District Court Tábor I was abolished on January 29, 1949. The agenda of the abolished district court was taken over by the People's Court in Tábor.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Tábor I District Court from the years 1850-1949 (1984), concerning the civil and criminal agendas, as well as the agenda for the establishment of new land registers. As part of the inheritance agenda (file no. D), there are the inheritance proceedings of Jews who died during World War II, for example in concentration camps, dealt with especially in 1946.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The Tábor I District Court is divided as follows: 1850-1897 - Registration finding aids; Files (civil, criminal); Land book agenda 1898-1921 - Registration finding aids; Files; 1921-1949 - A. Court agenda - I. File material (a) registry finding aids; (b) files; B. Land book agenda.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Crkovská F. – Vančata V.: Okresní soud Tábor 1850-1897. Inventář, 1973, 44 s., ev. č. 93.</p></otherfindaid><otherfindaid><p>Crkovský F.: Okresní soud Tábor 1867-1927. Katalog, 1975, 48 s., ev. č. 115.</p></otherfindaid><otherfindaid><p>Vančata V.: Okresní soud Tábor 1898-1923 (1933). Inventář, 1989, 14 s., ev. č. 206.</p></otherfindaid><otherfindaid><p>Říhová H.: Okresní soud Tábor. Manipulační období 1924-1949. Prozatímní inventární seznam č. 1 (1864) 1924-1949 (1984), 2009, 37 s., ev. č. 1083.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000206/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>inheritance agenda</subject></controlaccess>
+    </archdesc>
+</ead>    
+

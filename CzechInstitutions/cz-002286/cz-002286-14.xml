@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1066</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Zahraniční tiskový archiv, New York</titleproper>
+            <subtitle>Foreign Press Archive, New York / NAD 1066</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1939/1946    </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1066</unitid>
+            <unittitle>Zahraniční tiskový archiv, New York</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>588,62 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1939/1946    </unitdate>
+            <langmaterial>
+                <language langcode="eng">eng</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Foreign Press Archive, New York; Arne Laurin </name>
+            </origination>
+        </did>
+        <odd>
+            <p>Foreign Press Archive, New York / NAD 1066</p>
+        </odd>
+        <custodhist>
+            <p>Following a decision of the Czechoslovak government, the archive was moved from New York to Prague in 1946. The collection was stored in the Archives of the Ministry of Information. In 1962, it was transferred to the State Central Archives (now the National Archives). </p>
+        </custodhist>
+        <bioghist>
+            <p>In April 1939, a press service headed by Consul Ján Papánek started working at the Czechoslovak National Council in America in Chicago. The main attention was paid to the situation in the occupied homeland. After the outbreak of the Second World War, the press service also disseminated news about the situation on the fronts and information about the activities of the Czechoslovak foreign resistance centre in Great Britain. In 1940, the press service was moved from Chicago to the consulate building in New York in 1940 and renamed the Czechoslovak Information Centre. Within this organisation, a clipping archive was also established, founded by Arne Laurin (24 February 1889 Hrnčíře u Prahy - 17 February 1945 New York, USA) a journalist, literary, art and theatre critic, poet and novelist. In 1918, he was the editor of the Domov (Home) journal and in 1919 he became the deputy editor-in-chief of the Tribuna (Tribune) journal. He was the editor in chief of the Prager Presse daily from 1921 to November 1938. In January 1939 he left for France and then for New York. For the needs of the Second Foreign Resistance at the Czechoslovak consulate in New York, he founded and ran a news agency with an extensive archive. </p>
+        </bioghist>
+        <scopecontent>
+            <p>The Clippings Archive of the Second Resistance, known since 1942 as the Czechoslovak Archives in New York, was part of the Czechoslovak Information Center in New York and is associated with the name of its founder, Arne Laurin. Thanks to him, a unique archive of clippings was created, gathering clippings mainly on foreign political and military events during the Second World War, on the situation in the Protectorate and also on the Second Czechoslovak Foreign Resistance. The fonds also contains newspaper clippings on the Jewish community in Czechoslovakia and anti-Jewish measures in the late 1930s. The following sets of clippings relate specifically to Jews: Jews - anti-Semitism, in general, 1930-1939; Jews - racial policy 1939-1946; Jews - property registration 1939-1944; Jews - abuse, burning of synagogues 1939-1944; and Arization of film 1939-1940. The staff of the Foreign Press Archive also closely monitored reports concerning the emigration of Jews 1939-1940 and their relationship to the Czechoslovak foreign resistance 1939-1945. It contains clippings on important personalities from the Jewish community in Czechia and abroad, especially politicians, artists, journalists and writers. In addition to its own clippings archive, the collection contains documents from the Prague Press Service (materials brought to the USA from Prague), the Czechoslovak Information Service New York, the Inter-Allied Center New York, and materials from the UN conference in San Francisco on 25 April 1945.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into five sections: 1. The Prague Press Service, 2. The Czechoslovak Archives in New York divided as follows - T. G. Masaryk; E. Beneš; 1st Resistance; Czechoslovakia; Secession of the Sudetenland; Protectorate of Bohemia and Moravia; Independent Slovakia, Slovak State; Jews and Zionism; Refugees, Homeless; Austria; League of Nations and Other International Institutions; Baltic States, Finland; 2nd Foreign Resistance; Czechoslovakia and America; Czechoslovaks in the USA; Yugoslavia; Poland; Germany; Romania; USSR; Great Britain; France; USA; other countries; war and peace; maps; cartoons), 3. Czechoslovak Information Service New York, 4. Inter-Allied Center New York, 5. materials from the UN Conference in San Francisco of 25 April 1945. The archival materials are arranged in subject units that respect the original division by the originator.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Havlín O.: Zahraniční tiskový archiv, Díl I., 1939-1946. Inventář, 1964, 281 s., ev. č. 462</p></otherfindaid><otherfindaid><p>Havlín O.: Zahraniční tiskový archiv, Díl II., 1939-1946. Inventář, 1964, 251 s., ev. č. 463</p></otherfindaid><otherfindaid><p>Havlín O.: Zahraniční tiskový archiv. Díl III., 1939-1946. Inventář, 1964, 220 s., ev. č. 464.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Czechoslovak foreign resistance</corpname><corpname>Prague Press Service</corpname><corpname>Czechoslovak Information Service</corpname></controlaccess>
+        <controlaccess><subject>Clippings Archive</subject><subject>Second World War</subject><subject>Second Czechoslovak Foreign Resistance</subject><subject>anti-Jewish measures</subject><subject>Jewish communities</subject><subject>Arization</subject><subject>anti-Jewish violence</subject><subject>emigration</subject><subject>politicians</subject><subject>artists</subject><subject>journalists</subject><subject>writers</subject><subject>UN</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Beroun</titleproper>
+            <subtitle>The District Office of Beroun / NAD 2</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Beroun</publisher>
+            <address>
+                <addressline>U Archivu 1633, Beroun 2, PSČ 266 01</addressline>
+                <addressline> +420 311 622 645</addressline>
+                <addressline>http://www.soapraha.cz/beroun/</addressline>
+                <addressline>soka-beroun@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>2</unitid>
+            <unittitle>Okresní úřad Beroun</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>78 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Beroun</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Beroun; District Office of Beroun; District National Committee Beroun</name>
+            </origination>
+        </did>
+        <odd>
+            <p>The District Office of Beroun / NAD 2</p>
+        </odd>
+        <custodhist>
+            <p>Only a small fraction of documents from the first period of the activity of the District Office in Beroun have survived, they being probably completely randomly selected files. Presidium files from this period (1855-1868) were saved together with the presidium registry. From the second period of the activity of the District Office in Beroun in the years 1936- 945, the file material has been preserved in its entirety. In 1958, the fonds was taken over by the district archives. In 1960, the fonds was subject to an internal appraisal procedure. It was organized and an inventory was made. The amendments were incorporated later.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Beroun District Office was established in 1855, when the political administration was merged with the district court, the so-called mixed district office. In 1868, the mixed district offices were abolished and one large district was established - the Hořovice district, which included areas in the previous years administered by the district offices in Beroun, Hořovice and Zbiroh. The Beroun region was part of the Hořovice district until 1936, when an independent political district of Beroun was established. In 1960, the District National Committee was established in Beroun.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents from the activities of the district office: registry finding aids, files, and accounting material. Mentions of Jews can be found in Group VII, Education, Religious, matrimonial, register and fund matters 1936-1948: inv. no. 61 Jewish religious communities, and group X, Agricultural, hunting, forestry and water management matters inv. no. 468 X/1 Applications for registration of Jewish Property - 67. The presidium files of the District Office in Beroun are the most valuable part of the fonds. The registry contains the subject group Jews. Specifically, they are: documents concerning anti-Jewish riots in the district in 1866: - inv. no. 18 - A report about anti-Jewish riots; inv. no. 19 Selling sticks to Jews to defend themselves "when being attacked"; inv. no. 20 Anti-Jewish songs; inv. no. 21/inv. no. 22 /inv. no. 25/inv. no. 27/inv. no. 30/inv. no. 35/inv. no. 36/ inv. no. 37/inv. no. 38 - Anti-Jewish riots; inv. no. 39 Position of rabbi - Samuel Pražák of Rakovník (1867); inv. no. 345 Migration of Jews from Germany (1936); inv. no. 250 Collection of files concerning Jews (marking of shops, list of Jewish enterprises, contact of Jews and Aryans, etc.) 1941; inv. no. 303 Anti-Jewish slogans on houses (1939); inv. no. 1672 Seizure of radios from Jews (1939).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Official books; II. File material - registry finding aids and files; III. Accounting material; IV. Other material. The file material is divided into four handling periods.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Holeček J.: Okresní úřad Beroun 1850-1950. Inventář, 1963, 67 s., ev. č. 21.</p></otherfindaid><otherfindaid><p>Drtinová S. – Holeček J.: Okresní úřad Beroun – Presidiální spisy 1855-1938. Katalog, 1972, 49 s., ev. č. 22.</p></otherfindaid><otherfindaid><p>Drtinová S. – Holeček J.: Okresní úřad Beroun – Presidiální spisy 1939-1945. Katalog, 1972, 49 s., ev. č. 23.</p></otherfindaid><otherfindaid><p>Garkisch M.: Okresní úřad  Beroun – Dodatky 1850-1945 (1966). Dočasní invetář, 1998, 19 s., ev. č. 835.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28165591%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Antisemitism</subject><subject>Anti-Jewish riots</subject><subject>Jewish Religious Society</subject></controlaccess>
+    </archdesc>
+</ead>    

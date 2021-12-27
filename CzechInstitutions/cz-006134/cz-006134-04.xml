@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>198</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Pomocná služba Židovské obce náboženské, Plzeň</titleproper>
+            <subtitle>Auxiliary Service of the Jewish Religious Community, Pilsen / NAD 198</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Pilsen City Archives</publisher>
+            <address>
+                <addressline>Veleslavínova 19, Plzeň, 306 32, Czechia</addressline>
+                <addressline> +420 378 032 609</addressline>
+                <addressline>https://amp.plzen.eu/</addressline>
+                <addressline>maglic@plzen.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1941/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>198</unitid>
+            <unittitle>Pomocná služba Židovské obce náboženské, Plzeň</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>0,07 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Pilsen City Archives</corpname>
+            </repository>
+            <unitdate>1941/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Auxiliary Service of the Jewish Religious Community Pilsen</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Auxiliary Service of the Jewish Religious Community, Pilsen / NAD 198</p>
+        </odd>
+        <custodhist>
+            <p>It is not known when the documents got to the Archives of the City of Pilsen. The fonds was organized in June 1960.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Auxiliary Service of the Jewish Religious Community of Pilsen was established on January 6, 1942. Its task was to help with including citizens in transports to concentration camps - assistance in cooking, sewing, packing the necessary things, and babysitting children under 8 years of age during preparations. The service worked 24 hours a day. A collection service was also organized to take luggage to the assembly point. The Jews of Pilsen were summoned gradually hour by hour since January 9, 1942 and were gathered before being transported to Terezín in a gym in today's Štruncovy sady. From Terezín they were further transported to extermination camps.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Auxiliary Service established by the Jewish Religious Community in Pilsen. According to the instructions from its headquarters, it organized an auxiliary service unit, which assisted in the transport of members of the religious community to Terezín. Several documents from this auxiliary service unit have been preserved providing an overview of the organization of transports and fascist crimes. It contains a circular on the organization of assistance in the inclusion of citizens in the transport of 6 January 1942, an explanation of the official order for the inclusion in a transport of 1941, a 1941 property declaration form, a summons and a certificate of the collection of official forms associated with the transport of January 10, 1942 (the Zentner family, Hedvika Hermannová, H. Wünschová), lists of persons, damaged documents from 1942, a report on missing data in the declaration of property - the 1942 files, and an ad hoc copy of the report on Jewish movable property in Pilsen in 1939-1943, including a description of the fate of the Jewish Religious Community in Pilsen after 1939 (a report of ÚNV Pilsen -Administration of the National Movable Property) of 5 May 1947.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds was organized in 1960. It is only a fragment of the originator's documents.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bělohávek M.: Pomocná služba židovské obce náboženské Plzeň 1941-1942 (1947). Prozatímní inventární seznam, 1960, ev. č. 345, sign. V/11.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>The Auxiliary Service of the Jewish Religious Community</corpname></controlaccess>
+        <controlaccess><subject>List of Jews</subject><subject>Deportations</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    

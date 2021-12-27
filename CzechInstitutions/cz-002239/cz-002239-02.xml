@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1242</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Světlá nad Sázavou</titleproper>
+            <subtitle>Archives of the Town of Světlá nad Sázavou / NAD 1242</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1562/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1242</unitid>
+            <unittitle>Archiv města Světlá nad Sázavou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Cartographic material</genreform> 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>18,5 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1562/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town Světlá nad Sázavou</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Světlá nad Sázavou / NAD 1242</p>
+        </odd>
+        <custodhist>
+            <p>The materials originated from the activities of the town hall were stored at the town hall and managed by the town archivist. From 1952, the material was part the Ledeč nad Sázavou District Archives but remained under the administration of the Municipal National Committee in Světlá nad Sázavou. Since 1960, it formally belonged to the Havlíčkův Brod District Archives as its local branch. The documents remained in Světlá until 1991 (1992), when they were handed over to the State District Archives in Havlíčkův Brod.</p>
+        </custodhist>
+        <bioghist>
+            <p>Světlá nad Sázavou was established on the estate of the Vilémov monastery. We do not know much about the exact beginnings of the town, as important sources were destroyed during the burning of the Vilémov monastery in 1421. It was a non-royal town. There was a smaller Jewish community in the town. The synagogue was demolished after 1989, only the new Jewish cemetery has been preserved. The patrimonial office in Světlá was abolished in 1849. Its powers passed to the municipality, district office and district court. Světlá nad Sázavou belonged to the political and judicial district of Ledeč nad Sázavou and in the years 1850-1855 to the Pardubice region. In 1855 it was included again in the Čáslav region.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds stores privileges, land registers, municipal agenda, minutes of the council board and council, economic affairs, and other documents. Information of Jews can mainly be found in documents on economic matters and minutes of the municipal council board and council meetings. The economic agenda - especially the Mahler stonemason's company. There are also documents about the mayor Alfred Weinstein (mayor since 1931) and the Morawetz family - the owners of the castle in Světlá na Sázavou until 1938. The period 1938-1945: decrees against Jews.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Deeds, II. Books (until 1850, after 1850), III. Files (auxiliary books and files). The files are divided as follows: Registry until 1784, Registry after 1784. The files after 1850 are further divided thematically (Constitutional Affairs, Economic and Financial Affairs, Security, Associations, Military Affairs, Trades, Commerce, Industry, Education, etc., Social and Poverty Care, Health Care, Agriculture, Construction, etc., Judicial Affairs). The fonds also includes maps and stamps.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Pospíchalová H. – Tajovský M.: Archiv města Světlá nad Sázavou 1562-1945 (1956). Inventář, 2003, 62 s., ev. č. 212.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Mahler stonemason's company</corpname></controlaccess>
+        <controlaccess><subject>anti-Jewish decrees</subject></controlaccess>
+    </archdesc>
+</ead>    

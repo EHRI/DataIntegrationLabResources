@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>26</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Kamenice nad Lipou</titleproper>
+            <subtitle>District Court in Kamenice nad Lipou / NAD 26</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>26</unitid>
+            <unittitle>Okresní soud Kamenice nad Lipou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>92,61 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Kamenice nad Lipou;Mixed District Office Kamenice nad Lipou (1855-1868); People's Court of Kamenice nad Lipou</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Kamenice nad Lipou / NAD 26</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is not inventoried, so its history is unknown. From the court's registry, the documents were handed over to the Kamenice nad Lipou People's Court and, after the merger in 1960, to the Pelhřimov District Court, from which the documents are handed over directly to the District Archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the manorial administration and with the establishment of a new organization of political and judicial administration, the Kamenice nad Lipou District Court was established in 1850 for the judicial district of the same name, which respected the territory of the existing manors within their borders. In the period from 26 May 1855 to 31 August 1868, the performance of political and judicial administration was merged into one office, which became the so-called mixed district office. The separation of the political and judicial administration took place again in 1868, when a district court was established, which existed until 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains the agenda arising from the activities of the district court. The agenda is divided according to individual periods into sections A, B, C, and D - land books. The processed part contains registers of deaths (1850-1912), estate protocols with indexes (1868-1897), lists of last wills 1855-1897, a list of estates (1873-1881), where information about Jews from the district can be found. In the unprocessed part of the fonds, inheritance proceedings have been preserved, including the Jewish population - from older periods only selectively after appraisal proceedings. The processed part includes inheritance protocols including indexes (1857-1897), an index to wills included in the files (1855-1897), a list of last wills (1855-1897), and a list of estates (1873-1881), and inheritance files (1885- 1893). The unprocessed part includes estates (1861-1901), complete files D (inheritance) (1924-1948) and files P (guardianship) (1898-1948). For search there are a list of names D (1927-1954), index D (1929-1948), register P (1926-1949), and file P (1911-1949). The files of individual deceased persons contain biographical information about persons, their relatives, property, and the settlement of the inheritance.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed part of the collection is divided into sections A for the years 1850-1854, B for the years 1855-1897, C for the years 1898-1949, and D of the land books. It contains, among other things, civil and criminal filing protocols from 1850-1897, death registers (1850-1912), inheritance protocols with indexes (1868-1897), lists of last wills 1855-1897, list of estates (1873-1881), presidium diaries (1898-1948), registers, and lists of names for call numbers A, C, E, L, M, N, O, Sp, T, U, and Z with sub-call numbers. Land books of some municipalities and library diaries (1877-1948) have been preserved. The part of the fonds that contains call numbers D and P has not been processed. However, searching in the files is possible on the basis of the preserved registers with references to the names of persons and file numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Havlová B. – Kovaříková I. – Martínek Z.: Okresní soud Kamenice nad Lipou. Prozatímní inventární seznam, 1994, 21 s., ev. č. 78.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance matters</subject><subject>last wills</subject><subject>guardians</subject><subject>registers of deaths</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>670</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Napajedla</titleproper>
+            <subtitle>Napajedla Town Archives / NAD 670</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Zlín</publisher>
+            <address>
+                <addressline>Klečůvka-zámek, 763 11 Želechovice nad Dřevnicí</addressline>
+                <addressline> +420 577 901 132</addressline>
+                <addressline>www.mza.cz/zlin</addressline>
+                <addressline>soka_zlin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1421/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>670</unitid>
+            <unittitle>Archiv města Napajedla</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>8,74 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Zlín</corpname>
+            </repository>
+            <unitdate>1421/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Napajedla; Napajedla Municipality.</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Napajedla Town Archives / NAD 670</p>
+        </odd>
+        <custodhist>
+            <p>The large fires that repeatedly affected Napajedla resulted in the destruction of several files from the older period. The files were stored in offices and at the town hall. In the 1950s, all documents were moved to two rooms in the archives of the Local National Committee in Napajedla and some were in the Regional Museum. In 1960, the Napajedla Municipal Archives became a temporary depository of them. The material was moved in 1968 to the Gottwaldov District Archives (now Zlín). Here it was inventoried and supplemented with materials obtained by further delimitations and arranged.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Napajedla dates from 1355. The owners of the Napajedla estate were the Žerotín family, followed by the Rotal family, and in the 19th century by the Stockau family. A district court was established in Napajedla (1850–1949) and in 1855–1868 a mixed district office combining the functions of judicial and political administration. For most of the time, however, the district office was seated in other towns, in 1850–1855 in Holešov and in 1868–1949 in Uherské Hradiště. In 1898, Napajedla was promoted to a town by the Emperor. Jews only began to settle in the town after 1848. They moved there from larger Jewish communities in the surrounding area. The local community fell under the administration of the Jewish community in Uherský Ostroh. It ran a prayer house where a school for Jewish children was based, too.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipality of Napajedla, official books, files, and accounting material. The first records of Jews in Napajedla are mainly associated with the distillery. The distillery was managed by Jewish tenants for most of the 19th century. Information on Jews can be found in the fonds only in some documents from the Holocaust period: confiscated Jewish property - forced administration, rental of real estate, local ordinances and regulations concerning Jews and their property 1939–1945; internment of Napajedla citizens in concentration and prisoner of war camps, death certificates of interned persons 1939–1944. Sufficient attention should be paid to the following material: domicile registers 1870–1947; list of homeowners in Napajedla 1894; registries of foreign citizens living in Napajedla 1885–1940; books of the dead 1866–1943; domicile right -applications, grants, rejections 1851–1944; inn and tapping concessions 1879–1944. These documents should also be confronted with materials stored in the Napajedla Municipal National Committee fonds, NAD 671 (see Jewish property - estates, national administration 1945–1949; declarations of deaths of people killed in concentration camps and Nazi prisons 1945–1948).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Deeds, II. Official books, III. File material, IV. Accounting material, V. Other material - maps and plans, seal matrixes and stamps, correspondence and personal documents, documentation material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Hanzal J. – Štroblík V.: Archiv města Napajedla 1421-1946 (1951). Inventář, 1970, 65 s., ev. č. 212.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>distillery</subject><subject>Jewish property</subject><subject>forced administration</subject><subject>concentration and prisoner of war camps</subject><subject>domicile registersinn and tapping concessions</subject></controlaccess>
+    </archdesc>
+</ead>    
+

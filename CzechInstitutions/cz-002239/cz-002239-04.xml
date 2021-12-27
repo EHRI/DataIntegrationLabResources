@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>621</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Habry</titleproper>
+            <subtitle>Archives of the Town of Habry / NAD 621</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1613/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>621</unitid>
+            <unittitle>Archiv města Habry</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>2,9 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1613/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Habry</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Habry / NAD 621</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the town of Habry were transferred from the register office of the Municipal National Committee in Habry in September 1956 to the District Archives in Chotěboř. The fonds was sorted and provisionally inventoried. A general inventory and classification according to the new methodology took place in 2001. In 2003, the final inventory took place.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Habry can be found in the Kosmas Chronicle from 1101. It is connected with the so-called Haberská Trail connecting Bohemia and Moravia. The earliest record concerning Jews is also connected to the trail - it is in the toll tariff from 1341. After 1850, it became the seat of the district court and the center of the Habry self-governing district and part of the Čáslav political district. In the modern times, there was an important Jewish community. A Jewish cemetery has been preserved there. In the 19th century, the town had a rural, agricultural character, the only larger enterprise - the glove factory Werfel &amp; Böhm (affiliate) - disappeared during the First World War.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents, legal books, minutes of the council board and council, the municipal agenda, the agenda of municipal institutes and other documents. The period after 1850: the memorial book contains numerous information about the Jewish community, synagogue, and prominent natives - Adolf Stránský, A.G. Stránský, and others. In other documents (especially meetings of the council board and council): reconstruction of the synagogue, economic agenda, Jewish enterprises - Lazar Pick and sons, Werfel &amp; Böhm Comp. The period of 1938-1945: decrees against Jews, list of Jews and Jewish enterprises, Aryanization of enterprises, regulations concerning Jewish doctors.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into two basic parts: until 1850, and after 1850. Until 1850 - it contains three parts: deeds, books, and files. After 1850 - it contains books and files. The files are divided according to content: 1. Municipality and its administration, 2. Administration of municipal property, 3. Care for security and public order, 4. Care for public institutions and facilities, poverty, 5. Cooperation in state affairs. The fonds is not complete because documents were lost due to an improper handling of the fonds before being handed over to the archives.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Macek L.– Pospíchalová H.: Archiv města Habry 1613-1945 (1950). Inventář, 2003, 16 s., ev. č. 215.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Werfel &amp; Böhm Comp</corpname><corpname>Lazar Pick and sons</corpname></controlaccess>
+        <controlaccess><subject>The Jewish Community of Habry</subject><subject>Synagogue</subject><subject>Aryanization</subject><subject>anti-Jewish regulations</subject></controlaccess>
+    </archdesc>
+</ead>    

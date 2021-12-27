@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>567</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Chlumec nad Cidlinou</titleproper>
+            <subtitle>Archives of the Town of Chlumec nad Cidlinou / NAD 567</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Hradec Králové</publisher>
+            <address>
+                <addressline>Škroupova 695/2, 500 02 Hradec Králové</addressline>
+                <addressline> +420 495 402 611</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-hradec-kralove/</addressline>
+                <addressline>podatelna.hk@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1531/1845</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>567</unitid>
+            <unittitle>Archiv města Chlumec nad Cidlinou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>74,87 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Hradec Králové</corpname>
+            </repository>
+            <unitdate>1531/1845</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Archives of the Town of Chlumec nad Cidlinou</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Chlumec nad Cidlinou / NAD 567</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was stored in the rooms of the town hall, later in the attic. In 1868, during the inventory of the town property, the town acquired a detailed list of books and privileges with numbers and inventory designations. In 1928, the oldest books and documents were moved to the museum in Chlumec. In 1956, the town archives became a branch of the archives of the Nový Bydžov district. In 1961, the archives were moved to a room in the chateau. The fonds was organized in 1970-73 and an inventory was created for it.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Chlumec is from 1325. Originally, this municipality belonged to the Šternberk family. During the first half of the 19th century, a district court, a district office and a district council were established in the town. Patrimonial authorities and municipality offices were to cease operations on 1 January 1850. In June 1850, part of the files were moved from the abolished municipality to the district court in Chlumec nad Cidlinou. In the period 1850-55, the judicial district of Chlumec nad Cidlinou fell under the administration of the governor's office in Nový Bydžov. In the period 1855-1868, the district office in Chlumec administered 44 municipalities with approximately 19,000 inhabitants.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds covers the history of the town of Chlumec nad Cidlinou. It is relatively large, but due to poor storage, part of the fonds was damaged. It contains deeds, official books, file material, accounting material, and other documents. The register mentions Jews (foreigners' notices of moving in and out, and files of Václav Abraham, the merchant, and of Václav Sladkus, inv. no. 1109, 1110). The fonds contains processed files of the Jewish merchant Václav Abraham inv. no. 173 (inheritance book 1833-1853/1883). Furthermore, the Jews are mentioned in inv. no. 281-285 (books of the dead 1850-1869, 1869-1902, 1903-1916, 1916-1931, 1931-1950); inv. no. 326-327 (population list 1870); inv. no. 1058-1066 (censuses, 1906, 1910, 1915, 1925, 1930, 1934, 1937, 1938, 1938, 1945); inv. no.1109 (list of persons of Jewish nationality 1941); inv. no. 1110 (Jews - handing over gold 1940); inv. no. 1112 (files of Václav Abraham, the merchant, and Václav Sladkus 1940-1946).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Deeds, II. Books, A. Books kept in the interest of the town until 1850, B. Books to ensure the rights and property of burghers and serfs until 1850, C. Books after 1850, III. File material, A. Auxiliary books until 1850, B. Auxiliary books after 1850, C. Files before 1790, D. Handled files of the municipality office 1791-1850, E. Period of the municipal office 1850-1945, IV. Accounting material, V. Others, A. Maps and plans, B. Seal matrixes and stamps</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Hartman J.: Archiv města Chlumec nad Cidlinou (1525/1531-1945/1951). Inventář, 1975, 206 s., ev. č. 173.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish merchant</subject><subject>books of the dead</subject><subject>census records</subject><subject>list of Jewish nationals</subject></controlaccess>
+    </archdesc>
+</ead>    

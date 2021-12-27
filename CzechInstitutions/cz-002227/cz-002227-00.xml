@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>63</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Berouna</titleproper>
+            <subtitle>The Archives of the Town of Beroun / NAD 63</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Beroun</publisher>
+            <address>
+                <addressline>U Archivu 1633, Beroun 2, PSČ 266 01</addressline>
+                <addressline> +420 311 622 645</addressline>
+                <addressline>http://www.soapraha.cz/beroun/</addressline>
+                <addressline>soka-beroun@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1404/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>63</unitid>
+            <unittitle>Archiv města Berouna</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>139,59 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Beroun</corpname>
+            </repository>
+            <unitdate>1404/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Beroun Municipality; Additional creators: Magistrat of the Town of Beroun; Municipal Office of Beroun; National Committee of Beroun</name>
+            </origination>
+        </did>
+        <odd>
+            <p>The Archives of the Town of Beroun / NAD 63</p>
+        </odd>
+        <custodhist>
+            <p>Despite considerable losses, especially in the pre-municipal registry, the fonds documents the development of the town from the 15th century to the present. The fonds was organized and inventoried in 1960-1965. The books were divided into three time periods with divides in 1786 (establishment of the regulated municipality office), 1850, and 1945. The file material is arranged according to the original registry systems and is partially accessible using the original registry finding aids. Only the oldest part until 1786 has an artificial order, as it is a fragment. The final inventory was made in 1980. The additions were processed in 1999.</p>
+        </custodhist>
+        <bioghist>
+            <p>Beroun as a town is mentioned in a document from 1265. The town was administered by the town office with 12 councilors and the mayor. The regulated municipality office was established in 1786 and functioned until 1849. After 1848, a Jewish minority engaged in trade began to form there. The Jews had their own prayer house and cemetery.From 1850, the elected town council headed the mayor administered the town affairs. Since 1855, the town was the seat of the district governor's office, in 1868 being transferred to Hořovice. In 1936, the district office was restored there. During the German occupation, a government commissioner was appointed the mayor. In 1945, a revolutionary national committee was established there.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Beroun Municipal Office, deeds, official books, file material, and accounting material. Jews are explicitly mentioned in the following documents: inv. no. 3792 Jewish Oath (1723); Inv. no. 1680 Jews, marriage and residence permits (1836-1849); Inv. no. 2264 Jews - list of Jewish houses, Aryanization of Jewish property (1940-1948); Inv. no. 2264 File of Beroun Jews (in box no. 681) 1942; Inv. no. 2279 Jewish School (1948); Inv. no. 3657 Domicile protocol for the born persons of the Jewish faith (1842-1848); inv. no. 3853 Jews, marriage and residence permits in the town (1836-1849); The town also administered the Prince Rudolf Foundation for the Poor Widow of the Catholic and Jewish Religions from Seligman Ellbogen and the Seligman Ellbogen Foundation for the Ten Poor. Jews can also be mentioned in: the Lists of Beroun house owners according to house numbers (1846); trade agenda of the town and inv. no. 2272 Name changes, search for missing persons, declarations of death, list of persons executed and tortured in concentration camps (Czechs, Jews) (1945-1949).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains documents, official books, file material, accounting material, and other material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kolektiv okr. archivu: Archiv města Beroun 1404-1945 (1952). Inventář, 2013, 277 s., ev. č. 33.</p></otherfindaid><otherfindaid><p>GARKISCH M.: Archiv města Berouna – Dodatky 1509-1945 (1950). Inventář, 2010, 51 s., ev. č. 821.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28177596%29%29; http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28220710%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Aryanisation</subject><subject>Jewish School</subject><subject>Jewish foundations</subject><subject>List of Jews</subject></controlaccess>
+    </archdesc>
+</ead>    

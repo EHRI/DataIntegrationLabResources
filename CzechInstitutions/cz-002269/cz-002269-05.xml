@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1613</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Náboženská společnost unitářů československých</titleproper>
+            <subtitle>Religious Society of Czechoslovak Unitarians / NAD 1613</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1921/1951</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1613</unitid>
+            <unittitle>Náboženská společnost unitářů československých</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>2,12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1921/1951</unitdate>
+            <langmaterial>
+                <language langcode="eng">eng</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Religious Society of Czechoslovak Unitarians, Prague 1 – Old Town</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Religious Society of Czechoslovak Unitarians / NAD 1613</p>
+        </odd>
+        <custodhist>
+            <p>The archival materials were taken over from their originator by the AHMP in 1960, first to be temporarily deposited there in two places. In 1997, the fonds was inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>On the initiative of Norbert Fabian Čapek, the Free Brotherhood organization was founded in 1922 which was transformed, in 1923, into the Society of Free Brotherhood under the Act on Associations. Its goal was to support all religious, educational, social and promotional efforts to organize human relations on the basis of freedom and brotherhood. The Unitarians were eventually recognized by the Czechoslovak state and registered in 1930 as the Religious Society of Czechoslovak Unitarians. During the Nazi occupation the Society was dissolved in 1943, but in 1945 it was restored again.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains archival materials concerning the religious and cultural history of Czechoslovakia in particular. It also contains sources for Jewish history, namely the correspondence (probably from the World War II) with the Ministry of Education and the Provincial Office in Prague on Jewish employees and the legal status of Jews (Inv. No. 57).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The archival materials are organized in the fonds as follows: A. Books, B. Files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        <otherfindaid><p>http://katalog.ahmp.cz/pragapublica/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28621680%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Religious History</subject><subject>legal status of the Jews</subject><subject>Occupation</subject><subject>Persecution</subject></controlaccess>
+    </archdesc>
+</ead>    

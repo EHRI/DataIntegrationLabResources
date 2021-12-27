@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>13</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Plzeň</titleproper>
+            <subtitle>Pilsen District Office / NAD 13</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Pilsen City Archives</publisher>
+            <address>
+                <addressline>Veleslavínova 19, Plzeň, 306 32, Czechia</addressline>
+                <addressline> +420 378 032 609</addressline>
+                <addressline>https://amp.plzen.eu/</addressline>
+                <addressline>maglic@plzen.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>13</unitid>
+            <unittitle>Okresní úřad Plzeň</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>241,7 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Pilsen City Archives</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Pilsen District Office; The Political Administration of the district of Pilsen, Okresní hejtmanství Plzeň</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Pilsen District Office / NAD 13</p>
+        </odd>
+        <custodhist>
+            <p>The documents were originally stored in the registry of the District Office. Probably in 1941, the oldest part of the files was taken over by the Archives of the Ministry of the Interior in Prague and later transferred to the Regional Depository in Plasy and then to the State District Archives Pilsen. The second part of the files was moved in 1951 to the cellar of the town hall (JNV Pilsen) and in 1956 it was taken over by the State District Archives Pilsen. In 1963, the archive materials were taken over by the Archives of the City of Pilsen.</p>
+        </custodhist>
+        <bioghist>
+            <p>After 1848, the public administration was nationalized and the Pilsen District Office was established in Pilsen in 1850, which changed its name and territorial competence several times until 1945. In 1855, a purely political District Office was established (not a political-judicial one). In 1866, after a reorganization (reduction), the political district of Pilsen included the judicial districts of Pilsen, Rokycany, and Blovice. In 1868, the Pilsen District Governor's Office was established. In 1896, the judicial district of Rokycany was removed from the Pilsen District Office. In 1918, the Pilsen District Governor’s Office was renamed the District Political Administration and in 1928 it was renamed the Pilsen District Office.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the district of Pilsen, which included the judicial districts of Pilsen, Rokycany and Blovice. The fonds includes the census sheets from 1869, 1880, 1890, 1900 and 1910, the agenda of citizenship, the association cadaster, the register of trades and Judaica: Jewish communities, mainly in Spálené Poříčí, Štěnovice, Radnice, Rokycany, Pilsen, Blovice - correspondence, delimitation of districts, registry matters, election constituencies, list of families, statuses of Jews municipalities, reports on the number of members, maintenance of rabbis and teachers of religion, persons in religious tax arrears, annual reports, service salaries, compensation payments, budgets, linguistic equality of Czech, lists of members (including tax groups), income and expenses, establishment of rabbis, reports of direct taxes, minutes of meetings, increase of religious tax due to the increased living costs, common rabbinates, election of alternates to the representation of the land (and provincial) Jews in Bohemia, voter lists, mergers of Jewish municipalities, a report on the election of the chairman of provincial Jews, elections of representatives/officials of Jewish communities, the establishment of a poorhouse, requests from individuals of the Oberlandrat Pilsen for the purchase of the non-Aryan/Jewish property (cars, furniture), sale of shares, lists of Jewish property -individual cases, the, establishment of a hostel for refugees from the Sudetenland Jewish communities Pilsen, the enforcement of religious taxes, forced administration (among others Leopold Treichlinger from Štěnovice or Adolf and Ida Khon from Nekmíř), a file of residence application sheets 1938-1939, persons: Leopold Lewit and his son Jakub Kraus (tanneries), H. Kussi and his son (Kalikov mill), Rudolf Löwidt (Číčov warehouse), František Adler (general store), Egon Gellert (the Piete paper mill) ), reports on the migration of Jews from the German Reich, anti-Jewish leaflets, etc.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains: I Books: a) administrative books b) registration books, II File material A) Registry finding aids - for presidium files, - for general registry, presidium files and general files (10 handling periods), III Accounting material, IV Associated agendas.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Fabián F.: Okresní úřad Plzeň 1850-1945. Inventář, 1959, 133 s., ev. č. 2, sign. II/3.</p></otherfindaid><otherfindaid><p>Němec V.: Presidiální spisy Okresního úřadu v Plzni 1918-1938. Katalog, 1958, 113 s., ev. č. 3, sign. II/3a.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Religious Community Plzeň – Štěnovice – Spálené Poříčí – Radnice - Rokycany - Blovice</subject><subject>ordination of a Rabbi</subject><subject>list of members</subject><subject>Jewish property</subject><subject>rabbinate</subject><subject>elections</subject><subject>Treichlinger</subject></controlaccess>
+    </archdesc>
+</ead>    

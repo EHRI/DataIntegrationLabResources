@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>140</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Praha-venkov-sever</titleproper>
+            <subtitle>District Office of Praha-venkov-sever / NAD 140</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Prague-East in Přemyšlení</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 284 890 487</addressline>
+                <addressline>http://www.soapraha.cz/praha-vychod/</addressline>
+                <addressline>Email: soka-praha.vychod@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1942/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>140</unitid>
+            <unittitle>Okresní úřad Praha-venkov-sever</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>82,69 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Prague-East in Přemyšlení</corpname>
+            </repository>
+            <unitdate>1942/1949</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Praha-venkov; District Office of Praha-venkov-jih; District National Committee of Praha-jih</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Praha-venkov-sever / NAD 140</p>
+        </odd>
+        <custodhist>
+            <p>Presidium files arose from the activities of political administration. This agenda was dealt with in principle by the senior officials of the offices. At the district offices, it was always the district governor. Originally, the documents were stored in the office of Praha I, later in the District National Committee Praha-venkov-sever. A catalog of presidium files was made in the 1970s. In 1960, the files were transferred to the Archives of Praha-východ in Říčany. The archive material was damaged by floods.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district office of Praha-venkov-sever was a body of political administration in the Protectorate of Bohemia and Moravia in the period of the Second World War. It was established on June 1, 1942, its predecessor being the district office of Praha-venkov. It was seated in Prague. It existed until May 9, 1945. Then it was replaced by the national committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the district office. The documents mainly relate to the period of the Second World War. Information on Jews can be found in the presidium files: inv. no. 85, box 21 - discounted railway tickets for persons who were punished for political reasons after 15 March 1939, then Jews or civil servants who lived in a marriage with a Jew or a Jewish half-breed; inv. no. 426 Order of Oberlandrat from 12 March that the mandatory marking of Jews be extended to Jews of Slovak, Croatian and Romanian nationalities. Jews were obliged to wear the obligatory emblem wherever they could meet a person who did not belong to their household. OH circular, issued on the basis of this order (box 84); inv. no. 727 Report of the gendarmerie station of Zbraslav to the District Court from 19 May 1942 informing about the result of the investigation caused by an article in the Vlajka journal criticizing insufficient measures against Jews in the city (box 145); inv. no. 729 - Order of the Ministry of the Interior of 15 May 1942, according to which it is necessary to write the word Jew in the future only with a capital initial letter (box 147); inv. no. 1286 - PZU points out on December 11 that it was found that Jews use horse-drawn carriages to transport; as this is not allowed, the subordinate authorities are to take appropriate measures (box 229); inv. no. 967 - A set of reports of individual gendarmerie stations for the month of April - among others; a number of apartments in the district remained empty after the expulsion of Jews; these apartments belong to the Central Office for the Solution of the Jewish Question, but these apartments often remain empty. box 188); inv. no. 325 Given that Jewish companies no longer exist in Bohemia, it is not necessary to require from suppliers a confirmation that they are not Jewish companies; inv. no. 790 - Implementing regulations of the Ministry of the Interior of 29 May on the prohibition of employing Jewish half-breeds or husbands of Jewish half-breeds in public services. (box 162).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into official books, registry finding aids, and files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Indra B. – Ježková J. – Sedlák M. – Šuchma F.: Okresní úřad Praha-venkov-sever – Katalog presidiálních a tajných spisů 1942-1945. Katalog, 1977, 110 s., ev. č. 91.</p></otherfindaid><otherfindaid><p>Indra B. – Ježková J. – Sedlák M. – Šuchma F.: Okresní národní výbor Praha-sever – Katalog presidiálních spisů 1945-1948. Katalog, 1977, 82 s., ev. č. 92.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>The Central Office for the Solution of the Jewish Question</corpname></controlaccess>
+        <controlaccess><subject>Anti-Jewish restrictions</subject><subject>Jewish apartments</subject><subject>Jews of the mixed race</subject><subject>Mixed marriages</subject></controlaccess>
+    </archdesc>
+</ead>    

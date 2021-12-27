@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>741</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Židovská náboženská obec Unhošť</titleproper>
+            <subtitle>Jewish Religious Community of Unhošť / NAD 741</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kladno</publisher>
+            <address>
+                <addressline>Severní 3127, Kladno, PSČ 272 04</addressline>
+                <addressline> +420 312 243 992</addressline>
+                <addressline>http://www.soapraha.cz/kladno/</addressline>
+                <addressline>soka-kladno@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1941/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>741</unitid>
+            <unittitle>Židovská náboženská obec Unhošť</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown </physfacet>
+                <extent>0,28 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kladno</corpname>
+            </repository>
+            <unitdate>1941/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Jewish Religious Community of Unhošť</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Jewish Religious Community of Unhošť / NAD 741</p>
+        </odd>
+        <custodhist>
+            <p>The archive material was taken over into the archives in 1975.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Jewish community of Unhošť was established by grouping smaller villages together in order to create the Jewish cultural and religious community (establishing the synagogue, the mikveh, the religious school, the Chevra Kadisha, etc.). The synagogue with a room for the Jewish school was there until its abolition in 1897.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains a register of members from 1941/1942 and files - methodological instructions for the interpretation of Jewish laws.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds has not been processed.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Not accessible.</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish laws</subject><subject>Community members</subject></controlaccess>
+    </archdesc>
+</ead>    

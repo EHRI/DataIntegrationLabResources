@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>4</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Pelhřimov I.</titleproper>
+            <subtitle>District Office of Pelhřimov I / NAD 4</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1821/1956</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>4</unitid>
+            <unittitle>Okresní úřad Pelhřimov I.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>135 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1821/1956</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Pelhřimov; Mixed District Office Pelhřimov (1855-1868); District Political Administration Pelhřimov (1919-1928);TheDistrict Office of Pelhřimov (1928-1945); District National Committee Pelhřimov (1945-1990)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Pelhřimov I / NAD 4</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the fonds went through several appraisal proceedings. The 1930 census lists were also appraised. The registry had been stored in the Archives of the Ministry of the Interior in Prague since 1870, from where it was transferred to the State Archives in Telč in 1951. In 1963, the entire fonds was transferred to the Pelhřimov District Archives seated in Červená Řečice and gradually supplemented with other documents.</p>
+        </custodhist>
+        <bioghist>
+            <p>From 1 February 1850, the Pelhřimov District Governor's Office was established for the Pelhřimov and Kamenice regions. In 1855, the political administration was merged with the judiciary, and the so-called Mixed District Office of Pelhřimov and the Mixed District Office of Kamenice nad Lipou were established. In 1868, the Pelhřimov District Governor's Office was restored. In 1919, it was renamed the Pelhřimov Political District Administration, and on 1 December 1928, the Pelhřimov District Office. The Jewish communities in Černovice, Horní Cerekev, Hořepník, Kamenice nad Lipou, Lukavec, Nová Cerekvi, Nová Včelnice, Pacov, Pavlov and Pelhřimov fell under the administration of the originator. In 1945, it was replaced by the Pelhřimov District National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains state administration documents. References to the Jewish population may be found in documents of a general nature - presidium files, records of citizenship, and census files. The 1921 census can be found in the unprocessed part of the fonds. Jews are mentioned in the following documents: Circulars and instructions of the Czech governance concerning Jewish affairs (inv. No. 601); Jewish affairs, lists of Jews for cult elections (inv. No. 604); Jewish affairs, registries of births, deaths and marriages, copies of registries, dispensations for the performance of the functions of rabbi and teacher (inv. No. 641); documents concerning, inter alia, the appointment of the rabbi and the board of directors, statutes of Jewish religious communities, inquiries into the number of Jews, lists, financial and property matters, boundaries of religious communities, elections of officials, teaching of religion, teachers (inv. No. 653); anti-Jewish leaflets (inv. No. 672); the statutes of the Jewish Association, the Association of Czech Jews - Tomid, the Sion Choir, the establishment of the Chevra Kadisha Support and Funeral Association (inv. No. 677); combating the vagrancy of the Jews (inv. No. 681); Jewish registries of births, deaths and marriages (inv. No. 796); Jewish affairs, the cadaster of Jewish communities, general overviews, register matters, financial, statutes of Jewish religious communities, foundations (inv. No. 805); negotiations on the assessment of an equivalent of the property of the Jewish municipality (inv. No. 946); district employees from mixed Jewish marriages (inv. No. 1037); marking Jewish passports (inv. No. 1069); records, lists of Jews, police applications of Jews, inquiry into Jewish property, lists of Jewish shops, statements of Jewish property (inv. No. 1070); restrictions on Jews, residence permits issued to Jews (inv. No. 1073); lists of Jews who surrendered their weapons (inv. No. 1078); criminal proceedings with anti-Jewish perpetrators (inv. No. 1094); inventories of Jews and their property, marking Aryan shops, sales and leases of Jewish property, action against Jewish enterprises and their liquidation, forced administration - Aryanization of enterprises (inv. No. 1114); exemption from regulations applicable to Jews, Jewish registries and their storing (inv. No. 1157); Jewish religious communities, circulars, matters of Jewish registers, synagogues, appointment of the rabbi, contributions of Jews to the Jewish religious community (inv. No. 1152); payment of pensions to Jews, (inv. No. 1160); Jewish physicians (inv. No. 1184); Jewish property, (inv. No. 1219); lists of Jewish owners of motor vehicles, confiscation of bicycles and driving licenses of Jews (inv. No. 1261).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The books are divided into the administrative and registration ones (for personal, criminal, association and economic registrations). Presidium files were separated from the individual handling periods and made accessible by a catalog. Other files were divided according to the handling periods 1850-1867; 1868-1902; 1903-1935 with 1936-1945, in which they are always divided according to subject groups. Registry finding aids have been quite completely preserved. Since 1929, accounting books have been kept.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Franková L.– Havlová B.: Okresní úřad Pelhřimov (1797) 1850-1945 (1956). Inventář, 1987, 317 s., ev. č. 50.</p></otherfindaid><otherfindaid><p>Dědková L. – Poustka K.: Okresní úřad Pelhřimov – Presidiální spisy 1850-1945. Katalog, 1977, 450 s., ev. č. 64.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>the Association of Czech Jews-Tomid</corpname><corpname>Sion Choir</corpname><corpname>Chevra Kadisha</corpname></controlaccess>
+        <controlaccess><subject>lists of Jews</subject><subject>Jewish religious communities</subject><subject>elections</subject><subject>Jewish property</subject><subject>anti-Jewish restrictions</subject></controlaccess>
+    </archdesc>
+</ead>    

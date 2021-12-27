@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>152</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Příbram</titleproper>
+            <subtitle>Archives of the Town of Příbram / NAD 152</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive in Příbram</publisher>
+            <address>
+                <addressline>E. Beneše 337, 261 01 Příbram VII</addressline>
+                <addressline> +420 318 492 411</addressline>
+                <addressline>http://www.soapraha.cz/pribram</addressline>
+                <addressline>soka-pribram@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1393/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>152</unitid>
+            <unittitle>Archiv města Příbram</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>138,39 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive in Příbram</corpname>
+            </repository>
+            <unitdate>1393/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Příbram</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Příbram / NAD 152</p>
+        </odd>
+        <custodhist>
+            <p>The materials of the town of Příbram were taken over by the State District Archives of Příbram some time before 1997. The fonds is organized. However, it is chronologically divided into three separate sections, each having its own independent series of inventory numbers. These are the sections Municipal Office (MM) until 1790, Regulated Municipal Office (RM) 1790-1850, and Self-Government (S) 1850-1945.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first historical record of Příbram dates from 1216, when the Prague bishop Ondřej bought the farm Příbram from the Premonstratensian monastery in Teplá and began to build his estate around it. The first preserved records of the Jewish population date from the 16th century. Due to alleged mining frauds, Emperor Maximilian II issued a decree in 1568 prohibiting Jews from staying in the mining towns. The Jews began to return to the town in 1848. The Jewish religious community in Příbram was established in 1858.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official books and files. The following documents concern Jewish issues. The population register books: electoral registers; lists of townspeople; registers of inhabitants; alphabetical lists of inhabitants; lists of issued domicile certificates; lists of house owners; lists of tenants; trade registers; Příbram Jewish Cemetery, a list of persons of Jewish origin who died during the Nazi occupation in 1939-1945, a list of persons deported by the transport from Příbram on 4 September 1942; File material: Jews - staying in the town in 1848; citizens' protests against Jews settling in Příbram, Jews (a file) 1857; German Jewish Primary School 1862, 1879-1906; Contribution of the municipality of the Union of Czech Progressive Jews for Bohemia and Moravia 1908; Jewish religious community: teaching the Jewish religion 1884, installing a new door in the synagogue in 1900; Czech-Jewish Political Secretariat in Prague - support for the campaign "A Czech child belongs only to the Czech school" 1920; Measures against Jews: list of owners of Aryan and non-Aryan companies in Příbram 1939, a list of persons of Jewish religion 1939, designation of Aryan shops 1939, rental of Jewish flats 1941, Jewish half-breeds and mixed marriages 1941; forest workers (Jews) 1941-1942; Israeli religious community 1920.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into official administrative books and register books, the registry, and various other documents. The registry is further divided into registry finding aids, files according to individual handling periods and individual agendas (police administration, forest office, charity for the poor, etc.).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Polák S.: Archiv města Příbramě. Inventář. I. díl 1393-1792, 1991, 131s., ev. č. 37.</p></otherfindaid><otherfindaid><p>Polák S.: Archiv města Příbramě. Inventář. II. díl 1792-1850 (1870), 1991, 42 s., ev. č. 38.</p></otherfindaid><otherfindaid><p>Polák S.: Archiv města Příbramě. Inventář. III. díl 1851-1945 (1953), 1991, 202 s., ev. č. 39.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>The Union of Czech Progressive Jews for Bohemia and Moravia</corpname><corpname>Czech-Jews</corpname></controlaccess>
+        <controlaccess><subject>Jewish Cemetery</subject><subject>Syangogue</subject><subject>German Jewish Primary School, registers of the Jews</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,80 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1200</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Litovel</titleproper>
+            <subtitle>District Office in Litovel / NAD 1200</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Olomouc</publisher>
+            <address>
+                <addressline>U Husova sboru 10, 771 11, Olomouc, Czechia</addressline>
+                <addressline> +420 585 236 101</addressline>
+                <addressline>https://www.archives.cz/web/soka/olomouc/o_archivu/</addressline>
+                <addressline>podatelna@ol.archives.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1200</unitid>
+            <unittitle>Okresní úřad Litovel</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>167,27 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Olomouc</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office in Litovel</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office in Litovel / NAD 1200</p>
+        </odd>
+        <custodhist>
+            <p>After the registry of the district office ceasing to operate, it was taken over by the District National Committee in Litovel. In 1955, the Committee handed over presidium files, and later also other written material, to the State Archives of the Olomouc Region in Janovice u Rýmařova. The fonds was processed in 1995-1997, the amendments in 2014. 0,13 linear meters are not processed yet.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1850-1945, the district administration of the Litovel district was carried out the district office, called the district commissioner"s office in 1850–1918, the district political administration in the years 1918–1928, and the district office (1928-1945). In 1855-1867, it also performed the judicial administration.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the state administration at the district level. An important part of the general registry is the files from (1827) 1850-1945 (1951) divided into subject groups, among which Jewish matters can also be found, including reports on the situation of the Jewish religious community in Loštice, the legal status of Jews in public life, the registering of Jewish property, reports on the Jewish real estate in the district, evidence of the Jewish and Roma persecution during the German occupation. 
+Within the presidium registry there are documents concerning designations of Jewish businesses, lists of Jews, a notice about the dismissal of Jewish employees, the suppression of violence against Jews, statistical data on Jewish schools in the Protectorate, prohibition of Jews' residence, securing Jewish property, and others. 
+In the general register there are documents concerning the 
+reporting of Jewish registries, statistical statements of Jewish communities, the withdrawal of honorary citizenship of Jews, certificates of non-Jewish origin, evidence of persecution of the Jewish population, anti-Jewish regulations, measures for the placement of Jews, inventories of forest property of Jews, registration cards of Jewish flats.
+</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains official books and files. Furthermore, there is a filing of the German Reich citizens from 1940-1945, maps and plans.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lošťák J.: Okresní úřad Litovel  – Presidiální spisy 1866-1917. Katalog, 1973, 199 s., ev. č. 539.</p></otherfindaid><otherfindaid><p>Lošťák J.: Okresní úřad Litovel  – Presidiální spisy 1938-1945. Katalog, 1969, 276 s., ev. č. 540.</p></otherfindaid><otherfindaid><p>Lošťák J.: Okresní úřad Litovel – Presidiální spisy 1918-1937. Katalog, 1970, 61 s., ev. č. 541.</p></otherfindaid><otherfindaid><p>Lošťák J.: Okresní úřad Litovel – Presidiální spisy 1902-1945. Katalog, 1971, 22 s., ev. č. 542</p></otherfindaid><otherfindaid><p>Koudela M.: Okresní úřad Litovel (1827) 1850-1945 (1953). Inventář, 1997, 329 s., ev. č. 543.</p></otherfindaid><otherfindaid><p>Koudela M.: Okresní úřad Litovel (Dodatek) – Sčítání lidu 1921. Inventář, 2014, 24 s., ev. č. 1998.</p></otherfindaid>
+        <otherfindaid><p>https://digi.archives.cz/da/searchlink?fcAr=227102010-0&amp;fcDb=10026</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Persecution of Jews</subject><subject>Jewish property</subject><subject>Anti-Jewish decrees</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

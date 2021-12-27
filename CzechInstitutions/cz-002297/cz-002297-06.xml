@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>442</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Blatná</titleproper>
+            <subtitle>District National Committee of Blatná / NAD 442</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>442</unitid>
+            <unittitle>Okresní národní výbor Blatná</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>56,98 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1945/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee of Blatná</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Blatná / NAD 442</p>
+        </odd>
+        <custodhist>
+            <p>The fonds has been preserved almost untouched. First, the materials of the fonds were stored in the District National Committee of Blatná. Before the abolition of the District National Committee of Blatná in 1960, the files were handed over to the District National Committee of Strakonice. The first transfer of files to the Strakonice District Archives took place in 1957, and then further transfers took place. The last acquisition took place in 2015. In 2018, the fonds was reorganized, and an inventory was made.</p>
+        </custodhist>
+        <bioghist>
+            <p>The origin, organization and competence of district national committees as new state bodies were first established by the Constitutional Decree No. 18 of the President of the Republic of 1944. The Blatná District National Committee was established in 1945. It ceased to exist due to a territorial reorganization in 1960.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the district people's administration and delegated state administration, documenting the economic, political, social and cultural conditions of the former Blatná district. It contains official books, file material and accounting material. Jewish issues can be found in the following areas: commission of inquiry (list of Jews in the district, anti-Jewish action) 1940-1946, citizenship - sorted alphabetically by name (J. Stein, representative of Bata's enterprises in Africa) (1910) 1945-1948, Jewish religious municipality (inventory of property) 1945-1950.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I Official books: a) administrative books, b) records; II File material: a) registry finding aids; b) files - handling periods 1945-1948, 1949-1950, 1951-1954, 1955-1958, 1959-1960; III Accounting material; IV Other material; V Associated agenda of the District National Committee.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessibble</p>
+        </accessrestrict>
+        <otherfindaid><p>Koštová J.: Okresní národní výbor Blatná (1810) 1945-1960 (1962). Inventář, 2018, 169 s., ev. č. 1114.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/437430</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>list of Jews</subject><subject>anti-Jewish action</subject><subject>Jewish religious municipality</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>76</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Vsetín</titleproper>
+            <subtitle>District Office of Vsetín / NAD 76</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Vsetín</publisher>
+            <address>
+                <addressline>4. května 227, 755 01 Vsetín, Czechia</addressline>
+                <addressline> +420 571 424 684</addressline>
+                <addressline>https://www.mza.cz/vsetin/</addressline>
+                <addressline>soka_vsetin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1909/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>76</unitid>
+            <unittitle>Okresní úřad Vsetín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>60,2 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Vsetín</corpname>
+            </repository>
+            <unitdate>1909/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Vsetín; District Political Administration Vsetín; District Office of Vsetín (1928-1945)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Vsetín / NAD 76</p>
+        </odd>
+        <custodhist>
+            <p>After 1945, the registry of the District Office was kept in the building of the District National Committee. In 1962 it was taken over by the District Archives in Vsetín. The census records from 1869, 1890, 1900 of the judicial district of Vsetín were added to the fonds. The fonds has been preserved in relatively good condition. Part of the fonds from the period of the Nazi occupation has been preserved with the greatest losses, the documents being largely destroyed by the German authorities. The fonds is arranged according to individual handling periods, and an inventory was made for it.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Governor's Office, later the District Office, in Vsetín was established as the first instance of political administration in 1909. The office kept population records, dealt with the association approval and supervision agenda, and issued trade concessions. The office was headed by the district governor. In 1945, the District National Committee was established and the District Office therefore ceased to exist.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the district office: official books, file material, accounting material and others. Information on Jews can be found in the following files: Group V Register and religion matters, Trade licensing matters, Apostasies and conversions (1909-1921). Jews are also explicitly mentioned in inv. no. 536 VII/37 Jewish religious associations 1936-40; inv. no. 528 VI/1 Register of Jewish property and Aryanization of Jewish enterprises 1942-43. Mentions of Jews can also be found in presidium files: inv. no. 35/1913 Jewish representatives in the Provincial school board; inv. no. 61/1913 Decoration of Alfred Reich; inv. no. 162,164 Condolences of the Jewish religious association in Vsetín; inv. no. 35/1911 Violation of the military secret by Jews clergymen - inquiry; inv. no 41/1911 Assaults on Jews; inv. no. 308/1936 Immigration of Jews from Germany; inv. no. 257/1938 Dismissal of Jewish employees; inv. no. 48/1919 Manifestations of anti-Semitism; inv. no. 433/1938 Leopold Pilzner's stay in Vsetín (Jew); inv. no 506/1941 Forming Jewish groups for removing anti-German inscriptions; inv. no. 672/1941 Lists of employees of the political administration of Jewish origin. Presidium files concerning the Jakub and Josef Kohn Comp., furniture factory in Vsetín: inv. no. 34,85/1920 Workers' strike; inv. no. 115, 116, 127/1922, 85/1923 Resuming the operation of the factory; 82/1924 Employee Karel Suozka; 146/1924 Dismissal of workers; inv. no 113/1022 Workers' strikes.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds containes: I. Official books (Administration, registration); II. File material (Registry finding aids, Files); III. Accounting material; IV. Other material (Printed matters)</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Baletka L. – Mikula J.: Okresní úřad Vsetín – Presidiální spisy. Díl I. 1909-1918. Katalog, 1968, 79 s., ev. č. 1.</p></otherfindaid><otherfindaid><p>Baletka L. – Mikula J.: Okresní úřad Vsetín  – Presidiální spisy. Díl II. 1918-1939. Katalog, 1968, 219 s., ev. č. 2.</p></otherfindaid><otherfindaid><p>Baletka L. – Mikula J.: Okresní úřad Vsetín  – Presidiální spisy. Díl III. 1939-1945. Katalog, 1968, 84 s., ev. č. 3.</p></otherfindaid><otherfindaid><p>Baletka L.: Okresní úřad ve Vsetíne (1874) 1909-1945. Inventář, 1975, 152 s., ev. č. 95.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Jewish religious association in Vsetín</corpname><corpname>Jakub and Josef Kohn Comp. Vsetín</corpname></controlaccess>
+        <controlaccess><subject>Anti-Semitism</subject><subject>Aryanization of Jewish enterprises</subject><subject>Jewish property</subject><subject>Assaults on Jews</subject><subject>furniture company</subject></controlaccess>
+    </archdesc>
+</ead>    

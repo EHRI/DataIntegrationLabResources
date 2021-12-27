@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1921</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Baťa, a. s., Zlín</titleproper>
+            <subtitle>Baťa, a.s., Zlín / NAD 1921</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Zlín</publisher>
+            <address>
+                <addressline>Klečůvka-zámek, 763 11 Želechovice nad Dřevnicí</addressline>
+                <addressline> +420 577 901 132</addressline>
+                <addressline>www.mza.cz/zlin</addressline>
+                <addressline>soka_zlin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1894/1948</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1921</unitid>
+            <unittitle>Baťa, a. s., Zlín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Graphic Material</genreform> 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>437,44 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Zlín</corpname>
+            </repository>
+            <unitdate>1894/1948</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="pol">pol</language><language langcode="slo">slo</language><language langcode="srp">srp</language><language langcode="ang">ang</language><language langcode="fre">fre</language><language langcode="spa">spa</language><language langcode="hun">hun</language><language langcode="ita">ita</language><language langcode="swe">swe</language><language langcode="rus">rus</language><language langcode="hin">hin</language><language langcode="ara">ara</language>
+            </langmaterial>
+            <origination>
+                <name>Baťa Ltd., Zlín; Antonín Baťa - shoe factory (1894–1900); T. a A. Baťa, canvas and leather shoes (1900–1908); T. a A. Baťa, First Austro-Hungarian mechanical canvas shoes manufactory, Zlín (1908–1918); T. a A. Baťa, footwear factory (1918–1931); Baťa, Ltd. (1931–1945); Baťa, n. c. (1945)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Baťa, a.s., Zlín / NAD 1921</p>
+        </odd>
+        <custodhist>
+            <p>The documents were stored in the registries of individual company departments. In the post-war years, other important documents kept from raids in the country were gradually stored in the newly established offices of the Svit company. The Svit Company Archives was established in 1960. In September 2012, the fonds of Baťa, a. s., Zlín was handed over to the Zlín State District Archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1908, Tomáš Baťa became the sole owner of a footwear company. The First World War marked a transition from a local small-scale production to the future worldwide company. A foreign network of company stores began to develop in the early 1920s. The World War II provided an economic potential. New markets opened for the company due to its connection with the Third Reich and the older markets were then filled with new programs. At the same time, the connection of the company to the Nazi Germany remained sufficiently flexible, so that at the time of the Germany defeat, the company easily broke away from its economic and social structures. After the end of the war, a temporary administration was appointed to head the company, and on October 27, 1945, the company was nationalized.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents on the operation of the company and its activities in 1894-1948. Information on Jews can be found in individual documents from the 1930s and the first half of the 1940s: personal files of employees of Jewish origin (over 70 pieces entitled "Jewish nationality", "Jewish religion" or "Jew") - including Jewish employees of Zlín companies, Jewish doctors at the Baťa Hospital in Zlín, Jewish employees sent abroad by the management, Jewish employees who later joined the Czechoslovak military units abroad, Jewish employees in the company for forced labor; a name list of employees of Jewish origin 1939–1942; a survey of employees by nationality 1939; litigation between the former Baťa employees of Jewish origin and the Baťa Comp., a.s, Zlín: among them the property dispute of the head of the Baťa store in Podmokly Markéta Hofová over the payment of half a million crowns 1927–1942, the property proceedings of the Baťa company concerning the property of Mr and Mrs Popper from České Velenice 1943, a property dispute of the business partner of the Baťa company in the Netherlands Richard Neuman 1938–1940, a property dispute of the head of Baťa store in Tatranská Lomnica Andor Herškovič who was deported from Slovakia 1940–1946; the correspondence of director Hlavnička in the matter of a colony of Jews in Rhodesia 1938–1939; the correspondence of director Hlavnička in the matter of trade with the help of exporting the so-called Jewish money 1939. From the Holocaust period these are the following documents: the correspondence of the Baťa Comp. in the matter of registration and administration of property of Jews and persons staying abroad 1938–1940; negotiations on the possibility of acquiring Jewish property (a large estate in Oslavany) as a replacement for the confiscated large estate Třemešek in the Sudetenland, which was owned by the Baťa subsidiary Milada 1939; regulations on travel restrictions of Jews employed in industry 1940; gradual deportation of Jewish tenants in Baťa's real estate in Prague and allocation of their flats to German nationals, SS members and members of the NSDAP 1942–1944.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Company management II. Personnel department, III. Trade department; IV. Laboratory; V. Experimental units of Baťa school graduates; VI. Stockings production; VII. Tire production; VIII. Rubber production; IX. Footwear and clog production; X. Sales; XI. Department store; XII. – XIII. Energy; XIV. Transport department; XV. Construction department; XVI. Engineering works; XVII. Forests and farms; XVIII. Minerals (mines, raw materials); XIX. Baťov (tannery, textiles, chemistry, wood); XX. Batizovce, Bošany; XXVI. Export - import; XXVII. Foreign companies.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Řehová R.: Baťa, a. s., Zlín (1826) 1894-1948 (1964), díl I.-XVI. Inventář, 2004, ev. č. 631.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Baťa Hospital</corpname><corpname>Baťa Comp.</corpname><corpname>Milada</corpname></controlaccess>
+        <controlaccess><subject>employees of Jewish origin</subject><subject>colony of Jews in Rhodesia</subject><subject>Holocaust</subject><subject>deportations</subject></controlaccess>
+    </archdesc>
+</ead>    
+

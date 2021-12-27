@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>204</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Hlinsko</titleproper>
+            <subtitle>District Court in Hlinsko / NAD 204</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Chrudim</publisher>
+            <address>
+                <addressline>Filištínská 37, Chrudim, 537 01</addressline>
+                <addressline> + 420 469 660 408</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-chrudim/</addressline>
+                <addressline>podatelna-cr@ ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>204</unitid>
+            <unittitle>Okresní soud Hlinsko</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>75,19 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Chrudim</corpname>
+            </repository>
+            <unitdate>1850/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Hlinsko; People's Court of Hlinsko</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Hlinsko / NAD 204</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives in Chrudim. The fonds was organized in 1959. In 2001, it was re-evaluated as unprocessed, as a large number of archive materials were gradually added.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Hlinsko District Court was established in 1849. In 1855, when a mixed district office was created, dealing with all administrative, tax and judicial matters. From 1868, the mixed district offices were again divided into separate district courts and district offices. The court in Hlinsko functioned from 1868 to 1949, when the Skuteč District Court was affiliated to it. There was a change in 1952 - the Constitutional Act on Courts and the Prosecutors' Offices divided courts into People's Courts (former district courts), regional courts and the Supreme Court. In 1960, during the territorial reorganization, the People's Court in Hlinsko ceased to exist and was annexed to Chrudim.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the court administration of the Hlinsko district. Jewish affairs can be found in the following documents: inheritance files (files marked A, D, IV) 1850-1949, index of estates, registers of estates. Also relevant are the files relating to the declarations of death (file marked M) 1946-1949, guardianship files and registers (files marked E, P) 1924-1949.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains file material, official books, and indexes. The files are first arranged according to the call numbers assigned by the court, and then chronologically.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Available upon request due to the personal data protection. Full text searching tools for the fonds are being currently developed.</p>
+        </accessrestrict>
+        <otherfindaid><p>Letocha J. – Letochová A. – Slavíková Z.: Okresní soud Hlinsko, 1959.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance files</subject><subject>the declarations of death</subject><subject>guardianship files</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1325</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Vlašim</titleproper>
+            <subtitle>District National Committee in Vlašim / NAD 1325</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Benešov</publisher>
+            <address>
+                <addressline>Pod Lihovarem 2145, Benešov 256 01</addressline>
+                <addressline> +420 311 000 101 </addressline>
+                <addressline>http://www.soapraha.cz/benesov/</addressline>
+                <addressline>soka-benesov@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1325</unitid>
+            <unittitle>Okresní národní výbor Vlašim</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>74,02 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Benešov</corpname>
+            </repository>
+            <unitdate>1945/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee in Vlašim; District National Committee in Benešov (1945 – 1990)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee in Vlašim / NAD 1325</p>
+        </odd>
+        <custodhist>
+            <p>The fonds of the Vlašim District National Committee was established in 1945-1960. It also includes documents of the political branch of the District National Committee in Benešov, which operated in Vlašim in May and June of 1945, before an independent district of Vlašim was established. The fonds was organized and inventoried in 1973-78.</p>
+        </custodhist>
+        <bioghist>
+            <p>The renewed district of Vlašim was established in June 1945 in the extent of the original judicial district of Vlašim. After the reorganization of districts in 1949, the district of Vlašim was established within new borders and became part of the Prague Region. The district national committee was headed by a chairman and a council. Its activities ended on June 30, 1960, when the district of Vlašim ceased to exist and its territory was embodied in the district of Benešov.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains books, files, and accounting material arising from the activities of the Vlašim District National Committee. Jews are explicitly mentioned in: 1945-1948 (1949) VI/1 National administrations - general provisions, circulars, regulations, checks and remuneration of national administrators; national administration of Jewish property; returning property to the original owners; the national administration of the Auersperg estate in Vlašim; national administration of the Český Šternberk estate (inv. no. 246). The following may also be relevant: Trades, commerce, industry - trade license in general, list of deregistered trades (inv. no. 247).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Books, II. Files, III. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Ludvíková O. – Neugebauerová M. – Procházková E. – Száková M.: Okresní národní výbor Vlašim 1945-1960 (1965). Inventář, 1981, 183 s., ev. č. 32.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%2867108%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Jewish property</subject><subject>National administration</subject><subject>Return of the property</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    

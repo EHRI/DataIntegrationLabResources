@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>283</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Hradec Králové</titleproper>
+            <subtitle>Archives of the City of Hradec Králové / NAD 283</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Hradec Králové</publisher>
+            <address>
+                <addressline>Škroupova 695/2, 500 02 Hradec Králové</addressline>
+                <addressline> +420 495 402 611</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-hradec-kralove/</addressline>
+                <addressline>podatelna.hk@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1225/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>283</unitid>
+            <unittitle>Archiv města Hradec Králové</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>243,85 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Hradec Králové</corpname>
+            </repository>
+            <unitdate>1225/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Archives of the City of Hradec Králové</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the City of Hradec Králové / NAD 283</p>
+        </odd>
+        <custodhist>
+            <p>The oldest documents have largely not been preserved, being destroyed in the years 1873-1875. The city privileges were handed over to the district archives in 1954, and in 1960 the first list of documents was made. The inventory of the fonds began shortly before the First World War and was completed with partial breaks in 1980. After the inventory, archival finding aids were created.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record dates from 1225. In 1851, Hradec Králové was declared an independent town. During the Nazi occupation, Hradec was transformed into the so-called Great Hradec Králové absorbing the adjacent small towns and suburbs. At the head of the city there was the city committee with the mayor. In 1945, the Revolutionary National Committee was established. Jewish settlement had existed there since the 14th century. The modern religious community was established in 1860, being restored after World War II. The first synagogue was built in the years 1888-1905, the new synagogue then in the years 1904-1905. Its interior was adapted for the State Scientific Library in 1960. In the city there is a cemetery founded in 1877.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds is very large and covers the entire history of the city of Hradec Králové. It contains official books, deeds, file material and accounting material. Relevant information can be assumed in the inventory numbers 2184 and 2598. This is an extract from the register where Jews are mentioned. The numbers 2184 (restitution of Jewish property) and 2598 deal with their property, i.e. these are documents from the period 1939-1949. It is possible to assume mentions of the Jews in inv. No. 381 (book of inheritance statements and divided estates [1841-1848/1878/]), inv. No. 444 (record book [1830-1855]), and inv. No. 458 (book of manorial land [1836-1877]). Books after 1850, inv. No. 2184 (restitution of Jewish property, more precisely the purchase of a villa in Plotiště, the purchase of a sawmill and a villa of Gustav Stein, restitution of Jewish property [1938-1948]); inv. No. 2598 (order on Jews, Jewish property [1939-1948]).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is arranged both in a numerical order and alphabetically: I. documents, a) documents concerning the city as a whole, b) documents concerning the city and its inhabitants II. books, a) books up to 1526, b) books up to 1850, c) books after 1850 (commemorative, official, and registration books) III. file material, a) auxiliary books, b) files IV. accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Rejmánek L. – Svatoňová S. – Wipler J.– Zimmermann P.: Archiv města Hradec Králové 1225-1945 (1962), I. Díl. Inventář, 1983, 301 s., ev. č. 210.</p></otherfindaid><otherfindaid><p>Rejmánek L. – Svatoňová S. – Wipler J. – Zimmermann P.: Archiv města Hradec Králové 1225-1945(1962). II. Díl. Inventář, 1983, 165 s., ev. č. 211.</p></otherfindaid><otherfindaid><p>Pavlík J.: Archiv města Hradec Králové 1518-1945. Dílčí inventář, 2002, 44 s., ev. č. 1689.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>restitutions</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    

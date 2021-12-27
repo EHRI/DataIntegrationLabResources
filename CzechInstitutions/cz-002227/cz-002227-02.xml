@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Hořovice </titleproper>
+            <subtitle>District Office of Hořovice / NAD 34</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Beroun</publisher>
+            <address>
+                <addressline>U Archivu 1633, Beroun 2, PSČ 266 01</addressline>
+                <addressline> +420 311 622 645</addressline>
+                <addressline>http://www.soapraha.cz/beroun/</addressline>
+                <addressline>soka-beroun@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>34</unitid>
+            <unittitle>Okresní úřad Hořovice </unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>128,4 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Beroun</corpname>
+            </repository>
+            <unitdate>1850/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Hořovice; District Office of Hořovice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Hořovice / NAD 34</p>
+        </odd>
+        <custodhist>
+            <p>The file material of the first four handling periods (1850-1909) was handed over to the archives of the Ministry of the Interior in Prague in 1932 after a previous accidental appraisal, and in 1960 the State Archives in Prague handed it over to the District Archives in Beroun. The other material was stored for a long time together with the registry of the Hořovice district council in the registry office of the district office and the District National Committee in Hořovice. In 1960, the entire fonds was concentrated in Beroun and organized, an inventory and a catalog of presidium files being made, too.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district governor's office in Hořovice began its activities in 1850. From 1855, the political administration was connected with the district court (the so-called Mixed District Office). In 1868, the district governor's offices were restored and the Hořovice district was established, including the former district offices in Beroun, Hořovice and Zbiroh. In 1918, the new state took over the political division of the country virtually unchanged, and only the designation of the district governor's office was changed to the political district administration. From 1928, the designation of the district office was re-introduced, but as early as 1942, the district office was abolished and the municipalities it previously administered were affiliated to the Beroun district. On June 1, 1945, the District National Committee was established in Hořovice.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arising from the activities of the district administration in Hořovice. It contains official books, files including census records, and accounting material. In general, references to the Jewish population can be found in Group VII Education and enlightenment, Religion, marital registry and fund matters. Registration books: trade agenda and lists of issued domicile certificates (1856-1924); Register of changes of religion 1906-1940. The fonds also includes census records from 1880, 1890, 1900 and 1910. Jews are explicitly mentioned in the following documents: Inv. no. 848 Jewish religious communities, Inv. no. 881 Jewish land records, Inv. no. 124 Record of heads of Jewish registries, Inv. no. 752 Matters of Roman Catholic, Jewish and Czechoslovak Churches 1921-1930; Inv. no. 847 Jewish religious communities 1940-1942. Presidium files contain rich material on Jewish history: Year 1866: Inv. no. 22/25/26 - Anti-Jewish storms; Inv. no. 67/1874, Inv. no. 112/1874 Leopold Weinstein - honors; Inv. no. 350/1875 Trader Hirsch - sale on credit; Year 1877 Inv. no. 250/269/216 Filling teacher posts; Inv. no. 255/1879 Fischer Reichmann Factory in Hořovice; Inv. no. 115/1883 Physicians Vilém Rissel and Leopold Weinstein; Inv. No. 191/1883 Nathan Schwarzkopf - district physician; Inv. no. 172/1886, Inv. no. 186/1886 and Inv. no. 172/1886 Jewish community in Liteň - construction of the synagogue; Inv. no. 56/1888 Isidor Stein of Pliskov; Inv. no. 224/1889 Sugar factory chemist Antonín Schillinger; Year 1890: Inv. no. 150 and 154 Anti-Jewish threats to Leopold Neumann of Beroun by workers, Inv. no. 174/1890 Anti-Jewish leaflets; Inv.no. 177/1890 Refusal to protect the Jewish community in Hořovice; Inv. no. 250/1892 Seligman Elbogen - imperial decoration; Inv. no. 47/1887 Jew Freund of Olešná, attempted assassination; Inv. no. 141/1893 Anti-Jewish poster; Inv. no. 150/1893 Dr. Emil Wiesenberger - Beroun, Inv. no. 327/1893 Anti-Jewish articles; Inv. no. 403/1893 Death of a maid serving to Jew Löwi in Beroun; Inv. no. 427/1893, Inv. no. 3/1898, Inv. no. 408/1908 Anti-Jewish manifestation in Beroun; Inv. no. 436/1893 Anti-Jewish riots, list of all Jews living in Beroun; Inv. no. 116/1894 The Czech-Jewish National Unity in Prague being dissolved, the local branch of the association in Hořovice is to cease its activities; Inv. no. 446/1899 Anti-Jewish riots in connection with the trial of Jew Hilsner; Inv. no. 92/1904 Thanks to the Jewish religious community in Hořovice; Inv. no. 235/1896 Overview of the religious affiliation of the population in the Zbiroh judicial district; Inv. no. 25/1866 and Inv. no. 26/1866, Inv. no. 364/1919 - Anti-Jewish riots and damage to property; Inv. no. 882/1939 Restrictions on contact between Jews and non-Jews; Inv. No. 1028/1939 List of holiday cottages belonging to Jews; Inv. No. 882/1939 Contact of Jews and non-Jews; Inv. no. 1028/1939 List of holiday cottages belonging to Jews; Inv. no. 1149/1939 Marking Jewish enterprises; Inv. no. 52/1940 Layoffs in Lowit and Tausig firm; Inv. no. 235/1940 Closing Jewish textile shops; Inv. no. 840/1940 Report on the attitude of Czechs to Germans and Jews; Inv. no. 931/1940 and 1339/1940 Restrictions on Jews; Inv. no. 1274 Jewish inn owners; Inv. no. 80/1941 Arresting Anna Poláková, Jew; Inv. no. 113/1941 Restrictions on Jewish companies; Inv. no. 826/1941 Forming groups of Jews to remove anti-German inscriptions; Inv. no. 1147/1941 Restriction of visits to exhibitions, etc. by Jewish persons; Inv. no. 121/1942 Jewish property.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The structure of the fonds: I. Books, A. administrative books, B. registration books; II. File material, A. registry finding aids, B. files; III. Accounting material</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Drtinová S.– Holeček J. – König J.: Okresní úřad Hořovice 1850-1942 (1956). Inventář, 1963, 99 s., ev. č. 1.</p></otherfindaid><otherfindaid><p>Drtinová S. – Holeček J. – Hrubá M.: Okresní úřad Hořovice – Presidiální spisy 1851-1917. Katalog, 1972, ev. č. 2.</p></otherfindaid><otherfindaid><p>Drtinová S. – HOLEČEK J.: Okresní úřad Hořovice – Presidiální spisy 1918-1938. Katalog, 1972, 124 s., ev. č. 3.</p></otherfindaid><otherfindaid><p>Drtinová S. – HOLEČEK J.: Okresní úřad Hořovice – Presidiální spisy 1939-1942. Katalog, 1972, 29 s., ev. č. 4.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28214860%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Domicile certificates, Anti-Jewish riots, anti-Jewish restrictions, Jewish property, anti-German inscriptions</subject></controlaccess>
+    </archdesc>
+</ead>    

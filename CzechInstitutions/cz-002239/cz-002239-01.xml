@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1146</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Ledeč nad Sázavou</titleproper>
+            <subtitle>Archives of the Town of Ledeč nad Sázavou / NAD 1146</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1432/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1146</unitid>
+            <unittitle>Archiv města Ledeč nad Sázavou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>28,76 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1432/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Ledeč nad Sázavou</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Ledeč nad Sázavou / NAD 1146</p>
+        </odd>
+        <custodhist>
+            <p>The municipal archives were originally managed by the Municipal Office, and after 1945 by the Local National Committee in Ledeč nad Sázavou. After the establishment of the Ledeč nad Sázavou District Archives in 1958, the administration of the Municipal Archives passed to that institution (in 1959) and from there in 1961 the materials were taken over by the Havlíčkův Brod District Archives. The land books were handed over to the State District Archives in Zámrsk.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first uncertain record of Ledeč can be found in a document from 1181. More records date back to the 13th century. From the second half of the 18th century, Ledeč was donated by Maria Theresa to the Order of Poor Noblewomen at Prague Castle and Ledeč remained under their administration until 1918. In 1790, the regulated municipality office was established there. In 1850, a district court was established there and Ledeč became the seat of the district governor's office which lasted under various names until 1945, when the district national committee was established. Jewish settlement was evidenced since the first half of the 16th century. A synagogue and a cemetery can be found in the town.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains deeds, books of patents, land registers, town finances, minutes of the council board and council, court documents (also disputes with Jewish residents). From the period up to 1848, a rich archive of the Jewish community has been preserved. The period since 1848: Jewish community, rabbis, teachers of religion, members of the community, fees, Czech-Jewish movement. The period of 1938-1945: decrees against Jews, mixed marriage of Deputy Mayor Josef Fenik.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into two basic groups: until 1850 and from 1850.The group until 1850 is divided as follows: 1. Deeds, 2. Books, 3. Files.The group since 1850: 1. Books, 2. Files, 3. Municipal finances. The files after 1850 are further subdivided as follows: auxiliary books; minutes of meetings - registry period 1850-1862; registry period 1862-1869; registry period 1870-1945.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Macek L. – Pospíchalová H.: Archiv města Ledče nad Sázavou 1443-1945, 1443-1945 (1948). Inventář, 1990, 14 s., ev. č. 19.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Religious Community</subject><subject>Czech-Jewish movement</subject><subject>anti-Jewish restrictions</subject></controlaccess>
+    </archdesc>
+</ead>    

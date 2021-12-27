@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1306</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Fischer, Josef, Doc., PhDr.</titleproper>
+            <subtitle>Doc. PhDr. Josef Fischer / NAD 1306</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1891/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1306</unitid>
+            <unittitle>Fischer, Josef, Doc., PhDr.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">Good</physfacet>
+                <extent>2,80 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1891/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Fischer Josef Doc. PhDr.; Fischerová-Balcarová Milena; Fischerová-Krásová Milena; Balcarová-Maříková Milena</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Doc. PhDr. Josef Fischer / NAD 1306</p>
+        </odd>
+        <custodhist>
+            <p>With Josef Fischer's daughters, PhDr. Olga Babulová and PhDr. Sona Nová-Fischerová, the staff of the State Central Archives/National Archives have been in long-term contact since 1981. His personal archive was handed over to the National Archives by a daughter of the originator in January 2000.</p>
+        </custodhist>
+        <bioghist>
+            <p>The philosopher, sociologist, publicist and translator, Doc. PhDr. Josef Fischer (2. 4. 1891 Kolín - 19. 2. 1945 Neubrandenburg) worked first as a high school teacher, and from 1928 he was an associate professor at Charles University in Prague. He was mainly interested in the philosophy of history. In the 1920s and 1930s, he was a leading representative and theoretician of the group of left-wing social democratic intellectuals associated around the Workers' Academy. In the 1930s, he was heavily involved in the anti-fascist movement. From 1937 to 1939, he was chairman of the Society of Friends of the Democratic Spain, and in the spring of 1938 he was one of the initiators of the manifesto We Shall Remain Faithful. In 1939-1941, he was a leading figure of the anti-Nazi resistance organisation, the Petition Committee We Shall Remain Faithful, and the main author of its programme document For Freedom and the New Czechoslovakia. He was involved in the editing and distribution of illegal magazines and other publications. In 1941, he was arrested by the Gestapo and imprisoned in the Pankrác Prison in Prague. At the end of 1944 he was sentenced to death in Berlin and executed in February 1945. His wife, Milena Fischerová-Balcarová (1905-1945), a Czech actress, reciter and broadcaster, who died in March of that year in the Ravensbrück concentration camp, also had taken an active part in the resistance.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The personal fonds of Doc. PhDr. Josef Fischer, a prominent Czech philosopher, sociologist, translator, and participant in the domestic anti-Nazi resistance, is a valuable source for understanding his personality and work, for understanding the intellectual and spiritual atmosphere of the interwar Czechoslovakia, and for studying the issues of the domestic non-communist resistance. The documents related to the resistance activities of the author, especially the letters and secret messages of doc. J. Fischer from prison are a valuable source. The fodns also contains the extensive correspondence from1914-1938, including, among others, the correspondence of doc. J. Fischer with important intellectuals of Jewish origin of that time, e.g. with Moritz Kornfeld (1852-1934), the owner of a spinning mill and dyeing house in Prague, a well-known expert on philosophical and religious texts; with Hugo Siebenschein (1889-1971), a literary historian, Germanist, university teacher and lexicographer; with Felix Weltsch (1884-1964), a Czech-Jewish journalist, writer and philosopher, one of the most influential Zionists in the Czech lands; and with Arnošt Kraus (1859-1943), a university professor of German studies, literary historian, theatre critic and translator from Scandinavian languages. The fonds also contains part of the editorial archive of the Student Magazine from 1923-1926, which was a magazine of the secondary school youth in the interwar Czechoslovakia. Leading representatives of Czechoslovak culture of Jewish origin also contributed to the magazine. This part of the fonds contains, for example, correspondence and messages of the editor of the Student Magazine, Jaroslav Sochor (1885-1941), addressed to J. Fischer. As far as the biographical archival material is concerned, we can point out the following Judaica in the fonds: a copy of Josef Fischer's birth certificate from the 1908 registry of the Jewish community in Kolín and a notice of Josef Fischer's resignation from the Jewish Church dated 3 March 1919.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Roughly arranged are: biographical archival materials; diary entries; correspondence; letters and secret messages of J. Fischer from prison; letters of Milena Fischerová (J. Fischer's wife) from prison; documents related to the scientific and literary activities of the author (dissertation, habilitation work, articles, poems, speeches, preparatory material); documents related to the public and political activities of J. Fischer; documentation (newspaper clippings, almanacs); documents relating to the family of Milena Balcarová-Maříková (mother of Milena Fischerová-Balcarová, mother-in-law of J. Fischer); correspondence of Hermina Fischerová-Krásová (mother of J. Fischer); photographs.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Jewish community in Kolín</corpname></controlaccess>
+        <controlaccess><subject>Zionism</subject><subject>czech philosophers</subject><subject>anti-Nazi resistance</subject><subject>non-communist resistance</subject><subject>correspondence</subject><subject>Student Magazine</subject></controlaccess>
+    </archdesc>
+</ead>    
+

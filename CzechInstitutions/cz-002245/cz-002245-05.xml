@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1273</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Jičín</titleproper>
+            <subtitle>Jičín District National Committee / NAD 1273</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1990</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1273</unitid>
+            <unittitle>Okresní národní výbor Jičín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>209,61 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1945/1990</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Jičín District National Committee</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Jičín District National Committee / NAD 1273</p>
+        </odd>
+        <custodhist>
+            <p>Throughout its activities, documents from the activities of the district national committee were stored in one registry, where they were sorted according to the valid file plans. From 1961, the documents intended for permanent storing were gradually handed over to the Jičín District Archives. In 1970, an inventory was made for the activities of the office carried out in 1945-1960, and in 1986 for the activities carried out in 1960-1976. In the years 1998-1999, the fonds was re-inventoried and supplemented by numerous additions. The files relating to land reforms and part of the financial files remain unprocessed.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District National Committee in Jičín was established in 1945 pursuant to a government decree, with the authority to manage all public affairs in the district. The main body was the plenary, and another body was the council, which managed the official apparatus of the national committees, its members chairing individual departments. After 1948, the actual performance of the administration was ensured by the District National Committee council, which consisted of the chairman, deputies, and officials. The District National Committee in Jičín was canceled in 1990.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the public administration of the Jičín district. The documents are divided according to subject groups (sections), the most important being the files included in the agenda from 1945-1948: Presidium files; III. Safety; VI. Trades, commerce and industry; from 1949-1950: 2. Internal administration; 3. Education; 5. Economy; and from 1951-1954: 1. Common economic affairs and the managing of the economy; 2. Internal administration. Direct references to Jews can be found in the following documents: Confiscation of Jewish property - applications for the lease of real estate; Confiscation, national administration (Fischer, Goliath, Picek); Property secured or acquired by the Czechoslovak state (the Goliaths); Jewish religious community. Documents relating to presidium files, minutes of plenary and the district national committee meetings, citizenship, population registration, confiscation and nationalization of private property should not be omitted within the research.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into six basic handling periods, with documents from the first three handling periods being relevant, i.e. 1945-1948, 1949-1950 and 1950-1954. The minutes of the meetings of the council, the board and the individual commissions are placed before the actual file agenda.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Heligrová M. – Krausová J. – Machová R.: Okresní národní výbor Jičín 1945-1990. Inventář, 1998-1999, 489 s., ev. č. 272.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish property</subject><subject>confiscation</subject><subject>national administration</subject></controlaccess>
+    </archdesc>
+</ead>    

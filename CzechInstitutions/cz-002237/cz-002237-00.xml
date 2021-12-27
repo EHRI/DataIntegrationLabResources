@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>21</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Praha-jih</titleproper>
+            <subtitle>District National Committee of Praha-jih / NAD 21</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive of Prague-West in Prague</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 257 710 492</addressline>
+                <addressline>http://www.soapraha.cz/praha-zapad/</addressline>
+                <addressline>soka-praha.zapad@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>21</unitid>
+            <unittitle>Okresní národní výbor Praha-jih</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>123,7 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive of Prague-West in Prague</corpname>
+            </repository>
+            <unitdate>1945/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Praha-venkov-jih; District National Committee of Praha – jih</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Praha-jih / NAD 21</p>
+        </odd>
+        <custodhist>
+            <p>After the liquidation of the office, the central registry office was transferred to the new District National Committee Praha-západ. Most of the documents were transferred to the District Archives of Praha-západ. Most of the fonds consists of file material. Official books have been preserved to a lesser extent. The fonds was organized, and an inventory was made to it in 1966. The fonds also contains documents concerning the expulsion of the Germans.</p>
+        </custodhist>
+        <bioghist>
+            <p>Founded in 1945, the District National Committee took over the agenda of the defunct District Office of Praha-venkov-jih. In 1949 the district was part of the Praha region and the name of the district was changed to Praha-jih. The district of Praha-jih was abolished and its territory became part of the district of Praha-západ in 1960.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds originated from activities of the District National Committee of Praha-venkov-jih and Praha-jih in 1945-1960. It contains documents arisen from activities of the district office. Information on Jews can be found in the following documents: inv. no. 106 Conversions of religion from 1945–1946 and 1948; inv. no. 235 Secret files: Jewish associations - investigation, no. 102/1951 (1951); inv. no. 268 Confiscation, call no. II/2 (1945–1948); inv. no. 271 Concentration camps on the territory of the Czechoslovak Republic during the occupation, call no. III/1-210 (1947); inv. no. 309 Jewish registers, call no. VII/1-17 (1946–1947); inv. no. 309 File material of the dissolved Jewish religious communities, call no. VII/1-64 (1947); inv. no. 319 Report of the Jewish population, call no. VII/25-1 (1946).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Official books, II. File material, III. Accounting material. The material is divided into three handling periods.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šmilauerová E.: Okresní národní výbor Praha-jih 1945-1960. Invetář, 1966, 146 s., ev. č. 13.</p></otherfindaid><otherfindaid><p>Quirenc J.: Okresní národní výbor Praha-jih – Presidiální spisy 1945-1949. Katalog, 2012, 80 s., ev. č. 49.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Conversions</subject><subject>Jewish associations</subject><subject>Concentration camps</subject><subject>Jewish populations</subject><subject>religious communities</subject></controlaccess>
+    </archdesc>
+</ead>    

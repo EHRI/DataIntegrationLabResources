@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>595</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv obce Tršice</titleproper>
+            <subtitle>Archive of the Municipality of Tršice / NAD 595</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Olomouc</publisher>
+            <address>
+                <addressline>U Husova sboru 10, 771 11, Olomouc, Czechia</addressline>
+                <addressline> +420 585 236 101</addressline>
+                <addressline>https://www.archives.cz/web/soka/olomouc/o_archivu/</addressline>
+                <addressline>podatelna@ol.archives.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1752/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>595</unitid>
+            <unittitle>Archiv obce Tršice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>2,95 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Olomouc</corpname>
+            </repository>
+            <unitdate>1752/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office in Tršice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archive of the Municipality of Tršice / NAD 595</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the fonds were deposited at the municipal office and in 1955 the Municipal and District Archives in Olomouc took over other parts of the fonds from the Local National Committee in Tršice. In 1989-1992, the fonds was organized and inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first mention of the municipality of Tršice dates back to 1282. The municipality was held by small nobility for several centuries, and its owners often took turns. The bishop of Olomouc acquired the Tršice estate in 1568, but immediately exchanged it with the Olomouc Chapter and the municipality became the center of the homonymous domain of the Olomouc Chapter which remained in the possession of the local lords until 1848. In 1526, Tršice was promoted to market town. Since 1850 Tršice was part of the political district of Hranice and in 1949 it was connected to the Olomouc district.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains relatively comprehensive documents of the self-government of the municipality of Tršice. The files of the fonds contains anti-Jewish decrees and regulations and lists of Jews deported in June 1942 to Terezín, all from 1941–1943.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Deeds; II. Official books (administrative, registering, and accounting, chronicles and memorial books); III. File material (registry finding aids and files); IV. Others (maps and plans).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koudela M.: Archiv obce Tršic 1752-1945 (1948). Inventář, 1991, 22 s., ev. č. 1354.</p></otherfindaid>
+        <otherfindaid><p>https://digi.archives.cz/da/searchlink?fcAr=227102010-0&amp;fcDb=10026</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Deportations</subject><subject>List of the Jews</subject><subject>anti-Jewish decrees</subject><subject>June 1942</subject></controlaccess>
+    </archdesc>
+</ead>    

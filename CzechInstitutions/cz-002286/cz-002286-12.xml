@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1308</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv Syndikátu novinářů, Praha </titleproper>
+            <subtitle>Archive of the Syndicate of Journalists, Prague / NAD 1308</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1877/1998    </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1308</unitid>
+            <unittitle>Archiv Syndikátu novinářů, Praha </unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>244 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1877/1998    </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Society of Czech Journalists; Pension Association of Czech Journalists (1872); Pension Fund for Widows and Orphans of the Association of Czech Journalists (1882-1948); Union of Czechoslovak Journalists (1902-1903); All-Slavic Union of Journalists (1898-1934); Central Union of Slavic Journalists (1902-1904); Union of Czech Journalists (1909-1920); Syndicate of Czech Journalists (1909-1911); Union of Czech Journalists in Vienna (1918-1929); Reichsgewerkschaft der deutschen Presse in der CSR (1919-1939); Syndicate of the Czechoslovak Daily Press (1919-1926); Unity of Czechoslovak Journalists (1920-1939); Czechoslovak Journalists' Community (1920-1925); Club of Czechoslovak Journalists (1925-1940); Union of Publishers of Daily Newspapers (1921-1943); Syndicate of Czechoslovak Journalists (1926-1939); National Union of Journalists (1939-1945); Presseklub (1939-1945); Oberkommando der Kriegsmarine (1941-1942); Institut fur Volkslehre und Nationalitätenkunde an der Deutschen Karls-Universität (1942-1945); Institut fur Zeitungswissenschaft an der Deutschen Karls-Universität (1939-1945); Union of Czech Journalists (1945-1948); Union of Czechoslovak Journalists (1947-1972); Central Office of Journalists of the Czechoslovak Republic (1967- 1972); Czechoslovak Union of Journalists (1972-1990); Czech Union of Journalists (1972-1990); Slovak Union of Journalists (1959-1985); Syndicate of Journalists of the Czech Republic (since 1990). </name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archive of the Syndicate of Journalists, Prague / NAD 1308</p>
+        </odd>
+        <custodhist>
+            <p>Efforts to maintain the records of journalistic associations and organizations can be traced back to the late 19th century. Most journalistic organizations tried to systematically store their records. In 1955, a collection campaign was held with the aim of gathering as many documents as possible from the activities of journalistic associations in the archives of the Union of Czechoslovak Journalists. Since 1956, the archive has been maintained in the library of the Institute of Journalistic Studies. In 1967, the Journalism Study Institute was attached to the Faculty of Education and Journalism of Charles University and the archive was handed over to the administration of the Union of Czech Journalists. After 1989, the archive came under the administration of the Syndicate of Journalists of the Czech Republic, which handed it over to the National Archives in 1999.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first Czech journalistic association (the Society of Czech Journalists) was founded on 18 November 1877. At the turn of 1938-1939, restrictions on public life and the efforts to control it led to the government's pressure to establish a unified journalistic organization - the National Union of Journalists (9 June 1939). After the end of the Second World War, the prevailing opinion was that the press must not divide and polarize society by stirring up controversy according to the interests of individual publishers but must serve the development of the "people's democratic" Czechoslovakia. Steps were taken to establish a professional organization of journalists under the name of the Union of Czechoslovak Journalists. The law made membership in the Union compulsory for all editors. In 1972, the Czechoslovak Union of Journalists was established as a unified national professional organization. The Syndicate of Journalists of the Czech Republic became the successor organization after 1989.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The archive, founded by the predecessor of the Syndicate of Journalists of the Czech Republic, is an extremely valuable collection of documents resulting from the activities of individual journalistic clubs, associations and organizations. The membership records include the files of members of journalistic organizations who were of Jewish origin or who were later persecuted for being Jewish. The fonds also includes the small estates of several journalists of Jewish origin: František Bauer (7 September 1897, Turnov - 1 October 1967, Prague), Oskar Butter (25 January 1886, Rohozec u Podbořany - 17 January 1943, Auschwitz) and Alfred Fuchs (23 June 1892, Prague - 16 February 1941, Dachau).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The documents stored in the fonds have been sorted according to the individual journalistic societies, clubs, associations and organizations and these have been arranged chronologically according to the date of their creation. The structure of the individual parts of the fonds is based on the surviving material. The most frequent items are minutes of meetings of various associations, correspondence and activity material. At the end of the fonds are included the documentation and personal papers of some important journalists, containing mainly personal documents, correspondence and manuscripts of articles. No archival finding aid has yet been made for the fonds.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Only temporary list of archival material is currently available for the fonds.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Czech journalistic association</corpname></controlaccess>
+        <controlaccess><subject>Jewish journalists</subject><subject>Journalist organilsations</subject><subject>Jewish origin</subject></controlaccess>
+    </archdesc>
+</ead>    
+

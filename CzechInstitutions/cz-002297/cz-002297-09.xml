@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>417</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Strakonice I</titleproper>
+            <subtitle>District Office of Strakonice I / NAD 417</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>417</unitid>
+            <unittitle>Okresní úřad Strakonice I</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>216,94 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Strakonice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Strakonice I / NAD 417</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was processed and inventoried in 1961 in the State Regional Archives in Třeboň and transferred to the State District Archives in Strakonice in the following years. Since the 1970s, the fonds has been gradually complemented. The documents from the first handling period have been preserved only in fragments. In 1969 and 1984, a catalog of presidium files I and II were made.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1848, the District Governor's Office of Strakonice was established including the judicial districts of Horažďovice and Strakonice. In 1855, the political and judicial agendas were merged, and the Strakonice Mixed District Office was established. In 1868, the District Governor's Office of Strakonice was restored, consisting of the judicial districts of Strakonice, Horaždovice and Volyně. In 1919, it was renamed the Strakonice District Political Administration and in 1928 the Strakonice District Office. In 1945, it was changed to the District National Committee of Strakonice.</p>
+        </bioghist>
+        <scopecontent>
+            <p>This large fonds contains documents from the regional political state administration and the judicial administration, dealing with the economic, political, social and cultural conditions of the former judicial district of Strakonice and Horažďovice. Most materials concerning Jews can be found in the affairs of the Jewish communities of Strakonice, Volyně and Horažďovice (rabbi affairs, elections to the Jewish religious community, model statutes of the Jewish community, Wilhemine vom Fürth Foundation, dissolution of the Jewish Women's Association in Strakonice, police travel permits, circulars on evacuation of Jews, transfer of property of Jewish communities - handover of the synagogue and the prayer house) from 1886-1946. The fonds also contains a large amount of information in the field of trades, shops and industries (trade concessions and their operation, construction and technical matters of factories, especially for the production of fezzes that belonged to Jewish families, the most important of which were the Fürths, Steins, Zuckers, and Weils). Valuable data can also be found in ​​police matters, such as the examination of Aryan origin, the list of Jews evicted before 1 July 1939, lists of the Jews of mixed race, various measures and decrees concerning the Jewish population during the Nazi occupation. In the presidium files I. 1854-1918 there are reports on events in the fez factories and on the activities of their owners. In the presidium files II. 1918-1945 one can find lists of Jews with Polish citizenship, a list of Jewish enterprises and their designation. Jewish issues are also to be found in registry matters - keeping Jewish registries 1886-1899, duplicates of Jewish registries 1933-1947.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The file handling of the fonds is divided into eleven periods, which are further divided thematically. The following subject groups are of decisive importance: the handling period 1855-1868: 11. Agriculture and industry; the handling period 1886-1899: 1. Court and state, 5. Religious affairs, 9. Construction and fire safety, 11. Agriculture and industry; the handling period 1900-1905: 5. Religious affairs; the handling period 1906-1912: 5. Religious affairs; the handling period 1913-1920: 5. Religious affairs, 15. Industry and trades; the handling period 1924-1932: 4. Citizenship, domicile, registry matters, 12. Financial affairs, state loans, subscriptions and bonds; the handling period 1933-1941: 4. Citizenship, domicile, registry matters, 5. Religious affairs, 8. Police affairs, 12. Financial affairs; the handling period 1942-1948: 3. Security, 6. Trades, shops and industries, 7. Education, religion, marriages, registry, and foundation matters;</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lesák V.: Okresní úřad Strakonice (1817) 1850-1945 (1960). Inventář, 1961, 259 s., ev. č. 9.</p></otherfindaid><otherfindaid><p>Marčal J.: Okresní úřad Strakonice – Presidiální spisy I. 1854-1918. Katalog, 1984, 56 s., ev. č. 793</p></otherfindaid><otherfindaid><p>Vačkářová J.: Okresní úřad Strakonice – Presidiální spisy II. 1918-1945. Katalog, 1969, 125 s., ev. č. 794</p></otherfindaid><otherfindaid><p>Marčal J.: Okresní úřad Strakonice – Pracovní úřad 1939-1945. Prozatímní inventární seznam, 1983, 4 s., ev. č. 797</p></otherfindaid><otherfindaid><p>Šeda O.: Sčítací operáty politického okresu Strakonice 1921. Prozatímní inventární seznam, 1966, 8 s., ev. č. 863.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/142595</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Wilhemine vom Fürth Foundation</corpname><corpname>Jewish Women's Association</corpname></controlaccess>
+        <controlaccess><subject>rabbi</subject><subject>elections</subject><subject>Jewish religious community</subject><subject>Jewish property</subject><subject>synagogue</subject><subject>prayer house</subject><subject>Jewish businesses</subject><subject>Nazi occupation</subject><subject>polish citizenship</subject></controlaccess>
+    </archdesc>
+</ead>    

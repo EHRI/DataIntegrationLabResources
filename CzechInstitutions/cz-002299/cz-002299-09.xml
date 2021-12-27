@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>73</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Veselí nad Lužnicí</titleproper>
+            <subtitle>District Court of Veselí nad Lužnicí / NAD 73</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>73</unitid>
+            <unittitle>Okresní soud Veselí nad Lužnicí</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>62,14 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1949 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Veselí nad LužnicMixed District Office Veselí nad Lužnicí</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Veselí nad Lužnicí / NAD 73</p>
+        </odd>
+        <custodhist>
+            <p>The District Court in Veselí nad Lužnicí began to operate on 10 June 1850 as part of the district of the Regional Court in Tábor and the District Criminal Court in Tábor. In the years 1855-1868, the so-called mixed district office was established (political and judicial agenda). In 1868, this mixed district office was abolished and only the district court remained in Veselí nad Lužnicí. The political agenda was taken over by the Veselí nad Lužnicí District Office. In 1949, the District Court in Veselí nad Lužnicí was abolished.</p>
+        </custodhist>
+        <bioghist>
+            <p>The documents of the Veselí nad Lužnicí District Court were transferred to the former Archives of the Ministry of the Interior in Prague in 1920 and 1941, and from there they were transferred to Třeboň in 1949-1952. More recent material was taken over from there in 1960 (after the abolition of the People's Court in Soběslav) and organized in the District Archives in Tábor.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the District Court of Veselí nad Lužnicí from the years 1850-1949 concerning the civil and criminal agendas, as well as the agenda for the establishment of new land registers. As part of the inheritance agenda (file no. D), there are the inheritance proceedings of Jews who died during World War II, for example in concentration camps, dealt with in 1946.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: Court agenda - Auxiliary books; Auxiliary books 1855-1897, 1898-1949; Files 1850-1855; 1855-1897; 1898-1923; 1924-1949; Land book agenda; Other.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kol. autorů: Okresní soud Veselí nad Lužnicí 1850-1949. Inventář, 1967, 38 s., ev. č. 40.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000040/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>inheritance agenda</subject></controlaccess>
+    </archdesc>
+</ead>    
+

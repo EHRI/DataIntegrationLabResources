@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>489</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Jistebnice</titleproper>
+            <subtitle>Archives of the Town of Jistebnice / NAD 489</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1388/1945 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>489</unitid>
+            <unittitle>Archiv města Jistebnice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>8,83 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1388/1945 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Jistebnice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Jistebnice / NAD 489</p>
+        </odd>
+        <custodhist>
+            <p>The fonds arose from the activities of the town self-government. Initially, the files were stored chronologically according to case numbers. In 1892, the registry was divided into seven subject groups marked with Roman numerals. The files were marked with a registration number, consisting of a Roman numeral, a year and an Arabic numeral. This system was used by the municipality until about 1928. The archives were located at the town hall and after the establishment of the local museum were joined with the museum. After 1950, the separate local archives were created in Jistebnice, but in 1964 it was abolished. The fonds was handed over to the Tábor District Archives and processed in 1964.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first report about Jistebnice comes from 1262, when it was owned by the Rožmberks. In 1549, Jistebnice was acquired by the Lobkowicz family, and from 1829 it was owned by the Nádherný family from Borutín. The Jewish religious community in Jistebnice existed in the 17th century and after 1930 it was connected with the Tábor Jewish community. Political district: 1850-1855 Sedlec, 1866 Sedlčany, 1880 Tábor. Judicial district: 1866 Sedlec, 1880 Tábor.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the local self-government, official books, files and accounting material. Information on Jews can be found in documents from 1628-1945. Before 1850, these only individual items (a printed patent against the Jews 1725; a testimony of the Jewish population in a dispute 1726; the interrogation of Eliška, a Jew, accused of selling stolen goods 1727). After 1850, these are registry matters, and from the period of WW II the persecution of Jews.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Fonds structure: I. Privileges; II. Books: A) before 1850, B) official books after 1850, C) auxiliary books after 1850; III. A) Individual items before 1850; III. B) Library agenda before 1850; III. C) files: from 1850-1891, 1892-1927, 1928-1945; IV. A) Accounting material before 1850; IV. B) Accounting material 1850-1945; V. Other.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Mácová L.: Archiv města Jistebnice 1388-1945 (1958). Inventář, 1970, 77 s., ev. č. 76.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000076/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Jewish registry matters, anti-Jewish persecution</subject></controlaccess>
+    </archdesc>
+</ead>    
+

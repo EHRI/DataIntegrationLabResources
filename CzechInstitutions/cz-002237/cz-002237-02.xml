@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>248</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv obce Řevnice</titleproper>
+            <subtitle> Archive of the Municipality of Řevnice / NAD 248</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive of Prague-West in Prague</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 257 710 492</addressline>
+                <addressline>http://www.soapraha.cz/praha-zapad/</addressline>
+                <addressline>soka-praha.zapad@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1620/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>248</unitid>
+            <unittitle>Archiv obce Řevnice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>14,64 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive of Prague-West in Prague</corpname>
+            </repository>
+            <unitdate>1620/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="rus">rus</language><language langcode="pol">pol</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Řevnice; National Committee of Řevnice</name>
+            </origination>
+        </did>
+        <odd>
+            <p> Archive of the Municipality of Řevnice / NAD 248</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was taken over by the District Archives Praha-západ in 1968, being completely unorganized. Part of the material was destroyed or damaged by improper storage. The file material was organized in 1971-72. An inventory was made for the fonds.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of the municipality dates back from the 12th century. Until 1848, the mayor and several councilors headed the municipality. It was divided between two lords. From 1849, Řevnice was an independent municipality belonging to the judicial district of Zbraslav. From 1850, the municipality was headed by the municipal committee, the executive bodies being the board and the mayor. In 1945, this administration was replaced by the local national committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The municipality archive originated from the activities of municipal administrative bodies. It contains deeds, official books, file material, and accounting material. Information on Jews can be found in the following documents: inv. no. 53 List of inhabitants 1851; inv. no. 57 List of inhabitants; inv. no. 66 List of issued laborers' books 1885–1920; inv. no. 78 Register of door-to-door salesmen 1898–1924; inv. no. 153 Refugees - support 1938–1939; inv. no. 154 Jews 1928–1945; Archive of the municipality of Řevnice - appendix I inv no. 9 Jews (possession of real estate) 1853.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Deeds; II. Official books: a) administration b) registration; III. File material; IV. Accounting material</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Quirenc J. – Šmilauerová E.: Archiv  obce Řevnice (1620) 1754-1945 (1951). Skupinový inventář (část), 1973, 22 s., ev. č. 84/1.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish inhabitants</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    

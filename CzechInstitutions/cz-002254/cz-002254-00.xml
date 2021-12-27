@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>20</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Český Brod</titleproper>
+            <subtitle>District Office of Český Brod / NAD 20</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kolin</publisher>
+            <address>
+                <addressline>Zahradní 278, Kolín IV, 280 02</addressline>
+                <addressline> +420 321 724 273</addressline>
+                <addressline>http://www.soapraha.cz/kolin/</addressline>
+                <addressline>soka-kolin@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1855/1947</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>20</unitid>
+            <unittitle>Okresní úřad Český Brod</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>182,29 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kolin</corpname>
+            </repository>
+            <unitdate>1855/1947</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Český Brod; Mixed district office of Český Brod; District Governor's Officeof Český Brod; District Political Administration Český Brod; District National Committee Český Brod</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Český Brod / NAD 20</p>
+        </odd>
+        <custodhist>
+            <p>In 1928, the files were transferred to the building of the abolished district council. The files were stored in a humid place and some were even burned in 1945. In 1953, the files and books were handed over to the Český Brod district archive. The fonds was organized in 1954–1955 and completed in 1960.</p>
+        </custodhist>
+        <bioghist>
+            <p>The districts were established in 1849 as a replacement for the original manor. After 1850, the district governor's office functioned as a political administration office. Between 1855 and 1868, there was a so-called mixed district office in the district, combining political and judicial administration. After the establishment of Czechoslovakia, the name was changed to the district political administration, and finally to the district office in Český Brod. In 1945, the district national committee was established in its place.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains files of the mixed district office until 1868, the district governor's office, the district office and, since 1945, the district national committee in Český Brod, including official books, files and accounting material. As far as Jewish issues are concerned, the fonds explicitly contains lists of the Jewish population up to 1942, matters of the Jewish community in 1906–1923 (inv. No. 915, call number 5/4), files on the Jewish Church (1923–1939, inv. No. 984, call number 5/4, 1939–1947, inv. No. 1088, call number 5/4), and information on the liquidation of Jewish shops in 1940-1944 (inv. No. 1162, call number 15/5). Attention should also be paid to documents concerning religious matters - Group 5 (1855-1898, 1905-1947), education (1855-1898), schools and the arts - Group 6 (1905-1947), citizenship, residence, matrimonial and register matters - Group 4 (1855 - 1898, 1905- 947), trade matters - Group 15, and also association and assembly matters - Group 18 (1905-1947).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into I. Books: A - Administrative books, B - Register books, II. File material: A. Registry finding aids, B. Files: 1. Presidium files 2. General registry, III. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bisinger Z.: Okresní hejtmanství český Brod – Presidiální spisy 1868-1918. Katalog, 1974, 268 s., ev. č. 1.</p></otherfindaid><otherfindaid><p>Okresní úřad Český Brod – Presidiální spisy 1918–1939. Katalog, 1969, 0 s., ev. č. 3.</p></otherfindaid><otherfindaid><p>Okresní úřad Český Brod – Presidiální spisy 1939-1945. Katalog, 1967, 56 s., ev. č. 4.</p></otherfindaid><otherfindaid><p>Bednařík K. – Hloušková H. – Miškovská Z.: Okresní úřad český Brod 1855-1956. Inventář, 1962, 170 s., ev. č. 5.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>lists of Jews</subject><subject>Jewish Religious Community</subject><subject>schools</subject><subject>citizenship</subject><subject>trade matters</subject></controlaccess>
+    </archdesc>
+</ead>    

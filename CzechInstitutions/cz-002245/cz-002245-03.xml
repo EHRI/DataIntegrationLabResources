@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>14</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Jičín</titleproper>
+            <subtitle>Archives of the Town of Jičín / NAD 14</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1361/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>14</unitid>
+            <unittitle>Archiv města Jičín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>131,12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1361/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="heb">heb</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Jičín; Magistrat of the City of Jičín; Municipal Office of Jičín; National Committee of Jičín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Jičín / NAD 14</p>
+        </odd>
+        <custodhist>
+            <p>Municipal books, deeds and other documents were kept at the town hall. Since the 1960s, the oldest documents had become part of the Museum Association's collections. An overview of the archival materials was published in 1905 in the Catalog of the Archives and Library of the Museum Association in Jičín. The museum and town hall parts were merged in the 1950s due to the establishment of the District Archives in Jičín. The fonds was organized in 1963 and today the additions are stored in the State District Archives in Jičín.</p>
+        </custodhist>
+        <bioghist>
+            <p>Jičín was first mentioned in sources in 1293, being called town in 1304. Jews probably lived there since ancient times, as evidenced by the records of the oldest town book from the 14th century. In 1651, they were granted various privileges. Disputes often erupted between the town administration, local Jews and the nobility over the payment of taxes and the protection fee. As part of the Josephine reforms, a so-called regulated municipality was established in Jičín, and an independent municipality office in 1849. The town was part of the political and judicial district of Jičín.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipality of Jičín (books, files, and accounting material) and maps the history of the city since the 14th century, which had included the Jewish population since times immemorial. Before 1850, there are mentions of Jews from Jičín especially in municipal books, namely court books, market books, council minutes and protocols, and the registers of the population. From the 19th century, a number of Jewish land books have been preserved in the fonds such as a market book with a list of newly built Jewish houses 1773-1831, books of seats in the synagogue 1808-1877, a book of debts 1799-1859, a book of receipts 1802-1861, a book of wills 1809-1837, a book of the last inventories 1798-1799, a book of estates 1799-1847, and a book of inheritance applications 1803-1837. There are also files related to the Jewish fund, the Kantor Foundation, refugees from Halič 1918-1920 and lists of Jewish families 1851-1894. The Holocaust period is mainly mentioned in a component of the disorganized part of the fonds, which contains various regulations, ordinances, correspondence, inventories, and related matters concerning Jewish property after the end of World War II. One should also take into consideration commemorative books of the town (chronicles) and appendices, descriptive sheets of the inhabitants, conscription sheets, minutes of the town council meetings, documents concerning self-employed persons and a war file of the population register.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: Mayor's office a municipality office 1361-1790 - I. Files, Handling periods according to J. Jakubiček, II. Books; Regulated municipality office 1791-1850 - Political books, Court books, Files, Accounting material; Municipal office 1850-1949 - Books, Files, Accounting Material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Johnová B. – Trejbal J.: Městský úřad v Jičíně 1361-1949. Inventář, 1963, 242 s., ev. č. 185.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>the Jewish fund</corpname><corpname>the Kantor Foundation</corpname></controlaccess>
+        <controlaccess><subject>Jewish land books</subject><subject>synagogue seats</subject><subject>last wills</subject><subject>inheritance</subject><subject>refugees from Galicia</subject><subject>Jewish property</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

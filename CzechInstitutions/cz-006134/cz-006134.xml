@@ -1,0 +1,380 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>569</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Správa hřbitovů a krematoria města Plzně</titleproper>
+            <subtitle>Administration of the Cemeteries and Crematorium, Pilsen / NAD 569</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Pilsen City Archives</publisher>
+            <address>
+                <addressline>Veleslavínova 19, Plzeň, 306 32, Czechia</addressline>
+                <addressline> +420 378 032 609</addressline>
+                <addressline>https://amp.plzen.eu/</addressline>
+                <addressline>maglic@plzen.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1806/2007</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>569</unitid>
+            <unittitle>Správa hřbitovů a krematoria města Plzně</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Moving Images</genreform> 
+                <physfacet type="condition">Good</physfacet>
+                <extent>19,91 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Pilsen City Archives</corpname>
+            </repository>
+            <unitdate>1806/2007</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Administration of the Cemeteries and Crematorium, Pilsen; The Funeral Service of the City of Pilsen; Technical services of the City of Pilsen </name>
+            </origination>
+        </did>
+        <odd>
+            <p>Administration of the Cemeteries and Crematorium, Pilsen / NAD 569</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the Funeral Service of the City of Pilsen were stored in the originator's place and partly in the file office of the Municipal Office of Pilsen. A large part of these documents was taken over by the Archives of the City of Pilsen in 1977, 1988 and in 1989. The last unprocessed acquisition was taken over by the Archives in 2013.</p>
+        </custodhist>
+        <bioghist>
+            <p>The funeral service of the city of Pilsen was established on 1 January 1913, taking over most of the agenda of funerals and cemetery administration. (The cremation agenda was included in 1926.) The Israeli department of the Central Cemetery was opened in 1898, was owned by the city, and was administered by the Jewish Religious Community in Pilsen for a flat fee to the city. Later, the organization was renamed the Administration of the Cemeteries and Crematorium of the City of Pilsen, and in 1960 this institute was incorporated into the Technical Services of the City of Pilsen. In 1992, it became independent again as the Administration of the Cemeteries and Crematorium of the City of Pilsen.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Funeral Service of the City of Pilsen and the Administration of the Cemeteries and Crematorium, namely official books, files and plans of Pilsen cemeteries. Judaica: The plan of the Christian and Jewish cemetery in Pilsen 1907 (Inv. No. 245), A list of buried Jews in the Israeli department of the Central Cemetery Pilsen 1940-1942 (Inv. No. 400.A/1), the establishment of the Israeli department of the cemetery from 1899 (Inv. No. 400.A/2), the correspondence with the Jewish Religious Community in Pilsen from 1896-1956, an attack against the Jewish prayer house on March 7, 1939, the Jewish gravedigger 1922-1950, a plan of the Jewish department in the Central cemetery [1890], a project of a new cemetery from 1896 (Inv. No. 400-401), a plan of the ceremonial hall in the new Jewish cemetery 1897 (Inv. No. 402-403) and other partial plans. Other Judaica will probably be part of the files of the Central Cemetery (Holocaust trains (Inv. No. 223), The records of the processing of stolen Jewish tombstones.)</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds was organized and the inventory created in 1983. The fonds is divided according to individual cemeteries, within them into official books, files, and plans. In the case of the cemetery of St. Nicholas film recordings have also been preserved. The inventory also includes an overview of the cemetery agenda of municipalities that had joined Pilsen over the years.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Douša J.: Pohřební služba města Plzně 1806-1970. Inventář, 1983, 78 s., ev. č. 58, sign. VII/2.</p></otherfindaid><otherfindaid><p>Prunerová, J.: Pohřební služba města Plzně 1920-1984. Prozatímní inventární seznam, 6 s., ev. č. 587, sign. VII/2A.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Cemetery</subject><subject>The List of buried Jews</subject><subject>Jewish Religious Community</subject><subject>Attack against the Jewish prayer house</subject><subject>Transports of the Jews</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1258/18</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Plzeň – Městský úřad Plzeň (registratura D a měst. úřady)</titleproper>
+            <subtitle>City Archives of Pilsen – Pilsen Municipal Office (D registry and municipal authorities) / NAD 1258/18</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Pilsen City Archives</publisher>
+            <address>
+                <addressline>Veleslavínova 19, Plzeň, 306 32, Czechia</addressline>
+                <addressline> +420 378 032 609</addressline>
+                <addressline>https://amp.plzen.eu/</addressline>
+                <addressline>maglic@plzen.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1880/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1258/18</unitid>
+            <unittitle>Archiv města Plzeň – Městský úřad Plzeň (registratura D a měst. úřady)</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>156,92 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Pilsen City Archives</corpname>
+            </repository>
+            <unitdate>1880/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Plzeň</name>
+            </origination>
+        </did>
+        <odd>
+            <p>City Archives of Pilsen – Pilsen Municipal Office (D registry and municipal authorities) / NAD 1258/18</p>
+        </odd>
+        <custodhist>
+            <p>The documents were taken over from the file office of the Pilsen Municipal National Committee by the Archives of the City of Pilsen in 1960 without further details. In 1975, most of the fonds was processed.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the regulated municipality and the creation of the self-governing municipal office in 1850, a new six-level system of material sorting of files was introduced into the municipal registry, each group being marked with abbreviations from German terms (Oecon, Pol-Jud-Poliz, Bau, Kontr, Mil, Kirch). This method of marking was replaced in 1880 by Roman numeral numbering. In 1942 it was replaced by a decimal system, and in 1949 a new decimal system was introduced. In 1864, departments were created within the municipal office, which were managed by individual members of the municipal council. In 1890, the agenda was divided into the mayor's office, an accounting department, and individual authorities. In addition, the city also had a number of institutes and companies, each larger company having its own administration. From the 1920s, the city agenda was gradually divided into three departments, which in 1938 included: 1. Central Directorate of the Administrative and Financial Services, 2. Central Directorate of the Technical Service and 3. Central Directorate of the Financial Service. In addition, there were city companies. In 1942, Pilsen became the fifth statutory city in Bohemia and Moravia. The year of 1945, when the National Committees were established, brought about a fundamental change in the city administration.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Municipal Office of Pilsen and municipal authorities and organizations. The fonds contains religious matters or Judaica: Documents and announcements of the Union of Czech Progressive Jews, the Makkabi Jewish physical education association, the Czech-Jewish National Association Pilsen, the Israeli Community Pilsen; collection of religious taxes, Jewish issues (securities, designation of non-Aryan shops, a list of Jewish merchants in Pilsen, 2%-fee from the Aryanization of companies, forced custody of the non-Aryan accounts, prohibitions - e.g. changes of residence, purchases in non-Aryan stores, accommodation in non-Aryan hotels), the statement of the Union of Czechs-Jews in the Czechoslovak Republic on the immigration of Germans-Jews, the construction of the Jewish cemetery in Doubravka, the occupation of the place of the gravedigger, the Charitable Association of the Israelites "Chevra Kadisha", a request of the Jewish Community in Pilsen to ensure the safety of the synagogue, the Central Cemetery - Jewish department (mainly construction affairs), Markus Salbat - head of the Jewish Community, advance payments to Jews, Mořic Schwarkopf, Zikmund and Marie Löwidt, Moritz Auer, Leopold Levit (tannery), David and Moric Eckstein, Moric Goldscheider, etc. Jewish residents of Pilsen can also be searched by surname or street in applications for residence in the files of the Descriptive Office of the Regional City of Pilsen, including the so-called residence certificates (circa 1850-1920), in the records of domicile right (residence certificates from circa 1900-1950), and also in the Protectorate Domicile Certificates according to streets and individual houses (circa 1939-1955).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains: I Matters of independent competence, II Matters of delegated competence, III Construction matters, IV Tax affairs, V Military affairs, VI Religious affairs.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Procházka V. – Bělohlávek M. – Gross M. – Šedivec V. – Zennerová M.– Dobrá H. – Novotná M.: Archiv města Plzeň, Registratura D a městské úřady 1880-1942. Inventář, 1975, ev. č. 571-578, sign. I/IV/D.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Makkabi Pilsen</corpname><corpname>Czech-Jewish National Association</corpname></controlaccess>
+        <controlaccess><subject>Jewish cemetery</subject><subject>Chevra Kadisha</subject><subject>Jewish question</subject><subject>The Union of Czech Progressive Jews</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>811/39</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Národní výbor města Plzně – Spolkové oddělení</titleproper>
+            <subtitle>National Committee of the City of Pilsen – Department of Associations / NAD 811/39</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Pilsen City Archives</publisher>
+            <address>
+                <addressline>Veleslavínova 19, Plzeň, 306 32, Czechia</addressline>
+                <addressline> +420 378 032 609</addressline>
+                <addressline>https://amp.plzen.eu/</addressline>
+                <addressline>maglic@plzen.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1864/1956 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>811/39</unitid>
+            <unittitle>Národní výbor města Plzně – Spolkové oddělení</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>18,32 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Pilsen City Archives</corpname>
+            </repository>
+            <unitdate>1864/1956 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>The District Office Pilsen; Pilsen Police Directorate; National Committee of the City of Pilsen; Pilsen District National Committee</name>
+            </origination>
+        </did>
+        <odd>
+            <p>National Committee of the City of Pilsen – Department of Associations / NAD 811/39</p>
+        </odd>
+        <custodhist>
+            <p>The documents were originally stored in the registry of the District Office, later at the succeeding supervisory authorities. The Archives of the City of Pilsen took over this agenda gradually, most of it by January 1958. The files of individual associations were put into folders. A card register was used for orientation. It was sorted into several groups according to names (associations, unions, clubs) and contained the basic information about individual associations and call numbers.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the adoption of Acts No. 134 and 135/1867 (Association and Assembly Act), the associations were subject to the supervision of the Pilsen District Office, later to the Pilsen Police Directorate and the NB Pilsen District Headquarters, which became part of the National Committee. After 1949, a Unified National Committee was established, where the supervisory authority was the 3rd Department - Association Department, later National Committee of the City of Pilsen - Department of Internal Affairs. The associations sent to the supervisory body the statutes, changes, reports on officials and on all events except for the Board meetings. (The file of the B’nai B’rith Lodge, liquidated during the Protectorate, also contains interrogations of their officials.) Most of the associations ceased to exist by 1956 under Act No. 68/1951.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains a register agenda of associations managed by the Pilsen District Office, then by the Pilsen Police Directorate, then by the Pilsen District National Committee and then by the National Committee of the City of Pilsen. The transfer of the association agenda between the individual originators was linked with the legal development of the position of these originators. Primary Judaica: The Jewish Women Society in Pilsen 1871-1945 (Inv. No. 708), The Association for the Education of Poor Jewish Orphans and Fellow Believers in General 1880-1946 (Inv. No. 710), The Association of Jewish Women and Girls in Pilsen 1909-1946 (Inv. No. 712), The Jewish Swimming Club Pilsen 1937-1946 (Inv. No. 714-), The Jewish Women's Organization Pilsen 1935-1946 (Inv. No 718), The Zionist People's Association 1902-1946 (Inv. No. 722), The Israelite Charitable Association for Free Catering in Pilsen 1900-1950 (Inv. No. 724), The Israelite Charitable Association Chevra-Kadisha 1864-1952 (Inv. No. 726), "Makkabi" Jewish Sports Association in Pilsen 1940-1956 (Inv. No 728), The Jewish Center of Social Care in Pilsen 1924-1941 (Inv. No. 730), The Jewish Religious Community in Pilsen 1949-1958 (Inv. No. 1123), The Czech-Jewish National Association, branch in Pilsen 1893-1943 (Inv. No. 1238), The New-Zionist Organization in Czechoslovakia, branch in Pilsen 1939 (Inv. No. 1709) , The Jewish Sports Club "Hagibor" 1921-1927 (Inv. No 1825), The Jewish Scout Association with the name "Brit Trumpeldor" for Czechoslovakia, Pilsen 1930-1934 (Inv. No. 1848), The Central Zionist Union for Czechoslovakia 1936-1939 (Inv. No. 1862), Ortsgruppe Pilsen des Jüdischen Wanderbundes „Blau-Weiss“ in Prague, The Association of Jewish Youth "Techelet-Lavan", Jewish Scout Association in Pilsen 1917-1932 (Inv. No. 1939), The Jewish Women's Union for Cultural Work in Palestine Pilsen 1924-1939 (Inv. No. 2084), Israelitischer humanitätsverein "Union“ B’nai B’rith in Pilsen (Union I.O.B.B. lodge) 1892-1939 (Inv. No. 2139).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains a register agenda of associations. In the early 1960s, the Archives of the City of Pilsen organized the fonds and made a partial inventory. The original system of orientation in the files according to call numbers was retained, but to facilitate the searches, a register was made, divided into 20 groups and further into subgroups. Furthermore, a local register was made, too. In these, the associations are listed alphabetically, the files being marked with inventory numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bělohlávek M. – Ressler, M.: Národní výbor města Plzně. Spolkové oddělení 1864-1956 (1974). Dílčí inventář, 1974, 300 s., ev. č. 24, sign. I/13.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Chevra-Kadisha</corpname><corpname>Makkabi</corpname><corpname>The Jewish Religious Community</corpname><corpname>The Czech-Jewish National Association</corpname><corpname>Hagibor</corpname><corpname>The Jewish Scout Association Brit Trumpeldor</corpname><corpname>The Central Zionist Union for Czechoslovakia</corpname><corpname>The Association of Jewish Youth "Techelet-Lavan"</corpname><corpname>Jewish Scout Association</corpname><corpname>The Jewish Women's Union for Cultural Work in Palestine</corpname><corpname>Union“ B’nai B’rith</corpname></controlaccess>
+        
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>13</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Plzeň</titleproper>
+            <subtitle>Pilsen District Office / NAD 13</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Pilsen City Archives</publisher>
+            <address>
+                <addressline>Veleslavínova 19, Plzeň, 306 32, Czechia</addressline>
+                <addressline> +420 378 032 609</addressline>
+                <addressline>https://amp.plzen.eu/</addressline>
+                <addressline>maglic@plzen.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>13</unitid>
+            <unittitle>Okresní úřad Plzeň</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>241,7 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Pilsen City Archives</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Pilsen District Office; The Political Administration of the district of Pilsen, Okresní hejtmanství Plzeň</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Pilsen District Office / NAD 13</p>
+        </odd>
+        <custodhist>
+            <p>The documents were originally stored in the registry of the District Office. Probably in 1941, the oldest part of the files was taken over by the Archives of the Ministry of the Interior in Prague and later transferred to the Regional Depository in Plasy and then to the State District Archives Pilsen. The second part of the files was moved in 1951 to the cellar of the town hall (JNV Pilsen) and in 1956 it was taken over by the State District Archives Pilsen. In 1963, the archive materials were taken over by the Archives of the City of Pilsen.</p>
+        </custodhist>
+        <bioghist>
+            <p>After 1848, the public administration was nationalized and the Pilsen District Office was established in Pilsen in 1850, which changed its name and territorial competence several times until 1945. In 1855, a purely political District Office was established (not a political-judicial one). In 1866, after a reorganization (reduction), the political district of Pilsen included the judicial districts of Pilsen, Rokycany, and Blovice. In 1868, the Pilsen District Governor's Office was established. In 1896, the judicial district of Rokycany was removed from the Pilsen District Office. In 1918, the Pilsen District Governor’s Office was renamed the District Political Administration and in 1928 it was renamed the Pilsen District Office.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the district of Pilsen, which included the judicial districts of Pilsen, Rokycany and Blovice. The fonds includes the census sheets from 1869, 1880, 1890, 1900 and 1910, the agenda of citizenship, the association cadaster, the register of trades and Judaica: Jewish communities, mainly in Spálené Poříčí, Štěnovice, Radnice, Rokycany, Pilsen, Blovice - correspondence, delimitation of districts, registry matters, election constituencies, list of families, statuses of Jews municipalities, reports on the number of members, maintenance of rabbis and teachers of religion, persons in religious tax arrears, annual reports, service salaries, compensation payments, budgets, linguistic equality of Czech, lists of members (including tax groups), income and expenses, establishment of rabbis, reports of direct taxes, minutes of meetings, increase of religious tax due to the increased living costs, common rabbinates, election of alternates to the representation of the land (and provincial) Jews in Bohemia, voter lists, mergers of Jewish municipalities, a report on the election of the chairman of provincial Jews, elections of representatives/officials of Jewish communities, the establishment of a poorhouse, requests from individuals of the Oberlandrat Pilsen for the purchase of the non-Aryan/Jewish property (cars, furniture), sale of shares, lists of Jewish property -individual cases, the, establishment of a hostel for refugees from the Sudetenland Jewish communities Pilsen, the enforcement of religious taxes, forced administration (among others Leopold Treichlinger from Štěnovice or Adolf and Ida Khon from Nekmíř), a file of residence application sheets 1938-1939, persons: Leopold Lewit and his son Jakub Kraus (tanneries), H. Kussi and his son (Kalikov mill), Rudolf Löwidt (Číčov warehouse), František Adler (general store), Egon Gellert (the Piete paper mill) ), reports on the migration of Jews from the German Reich, anti-Jewish leaflets, etc.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains: I Books: a) administrative books b) registration books, II File material A) Registry finding aids - for presidium files, - for general registry, presidium files and general files (10 handling periods), III Accounting material, IV Associated agendas.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Fabián F.: Okresní úřad Plzeň 1850-1945. Inventář, 1959, 133 s., ev. č. 2, sign. II/3.</p></otherfindaid><otherfindaid><p>Němec V.: Presidiální spisy Okresního úřadu v Plzni 1918-1938. Katalog, 1958, 113 s., ev. č. 3, sign. II/3a.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Religious Community Plzeň – Štěnovice – Spálené Poříčí – Radnice - Rokycany - Blovice</subject><subject>ordination of a Rabbi</subject><subject>list of members</subject><subject>Jewish property</subject><subject>rabbinate</subject><subject>elections</subject><subject>Treichlinger</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>198</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Pomocná služba Židovské obce náboženské, Plzeň</titleproper>
+            <subtitle>Auxiliary Service of the Jewish Religious Community, Pilsen / NAD 198</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Pilsen City Archives</publisher>
+            <address>
+                <addressline>Veleslavínova 19, Plzeň, 306 32, Czechia</addressline>
+                <addressline> +420 378 032 609</addressline>
+                <addressline>https://amp.plzen.eu/</addressline>
+                <addressline>maglic@plzen.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1941/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>198</unitid>
+            <unittitle>Pomocná služba Židovské obce náboženské, Plzeň</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>0,07 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Pilsen City Archives</corpname>
+            </repository>
+            <unitdate>1941/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Auxiliary Service of the Jewish Religious Community Pilsen</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Auxiliary Service of the Jewish Religious Community, Pilsen / NAD 198</p>
+        </odd>
+        <custodhist>
+            <p>It is not known when the documents got to the Archives of the City of Pilsen. The fonds was organized in June 1960.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Auxiliary Service of the Jewish Religious Community of Pilsen was established on January 6, 1942. Its task was to help with including citizens in transports to concentration camps - assistance in cooking, sewing, packing the necessary things, and babysitting children under 8 years of age during preparations. The service worked 24 hours a day. A collection service was also organized to take luggage to the assembly point. The Jews of Pilsen were summoned gradually hour by hour since January 9, 1942 and were gathered before being transported to Terezín in a gym in today's Štruncovy sady. From Terezín they were further transported to extermination camps.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Auxiliary Service established by the Jewish Religious Community in Pilsen. According to the instructions from its headquarters, it organized an auxiliary service unit, which assisted in the transport of members of the religious community to Terezín. Several documents from this auxiliary service unit have been preserved providing an overview of the organization of transports and fascist crimes. It contains a circular on the organization of assistance in the inclusion of citizens in the transport of 6 January 1942, an explanation of the official order for the inclusion in a transport of 1941, a 1941 property declaration form, a summons and a certificate of the collection of official forms associated with the transport of January 10, 1942 (the Zentner family, Hedvika Hermannová, H. Wünschová), lists of persons, damaged documents from 1942, a report on missing data in the declaration of property - the 1942 files, and an ad hoc copy of the report on Jewish movable property in Pilsen in 1939-1943, including a description of the fate of the Jewish Religious Community in Pilsen after 1939 (a report of ÚNV Pilsen -Administration of the National Movable Property) of 5 May 1947.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds was organized in 1960. It is only a fragment of the originator's documents.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bělohávek M.: Pomocná služba židovské obce náboženské Plzeň 1941-1942 (1947). Prozatímní inventární seznam, 1960, ev. č. 345, sign. V/11.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>The Auxiliary Service of the Jewish Religious Community</corpname></controlaccess>
+        <controlaccess><subject>List of Jews</subject><subject>Deportations</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    

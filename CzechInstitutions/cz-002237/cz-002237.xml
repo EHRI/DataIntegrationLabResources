@@ -1,0 +1,456 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>21</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Praha-jih</titleproper>
+            <subtitle>District National Committee of Praha-jih / NAD 21</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive of Prague-West in Prague</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 257 710 492</addressline>
+                <addressline>http://www.soapraha.cz/praha-zapad/</addressline>
+                <addressline>soka-praha.zapad@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>21</unitid>
+            <unittitle>Okresní národní výbor Praha-jih</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>123,7 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive of Prague-West in Prague</corpname>
+            </repository>
+            <unitdate>1945/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Praha-venkov-jih; District National Committee of Praha – jih</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Praha-jih / NAD 21</p>
+        </odd>
+        <custodhist>
+            <p>After the liquidation of the office, the central registry office was transferred to the new District National Committee Praha-západ. Most of the documents were transferred to the District Archives of Praha-západ. Most of the fonds consists of file material. Official books have been preserved to a lesser extent. The fonds was organized, and an inventory was made to it in 1966. The fonds also contains documents concerning the expulsion of the Germans.</p>
+        </custodhist>
+        <bioghist>
+            <p>Founded in 1945, the District National Committee took over the agenda of the defunct District Office of Praha-venkov-jih. In 1949 the district was part of the Praha region and the name of the district was changed to Praha-jih. The district of Praha-jih was abolished and its territory became part of the district of Praha-západ in 1960.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds originated from activities of the District National Committee of Praha-venkov-jih and Praha-jih in 1945-1960. It contains documents arisen from activities of the district office. Information on Jews can be found in the following documents: inv. no. 106 Conversions of religion from 1945–1946 and 1948; inv. no. 235 Secret files: Jewish associations - investigation, no. 102/1951 (1951); inv. no. 268 Confiscation, call no. II/2 (1945–1948); inv. no. 271 Concentration camps on the territory of the Czechoslovak Republic during the occupation, call no. III/1-210 (1947); inv. no. 309 Jewish registers, call no. VII/1-17 (1946–1947); inv. no. 309 File material of the dissolved Jewish religious communities, call no. VII/1-64 (1947); inv. no. 319 Report of the Jewish population, call no. VII/25-1 (1946).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Official books, II. File material, III. Accounting material. The material is divided into three handling periods.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šmilauerová E.: Okresní národní výbor Praha-jih 1945-1960. Invetář, 1966, 146 s., ev. č. 13.</p></otherfindaid><otherfindaid><p>Quirenc J.: Okresní národní výbor Praha-jih – Presidiální spisy 1945-1949. Katalog, 2012, 80 s., ev. č. 49.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Conversions</subject><subject>Jewish associations</subject><subject>Concentration camps</subject><subject>Jewish populations</subject><subject>religious communities</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>46</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Praha-venkov</titleproper>
+            <subtitle>District Office of Praha-venkov / NAD 46</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive of Prague-West in Prague</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 257 710 492</addressline>
+                <addressline>http://www.soapraha.cz/praha-zapad/</addressline>
+                <addressline>soka-praha.zapad@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1927/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>46</unitid>
+            <unittitle>Okresní úřad Praha-venkov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>178,51 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive of Prague-West in Prague</corpname>
+            </repository>
+            <unitdate>1927/1942</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Smíchov; District Office of Praha-venkov; District Office of Praha-venkov-jih; District National Committee Praha-jih. </name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Praha-venkov / NAD 46</p>
+        </odd>
+        <custodhist>
+            <p>The office's registry files were kept in the office building. Registries from the former District Political Administration in Smíchov, Karlín and Zbraslav were also transferred there. In the 1920s, part of the office was handed over to the Archives of the Capital City of Prague. The registry of the Smíchov and Karlín District Councils was almost completely destroyed. Part of the documentation was destroyed, and part was taken over in 1960 by the District Archives of Praha-východ, and later the District Archives of Praha-západ. In 1963, the documents of the so-called economic department were added to the fonds. The fonds was organized in 1959-1961. An inventory was made in 1963.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district political administration for Praha-venkov started its activities in 1927. It originated from the rest of the political districts of Smíchov and Karlín. In 1928, the Praha-venkov political district was divided into 4 judicial districts. (Zbraslav, Praha-západ, Praha-sever, Praha-východ). In 1928, the name was changed to the District Office of Praha-venkov. It was headed by the district governor. The office was abolished in 1942, and its territory was divided into two new administrative units, Praha-venkov-jih and Praha-venkov-sever.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arising from the activities of the district office. It contains official books, file material, accounting material and associated agenda. Documents concerning Jews can be found in the following categories: Presidium files - no. 1428/5 Settlement of Polish Jews, 1933; no. 1045 Anti-Jewish slogans on the railway bridge in Trnová, 1934; no. 120 The use of Jews in German intelligence, 1936; no. 1104 German emigrants of Jewish origin in Všenory, 1938; 1651 Anti-Jewish activities in Zbraslav, 1938; no. 282 Jewish members of the civil service, 1939; no. 450 Files concerning politically active Jewish emigrants, 1939; no. 826 Disciplinary proceedings with Ing. Václav Řepa for his slow compilation of a statement of Jewish agricultural and forest property, 1939; no. 921 Jewish enterprises and shops in the district of Praha-venkov, 1939; no. 1044 Eviction of Jews, 1939; no. 1295 Imposition of forced local residence on all Polish Jews from the age of 16, 1939; no. 1363/1939, no. 1324/1940 and no. 1993/1940 Anti-Jewish articles in the Vlajka journal, 1939; no. 349 Detecting Jewish cottages, 1940; no. 1346 Housing situation and behavior of Jews in Řevnice, 1940; no. 1503 Persecution of Jews in Roztoky, 1940; no. 1747 Marking of Jewish shops and factories, 1940; no. 165 Exclusion of Jews from fishing, 1941; no. 294 Prohibition of books authored by Jews and of the Scout Union, 1941; no. 562 Investigation of contacts of municipal employees in Libčice with the Jewish population, 1941. Restrictive measures against Jews concerning their visiting various places, and setting hours for Jews, can be found in the following files: no. 1045/1940; no. 319/1941; no. 830/1941; no. 881/1941; no. 1591/1941; no. 1551/1941; no. 853 Putting flags on the houses where Jewish families live (an inquiry), 1941; no. 1232 Jewish half-breeds and civil servants with wives or husbands who are Jews, 1941; no. 1479 Employment of Jews by Aryans and Aryan maids by Jews, 1941. Books and files: Religious conversions, inv. no. 92-97 (1931-1939); List of conscripts (year of birth 1908, 1909, 1012, 1914, 1915, 1916, 1917); Documents concerning Jewish registers (1925-1936), inv. no. 357; Documents concerning Jews from the years of 1938-1939, inv. no. 546; A large number of documents concerning Jews from 1940-1942, inv. no. 712; inv. no. 362 Various information about smaller Jewish communities in the vicinity of Prague, their cancellation, modification of districts and internal administration of municipalities from 1927-1936 inv. no. 737 Documents from 1940-1942 concerning Jewish enterprises. Relevant are also the following files: inv. no. 361 Representation of rural Jewry (1931-1934); inv. no. 361 Slaný, Kralupy nad Vltavou and Ješín (1933); inv. no. 367 Restrictions on Jewish Immigration (1930); inv. no. 367 Anti-Jewish slogans - slogans painted on railway pillars (1934); inv. no. 370 Třebotov - Jewish funeral fraternity (1933); inv. no. 483 Jews - members of craft and trade organizations (1939); inv. no. 483 Non-Aryan tradesmen (1939); inv. no. 503 Congress of Jewish Scouts in Aloisov (1937); inv. no. 511 Conversion from the Jewish religious community to the Catholic Church (1939); inv. no. 525 Jewish religious community of Zbraslav - election (1937); inv. no. 619 Forced Administration of Jewish Property (1939); inv. no. 660 Confiscation of Jews' radio sets (1937-1939); inv. no. 688 Confiscation of Jews' radio sets (1940); inv. no. 715 List of books and brochures of objectionable content (1940); inv. no. 736 Jews - restrictive ordinances (1941); inv. no. 760 Jewish religious community of Zbraslav - community management (1941); inv. no. 760 Evaluation of the Jewish Prayer House in Davle (1941); inv. no. 761 The number of Aryan and non-Aryand population, no. VII/34-13 (1940); no. 761 Luisa Austerlitzová - additional record of death (1940–1941); inv. no. 780 Jewish religious community in Prague - application for the granting of a medical-police permit for the establishment of a hospital for the lung patients in Jíloviště (1940); inv. no. 781 List of cemeteries and administration of these cemeteries (1940).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into official books (administration and registration), file material (registry finding aids and files), 3. accounting material, and 4. associated agenda.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šmilauerová E.: Okresní úřad Praha-venkov 1927-1942. Inventář, 1963, 124 s., ev. č. 65.</p></otherfindaid><otherfindaid><p>Quirenc J.: Okresní úřad Praha-venkov – Presidiální spisy 1929-1938. Catalogue, 1970, 166 s., ev. č. 81.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Polish Jews</subject><subject>anti-Semitism</subject><subject>German Jewish emigrants</subject><subject>Jewish emigrants</subject><subject>Jewish enterprises and shops</subject><subject>Religious conversions</subject><subject>Chevra Kadisha</subject><subject>Jewish Scouts</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>248</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv obce Řevnice</titleproper>
+            <subtitle> Archive of the Municipality of Řevnice / NAD 248</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive of Prague-West in Prague</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 257 710 492</addressline>
+                <addressline>http://www.soapraha.cz/praha-zapad/</addressline>
+                <addressline>soka-praha.zapad@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1620/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>248</unitid>
+            <unittitle>Archiv obce Řevnice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>14,64 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive of Prague-West in Prague</corpname>
+            </repository>
+            <unitdate>1620/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="rus">rus</language><language langcode="pol">pol</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Řevnice; National Committee of Řevnice</name>
+            </origination>
+        </did>
+        <odd>
+            <p> Archive of the Municipality of Řevnice / NAD 248</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was taken over by the District Archives Praha-západ in 1968, being completely unorganized. Part of the material was destroyed or damaged by improper storage. The file material was organized in 1971-72. An inventory was made for the fonds.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of the municipality dates back from the 12th century. Until 1848, the mayor and several councilors headed the municipality. It was divided between two lords. From 1849, Řevnice was an independent municipality belonging to the judicial district of Zbraslav. From 1850, the municipality was headed by the municipal committee, the executive bodies being the board and the mayor. In 1945, this administration was replaced by the local national committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The municipality archive originated from the activities of municipal administrative bodies. It contains deeds, official books, file material, and accounting material. Information on Jews can be found in the following documents: inv. no. 53 List of inhabitants 1851; inv. no. 57 List of inhabitants; inv. no. 66 List of issued laborers' books 1885–1920; inv. no. 78 Register of door-to-door salesmen 1898–1924; inv. no. 153 Refugees - support 1938–1939; inv. no. 154 Jews 1928–1945; Archive of the municipality of Řevnice - appendix I inv no. 9 Jews (possession of real estate) 1853.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Deeds; II. Official books: a) administration b) registration; III. File material; IV. Accounting material</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Quirenc J. – Šmilauerová E.: Archiv  obce Řevnice (1620) 1754-1945 (1951). Skupinový inventář (část), 1973, 22 s., ev. č. 84/1.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish inhabitants</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>20</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Jílové; District Office of Praha-venkov-jih (1942 - 1945); The tax office Jílové; District National Committee Jílové; District National Committee Praha-venkov (1945 - 1960)</titleproper>
+            <subtitle>District National Committee of Jílové / NAD 20</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive of Prague-West in Prague</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 257 710 492</addressline>
+                <addressline>http://www.soapraha.cz/praha-zapad/</addressline>
+                <addressline>soka-praha.zapad@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>20</unitid>
+            <unittitle>Okresní národní výbor Jílové; District Office of Praha-venkov-jih (1942 - 1945); The tax office Jílové; District National Committee Jílové; District National Committee Praha-venkov (1945 - 1960)</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>134,44 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive of Prague-West in Prague</corpname>
+            </repository>
+            <unitdate>1945/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Jílové</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Jílové / NAD 20</p>
+        </odd>
+        <custodhist>
+            <p>The fonds originated from activities of the District National Committee of Jílové and Praha-východ in 1945-60. Most of the files were concentrated in the office registry, from where a part was transferred in 1952 to the district archives. After the abolition of the office in 1960, the written material of the District National Committee of Jílové was moved to the loft, where it was considerably damaged and part of it was lost. Subsequently, another part of the documents was transferred to the district archives. The remainder was moved there in 1970-73. The material was arranged and an inventory was created to it.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district of Jílové was had been part of the Praha-venkov-jih district since 1942. It became independent in 1945. In 1958, the name of the district was changed from Praha-východ to the Jílové district, and the District National Committe was also moved there from Prague. In 1960, the majority of the district was incorporated into the district of Praha-západ, several municipalities being attached to other districts.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arising from activities of the District Office, and later of the National Committee of Jílové. It contains official books, file material and accounting material. Information on Jews can be found in the following documents: inv. no. 242 Evictions of German persons of Jewish origin and religion, call no. III/26-60 (1946); inv. no. 284 Abandoned mortgage claims of Jewish members - handover of written materials, call no. VII/25-4 (1947); inv. no. 307 Redressing wrongs pursuant to Decree No. 53/1945 Sb.: payment of salaries of Jewish recipients to the former center for Jewish eviction, call no. VIII/9 (1947); inv. no. 320 Jewish property confiscated by the German Empire, call no. VIII/23 (1946); inv. no. 771 Jewish associations - a negative message, call no. 262 (1952).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into I. Books, II. File material (registry finding aids and files) III. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šmilauerová E.: Okresní národní výbor Jílové 1945-1960. Inventář, 1974, 210 s., ev. č. 85.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>German Jews</subject><subject>Jewish property</subject><subject>confication of the property</subject><subject>Jewish associations</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>47</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Praha-venkov-jih</titleproper>
+            <subtitle>District Office of Praha-venkov-jih / NAD 47</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive of Prague-West in Prague</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 257 710 492</addressline>
+                <addressline>http://www.soapraha.cz/praha-zapad/</addressline>
+                <addressline>soka-praha.zapad@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1942/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>47</unitid>
+            <unittitle>Okresní úřad Praha-venkov-jih</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>39,23 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive of Prague-West in Prague</corpname>
+            </repository>
+            <unitdate>1942/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Praha-venkov; District Office of Praha-venkov-jih; The District National Committee of Praha-jih</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Praha-venkov-jih / NAD 47</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was transferred to the Praha-jih District Archives in 1954, and in 1960 it was stored in the Praha-západ District Archives. The material was transported in good condition. It was arranged and in 1963 an inventory was prepared to it.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Praha-venkov-jih District Office began to operate in 1942 on the territory of the abolished Praha-venkov District Office (Zbraslav, Jílové and Říčany judicial districts). It was headed by a German governor, who was also the head of the Reichsauftragverwaltung. It was abolished in 1945 and replaced by a national committee, from which the districts of Jílové and Říčany were separated. During the Nazi occupation, three municipalities - Hostěradice, Hradištko and Pikovice - were forcibly displaced and a military training camp of the occupiers was established on their territory. In 1943, it was changed to the Hradištko concentration camp. About 500 political prisoners of various nationalities were imprisoned there, and many of them perished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from activities of the district office during the Nazi occupation. It contains official books, file material, and accounting material. The fonds contains documents about the persecution of Jews, the seizure of their property, the transport of Jews, etc. (sections I/1, III/16). Reports on sabotage acts of the Czech population against the Nazi occupiers and illegal organizations, arrests, executions, and persecution of the population (in the Registry Department III). There are also documents concerning Czech refugees from the border region after the 1938 Munich Agreement. Explicit references to Jews can also be found in the presidium files: no. 905 Prohibition of serving Jews by barbers, 1942; no. 1059 Opinion on Jews in Černošice and surroundings, 1942; no. 1428 Dismissal of Valerie Smilovská, an employee of the District Office, whose husband was a Jew, 1942; no. 1763 Compulsory report about Jews (Uhříněves) 1942, no. 365 Fire in the former Jewish villa in Říčany, 1943; no. 826 Josef Vilim, a tailor from Prague 5, having Mrs. Löbl's persian fur coat, she being of Jewish origin (denouncement), 1943. Books and files contain relevant documents: inv. no. 8 Conversions of religion, 1942; inv. no. 59 Jews in public service, no. I/1 (1942–1945); inv. no. 88 Population records, no. III/5 (1942–1945); inv. no. 95 Requests of Jews for permission to leave residence, sign. III/16h-1 (1943); inv. no. 95 List of transported Jews, no. III/16h-7 (1944); inv. no. 143 Jewish religious community of Uhříněves - duplicates of registers, correspondence, no. VII/25 (1943); inv. no. 165 Compensation for political persecution, no. VIII/18 (1945).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Official books, II. File material (registry finding aids and files), III. Accounting material</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šmilauerová E.: Okresní úřad Praha-venkov-jih 1942-1945. Inventář, 1963, 31 s., ev. č. 64.</p></otherfindaid><otherfindaid><p>Quirenc J.: Okresní úřad Praha-venkov-jih – Presidiální spisy 1939-1945. Katalog, 1968, 125 s., ev. č. 76.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Jewish religious community of Uhříněves</corpname></controlaccess>
+        <controlaccess><subject>Jewish persecution</subject><subject>Jewish property</subject><subject>transports of the Jews</subject><subject>Conversions</subject><subject>population records</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>790</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Praha-západ</titleproper>
+            <subtitle>District National Committee of Praha-západ / NAD 790</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive of Prague-West in Prague</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 257 710 492</addressline>
+                <addressline>http://www.soapraha.cz/praha-zapad/</addressline>
+                <addressline>soka-praha.zapad@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1949/1990</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>790</unitid>
+            <unittitle>Okresní národní výbor Praha-západ</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>528,76 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive of Prague-West in Prague</corpname>
+            </repository>
+            <unitdate>1949/1990</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee of Praha-západ; District Office of Praha-venkov (1927 - 1941); District Office of Praha-venkov-jih (1942 - 1945); District National Committee of Praha-venkov-jih (1945 - 1949); District National Committee of Praha-západ (1949 - 1990); District Office of Praha-západ (1990 - 2002)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Praha-západ / NAD 790</p>
+        </odd>
+        <custodhist>
+            <p>The fond arose from activities of the District National Committee of Praha-západ in 1949-1960. The central registry was not properly kept, so there were numerous losses of material. The fonds was transferred to the archives in 1960 and 1967-69, being organized in 1968-69. In 1970, an inventory was created to it.</p>
+        </custodhist>
+        <bioghist>
+            <p>The administrative district of Praha-západ was established in 1949 on the territory of the former judicial districts of Praha-sever and Praha-západ and part of the Unhošť region. The district was part of the Prague region. The District National Committee of Praha-západ started its activities in 1949. In 1960, the district and the office were abolished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds arose from the activities of the District National Committee of Prague-West. Contains books, file material and accounting material. Information on Jews can be found in the following documents: inv. no. 313 National administration (since 1945); inv. no. 316 Restitution - allocation of property, call no. 566 (1949–1950); inv. no. 553 Overview of the religiosity of the district of Praha-západ, call no. 290 (1954); inv. no. 557 Libuš-rejection of kosher, call no. 295.9 (1952).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Administrative and accounting books; II. File material - registry finding aids and files; Accounting material - incorporated into the file material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šmilauerová E.: Okresní národní výbor Praha-západ 1949-1960. Inventář, 1970, 187 s., ev. č. 80.</p></otherfindaid><otherfindaid><p>Šmilauerová E.: Okresní národní výbor Praha-západ 1960-1968. Inventář, 1988, 140 s., ev. č. 126.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    

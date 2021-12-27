@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1063</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Svaz protifašistických bojovníků - ústřední výbor, Praha (1945) 1951–1969</titleproper>
+            <subtitle>Union of Anti-Fascist Fighters - Central Committee, Prague  / NAD 1063</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1951/1969</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1063</unitid>
+            <unittitle>Svaz protifašistických bojovníků - ústřední výbor, Praha (1945) 1951–1969</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>27 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1951/1969</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="slo">slo</language><language langcode="ger">ger</language><language langcode="pol">pol</language><language langcode="ang">ang</language><language langcode="fre">fre</language><language langcode="spa">spa</language>
+            </langmaterial>
+            <origination>
+                <name>Union of Anti-Fascist Fighters - Central Committee, Prague; Additional creators: Union of National Revolution; Union of Freedom Fighters; Union of Political Prisoners and the the Relatives of Parished Political Prisoners</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Union of Anti-Fascist Fighters - Central Committee, Prague  / NAD 1063</p>
+        </odd>
+        <custodhist>
+            <p>The documents were transferred to the State Central Archives in Prague (now the National Archives) in 1969 from the Border Guard Museum, where they were temporarily stored by the Central Committee of the Union of Anti-Fascist Fighters (ÚV SPB). These were mostly documents of the predecessors of the SPB and documents arising from the activities of the SPB between 1954 and 1958, namely questionnaires on resistance activities of the members, files on their screening, membership files, minutes of meetings of the internal bodies of the Union, and files on individual resistance groups. This material was organized in 1971, and then reorganized in 2008.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the Second World War, several resistance organizations emerged in the Czech lands. The Czechoslovak Legionary Union, an organization of participants in World War I, founded in 1921, was the first to be restored. Resistance fighters returning from concentration camps, prisons and penitentiaries, from the Eastern and Western fronts or from emigration, were organized in the Union of Liberated Political Prisoners and the Association of Czechoslovak Foreign Soldiers of the Second Resistance. Those involved in the domestic resistance against the Nazis were organized in the Union of the National Revolution. In 1948, individual resistance organizations in the Czech lands merged into the Union of Freedom Fighters and in 1951 a national organization of resistance fighters was established - the Union of Anti-Fascist Fighters. The mission of the organization was, among other things, to develop the traditions of the struggle against fascism, to spread the historical truth about this struggle, to expose contemporary forms of fascism, to care for memorial sites, to publish and distribute anti-fascist press and literature, etc.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The documents of the Union of Anti-Fascist Fighters are an important source of information on the resistance and resistance of the Czechs and Slovaks in 1914-1918, the domestic and foreign anti-Nazi resistance in 1939-1945, including the Jewish resistance, and the victims of racial and political persecution and prisoners of Nazi prisons and concentration camps. The fonds contains, among other things, fragments of the documents of the predecessors of the Union of Anti-Fascist Fighters. These are mainly personnel records, questionnaires, protocols, minutes, documents relating to illegal resistance groups and concentration camps. The fonds also contains press documentation on the Holocaust and the persecution of Jewish citizens of the Protectorate, and documentation on pseudo-medical experiments in concentration camps. The fonds contains membership records of the predecessors of the Union of Anti-Fascist Fighters. The applications are filed alphabetically in the fonds. The membership records include information on Red Army members in Russia and Hungary, members of the Czech Legions 1914-1918, participants in the Rumburk and Bay of Kotor mutinies 1918, members of the international brigades in Spain 1936-1939, members of the foreign army 1938-1945, members of the Czechoslovak domestic anti-Nazi resistance and political prisoners from the First and Second World Wars, including applications from members of the resistance who were of Jewish nationality. The applications are also accompanied by curricula vitae, and in the case of participants in the anti-fascist domestic and foreign resistance during the Second World War, in some cases they also include information on the activities of the resistance fighters before 1939. An important part of the fonds is the documentation on individual resistance groups, in which it is possible to find information on the involvement of Jewish resistance fighters in the anti-fascist resistance (e.g. participation in international brigades in the Spanish Civil War 1936-1939). Also very valuable are the files of individual resistance groups, which were used in the past years by the Commission for the Issuance of Certificates under Act No. 255/1946 Sb.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is organized into the following sections: the Union of the National Revolution; the Union of Liberated Political Prisoners; the Union of Freedom Fighters; the Union of Anti-Fascist Fighters - congresses; the SPB Central Committee; the SPB Central Committee Bureau; the SPB Central Committee Secretariat; and the departments of the union organs (propaganda, socia-legal and personnel departments). In the processing, the division of the fonds by the originators was maintained. The SPB documents themselves were processed largely according to the organizational structure of the Union. The most extensive unit is the questionnaires of victims of pseudo-medical experiments in concentration camps. The documents on the activities of individual resistance groups are also significant.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Chaloupková M. – Kahuda J. – Sedláková M.: Svaz protifašistických bojovníků – ústřední výbor, Praha (1945) 1951-1969. Inventář, 2008, 65 s., ev. č. 1685.</p></otherfindaid>
+        <otherfindaid><p>https://vademecum.nacr.cz/vademecum/index.jsp?</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Union of Anti-Fascist Fighters</corpname></controlaccess>
+        <controlaccess><subject>anti-Nazi resistance</subject><subject>Jewish resistance</subject><subject>racial and political persecution</subject><subject>and prisoners of Nazi prisons</subject><subject>concentration camps</subject><subject>persecution of Jewish citizens</subject><subject>Second World War</subject><subject>Spanish Civil War</subject></controlaccess>
+    </archdesc>
+</ead>    
+

@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>240</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Soběslav</titleproper>
+            <subtitle>Archives of the Town of Soběslav / NAD 240</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1371/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>240</unitid>
+            <unittitle>Archiv města Soběslav</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>105,39 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1371/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Soběslav</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Soběslav / NAD 240</p>
+        </odd>
+        <custodhist>
+            <p>As early as the 16th century, the town's documents were stored and marked according to a certain order. From 1802, the files were classified into the Politica and Judicialia groups according to reference numbers. In 1852, a file plan of 16 departments was introduced, operating until 1854, then until 1945 they were sorted by reference numbers. The town archives were first organized in 1670. In 1854, the inventory of the archives was made. The fonds was processed in 1965-1966. Parts of the fonds were handed over to the archives in 1952-2015.</p>
+        </custodhist>
+        <bioghist>
+            
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the local self-government, deeds, official books, files and accounting material. Information on Jews can be found in individual items in the thematic group Religious life in the town, Jews, 1850-1943; and Persecution of Jews, 1920-1945.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Fonds structure: I. Deeds; II. Official books: until 1850, after 1850; III. Auxiliary books and files: registry finding aids, files: I. Files of the mayor's office and the municipality, II. town office files 1850-1945; IV. Accounting material; V. Maps and plans.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lintner J.: Archiv města Soběslav 1371-1945 (1950). Inventář, I. díl, 1966, 149 s., ev. č. 38.</p></otherfindaid><otherfindaid><p>Lintner J.: Archiv města Soběslav 1371-1945 (1950). Inventář, II. díl, 1966, 383 s., ev. č. 39.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000039/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>persecution of Jews</subject><subject>Jewish religion</subject></controlaccess>
+    </archdesc>
+</ead>    
+

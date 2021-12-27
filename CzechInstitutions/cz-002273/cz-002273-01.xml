@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>10</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Pacov</titleproper>
+            <subtitle>District National Committee in Pacov / NAD 10</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1887/1962</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>10</unitid>
+            <unittitle>Okresní národní výbor Pacov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>51,29 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1887/1962</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee Pacov; Okresní hejtmanství Pelhřimov (1868-1919); Okresní národní výbor Pelhřimov (1945-1990)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee in Pacov / NAD 10</p>
+        </odd>
+        <custodhist>
+            <p>After the abolition of the Pacov district, the documents of the District National Committee were taken over into the registry of the District National Committee in Pelhřimov. As late as 1997, parts of the agenda were found in the building of the Municipal Office in Pacov. In 1966, the files went through an appraisal proceeding. They were then handed over to the Pelhřimov District Archives, where the fonds was organized and inventoried in 1967-1968. The fonds was re-inventoried in 2004.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District National Committee in Pacov was established on 1 February 1949 by a government resolution without any connection to the previous administrative institutions. The newly established Regional National Committee in Jihlava was its direct superior body. The executive body was the board, which managed all the activities of the DNC not reserved to the plenary or the chairman. The professional agenda was performed by individual departments. Commissions functioned as executive components of the board. It ceased to exist after the establishment of the Pelhřimov District National Committee for the territory of a large district on 1 July 1960.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official books, registry finding aids, files, and accounting material. The relevant material is stored in the following groups: national property, confiscation affairs, property transfers in construction, church supervision, territorial organization of churches, and registry agenda. Specifically, these are the following documents: liquidation of the forced occupation administration of Jewish property (inv. No. 170); restitution of the confiscated Jewish property, lease of the synagogue in Pacov 1949-1951 (inv. No. 415); the former Jewish prayer house in Košetice after 1945 (inv. no. 587); removal of the Jewish school in Hořepník and the synagogue in Lukavec after 1945 (inv. No. 686); establishment of the Jewish Religious Community in Jihlava after 1945 (inv. No. 697); restoration of the destroyed Jewish registry of births, deaths and marriages after 1945 (inv. No. 798).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is not divided into handling periods and contains official books, registry finding aids, and files, which are divided into 18 subject groups and accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Martínek Z.: Okresní národní výbor Pacov (1887) 1949-1960 (1962). Inventář, 2004, 151 s., ev. č. 948.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>restitutions</subject><subject>forced administration of the Jewish property</subject><subject>lease of the synagogue in Pacov</subject><subject>prayer house</subject><subject>synagogue</subject><subject>Jewish Religious Community in Jihlava</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>418</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Vodňany</titleproper>
+            <subtitle>District Office of Vodňany / NAD 418</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1855/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>418</unitid>
+            <unittitle>Okresní úřad Vodňany</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>25,14 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1855/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Vodňany</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Vodňany / NAD 418</p>
+        </odd>
+        <custodhist>
+            <p>Originally, the fonds of the Vodňany Mixed District Office was stored in the building of the former Vodňany town hall. After the abolition of the office, the materials were transferred to Písek and partially appraised. In 1941, it was transferred to the former archives of the Ministry of the Interior in Prague and from there, in 1951, to the State Archives in Třeboň. In 1958, this part was processed. The materials of the fonds from the period of 1940-1942 were handed over to the District Archives in Písek in 1956, and to the State Archives in Třeboň in 1960. In that year, this part of the fonds was processed, and the entire fonds was inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Vodňany District Office was established as a mixed district office in 1855 and dealt with the political and judicial agendas. It administered the judicial district of Vodňany and was subordinated to the Regional Office in Písek. In 1868, the mixed district office was abolished and the entire Vodňany judicial district was merged with the District Governor's Office in Písek. This situation lasted until 1940, when the Vodňany District Office was established as part of the Nazi occupation administrative reorganization. It lasted until 1942, when it was abolished by the Ministry of the Interior and its municipalities were incorporated into the district of the District Office of České Budějovice and the District Office of Písek.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the regional political state administration and the judicial administration, dealing with the economic, political, social and cultural conditions of the former judicial district of Vodňany. It includes official books, accounting material and file material. The following subject groups are of decisive importance for the Jewish history: the period of 1855-1868 - 5. Religious affairs; the period of 1940-1942 - 1. Constitutional affairs of the state, lands, districts and municipalities, 7. Education, religious, marriages, registry and foundation matters. Jewish can also be found in the following areas: Jewish religious community, community management (exclusion of Jews from municipal councils), Jewish affairs (prohibition of change of residence, reporting the Jews of the mixed race, action against evacuated Jews), anti-Jewish exhibition in Bavorov and Husinec, certificates of non-Jewish origin.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The handling of the fonds is divided into two periods, which are further divided thematically: I. Books, II. File material: a) auxiliary books; b) files - I. Period 1855-1868, II. Period 1940-1942, III. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Haubert J. – Lesák V.: Okresní úřad Vodňany 1850-1942. Inventář, 1960, 87 s., ev. č. 8/1.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210601000008/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Jewish religious community</subject><subject>mixed origin</subject><subject>anti-Jewish exhibition</subject></controlaccess>
+    </archdesc>
+</ead>    

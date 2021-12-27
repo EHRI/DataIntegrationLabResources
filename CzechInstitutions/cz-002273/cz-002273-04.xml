@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>27</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Pacov</titleproper>
+            <subtitle>District Court in Pacov / NAD 27</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>27</unitid>
+            <unittitle>Okresní soud Pacov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>84,78 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Pacov; Mixed District Office Pacov (1855-1868); People's Court of Pacov</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Pacov / NAD 27</p>
+        </odd>
+        <custodhist>
+            <p>From the court's registry, the documents were handed over to the Pacov People's Court and, after the merger in 1960, to the newly established Pelhřimov District Court, from which the documents are handed over directly to the District Archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the manorial administration and with the establishment of a new organization of political and judicial administration, the Pacov District Court was established in 1850 for the judicial district of the same name, which respected the territory of the existing manors within their borders. From 26 May 1855 to 31 August 1868, the performance of political and judicial administration was merged into one office, which became the so-called mixed district office. The separation of the political and judicial administration took place again in 1868, when a district court was established, which existed until 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains the agenda arising from the activities of the district court. The agenda is divided according to individual periods into sections A, B, C, and D - land books. The processed part of the collection contains registers of deaths (1850-1878), a statement of estates (1885-1897), a register of estates - call number A (1898-1914), and lists of estates (1885-1896), where information on Jews from the district could be found. The unprocessed part of the fonds contains inheritance proceedings, including the Jewish population - from older periods only selectively after appraisal proceedings. The files of call number D (inheritance) (1933-1948) and call number P (guardianship) (1898-1948) have been completely preserved. The files can be searched on the basis of lists of names D (1927-1954), P (1910-1949), registers D (1915-1948), and registers P (1898-1950). The files of individual deceased persons contain biographical information about persons, their relatives, property, and dealing with the inheritance.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed part of the fonds is divided into sections A for the years 1850-1854, B for the years 1855-1897, C for the years 1898-1949, and D of the land books. It contains a register of deaths 1850-1852, filing registers in civil and criminal matters (1857-1897), a register of deaths 1853-1878, a statement of estates (1885-1897), a presidium diary, a register of estates - call number A (1898-1914), registers according to call numbers C, E, L, M, N, T, Z with sub-call numbers, land books of some manors, library diaries and registers to them (1873-1948), and lists of estates (1885-1896).The part of the fonds that contains call numbers D and P has not been processed. However, searching in the files is possible on the basis of the preserved registers with references to the names of persons and file numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kovaříková I. – Martínek Z.: Okresní soud Pacov. Prozatímní inventární seznam, 1992, 17 s., ev. č. 121.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance matters</subject><subject>last wills</subject><subject>guardians</subject><subject>registers of deaths</subject><subject>statement of estates</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>70</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Bechyně</titleproper>
+            <subtitle>District Court in Bechyně / NAD 70</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>70</unitid>
+            <unittitle>Okresní soud Bechyně</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>46,76 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1949 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Bechyně; Mixed District Office Bechyně</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Bechyně / NAD 70</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the fonds were taken over from the Archives of the Ministry of the Interior in Prague in 1938-1941, from where they were transferred to the State Archives in Třeboň in 1949-1951. The other registry of the abolished court passed in 1960 to the District Court in České Budějovice. From there, these documents were taken over in 1961 by the District Archives in Tábor. Gradually, it also took over the documents of the District Court in Bechyně from 1850-1897, which had been until then stored in the State Archives in Třeboň.</p>
+        </custodhist>
+        <bioghist>
+            <p>The activities of the District Court in Bechyně began on 27 May 1850 and was included in the district of the Regional Court in Tábor. In the years of 1855-1868, the so-called mixed district office was established (political and judicial agenda). In 1868, this mixed district office was abolished and only the district court remained in Bechyně. The seat of the district office was again transferred to Milevsko. This situation remained virtually unchanged until January 29, 1949, when the District Court in Bechyně was abolished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Bechyně District Court from the years (1849) 1850-1949 concerning the civil and criminal agendas, as well as the agenda for the establishment of new land registers. Information on Jews can be found in expropriation documents ordered by the Gestapo during the Nazi occupation, and the inheritance agenda (file No D) of Jews perished in WW II in concentration camps dealt with in 1946.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: 1. Court agenda (A. Record aids B. Files); 2. Land book agenda; II. File material; The period since the establishing of new land registers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Mácová L. – Vančata, V.: Okresní soud Bechyně (1949) 1850-1949. Inventář, 1973, 38 s., ev. č. 94.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000094/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>inheritance agenda</subject><subject>expropriation documents</subject></controlaccess>
+    </archdesc>
+</ead>    
+

@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>112</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Jičín</titleproper>
+            <subtitle>District Court in Jičín / NAD 112</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/2004</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>112</unitid>
+            <unittitle>Okresní soud Jičín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>606,54 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1850/2004</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Jičín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Jičín / NAD 112</p>
+        </odd>
+        <custodhist>
+            <p>The documents were continuously stored in the registry of the District Court in Jičín, which moved three times during its existence in Jičín. In 1941, the oldest files were transferred to the Archives of the Ministry of the Interior in Prague, from where they were transferred to the State Archives in Kuks in 1950. In the years 1972-1973, all material was transferred to the Jičín District Archives, where the oldest part was processed in 1975. Regular appraisals have been taking place since the 1990s, and the archives regularly take over court files on the basis of a file and appraisal plan.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Court in Jičín was established due to a new organization of the judiciary in 1850. It ruled in civil and legal proceedings, the land register agenda was transferred to it, and in criminal matters it was limited to less serious acts. In the years 1855-1868, the political administration was merged with the judiciary into a so-called mixed district office. In 1868, the Jičín District Court became independent again and functioned even after 1948 when it was renamed the People's Court in Jičín.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the court administration of the Jičín district. Of particular interest are the files from the post-war period, namely M - the declarations of death from 1945-1952 and D - inheritance files concerning the property of the relevant Jewish families. Files M - the Steiners, the Hellers, the Lustigs, the Hahns, the Hermanns, the Stránskýs, the Poláks, the Schicks, the Neumanns, the Hönigsfelds, the Guths, the Fischers, the Brauns, the Fišls, the Picks, the Kareis, the Netels, the Ornsteins, the Kantors, Vilém Bondy, Josef Hecht, Irena Korteová, Erika Fleischerová. Files D - the above-mentioned families. When searching for a specific inheritance file, it is possible to use the books of auxiliary records - registers D, which are stored in the registry room of the Jičín District Court from the given period.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Only the oldest period of 1850-1897 has been processed. Books and registry finding aids, sorted according to individual agendas and file numbers, are registered separately. The files are also sorted according to the valid file plans for the given period, and within each file number the files are arranged chronologically. The land register agenda is kept separately. For the unprocessed part, books and registry finding aids are registered separately according to the individual agendas, and the files are sorted according to valid file plans, while within each file number they are arranged chronologically.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Heligrová M. – Kučerová Z.: Okresní soud Jičín 1850-1897. Inventář, 1975, 33 s., ev. č. 309.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>declaration of death</subject><subject>inheritance file</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,228 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>20</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Český Brod</titleproper>
+            <subtitle>District Office of Český Brod / NAD 20</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kolin</publisher>
+            <address>
+                <addressline>Zahradní 278, Kolín IV, 280 02</addressline>
+                <addressline> +420 321 724 273</addressline>
+                <addressline>http://www.soapraha.cz/kolin/</addressline>
+                <addressline>soka-kolin@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1855/1947</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>20</unitid>
+            <unittitle>Okresní úřad Český Brod</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>182,29 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kolin</corpname>
+            </repository>
+            <unitdate>1855/1947</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Český Brod; Mixed district office of Český Brod; District Governor's Officeof Český Brod; District Political Administration Český Brod; District National Committee Český Brod</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Český Brod / NAD 20</p>
+        </odd>
+        <custodhist>
+            <p>In 1928, the files were transferred to the building of the abolished district council. The files were stored in a humid place and some were even burned in 1945. In 1953, the files and books were handed over to the Český Brod district archive. The fonds was organized in 1954–1955 and completed in 1960.</p>
+        </custodhist>
+        <bioghist>
+            <p>The districts were established in 1849 as a replacement for the original manor. After 1850, the district governor's office functioned as a political administration office. Between 1855 and 1868, there was a so-called mixed district office in the district, combining political and judicial administration. After the establishment of Czechoslovakia, the name was changed to the district political administration, and finally to the district office in Český Brod. In 1945, the district national committee was established in its place.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains files of the mixed district office until 1868, the district governor's office, the district office and, since 1945, the district national committee in Český Brod, including official books, files and accounting material. As far as Jewish issues are concerned, the fonds explicitly contains lists of the Jewish population up to 1942, matters of the Jewish community in 1906–1923 (inv. No. 915, call number 5/4), files on the Jewish Church (1923–1939, inv. No. 984, call number 5/4, 1939–1947, inv. No. 1088, call number 5/4), and information on the liquidation of Jewish shops in 1940-1944 (inv. No. 1162, call number 15/5). Attention should also be paid to documents concerning religious matters - Group 5 (1855-1898, 1905-1947), education (1855-1898), schools and the arts - Group 6 (1905-1947), citizenship, residence, matrimonial and register matters - Group 4 (1855 - 1898, 1905- 947), trade matters - Group 15, and also association and assembly matters - Group 18 (1905-1947).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into I. Books: A - Administrative books, B - Register books, II. File material: A. Registry finding aids, B. Files: 1. Presidium files 2. General registry, III. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bisinger Z.: Okresní hejtmanství český Brod – Presidiální spisy 1868-1918. Katalog, 1974, 268 s., ev. č. 1.</p></otherfindaid><otherfindaid><p>Okresní úřad Český Brod – Presidiální spisy 1918–1939. Katalog, 1969, 0 s., ev. č. 3.</p></otherfindaid><otherfindaid><p>Okresní úřad Český Brod – Presidiální spisy 1939-1945. Katalog, 1967, 56 s., ev. č. 4.</p></otherfindaid><otherfindaid><p>Bednařík K. – Hloušková H. – Miškovská Z.: Okresní úřad český Brod 1855-1956. Inventář, 1962, 170 s., ev. č. 5.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>lists of Jews</subject><subject>Jewish Religious Community</subject><subject>schools</subject><subject>citizenship</subject><subject>trade matters</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>57</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Kolín I</titleproper>
+            <subtitle>District Office of Kolin I / NAD 57</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kolin</publisher>
+            <address>
+                <addressline>Zahradní 278, Kolín IV, 280 02</addressline>
+                <addressline> +420 321 724 273</addressline>
+                <addressline>http://www.soapraha.cz/kolin/</addressline>
+                <addressline>soka-kolin@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1948</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>57</unitid>
+            <unittitle>Okresní úřad Kolín I</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>263,06 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kolin</corpname>
+            </repository>
+            <unitdate>1850/1948</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Kolín; District Governor's Office Kolín (ger.Bezirkshauptmannschaft Kolin); District Political Administration Kolín (ger. Bezirksverwaltung Kolin); District Office of Kolín (ger. Bezirksbehörde Kolin)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Kolin I / NAD 57</p>
+        </odd>
+        <custodhist>
+            <p>The first report on the fonds dates to 1930. The files were kept in the district office building. A small part of the files was lent to the former archives of the Czech Lands. In 1960, the district archives in Kolín took over these files back from the State Central Archives in Prague. After the war, the files were moved to an unsuitable room, where they were kept until 1956. Only then were the materials transported to the building of the district national committee in Kolín. Since 1960, the files have been organized.</p>
+        </custodhist>
+        <bioghist>
+            <p>The districts were established in 1850 as a replacement for the original manor. It was an administrative body. After the establishment of Czechoslovakia, the District Governor's Office in Kolín was referred to as the Kolín District Political Administration. From 1928, it was designated the Kolín District Office.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents concerning the economy, agriculture, business, and industry in the district of Kolín between 1850 and 1948, official books, files and accounting material. An important part of the fonds includes presidium files. There are relevant files on religious matters there from 1850–1936 (Group 5). For the years of 1924–1936, there is a section on the Jewish church (inv. No. 843, call number 5/4). There can also be found lists of the Jewish population from 1942 (inv. No. 1104, call number 7/33/a), statements on the change of residence of Jewish persons (1939–1943), notifications on the implementation of anti-Jewish measures (1939–1942), as well as lists Jewish shops and trades from 1940. Attention should also be paid to files on association and assembly matters from 1913-1936, trade matters (1913–1948), and files on persons' moving, passports, and emigration.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into I. Books (administrative books, registration books), II. File material: A. registry finding aids B. files III. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bisinger Z.: Okresní úřad Kolín I – Presidiální spisy 1850-1918. Katalog, 1970, 113 s., ev. č. 17.</p></otherfindaid><otherfindaid><p>Bisinger Z.: Okresní úřad Kolín – Presidiální spisy 1918-1939. Katalog, 1970, 0 s., ev. č. 18.</p></otherfindaid><otherfindaid><p>Okresní úřad Kolín – Presidiální spisy 1939-1945. Katalog, 1967, 45 s., ev. č. 19.</p></otherfindaid><otherfindaid><p>Bisinger Z. – Startl J.: Okresní úřad Kolín 1850-1948. Inventář, 1963, 195 s., ev. č. 20.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>religious matters</subject><subject>Jewish Religious Community</subject><subject>lists of the Jews</subject><subject>anti-Jewish measures</subject><subject>Jewish businesses</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>837</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Židovská náboženská obec Kolín</titleproper>
+            <subtitle>Jewish Religious Community in Kolín / NAD 837</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kolin</publisher>
+            <address>
+                <addressline>Zahradní 278, Kolín IV, 280 02</addressline>
+                <addressline> +420 321 724 273</addressline>
+                <addressline>http://www.soapraha.cz/kolin/</addressline>
+                <addressline>soka-kolin@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1899/1967</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>837</unitid>
+            <unittitle>Židovská náboženská obec Kolín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">good</physfacet>
+                <extent>0,21 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kolin</corpname>
+            </repository>
+            <unitdate>1899/1967</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Jewish Religious Community in Kolín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Jewish Religious Community in Kolín / NAD 837</p>
+        </odd>
+        <custodhist>
+            <p>After the death of Karel Poláček, the representative of the Jewish Religious Community, the archive material was taken over by the regional museum in Kolín in 1979. In 1980, the documents were sorted, arranged and inventoried and handed over to the district archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>The beginnings of the Jewish community in Kolin date back to the 14th century. The Jewish community is one of the oldest in Bohemia. In the 16th -17th, its number grew. In 1854 it included 1,700 people. The synagogue was built in the 17th century on the site of an older synagogue from the 16th century. There were two cemeteries in the municipality, from the 15th and 19th centuries. In the 19th century, Jews were members of the town administration, speaking mostly Czech. In 1942, the Jewish population was deported to concentration camps. After the war, the community was restored, but in the 1950s it was dissolved.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains 4 filing protocols from 1947, 1948, 1949, and 1951–1952. The files related to the congress of Jewish religious communities - Prague, Brno 1945, circulars of the Community (Council) of the Jewish Religious Community in the Czech and Moravian-Silesian lands 1945-1947, circulars of the Jewish Religious Community in Prague 1945, documents concerning the election in Kolín in 1947, and minutes of the Jewish Religious Community meetings in Kolín 1947–1953. A part concerns the memorial to the victims of Nazism in a new Jewish cemetery in Kolín (1948-1953) and to the planned abolition of the old cemetery (1949, 1961). A part concerns monument to the victims of racial persecution in other cities (1950) and war graves (1951). There are also topics such as social assistance (1945–1951), church property (1945–1955) and Jewish registries from 1945–1948, 1956. There is also information about Jewish associations, which, however, have their own fonds (Derech Yeshoroh (1945–1951), Ewjonim (1946–1951), Chevra Kadisha (1945–1952), and Love to Neighbors (1945 -1951) The fonds also contains photographs of Jewish objects (8 pcs).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains 4 filing registers, 18 folders, and 8 photographic archives.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bisinger Z. – Pavlátová L.: Židovská náboženská obec Kolín 1899-1967. Sdružený a skupinový inventář (část), 1980, 13 s., ev. č. 108/1.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Association Derech Yeshoroh</corpname><corpname>Association Ewjonim</corpname><corpname>Chevra Kadisha Association</corpname><corpname>Association- Love to Neighbors</corpname></controlaccess>
+        <controlaccess><subject>Congress of Jewish religious Communities</subject><subject>Jewish Religious Community</subject><subject>Holocaust victimes</subject><subject>cemetery</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>{{cells["Reference number"].value}}</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>{{cells["Title (official language)"].value}}</titleproper>
+            <subtitle>{{cells["Title (English)"].value}} / {{cells["Type of reference number"].value}} {{cells["Reference number"].value}}</subtitle>
+            <author>{{cells["Author of the description"].value}}</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>{{cells["Name of institution (English)"].value}}</publisher>
+            <address>
+                <addressline>{{cells["Contact information: postal address"].value}}</addressline>
+                <addressline>{{cells["Contact information: phone number"].value}}</addressline>
+                <addressline>{{cells["Contact information: web address"].value}}</addressline>
+                <addressline>{{cells["Contact information: email"].value}}</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>{{cells["Date(s)"].value}}</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>{{cells["Reference number"].value}}</unitid>
+            <unittitle>{{cells["Title (official language)"].value}}</unittitle>
+            <physdesc>
+                <genreform>{{cells["Type of material"].value}}</genreform>
+                <genreform>{{cells["Type of material 2"].value}}</genreform> 
+                <physfacet type="condition">{{cells["Physical condition"].value}}</physfacet>
+                <extent>{{cells["Extent"].value}}</extent>
+            </physdesc>
+            <repository>
+                <corpname>{{cells["Name of institution (English)"].value}}</corpname>
+            </repository>
+            <unitdate>{{cells["Date(s)"].value}}</unitdate>
+            <langmaterial>
+                {{cells["Language(s)"].value}}
+            </langmaterial>
+            <origination>
+                <name>{{cells["Creator /accumulator"].value}}</name>
+            </origination>
+        </did>
+        <odd>
+            <p>{{cells["Title (English)"].value}} / {{cells["Type of reference number"].value}} {{cells["Reference number"].value}}</p>
+        </odd>
+        <custodhist>
+            <p>{{cells["Archival history"].value}}</p>
+        </custodhist>
+        <bioghist>
+            <p>{{cells["Administrative/biographical history"].value}}</p>
+        </bioghist>
+        <scopecontent>
+            <p>{{cells["Scope and content"].value}}</p>
+        </scopecontent>
+        <arrangement>
+            <p>{{cells["System of arrangement"].value}}</p>
+        </arrangement>
+        <accessrestrict>
+            <p>{{cells["Access, restrictions"].value}}</p>
+        </accessrestrict>
+        {{cells["Finding aids"].value}}
+        <otherfindaid>{{cells["Links to finding aids"].value}}</otherfindaid>
+        <controlaccess>{{cells["Administrative/biographical history "].value}}</controlaccess>
+        <controlaccess>{{cells["Access points: locations "].value}}</controlaccess>
+        <controlaccess>{{cells["Access points: persons/familes "].value}}</controlaccess>
+        <controlaccess>{{cells["Acces points: corporate bodies"].value}}</controlaccess>
+        <controlaccess>{{cells["Access points: subject terms"].value}}</controlaccess>
+    </archdesc>
+</ead>    

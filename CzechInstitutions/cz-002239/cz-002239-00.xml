@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1142</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Havlíčkův Brod</titleproper>
+            <subtitle>Archives of the Town of Havlíčkův Brod / NAD 1142</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1269/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1142</unitid>
+            <unittitle>Archiv města Havlíčkův Brod</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>121,79 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1269/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="lat">lat</language>
+            </langmaterial>
+            <origination>
+                <name>Town Havlíčkův Brod</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Havlíčkův Brod / NAD 1142</p>
+        </odd>
+        <custodhist>
+            <p>The town archives were taken over by the district archives in Havlíčkův Brod. The archive materials were kept at the town hall and some documents were stored in the town museum. The older part of the archives from 1784-1850 is organized and the archival materials after 1850 are arranged according to the agenda of the town hall.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of the town of Havlíčkův Brod dates from 1256. From the Middle Ages until 1945, the town was called Německý Brod. Since 1637 it had been a royal town. Jews are documented to have been living there in the Middle Ages, then they were forbidden to stay there. The Jews were not allowed to come to the town again until 1848. From 1784, it was the seat of the municipality office, in 1850-1945 of the town hall, and in 1945-1990 of the Municipal National Committee of Havlíčkův Brod, the district town, the seat of the judicial district and the political district.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains deeds, law books, official books and documents from the fields of economics, culture, church, politics, construction, etc. It contains the following materials on the history of Jews: after 1848 - buildings, expansion land operation of Jewish enterprises: textile factories of the Mahler, Bauer, Stiassny, A. B. Musil, and Löwy &amp; Drucker families, the Roth steam mill. First World War - constructing a refugee colony for Jews from Galicia and Bukovina, Jewish refugees. The first Czechoslovak Republic - self-government, minutes of the council board and council meetings, elections - mayor of Jewish origin Robert Neuern. World War II - decrees against Jews.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: The period until 1850: I. Books, II. Files. The period after 1850: I. Books (Books of minutes of meetings, Books of records, Books of the police office), II. Files (Auxiliary books, Files), III. Town finances</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Nováková D. – Pospíchalová H. – Sochr J.: Archiv města Havlíčkův Brod – Listiny, 1269-1949, Sv.1. Inventář, 1982, 123 s., ev. č. 18.</p></otherfindaid><otherfindaid><p>Macek L. – Pospíchalová H. – Sochr J.: Archiv města Havlíčkův Brod - Sv. 2, 1415-1945 (1952), Sv. 3, 1755-1945 (1952)  – Městský důchod. Inventář, 1994, 307 s., ev. č. 196.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>textile factory Mahler</corpname><corpname>textile factory Bauer</corpname><corpname>textile factory Stiassny</corpname><corpname>textile factory A. B. Musil</corpname><corpname>textile factory Löwy &amp; Drucker</corpname><corpname>the Roth steam mill</corpname></controlaccess>
+        <controlaccess><subject>refugee colony for Jews from Galicia and Bukovina</subject><subject>Jewish refugees</subject><subject>Jewish companies</subject><subject>textile industry</subject><subject>anti-Jewish decrees</subject></controlaccess>
+    </archdesc>
+</ead>    

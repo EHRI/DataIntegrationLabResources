@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1283</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Hořice</titleproper>
+            <subtitle>District Office of Hořice / NAD 1283</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1283</unitid>
+            <unittitle>Okresní úřad Hořice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>30,6 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1850/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Hořice; Political branch of the District Governor's Office in Nová Paka with seat in Hořice; District Office of Hořice; National Committee of Hořice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Hořice / NAD 1283</p>
+        </odd>
+        <custodhist>
+            <p>Documents from 1850-1868 were stored in one registry. After the establishment of the political branch in Hořice, the documents were registered in the newly established office, and in 1928 they were moved to the central registry of the District Office in Nová Paka. In 1935, they moved again to the District Office building in Hořice. From the registry office of the District National Committee ithe whole agenda passed in the 1950's to the State Archives in Kuks, later to the State Regional Archives in Zámrsk, where the fonds was processed and subsequently transferred to the Jičín District Archives. In 1970, a catalog of the presidium files was compiled there, and in 2004-2005 the fonds was re-inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Governor's Office was established as a political administration office in 1850. In 1855, a mixed district office (judicial and political administration) was established. In 1868, it was abolished and all official activities were transferred to the District Governor's Office in Hradec Králové. In 1910, a political branch of the District Governor's Office in Nová Paka was established in Hořice, renamed in 1919 to the District Political Administration and in 1928 to the District Office. An independent District Office with its seat in Hořice was established by a government decree of 26 April 1935. It was abolished in 1942, and in May 1945 a District National Committee was established in Hořice.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the Hořice district, official books, registry finding aids and files, and accounting material. General files are divided into subject groups. The following subject groups in particular are relevant to Jewish issues: Handling period 1850-1855: 4. Citizenship, domicile right; 8. Police matters; 11. Trades. Handling period 1855-1868: 4. Citizenship, domicile right; 8. Police matters; 9. Construction and fire safety. Handling period 1910-1928: 4. Register matters; 8. Police matters; 9. Construction and fire safety; 15. Trades, industry. Handling period 1935-1942: 4. Citizenship, domicile right, register matters; 8. Police matters; 15. Trades, industry. Direct references to Jews can be found in the following documents: List of owners of Jewish factories, trades and shops 1926-1946; Marking of Jewish shops; Investigating the hiding of Jewish capital; Examination of Jewish accounts; Steinský Rudolf - Sehnoutka Comp. 1941-1942; Operation of a door-to-door shop, Sára Schöpsová 1857; Charlota Schnabelová Tannery 1860; Passports for Jews 1938; Lists of Jews 1940; Jewis of mixed race in public service - a circular 1942; Transfers to Jewish Real Estate - a circular 1940; Legal status of Jews - a circular; List of clothing of Jewish Professor Levit 1942; Fridrich Hirsch - construction of the factory 1856-1861; Hirsch Karel - foundation 1924. In the presidium files, these are mainly circulars and regulations concerning the persecution of Jews; List of the Jewish working group for the removal of anti-German inscriptions 1941; Survey of Jewish enterprises 1939; Numbers of employees of Steinský Rudolf - Sehnoutka Comp., Feuerstein Comp. and Hirsch Comp. What should not be left out during the study is documents relating to domicile right, citizenship, police matters, trade matters, including the files of self-employed persons of the Hořice district, associations and the files of associations and social organizations.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into four basic handling periods, namely 1850-1855, 1855-1868, 1910-1928 and 1935-1942. Within the individual periods, official and accounting books and registry finding aids come before the actual file agenda. The actual file material is divided into presidium files and general files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Česáková M.  – Heligrová M.  – Krausová J.: Okresní úřad Hořice (1800) 1850-1942 (1952). Inventář, 2004-2005, 209 s., ev. č. 376.</p></otherfindaid><otherfindaid><p>Johnová B.: Okresní úřad Hořice – Prezidiální spisy 1935-1942. Katalog, 1969-1970, 173 s., ev. č. 192.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Sehnoutka Comp.</corpname><corpname>Hirsch Karel - foundation</corpname><corpname>Feuerstein Comp.</corpname><corpname>Hirsch Comp</corpname></controlaccess>
+        <controlaccess><subject>Jewish factories, trades and shops</subject><subject>anti-Jewish restrictions</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

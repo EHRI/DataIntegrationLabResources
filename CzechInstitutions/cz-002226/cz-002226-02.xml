@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1209</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Benešov</titleproper>
+            <subtitle>District Office of Benešov / NAD 1209</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Benešov</publisher>
+            <address>
+                <addressline>Pod Lihovarem 2145, Benešov 256 01</addressline>
+                <addressline> +420 311 000 101 </addressline>
+                <addressline>http://www.soapraha.cz/benesov/</addressline>
+                <addressline>soka-benesov@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1209</unitid>
+            <unittitle>Okresní úřad Benešov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>119,57 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Benešov</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Benešov; Mixed District Office Benešov (1855-1868); District Governor's Office Benešov (1868-1918); District Political Administration Benešov (1919-1928)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Benešov / NAD 1209</p>
+        </odd>
+        <custodhist>
+            <p>Most of the files were kept in the building of the district office. The district archives took over the documents of the District Office at the beginning of 1959. The fonds was organized and inventoried in the 1960s. Many files were lost when the office moved, and part of the material was destroyed.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district governor's office was established in 1850 as the first instance of political administration for political districts. It was part of the regional government in České Budějovice. In 1855, mixed district offices were established, which had a political and judicial function. From the District Governor's Office in Benešov, 3 district offices were established, including Benešov. In 1868, the judicial and political administrations were separated, and the district governor's office was restored. In 1918, it was renamed as the political district administration, later as the district office. During the Nazi occupation, the district authorities were left in operation, but were under the supervision of the German authorities. In 1945, the local national committee was established.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Benešov District Office, books, file material, accounting material, and associated agenda. Religious affairs of individual citizens inv. no. 525 (1853-1854); inv. no. 615 Jewish religious community (1903-1914); inv. no. 661 Jewish religious community; inv. no. 806 call no. VII/25 Jewish religious communities 1938-1941; Presidium files: inv. no. 54 Handing over weapons in Jewish property, inv. no. 185 Jews and Jewish shops in the district of Vlašim. A list of purchase agreements can be searched by name; inv. no. 571 Anti-Jewish riots; inv. no. 634 Advisers to the district school board for the Jewish religious community; inv.no. 659 Anti-Jewish riots in Trhavý Štěpánov (1899); inv. no. 41 Posters with anti-Jewish slogans; inv. no. 211 Anti-Jewish leaflets from Netvořice (1882); inv. no. 233 Anti-Jewish notice to the innkeeper Jan Bartušek of Bystřice; inv. no. 107 Reports about Antonín Pest threatening the Jewish inhabitants of Ostředek; inv. no. 110 Searching for the perpetrator who smashed the windows of the house of Jew Jakub Podzahradský from Načeradec (1883); inv. no. 43 Anonymous threatening letter against Josef Reiner; inv. no. 81 Feast of Francis Joseph I - a solemn mass of the Jewish community in Benešov; inv. no. 93 List of teachers at Jewish church schools in the district of Benešov district; inv. no. 33 Examination of the teaching of the Jewish religion at elementary and secondary schools in Benešov; inv. no. 67 Schools are obliged to lead pupils to tolerance for members of Jewish faith (1898); inv. no. 353 Thanks to the Board of Directors of the Jewish community in Benešov; inv. no. 571 Anti-Jewish riots; inv. no. 98 Trial against perpetrators of anti-Jewish riots in Naveklov, Vlašim and Benešov; inv. no. 465 Contribution to the Jewish Institute for Idiots in Prague; inv. no. 75 Chances of getting rabbis and Jewish teachers of religion to promote military affairs; inv. no. 418 Distribution of winter clothes to Galician refugees being entrusted to the Jewish community; inv. no. 738 Another 200 Jewish refugees came to the district of Benešov (1915); inv. no. 775 Supplies for war refugees - over 2,000 K paid to the Jewish community; inv. no. 906 52 Jewish refugees sent to the village of Stranný near Neveklov; inv. no. 471 310 Polish Jews, refugees from Galicia, in the district; Presidium files 1939-45: inv. no. 617 Statistics of non-believers since 1906, among them 16 Jews; inv. no. 637 Issuing a leaflet against delivering grain to Jewish concessionaires; inv. no. 539 Performance by Olga Bergrová from Benešov; inv. no. 254 Lecture against churches; inv. no. 1634 Accommodation of 32 Jewish persons from the occupied territory in the summer camp of the Workers' Academy; inv. no. 201 Detention of Jewish nationals in the civil service; inv. no. 286 List of state district physicians to whom a questionnaire on belonging to Jewish nationality was submitted; inv. no. 184 Lecture by rabbi Dr. O. Kraus; inv. no. 1848 Position of Jews in public life as public employees; inv. no. 1941 Legal status of Jews in public life; inv. no. 2017 Bedřich and Karel Heřman, Netvořice, request for exclusion from the scope of the government regulation on the legal status of Jews in public life; inv. no. 2084 /inv. no. 220 / inv. no. 333 / inv. no. 410 / inv. no. 1282 / inv.no. 1297 / inv. no. 1322 - Legal status and various restrictions for Jews; inv. no. 455 / inv. no. 1277 - Contact of Jews with Aryans; inv. no. 501- Jews - residence report; inv. no. 561 - Jews staying in spas and resorts; inv. no. 586 - Jiří Einstein, Jew, search, arrest; inv. no. 997 - Prohibition of changing the residence of Jews; inv. no. 1341 -Damage to synagogues; inv. no. 1427 - Proposals of the Oberlandrat concerning Jews; inv. no. 1474/1486/ inv. no. 127 - Jewish half-breeds and spouses of Jews and Jewish half-breeds; inv. no. 837 - Jewish emigrants and their duties; and more.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The structure of the fonds: I. Books; II. File material; A. Registry finding aids, B. Files; III. Accounting material; IV. Associated agendas</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Novák R. – Paulová O.: Okresní úřad Benešov 1850-1946. Inventář, 1963, 121 s., ev. č. 3.</p></otherfindaid><otherfindaid><p>Novák R.: Okresní úřad Benešov – Presidiální spisy 1939-1945. Část III. Katalog, 1972, 223 s., ev. č. 20.</p></otherfindaid><otherfindaid><p>Pánková L. – Stejskalová E. – Száková M.: Okresní úřad Benešov – Politická expozitura Vlašim – Presidiální spisy 1913-1918. Katalog, 1974, 65 s., ev. č. 23.</p></otherfindaid><otherfindaid><p>Száková M.: Okresní úřad Benešov - Presidiální spisy 1919-1939. Část II. Katalog, 1974, 260 s., ev. č. 24.</p></otherfindaid><otherfindaid><p>Pánková L. – Stejskalová E. – Száková M. – Štindlová R.: Okresní úřad Benešov – Presidiální spisy (1861) 1868-1918. Díl I., Část 1. Katalog, 1975, 237 s., ev. č. 27.</p></otherfindaid><otherfindaid><p>Pánková L. – Stejskalová E. – Száková M. – Štindlová R.: Okresní úřad Benešov – Presidiální spisy (1861) 1868-1918. Díl  I., Část 2. Katalog, 1975, 176 s., ev. č. 28.</p></otherfindaid><otherfindaid><p>Procházková  E. – Neugebauerová M.: Okresní úřad Benešov – Dodatek k inventáři 1903-1945, 1927-1942. Inventář, 1982, 8 s., ev. č. 33.</p></otherfindaid><otherfindaid><p>Procházková E. – Neugebauerová M.: Okresní úřad Benešov – Presidiální spisy – Dodatek ke katalogu 1939-1945, ev. č. 20, 1927-1942. Katalog, 1982, 12 s., ev. č. 34.</p></otherfindaid><otherfindaid><p>Sčítání obyvatelstva roku 1921. Inventář, 2004, 59 s., ev. č. 480.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%2862683%29%29</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>The Jewish Religious Community Benešov</corpname></controlaccess>
+        <controlaccess><subject>antisemitism</subject><subject>anti-Jewish restrictions</subject><subject>refugees</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    

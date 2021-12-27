@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>658</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Výbor pro postavení pomníku židovské náboženské obci Pardubice</titleproper>
+            <subtitle>Committee for the Erection of a Monument to the Jewish Religious Community of Pardubice / NAD 658</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pardubice</publisher>
+            <address>
+                <addressline>Bělobranské nám. 1, 530 02 Pardubice</addressline>
+                <addressline> +420 466 009 611</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-pardubice/</addressline>
+                <addressline>podatelna.pu@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1947/1948</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>658</unitid>
+            <unittitle>Výbor pro postavení pomníku židovské náboženské obci Pardubice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>0,01 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pardubice</corpname>
+            </repository>
+            <unitdate>1947/1948</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Committee for the Erection of a Monument to the Jewish Religious Community of Pardubice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Committee for the Erection of a Monument to the Jewish Religious Community of Pardubice / NAD 658</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was transferred to the then Pardubice District Archives from the East Bohemian Museum in Pardubice in 1970.</p>
+        </custodhist>
+        <bioghist>
+            <p>The committee was established at a meeting on 21 January 1947, convened by the then chairman of the Jewish religious community Bernard Schütz and its secretary K. Schwarz. MUDr. Pavel Hochmann was elected the chairman, Egon Pick the executive, and JUDr. Pavel Thein the press officer of the committee. The purpose of the committee was to make a monument with the names of the deceased fellow believers. The activity ended with the unveiling of the monument in the Jewish cemetery in Pardubice on September 5, 1948.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds is incomplete and contains only 1 book of minutes of the 1947-1948 meetings.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds only contains 1 book.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Cobl J.: Výbor pro postavení pomniku umučených a v koncentračních táborech zemřelých příslušníků židovské náboženské obce Pardubice 1947-1948. Prozatimní inventární seznam, 1973, 2 s., ev. č. 571.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Religious Community</subject><subject>monument for the Jews parished during WWII</subject></controlaccess>
+    </archdesc>
+</ead>    

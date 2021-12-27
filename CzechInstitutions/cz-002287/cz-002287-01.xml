@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>144</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv městečka Úvaly</titleproper>
+            <subtitle>Archive of the Town of Úvaly / NAD 144</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Prague-East in Přemyšlení</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 284 890 487</addressline>
+                <addressline>http://www.soapraha.cz/praha-vychod/</addressline>
+                <addressline>soka-praha.vychod@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1509/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>144</unitid>
+            <unittitle>Archiv městečka Úvaly</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Unknown</physfacet>
+                <extent>11,18 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Prague-East in Přemyšlení</corpname>
+            </repository>
+            <unitdate>1509/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Úvaly</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archive of the Town of Úvaly / NAD 144</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is only a fragment. Documents from an older period burned down during repeated fires, and only those from the period until 1890s have been preserved in some numbers. Úvaly belonged to the Český Brod district until 1960. After being joined with the district of Praha-východ, the fonds was transferred to the District Archives of Praha-východ. It was handed over in 1964, later in 1994. The fonds was organized and inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>It is not possible to describe the development of the originator of the fonds in detail, because with the exception of a single deed and a ledger, nothing until 1850 has survived. In 1848, the foundations of municipal self-government were laid. The municipality was headed by the municipal council and its board elected the mayor. In 1943, the municipal council was dissolved, and a 5-member commission was appointed, which administered the town until the end of the war. In 1945, it was replaced by the Revolutionary National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the Úvaly town administration, deeds, official books, and file material. In general, the relevant information can be found in documents concerning education, culture, church associations, religion, and trade agenda. Jews are also explicitly mentioned in the following documents: inv. no. 195 Population of the municipality - general affairs (Jews) 1940-1941; inv. no. 198 Population of the municipality - records and reports (census, lists of inhabitants and houses, Jews) 1865-1941; inv. no. 267 Housing administration (e.g. forced eviction of Jews) 1867-1943.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds was primarily divided into I. Deeds, II. Books, III. File material, IV. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Herian T.: Archiv městečka Úvaly (1489) 1850-1945 (1956). Inventář, 2012, 20 s., ev. č. 397.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%2844704%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Housing</subject><subject>Forced eviction of Jews</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>266</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Libáň</titleproper>
+            <subtitle>District Court in Libáň / NAD 266</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jičín</publisher>
+            <address>
+                <addressline>Raisova 533, 506 01 Jičín</addressline>
+                <addressline> +420 491 401 051</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-jicin/</addressline>
+                <addressline>podatelna.jc@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1849/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>266</unitid>
+            <unittitle>Okresní soud Libáň</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>145,41 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jičín</corpname>
+            </repository>
+            <unitdate>1849/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Libáň</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Libáň / NAD 266</p>
+        </odd>
+        <custodhist>
+            <p>The documents were stored in the registry of the District Court in Libáň. In 1941, the oldest files were transferred to the Archives of the Ministry of the Interior in Prague, from where they were transferred to the State Archives in Kuks in 1950, where other additions followed. Part of the registry was transferred to the registry office of the successor organization, i.e. the District Court in Jičín. In the years 1972-1973, all material from Kuks was transferred to the Jičín District Archives, where it was gradually supplemented with files taken from the Jičín District Court.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Court in Libáň was established due to a new organization of the judiciary in 1850. It ruled in civil proceedings, the land register agenda was transferred to it, and in criminal matters its jurisdiction was limited to less serious crimes. In the years 1855-1868, the political administration was merged with the judiciary into the so-called mixed district office. In 1868, the Libáň District Court became independent again and functioned until 1949, when it was abolished, its jurisdiction being transferred to the District Court in Jičín.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the court administration of the Libáň judicial district. Of particular interest are the files from the post-war period, namely files M - Declaration of Dead from 1945-1947, files D - inheritance files concerning the property of the respective Jewish families, files M - Otto Kaufman, Dina Seidlová, Hana Lustigová, Ida Lustigová, Olga Hellerová, Evžen Heller, Marie Hellerová, Jiří Heller, Alena Hellerová and Terezie Hellerová, and files D - the above mentioned families. When searching for a specific inheritance file, it is possible to use the book of auxiliary records - register D from the years 1939-1949.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Only a small part of the documents from the period 1850-1944 has been processed. Registry finding aids and books, divided into civil and criminal matters, are processed for the oldest period. The files are divided into the handling periods 1850-1855 and 1855-1897, where they are further sorted chronologically according to individual agendas and file numbers. The land register agenda is kept separately. For the following period until 1944, only presidium files have been processed. In the unprocessed part, books and registry finding aids are registered separately according to the individual agendas, and the files are sorted according to the valid file plans, while within each file number they are arranged chronologically.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Košnar S. – Letocha J.: Okresní soud Libáň 1850-1944. Inventář, 1965, 22 s., ev. č. 70.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>sdistrict court</subject><subject>declaration of death</subject><subject>inheritance file</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    

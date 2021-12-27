@@ -1,0 +1,1154 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1075/2</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Ministerstvo vnitra I - stará registratura, Praha</titleproper>
+            <subtitle>Ministry of Interior I - old registry, Prague / NAD 1075/2</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 240</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1918/1944</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1075/2</unitid>
+            <unittitle>Ministerstvo vnitra I - stará registratura, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>965,15 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1918/1944</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Ministry of Interior Prague</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Ministry of Interior I - old registry, Prague / NAD 1075/2</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the Ministry of Interior from the period of 1918-1948 were handed over to the Central Archives of the Ministry of Interior and the State Central Archives in the years of 1928-1974. In 1953 and 1954, the organization and appraisal of file material began. After 1954, the appraisal was stopped due to the importance of the fonds. The material taken over into the State Central Archives is complete and closed.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Act of 2 November 1918 established the Office for Internal Administration, which was renamed the Ministry of Interior on 18 November 1918. The organizational structure of the ministry was formed by the presidium, departments, sections and auxiliary offices. After the adoption of the Act on the Organization of Political Administration in 1927, the powers of the presidium were extended, for example, to representational and disciplinary matters, internal organization of the service, management of official lump sums, etc. During the Nazi occupation, the competences of the Ministry of Interior were changed by orders of 15 January 1942. From the Ministerial Council presidium were transferred to the Ministry of Interior such important matters as the organization, legislation and public employees. Also, the Commission for the Streamlining of the Public Administration and the Planning Commission for Prague and its Surroundings were subordinated to it.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds as a whole provides information on the activities of the state authorities during the first Czechoslovak Republic and the so-called autonomous administration at the beginning of the Nazi occupation. For researchers, the most valuable part is the legislative issues, issues of organization of political administration, federal affairs, elections, and national and autonomous affairs. The fonds also stores valuable material on economic history. Jews are explicitly mentioned in the following documents: reports on the activities of national committees and the memorandum of the Jewish National Council on dealing with the Jewish question in the Czechoslovak Republic (1918-1919); a protest of the associated Jewish parties against the rules of election to the National Assembly (1920); a report on the distribution of fascist anti-Jewish leaflets in Břeclav (1934), a protest against the activities of rabbis in Carpathian Ruthenia (1935), results of the census of Jews in Germany (1934), general issues concerning elections to the Jewish religious community (1936-1938), a report on the anti-Jewish campaign of the National Unification in Jičín (1937), the exclusion of Jews from the councils in the Moravská Ostrava district (1935-1941). Documents concerning Jews can undoubtedly be found in other parts of the fonds, too.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: A. Auxiliary books; B. File material: I period of 1918-1924, II period of 1925-1930, III period of 1931-1935, IV period of 1936-1940, V period of 1941-1944; Miscellaneous I.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Durmanová M.  – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1918-1944. Díl I. Inventář, 1960, ev. č. 172.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1918-1944. Díl II. Inventář, 1960, ev. č. 173.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1919-1944. Díl III. Inventář, 1960, ev. č. 174.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1919-1944. Díl IV. Inventář, 1960, ev. č. 175.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I., Uhlířova V.: Ministerstvo vnitra – stará registratura 1919-1944. Díl V. Inventář, 1960, ev. č. 176.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1919-1944. Díl VI. Inventář, 1960, ev. č. 177.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1919-1944. Díl VII. Inventář, 1960, ev. č. 178.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Jewish National Council</corpname><corpname>National Assembly</corpname><corpname>anti-Jewish leaflets</corpname></controlaccess>
+        <controlaccess><subject>Jewish question</subject><subject>Jewish parties</subject><subject>Jewish religious community</subject><subject>the anti-Jewish campaign of the National Unification in Jičín</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>470</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Nejvyšší správní soud, Praha</titleproper>
+            <subtitle>Supreme Administrative Court in Prague / NAD 470</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 240</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1918/1951 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>470</unitid>
+            <unittitle>Nejvyšší správní soud, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>138 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1918/1951 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Supreme Administrative Court in Prague</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Supreme Administrative Court in Prague / NAD 470</p>
+        </odd>
+        <custodhist>
+            <p>The file material of the fonds was taken over by the Central Archive of the Ministry of the Interior in Prague from the Administrative Court in Bratislava in 1952. The archival processing of the fonds began in March 1963.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Supreme Administrative Court in Prague with jurisdiction over the whole of Czechoslovakia was established on the basis of Act No. 3/1918 Sb. z. a n. The Act defined only the organizational principles relying on the wording of the old Austrian laws. The direct predecessor of the Supreme Administrative Court in Prague was the Administrative Court of Justice in Vienna. It specialized in assessing the legality of decisions of administrative bodies, mainly of a civil nature, and only exceptionally it was invited to revise defective laws. The system conceived in this way was also adopted in the newly established Czechoslovakia as the Supreme Administrative Court.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The presidium files may concern matters of civil servants. In addition to the legislative documentation, the presidium also retained all significant internal organizational materials that reflect the staffing, management and actions of the Supreme Administrative Court, etc. Very valuable may be their own court decisions, which describe the facts, allow for insight into such details of property and intentions of the complainant that are difficult to achieve elsewhere. Documents directly relating to Jews can also be found in the documents - information on the placement of Jews in Terezín, non-public trial materials - indebtedness of Jewish property, confiscation of property, debts, orders to leave apartments, cancellation of leases; also, information on the statutes of Jewish communities and their property, complaints against decisions in matters of citizenship, domicile, eviction, dissolution of Jewish religious communities, etc.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds consists of the registry finding aids (negotiation protocols, elenches, and registers) and file material, which is stored by groups (things), and internally by years.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kreč, J.: Nejvyšší správní soud 1918-1951. Inventář, 1970, 298 s., ev. č. 698.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Court</subject><subject>Property confiscation</subject><subject>Jewish Political Parties</subject><subject>Associations</subject><subject>Complains</subject><subject>Jewish apartments</subject><subject>dissolution of Jewish religious communities</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>753/1</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Zemský úřad Praha – prezidium</titleproper>
+            <subtitle>Provincial Office in Prague / NAD 753/1</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 240</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1921/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>753/1</unitid>
+            <unittitle>Zemský úřad Praha – prezidium</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>363,9 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1921/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Czech Governor's Office; Provincial Political Administration of the National Committee 1918-1919; Provincial Political Administration 1919-1920; Provincial Office Prague 1920-1945; Provincial National Committee Prague 1945-1949</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Provincial Office in Prague / NAD 753/1</p>
+        </odd>
+        <custodhist>
+            <p>The registry of the Presidium of the Provincial Office was transferred to the State Central Archives in 1949, and the files of the disciplinary commission in 1953. The registry of the PPO has not been preserved completely, apparently, due to "appraisals" from the period of the Nazi occupation or various transfers. The so-called administration from the order of the Reich has been preserved the least. Relatively little has survived from the revision of the municipal management from 1931-1940. In the last file group 1941-1945, there are partial gaps in almost all groups.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Provincial Office in Prague was a continuation of the Czech Governor's Office. In the years of 1918-1919, it was called the Political Administration of the National Committee. However, the office was headed by a president appointed by the head of state. The Office was subject to the Ministry of the Interior of the Czechoslovak Republic. From 1 December 1928, the Provincial Office in Prague began to operate in place of the Provincial Political Administration in Prague. After March 15, 1939, the entire administration became dependent on the Reich Protector, who was the highest legislator in the Czech lands. In 1945, the Prague Provincial Office was replaced by the Provincial National Committee in Prague.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds is mainly of an administrative nature. The Presidium of the Provincial Office (hereinafter PPO) monitored the economic, financial and personnel agenda of district authorities and district commissions, and provincial institutions. The personnel agenda is located in all departments of the PPO registry. The PPO-RAV files (the Reich administration) mainly concern German citizenship, name changes, requests for exemptions from the Nuremberg Laws, etc. The individual files also contain orders on the status of Jews in public life, salary suspension of Jewish employees and additional entries of first names of Jewish persons in the registers.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds consists of the registry finding aids (minutes, indices, collections) and file material. The original file order was preserved during the organization, with the exception of the remnants of the administration from the Reich order (RAV), which was organized by subject groups. Another exception to organizing according to the original file plan is the creation of the so-called alphabetical collection of personal files. The same inventory unit was not always selected during the inventory. Sometimes the first subgroup was chosen as the inventory unit, other times the last subgroup, i.e. the file.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kolektiv: I. Oddělení: Prezidium zemského úřadu v Praze 1921-1945 (1949). Inventář, 1962, 86 s., ev. č. 437.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Presidium of the Provincial Office</corpname></controlaccess>
+        <controlaccess><subject>Personnel agenda</subject><subject>PPO-RAV files</subject><subject>German citizenship</subject><subject>name changes</subject><subject>Nuremberg Laws</subject><subject>Jews in public life</subject><subject>Jewish employees</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1082</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Předsednictvo ministerské rady, Praha</titleproper>
+            <subtitle>Presidium of the Ministerial Council, Prague / NAD 1082</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 240</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1918/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1082</unitid>
+            <unittitle>Předsednictvo ministerské rady, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>632,90 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1918/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Presidium of the Ministerial Council; Secretariat of the Prime Minister (1942-1945); State Economic Council (1938-1941); Coordination Department (1939-1942)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Presidium of the Ministerial Council, Prague / NAD 1082</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was taken over into the State Central Archives from the Office of the Presidium of the Council of Ministers in 1955-1956. In 1957-1958, it was organized according to archival principles and an inventory, completed in 1960, was made for it. During the following years, a number of files were created by the Presidium of the Council of Ministers during the organization of various fonds of the State Central Archives. These files were included in the fonds and provided with an additional inventory in 1975. Minor later additions from other fonds are unprocessed.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Presidium was set up to provide the Ministerial Council (government) with office service and to serve as the executive body of the prime minister. It was effective for all the preparatory and auxiliary work to be entrusted to a body directly under the Prime Minister. The Presidium was to ensure the uniformity of the government decision-making and the uniformity of legislative and administrative activities of individual ministries. It submitted to the Government for discussion both the outline of laws and Government regulations submitted by individual ministers, as well as international treaties; after their approval, it submitted them to the National Assembly. It was the mediator between the Government and other constitutional bodies. During the Protectorate reorganization of the central offices in 1942, the Presidium was abolished and replaced by the Secretariat of the Prime Minister.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds includes the entire agenda of the Presidium of the Ministerial Council. Several relatively coherent units directly concern Jews, their organizations, religious societies, relevant government regulations (with an overlap after 1939 - legal status in the Protectorate, Jewish property, emigration, Jews in the civil service); reports on the activities of Jewish parties and organizations, the memorandum of the Zionist Revision Union, the affairs of companies of Jewish entrepreneurs (strike at the company of M. Beer in Svitávka, national situation at the company of A. Hahn in Bohumín). Other materials need to be searched for in the other agendas: e. g. outlines of laws and comments on them, parliamentary interpellations, minutes of ministerial council meetings, political situation reports, reports on political party meetings, reports on political party activities, election materials, personal matters of deputies and senators, requests, complaints and memoranda of various unions, associations, traders and individuals, matters of banks, economy, industry, government participation in domestic and international conventions and congresses.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: 1) Registry finding aids, 2) Files: I Presidium secretariat, II General registry of the Presidium, III Coordination department 1939-1942, IV Registers of prime ministers 1918-1941, V National economy department 1919-1942, VI State Economic Council 1938-1941, VII Minutes of meetings of the Ministerial Council 1918-1942, VIII Original laws and government regulations 1918-1937, IX Certified copies of sealed documents (inter-ministerial agreements) 1924-1938, X Secretariat of the Prime Minister 1942-1945, XI Various. Additions.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Ponocná M.: Předsednictvo ministerské rady (PMR) 1918-1945. Inventář, 1960, Díl I.-II., 564 s., ev. č. 329-330.</p></otherfindaid><otherfindaid><p>Kutová J.: Předsednictvo ministerské rady – dodatky (PMR-d) 1918 -1942. Inventář, 1975, 20 s., ev. č. 874.</p></otherfindaid>
+        <otherfindaid><p>https://vademecum.nacr.cz/vademecum/index.jsp?</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Zionist Revision Union</corpname></controlaccess>
+        <controlaccess><subject>Jewish organizations</subject><subject>Jewish religious societies</subject><subject>governmental regulations concerning Jews</subject><subject>legal status of Jews</subject><subject>Jewish property</subject><subject>political parties</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>374</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Ústředna obchodních a živnostenských komor, Praha</titleproper>
+            <subtitle>Headquarters of Chambers of Commerce and Trade, Prague / NAD 374</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 240</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1922/1948</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>374</unitid>
+            <unittitle>Ústředna obchodních a živnostenských komor, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>186,10 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1922/1948</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Headquarters of Chambers of Commerce and Trade</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Headquarters of Chambers of Commerce and Trade, Prague / NAD 374</p>
+        </odd>
+        <custodhist>
+            <p>The registry of the Headquarters was taken over by the then Central Archives of the Ministry of Interior in 1950. In 1955, the processing of the fonds was started and was not completed until 1966. Insignificant materials were shredded; the files from the period of German occupation were left without being appraised. The fonds was stored in the branch of the State Central Archives in Mníšek pod Brdy. In 1987, 22 files were transferred to the State Regional Archives in Prague.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Headquarters of the Commerce and Trade Chambers in the Czechoslovak Republic was established in 1922. The Chambers of Commerce and Trade defended the interests of the associated entrepreneurs, issued certificates and various publications, and were used by the state administration to support the local economy. The Headquarters was created as a free association on the basis of municipal law. It was supposed to help adapt the Chambers of Commerce and Trade to the conditions of the newly established Czechoslovakia and give a solid organizational form to mutual cooperation of the Chambers. Under the Protectorate, the scope of the Headquarters and individual chambers was considerably limited. In the years of 1945-1948, the chambers resumed their activities to the original extent, but after the communist coup they were abolished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds includes materials on the organization, development and personnel matters of the Headquarters, minutes from meetings, documents on its legislative work; materials on the economic development in the Czechoslovak Republic and abroad, tax and customs policies, trade fairs and congresses, pricing policy, combating usury, etc.; numerous documents on foreign trade, international trade agreements, reports of Czechoslovak embassies for the Headquarters (situation on local markets, characteristics of individual companies in individual countries). Information on Jews can be specifically found in the following materials: the operation of real estate agencies and credit bureaus by non-Aryans (in 1939), the reporting of Jewish property in Germany (in 1938); other materials after 1939 such as Jewish property, the legal status of Jews, their exclusion from economic life, forced labor, the appointment of administrators to non-Aryan enterprises, the returning of property to Jews in 1945. Materials concerning individual Jewish entrepreneurs can also be expected to be found there.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: a) Registry finding aids (protocols, registers), b) Files: sorted chronologically according to individual years; the inventory gives sample records; at the end, there are material files with and without registration numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šturz J. a kol.: Ústředna obchodních a živnostenských komor (ÚOŽK) 1922-1948. Inventář, 1966, 449 s., ev. č. 497.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Tax and customs policies</subject><subject>pricing policy</subject><subject>usury</subject><subject>foreign trade</subject><subject>companies</subject><subject>non-Aryans</subject><subject>Jewish property in Germany</subject><subject>Jewish property, the legal status of Jews</subject><subject>exclusion from economic life</subject><subject>forced labor</subject><subject>administrators to non-Aryan enterprises</subject><subject>returning Jewish property after 1945</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1786</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Český svaz protifašistických bojovníků – ústřední výbor, Praha</titleproper>
+            <subtitle>Czech Union of Anti-Fascist Fighters - Central Committee, Prague / NAD 1786</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1969/1990</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1786</unitid>
+            <unittitle>Český svaz protifašistických bojovníků – ústřední výbor, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>353,65 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1969/1990</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language><language langcode="pol">pol</language><language langcode="rus">rus</language><language langcode="slo">slo</language>
+            </langmaterial>
+            <origination>
+                <name>Czech Union of Anti-Fascist Fighters - Central Committee, Prague; Czechoslovak Union of Anti-Fascist Fighters; Union of Anti-Fascist Fighters</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Czech Union of Anti-Fascist Fighters - Central Committee, Prague / NAD 1786</p>
+        </odd>
+        <custodhist>
+            <p>The documents were taken over by the State Central Archives in Prague (now the National Archives) from the Czechoslovak Union of Anti-Fascist Fighters (ČSSPB) between 1980 and 1981, and then in 1992 and 1994 from the Czech Union of Freedom Fighters (ČSBS). Some of the documents, especially those relating to the competition of commemorative, documentary and historical works, were managed by the publicity department of the ČSPB. In September 1990, the documents of this department were transferred to the Historical Institute of the Army of the Czech Republic (HÚ AČR), the Department of the Resistance Memorial, where they were to become part of the sources that would enable the creation of a comprehensive synthesis devoted to the history of the domestic anti-Nazi resistance. From there they were handed over to the State Central Archives in 1996.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the Second World War, several resistance organizations emerged in the Czech lands. The Czechoslovak Legionary Union, an organization of participants in World War I, founded in 1921, was the first to be restored. Resistance fighters returning from concentration camps, prisons and penitentiaries, from the Eastern and Western fronts or from emigration, were organized in the Union of Liberated Political Prisoners and the Association of Czechoslovak Foreign Soldiers of the Second Resistance. Those involved in the domestic resistance were concentrated in the Union of the National Revolution. In 1948, the individual organizations in the Czech lands merged into the Union of Freedom Fighters, and in 1951 a national organization of resistance fighters was established - the Union of Anti-Fascist Fighters. The mission of the organization was, among other things, to develop the traditions of the struggle against fascism, to spread the historical truth about this struggle, to expose the contemporary forms of fascism, to take care of the memorial sites, to publish and distribute anti-fascist literature, etc.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The documents of the Czech Union of Anti-Fascist Fighters (ČSPB) are an important source concerning the resistance and resistance of Czechs and Slovaks in 1914-1918, domestic and foreign anti-Nazi resistance in 1939-1945, including Jewish resistance, and the victims of racial and political persecution, prisoners of Nazi prisons and concentration camps. The fonds has a complicated internal structure, consisting of several separate parts: registry; membership records; documents of the publicity department of the Central Committee of the ČSPB; a memorial, documentary and historical competition; clippings; photo archive. The fonds contains a number of documents from the period before 1969. An important part of the fonds is the membership records of the ČSPB, the Czechoslovak Union of Anti-Fascist Fighters (ČSPB), the Union of Anti-Fascist Fighters (SPB) and their predecessors. It contains applications of participants of the First and Second Czechoslovak Resistance, including applications of resistance fighters and victims of racial and political persecution of Jewish nationality. There are also minutes of meetings of the central bodies of the Union, and documentation concerning pseudo-medical experiments in concentration camps. Much of this material dates from the period after 1969.The biographies included in the application forms also include information relating to the members' activities before 1939. The fonds also contains fragments of several personal fonds of Holocaust victims. An important part of the fonds is a competition of historical, commemorative and documentary works. The competition may also contain memoirs of Czechoslovak Legionnaires of Jewish origin; these works are traceable in the fonds by the name of the author. The competition also included a commemorative work by the resistance fighter of Jewish origin, Solomon Ickovič, entitled Meetings with Death, competition work No. 1672, a memoir from 1937-1944. The author, a Czechoslovak communist of Jewish nationality from Carpathian Ruthenia, was a member of the International Brigades in Spain, survived French internment, and then joined the anti-Nazi resistance in France.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is not organized, being only divided into the following sections: registry; membership records; documents of the publicity department of the Czech Union of Anti-Fascist Fighters (a competition of historical, commemorative and documentary works; clippings; photo archive).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>anti-Nazi resistance</subject><subject>political persecution</subject><subject>prisoners of Nazi prisons</subject><subject>concentration camps</subject><subject>clippings</subject><subject>photo archive</subject><subject>Holocaust victims</subject><subject>commemorative and documentary works</subject><subject>memoir</subject><subject>International Brigades in Spain</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1306</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Fischer, Josef, Doc., PhDr.</titleproper>
+            <subtitle>Doc. PhDr. Josef Fischer / NAD 1306</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1891/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1306</unitid>
+            <unittitle>Fischer, Josef, Doc., PhDr.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">Good</physfacet>
+                <extent>2,80 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1891/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Fischer Josef Doc. PhDr.; Fischerová-Balcarová Milena; Fischerová-Krásová Milena; Balcarová-Maříková Milena</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Doc. PhDr. Josef Fischer / NAD 1306</p>
+        </odd>
+        <custodhist>
+            <p>With Josef Fischer's daughters, PhDr. Olga Babulová and PhDr. Sona Nová-Fischerová, the staff of the State Central Archives/National Archives have been in long-term contact since 1981. His personal archive was handed over to the National Archives by a daughter of the originator in January 2000.</p>
+        </custodhist>
+        <bioghist>
+            <p>The philosopher, sociologist, publicist and translator, Doc. PhDr. Josef Fischer (2. 4. 1891 Kolín - 19. 2. 1945 Neubrandenburg) worked first as a high school teacher, and from 1928 he was an associate professor at Charles University in Prague. He was mainly interested in the philosophy of history. In the 1920s and 1930s, he was a leading representative and theoretician of the group of left-wing social democratic intellectuals associated around the Workers' Academy. In the 1930s, he was heavily involved in the anti-fascist movement. From 1937 to 1939, he was chairman of the Society of Friends of the Democratic Spain, and in the spring of 1938 he was one of the initiators of the manifesto We Shall Remain Faithful. In 1939-1941, he was a leading figure of the anti-Nazi resistance organisation, the Petition Committee We Shall Remain Faithful, and the main author of its programme document For Freedom and the New Czechoslovakia. He was involved in the editing and distribution of illegal magazines and other publications. In 1941, he was arrested by the Gestapo and imprisoned in the Pankrác Prison in Prague. At the end of 1944 he was sentenced to death in Berlin and executed in February 1945. His wife, Milena Fischerová-Balcarová (1905-1945), a Czech actress, reciter and broadcaster, who died in March of that year in the Ravensbrück concentration camp, also had taken an active part in the resistance.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The personal fonds of Doc. PhDr. Josef Fischer, a prominent Czech philosopher, sociologist, translator, and participant in the domestic anti-Nazi resistance, is a valuable source for understanding his personality and work, for understanding the intellectual and spiritual atmosphere of the interwar Czechoslovakia, and for studying the issues of the domestic non-communist resistance. The documents related to the resistance activities of the author, especially the letters and secret messages of doc. J. Fischer from prison are a valuable source. The fodns also contains the extensive correspondence from1914-1938, including, among others, the correspondence of doc. J. Fischer with important intellectuals of Jewish origin of that time, e.g. with Moritz Kornfeld (1852-1934), the owner of a spinning mill and dyeing house in Prague, a well-known expert on philosophical and religious texts; with Hugo Siebenschein (1889-1971), a literary historian, Germanist, university teacher and lexicographer; with Felix Weltsch (1884-1964), a Czech-Jewish journalist, writer and philosopher, one of the most influential Zionists in the Czech lands; and with Arnošt Kraus (1859-1943), a university professor of German studies, literary historian, theatre critic and translator from Scandinavian languages. The fonds also contains part of the editorial archive of the Student Magazine from 1923-1926, which was a magazine of the secondary school youth in the interwar Czechoslovakia. Leading representatives of Czechoslovak culture of Jewish origin also contributed to the magazine. This part of the fonds contains, for example, correspondence and messages of the editor of the Student Magazine, Jaroslav Sochor (1885-1941), addressed to J. Fischer. As far as the biographical archival material is concerned, we can point out the following Judaica in the fonds: a copy of Josef Fischer's birth certificate from the 1908 registry of the Jewish community in Kolín and a notice of Josef Fischer's resignation from the Jewish Church dated 3 March 1919.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Roughly arranged are: biographical archival materials; diary entries; correspondence; letters and secret messages of J. Fischer from prison; letters of Milena Fischerová (J. Fischer's wife) from prison; documents related to the scientific and literary activities of the author (dissertation, habilitation work, articles, poems, speeches, preparatory material); documents related to the public and political activities of J. Fischer; documentation (newspaper clippings, almanacs); documents relating to the family of Milena Balcarová-Maříková (mother of Milena Fischerová-Balcarová, mother-in-law of J. Fischer); correspondence of Hermina Fischerová-Krásová (mother of J. Fischer); photographs.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Jewish community in Kolín</corpname></controlaccess>
+        <controlaccess><subject>Zionism</subject><subject>czech philosophers</subject><subject>anti-Nazi resistance</subject><subject>non-communist resistance</subject><subject>correspondence</subject><subject>Student Magazine</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1967</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Prof. PhDr. Koloman Gajan, DrSc.</titleproper>
+            <subtitle>Prof. PhDr. Koloman Gajan, DrSc. / NAD 1967</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1924/2011</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1967</unitid>
+            <unittitle>Prof. PhDr. Koloman Gajan, DrSc.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>9,19 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1924/2011</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="fre">fre</language><language langcode="eng">eng</language>
+            </langmaterial>
+            <origination>
+                <name>Gajan Koloman Prof. PhDr. DrSc.</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Prof. PhDr. Koloman Gajan, DrSc. / NAD 1967</p>
+        </odd>
+        <custodhist>
+            <p>The personal archive of Prof. PhDr. Koloman Gajan, DrSc. was handed over to the National Archives in 2013 by his family. The staff of the 6th Department of the National Archives have been in close contact with the originator since 1999, when negotiations were initiated to transfer the papers of the originator and his wife, PhDr. Alena Gajanová to the National Archives. Prof. Gajan informed the staff of the National Archives that after 1970, when he and his wife no longer hoped to be able to return to scientific work, they destroyed the vast majority of the documents. In spite of this fact, the fonds is an important source documenting the scientific activities and life of a leading Czechoslovak historian and his wife.</p>
+        </custodhist>
+        <bioghist>
+            <p>The historian, a participant in the domestic anti-fascist resistance, Prof. Koloman Gajan (original name Koloman Edelmann), was born on 7 November 1918 in the eastern Slovak village of Hamborek into an orthodox Jewish family. He graduated from a high school in Brno in the school year of 1939/1940. In the spring of 1942, he escaped to Slovakia before being transported to Terezín. In the beginning of 1943, he accepted a position in Prešov under the code name Ján Gajan as an accountant and correspondent at the company Sväz východoslovenské drevopriemyslu, družstvo s.r.o., whose director was Karol Miklánek, one of the co-founders of the partisan group Čapajev. After a short stint at Sväz, he became involved in the activities of an illegal resistance group. His activity consisted mainly in procuring weapons, clothing and medicines for the members of the partisan group Čapajev, and in procuring identity cards for illegal workers. He saved the lives of many people, and on 21 December 1944, he was arrested in Prešov on a tip-off from a Gestapo confidant, J. Wintner. He was in six concentration camps, namely, Sachsehausen, Bergen-Belsen, Kaufering, Landsberg, Lauingen, and Allach. His parents and six siblings did not survive the war, and he repeatedly saved himself by using the false identity of Gajan. As a reminder, he kept this surname after the end of the war. After the war, he settled in Prague, joined the Communist Party of Czechoslovakia (1945-1969), studied history and Romance studies at the Faculty of Arts of Charles University, and worked as a researcher at the Faculty of Arts of Charles University. He was interested in modern Central European and French political history and Czech-German relations. After the Soviet occupation, he was expelled from the Communist Party of Czechoslovakia and for the next twenty years he, like his wife, was forbidden to pursue an academic career. He published works under the names of his colleagues and taught foreign languages. After 1989, he returned to the Faculty of Arts and focused on the personality and work of T. G. Masaryk. He also participated in the revival of the Masaryk Society. He died on 27 December 2011 in Prague.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds of Prof. Koloman Gajan, PhD, DrSc., a leading Czechoslovak historian, contains mainly documents related to his scientific work: manuscripts of scientific papers, auxiliary study material, studies and articles, lectures, correspondence, and documentation of the author's public activities. The fonds also contains personal documents and biographical material. Among the Judaica in the fonds there is the author's own biography, which contributes to the knowledge of life in the Jewish community in the small village of Hamborek (now Brezovička) in eastern Slovakia, where Koloman Gajan spent his childhood and youth in an Orthodox Jewish family. The fonds also contains family photographs from 1924-1939, which mainly show the siblings of the originator. The fonds also contains school photographs from the time when Koloman Gajan studied at a Jewish high school in Brno from which he graduated in the 1939/1940 school year. The group school photographs also show the then headmaster of the high school, the prominent Jewish intellectual, writer and teacher, PhDr. Oskar Epstein (1888 Český Krumlov - 1941 Brno). On the reverse of the photographs there are the signatures of Koloman Gajan and Professor Oskar Epstein. The fonds also contains documents showing the cooperation of the originator with the Society of Jewish Academics, the Jewish Community in Prague, and the Jewish Museum.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The roughly arranged files are: personal documents; biographical material; manuscripts of scientific works; correspondence; lectures and speeches; preparatory study material; documentation from the public activities of the originator; dissertation and habilitation reviews; scientific works of PhDr. Alena Gajanová; resumes; photo albums; photographs; commemorative medals.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Czechoslovak resistance</subject><subject>Holocaust</subject><subject>Jewish resistance</subject><subject>anti-Nazi resistance</subject><subject>anti-Jewish persecution</subject><subject>racial persecution</subject><subject>Second World War</subject><subject>concentration camps</subject><subject>czechoslovak historians</subject><subject>Czechoslovak Legionnaires of Jewish origin</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1226</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Hájková, Alena, PhDr.</titleproper>
+            <subtitle>PhDr. Alena Hájková / NAD 1226</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1929/1997</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1226</unitid>
+            <unittitle>Hájková, Alena, PhDr.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">Good</physfacet>
+                <extent> 6,75 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1929/1997</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language><language langcode="eng">eng</language>
+            </langmaterial>
+            <origination>
+                <name>Hájková, Alena, PhDr.</name>
+            </origination>
+        </did>
+        <odd>
+            <p>PhDr. Alena Hájková / NAD 1226</p>
+        </odd>
+        <custodhist>
+            <p>The first part of the personal archive of PhDr. Alena Hájek was taken over by the State Central Archives (now the National Archives) in 1998 from Alena Hájek. It consisted mainly of manuscripts of scientific studies and articles, related correspondence, and auxiliary study material, including photographic documentation. In 2013, the family handed over to the National Archives the estate of Dr. Hájková, a substantial part of which consisted of her biographical materials and memories of participants in the anti-fascist resistance.</p>
+        </custodhist>
+        <bioghist>
+            <p>Historian Alena Hájková, PhDr., an author of works on the anti-fascist resistance, a participant in the anti-Nazi domestic resistance, a holder of the title "Righteous Among the Nations", was born on 11 October 1924 in Prague. In 1939, she began to train as a ladies' dressmaker. She took a job with Felix Just, a German goldsmith firm in Prague, which also employed a number of Jews who were already persecuted at that time. Hájková began to help disabled Jewish friends, and established cooperation with the leftist Zionist organization Hashomer Hatzair. The organization set up the resistance group Přehledy in 1943, whose members included Alena Hájek's friend, Jany Lebovič, and her future husband, Miloš Hájek. She was arrested by the Gestapo in March 1944 and was imprisoned in the Ravensbrück and Buchenwald concentration camps until the end of the war. Jany Lebovič, along with most of the members of the resistance group Přehledy, was murdered in Auschwitz. After the end of the Second World War, she married Miloš Hájek, began to study history at the Faculty of Arts of Charles University and then she worked in that field. She was an assistant professor at the Department of Social Sciences at the Czech Technical University in Prague, a researcher at the Czechoslovak Committee for the History of the Anti-Fascist Resistance, and a specialist officer at the Ministry of National Defence. She died in Prague on 2 August 2012.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The personal fonds of historian Alena Hájková is a valuable source of information relating to the issue of racial discrimination against the Jewish population and the beginnings of Jewish resistance in the Protectorate of Bohemia and Moravia. The fonds contains mainly her manuscripts of scientific works related to the anti-Nazi resistance with a focus on the Jewish resistance. The fonds contains manuscripts of works such as The List of Jews in 1939-1941, Participation of Jews in the Czech Resistance Movement, The Disappeared Ones in the First Months of the Occupation, and Administration in 1939-1941, and The Jews. The fonds also contains memories of resistance fighters of Jewish origin, which Alena Hájková herself recorded. These include the memories of Moritz Mittelmann, Pavel Kraus and Alexander Mahler of resistance activities during the Nazi occupation. In her works, she also traces the fate of resistance fighters before 1939 and maps their contribution to the anti-fascist movement after 1933, e.g. their participation in the Spanish Civil War of 1936-1939. The collection also contains Alena Hájková's manuscript notes on the transport of Jews from the Protectorate of Bohemia and Moravia to concentration camps and on the persecution of the Jewish population. The fonds also contains background materials for the examination of the resistance activities of individual underground groups operating in the Protectorate of Bohemia and Moravia and applications of the participants in the anti-Nazi domestic resistance for certificates of resistance activities under Act No. 255/1946 Sb., which PhDr. Alena Hájková prepared on the basis of testimonies and archival sources. The fonds also contains Alena Hájková's biographical materials relating to her resistance activities - e.g. her own biography, memories of relatives (among others, the memory of Margit Steinerová-Karpelesová), documents about the cooperation of Alena Hájková and Miloš Hájek with members of the left-wing Zionist organisation Hashomer Hacair, the diary of Jany Lebovič, etc.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The roughly arranged files are: biographical materials of PhDr. Alena Hájek and her family members; correspondence; her manuscripts of scientific works; manuscripts of scientific studies and articles; memoirs of participants in the anti-Nazi resistance; supporting study material; photocopies of archival materials, a card file of patriots executed during the second martial law; statements on applications of participants in the anti-Nazi domestic resistance for certificates of resistance activity under Act No. 255/1946 Sb.; supporting materials for verification of resistance activities of individual illegal groups operating in the Protectorate of Bohemia and Moravia; photographs.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Hašomer Hacair</corpname></controlaccess>
+        <controlaccess><subject>Racial persecution</subject><subject>Jewish resistance</subject><subject>anti-fascist resistance</subject><subject>Holocaust</subject><subject>persecution of the Jews</subject><subject>concentration camps</subject><subject>Second World War</subject><subject>ghetto</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1981</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Kaufmannová, Heda</titleproper>
+            <subtitle>Heda Kaufmannová / NAD 1981</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1905/1981</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1981</unitid>
+            <unittitle>Kaufmannová, Heda</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">Good</physfacet>
+                <extent>2,50 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1905/1981</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Kaufmannová, Heda</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Heda Kaufmannová / NAD 1981</p>
+        </odd>
+        <custodhist>
+            <p>The personal archive of Heda Kaufmannová was handed over to the National Archives in July 2013 by MUDr. Ivana Reneltová, a close friend of Heda Kaufmannová, who together with Jana Pfeifferová took care of her legacy. </p>
+        </custodhist>
+        <bioghist>
+            <p>Heda Kaufmannová (24 April 1905 Prague - 7 August 1981 Prague), writer, translator and participant in the anti-Nazi domestic resistance, was born into a Jewish family in Prague, where she was brought up to belong to the Czech nation. She graduated from a girls' lyceum in Vinohrady, then completed a bookbinding course at the State Graphic School. In 1929, she had to leave her job as a bookbinder and then worked at the State Health Institute. In the interwar period she was an active member of the Scout movement. In March 1939 she applied for retirement to avoid dismissal on racial grounds. After the Nazi occupation, she became involved in resistance activities, where she was brought by her brother, MUDr. Viktor Kaufmann, who was one of the co-founders and leading figures of the resistance organization Petition Committee We Shall Remain Faithful. When she was summoned for the transport to the concentration camp in September 1942, she went underground. From June 1943, she took refuge with Hana and Eva Málková in Prague. After the end of the war, she learned of the execution of her brother, who had been arrested by the Gestapo in October 1941. After the war she worked in the State Planning Office. She voluntarily ended her life on 7 August 1981.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The personal archive of the Czech writer, translator and participant in the anti-Nazi domestic resistance, Heda Kaufmann, is an important source for understanding her literary work and resistance activities during the years of the Nazi occupation. However, the documents in the fonds can also contribute to the understanding of the life of the Jewish community in the interwar Czechoslovakia. The fonds contains mainly personal documents, manuscripts of Heda Kaufmannová's works, documentation of her resistance activities, correspondence and photographs. Among the documents in Heda Kaufmannová's personal fonds that relate to the life of the Jewish community before 1939, we can highlight in particular the manuscript Letters from the Family Chronicle, Heindorf. In it, the author recorded her memories of her family's summer stays in the German-populated town of Heindorf (Hejnice) in the Frýdlant region, where the brother of Karl Kaufmann, Heda Kaufmannová's father, the physician MUDr. Julius Kaufmann, settled. In her memoirs, Heda Kaufmannová recounts life in this region, but she pays particular attention to the fate of her extended family, especially the German branch of the Kaufmann family. The main focus of the memoirs is the years of 1914-1939. The author completed her memoirs in 1972, but they were not published until 2002. The fonds also contains a larger, unpublished version of the memoirs, which contains the genealogy of the Kaufmann and Freund family, from which Heda Kaufmannová's mother, Helena Kaufmannová, née Freundová, came. The fonds also contains a manuscript of Heda Kaufmannová's war memoirs (1938-1945. War Memories.), in which she described her resistance activities and wartime fate, and which was published in 1999. Family photographs from the years of 1891-1939, which show Heda Kaufmannová's ancestors and her family members, are also a valuable source. The fonds also contains photographs of the Kaufmann family's stays in Heindorf, as well as photographic documentation on the personality of Heda Kaufmannová's older brother, MUDr. Viktor Kaufmann, an important figure of the Czechoslovak domestic anti-Nazi resistance.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Roughly arranged are: personal documents (school reports, medical records); biographical material (a genealogy of the Kaufmann and Freund families); manuscripts of Heda Kaufmannová's prose, poetry and translation work (War Memories, Letters from the Family Chronicle - Heindorf, The Laurel of the Just; Sayings and scribbles, A Treatise for John, the translation of the biography of Klára Haskilová); notes on her own literary work; documentation on the resistance activities of the Petition Committee We Shall Remain Faithfull and on the activities of the Scout organization in the resistance; correspondence; photographs.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish resistance</subject><subject>anti-Nazi resistance</subject><subject>anti-Jewish persecution</subject><subject>memoirs</subject><subject>Second World War</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1063</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Svaz protifašistických bojovníků - ústřední výbor, Praha (1945) 1951–1969</titleproper>
+            <subtitle>Union of Anti-Fascist Fighters - Central Committee, Prague  / NAD 1063</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1951/1969</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1063</unitid>
+            <unittitle>Svaz protifašistických bojovníků - ústřední výbor, Praha (1945) 1951–1969</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>27 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1951/1969</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="slo">slo</language><language langcode="ger">ger</language><language langcode="pol">pol</language><language langcode="ang">ang</language><language langcode="fre">fre</language><language langcode="spa">spa</language>
+            </langmaterial>
+            <origination>
+                <name>Union of Anti-Fascist Fighters - Central Committee, Prague; Additional creators: Union of National Revolution; Union of Freedom Fighters; Union of Political Prisoners and the the Relatives of Parished Political Prisoners</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Union of Anti-Fascist Fighters - Central Committee, Prague  / NAD 1063</p>
+        </odd>
+        <custodhist>
+            <p>The documents were transferred to the State Central Archives in Prague (now the National Archives) in 1969 from the Border Guard Museum, where they were temporarily stored by the Central Committee of the Union of Anti-Fascist Fighters (ÚV SPB). These were mostly documents of the predecessors of the SPB and documents arising from the activities of the SPB between 1954 and 1958, namely questionnaires on resistance activities of the members, files on their screening, membership files, minutes of meetings of the internal bodies of the Union, and files on individual resistance groups. This material was organized in 1971, and then reorganized in 2008.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the Second World War, several resistance organizations emerged in the Czech lands. The Czechoslovak Legionary Union, an organization of participants in World War I, founded in 1921, was the first to be restored. Resistance fighters returning from concentration camps, prisons and penitentiaries, from the Eastern and Western fronts or from emigration, were organized in the Union of Liberated Political Prisoners and the Association of Czechoslovak Foreign Soldiers of the Second Resistance. Those involved in the domestic resistance against the Nazis were organized in the Union of the National Revolution. In 1948, individual resistance organizations in the Czech lands merged into the Union of Freedom Fighters and in 1951 a national organization of resistance fighters was established - the Union of Anti-Fascist Fighters. The mission of the organization was, among other things, to develop the traditions of the struggle against fascism, to spread the historical truth about this struggle, to expose contemporary forms of fascism, to care for memorial sites, to publish and distribute anti-fascist press and literature, etc.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The documents of the Union of Anti-Fascist Fighters are an important source of information on the resistance and resistance of the Czechs and Slovaks in 1914-1918, the domestic and foreign anti-Nazi resistance in 1939-1945, including the Jewish resistance, and the victims of racial and political persecution and prisoners of Nazi prisons and concentration camps. The fonds contains, among other things, fragments of the documents of the predecessors of the Union of Anti-Fascist Fighters. These are mainly personnel records, questionnaires, protocols, minutes, documents relating to illegal resistance groups and concentration camps. The fonds also contains press documentation on the Holocaust and the persecution of Jewish citizens of the Protectorate, and documentation on pseudo-medical experiments in concentration camps. The fonds contains membership records of the predecessors of the Union of Anti-Fascist Fighters. The applications are filed alphabetically in the fonds. The membership records include information on Red Army members in Russia and Hungary, members of the Czech Legions 1914-1918, participants in the Rumburk and Bay of Kotor mutinies 1918, members of the international brigades in Spain 1936-1939, members of the foreign army 1938-1945, members of the Czechoslovak domestic anti-Nazi resistance and political prisoners from the First and Second World Wars, including applications from members of the resistance who were of Jewish nationality. The applications are also accompanied by curricula vitae, and in the case of participants in the anti-fascist domestic and foreign resistance during the Second World War, in some cases they also include information on the activities of the resistance fighters before 1939. An important part of the fonds is the documentation on individual resistance groups, in which it is possible to find information on the involvement of Jewish resistance fighters in the anti-fascist resistance (e.g. participation in international brigades in the Spanish Civil War 1936-1939). Also very valuable are the files of individual resistance groups, which were used in the past years by the Commission for the Issuance of Certificates under Act No. 255/1946 Sb.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is organized into the following sections: the Union of the National Revolution; the Union of Liberated Political Prisoners; the Union of Freedom Fighters; the Union of Anti-Fascist Fighters - congresses; the SPB Central Committee; the SPB Central Committee Bureau; the SPB Central Committee Secretariat; and the departments of the union organs (propaganda, socia-legal and personnel departments). In the processing, the division of the fonds by the originators was maintained. The SPB documents themselves were processed largely according to the organizational structure of the Union. The most extensive unit is the questionnaires of victims of pseudo-medical experiments in concentration camps. The documents on the activities of individual resistance groups are also significant.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Chaloupková M. – Kahuda J. – Sedláková M.: Svaz protifašistických bojovníků – ústřední výbor, Praha (1945) 1951-1969. Inventář, 2008, 65 s., ev. č. 1685.</p></otherfindaid>
+        <otherfindaid><p>https://vademecum.nacr.cz/vademecum/index.jsp?</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Union of Anti-Fascist Fighters</corpname></controlaccess>
+        <controlaccess><subject>anti-Nazi resistance</subject><subject>Jewish resistance</subject><subject>racial and political persecution</subject><subject>and prisoners of Nazi prisons</subject><subject>concentration camps</subject><subject>persecution of Jewish citizens</subject><subject>Second World War</subject><subject>Spanish Civil War</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>424</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Wolf, Max Egon, MUDr.</titleproper>
+            <subtitle>MUDr. Max Egon Wolf / NAD 424</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1900/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>424</unitid>
+            <unittitle>Wolf, Max Egon, MUDr.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>0,12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1900/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language><language langcode="eng">eng</language>
+            </langmaterial>
+            <origination>
+                <name>Wolf, Max Egon, MUDr.; Additional creators: Wolfová Anny Johanna; Falkenau Emil; Falkenau Ernst; Falkenau Paul; Falkenau Wilhelm; Steiner Josef; Wolf Willy; Wolfová Hermína; Pfeifer P.</name>
+            </origination>
+        </did>
+        <odd>
+            <p>MUDr. Max Egon Wolf / NAD 424</p>
+        </odd>
+        <custodhist>
+            <p>The personal fonds of MUDr. Max Egon Wolf was acquired by the former Central Agricultural and Forestry Archives. The date of acquisition could not be established. There it was part of the broadly defined Collection of the Central Agricultural and Forestry Archive (ÚZLA). It was separated from there in 1994 and since that year it has been registered separately. The fonds consists of a fragment of the written estate of Max Egon and Anna Wolf, together with a fragment of writings of other family members. </p>
+        </custodhist>
+        <bioghist>
+            <p>MUDr. Max Egon Wolf (February 8, 1900 - April 19, 1945), after graduating from the high school, studied at the medical faculty of the German University, from which he graduated on June 26, 1926 with a doctorate in medicine. He became one of the most prominent dentists in Prague, was elected vice-chairman of the Dental Union in the Czechoslovakia, participated in dental congresses in Budapest, Bologna and Vienna, and regularly published his papers in the professional journal Deutsche Monatschrift für Zahnheilkunde. On 7 February 1928 he married Anna Johanna, the daughter of the banker Falkenau. Their marriage was divorced in 1941. Because of his Jewish origin, he was forced to leave his medical practice on 24 July 1940. Efforts to emigrate abroad (USA, Great Britain, Australia, South America or Siam) failed despite the help of his relatives living abroad. On 30 January 1942 he was deported to the concentration camp at Terezín, and from there to Auschwitz, where he perished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The personal archive of MUDr. Max Egon Wolf is a source for the knowledge of the Holocaust and the racial persecution of the Jewish population in the Protectorate of Bohemia and Moravia. The fonds contains documents from 1939-1941, when the Wolfs faced racial persecution. Using one family as an example, it is possible to trace specific interventions in the life of the Jewish population by the Protectorate authorities - e.g. the levying of special taxes or property registration. The archival material in the fonds also shows the efforts of the Wolfs and their relatives to escape persecution, e. g. negotiations on emigration, etc. Thus, the personal fonds can supplement the sources of an official nature with examples of specific human fates during the Holocaust and the racial persecution of the Jewish population. The fonds contains, among other things, Max Egon Wolf's personal documents from the years of 1900-1939 (birth certificate, marriage certificate, certificates of permanent residence, certificate of citizenship, certificate of completion of medical studies at the Faculty of Medicine in Prague, certificates of completion of professional courses and practice, membership card of the German Doctors' Association, certificate of resignation from the church) and correspondence. The fonds contains correspondence of the originator from 1939 with institutions and private individuals with whom Max Egon Wolf had discussions about the possibility of emigration (e.g. with the Co-ordinating Committee for Refugees, London; Ministry of Home Affairs, Canberra; Medical Council, Bankong, and Under-Secretary of State, London; Mc Cormick, E.J.; Rajawangsan, Phya). The fonds also contains the documents of Max Egon Waff's wife, Anna Johanna, including personal papers from 1903-1939 and tax receipts from 1937-1939. The fonds also contains the correspondence of Max Egon Woff's brother-in-law, Josef Steiner, and the brother of the originator, Willy Woff, with the Co-ordinating Committee for Refugees, London, from 1939. The fonds contains a letter from P. Pfeifer to the Central Office for Refugees from 1939. The fonds also contains the originator's own biography (b.d.) and documentation on the property affairs of the family of Max Egon Wolf and his relatives, including an inventory of the originator's property from 1939.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into the following sections: biographical material, correspondence, documents of family members, documents of foreign persons.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Novotná M. – Veselá I. – Kahuda J.: Wolf Max Egon, MUDr. (1873) 1900-1942. Inventář, 1998, 12 s., ev. č. 1572.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Anti-Jewish persecution</subject><subject>Racial persecution</subject><subject>Concentration camps</subject><subject>Holocaust</subject><subject>Second World War</subject><subject>political emigration</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1308</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv Syndikátu novinářů, Praha </titleproper>
+            <subtitle>Archive of the Syndicate of Journalists, Prague / NAD 1308</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1877/1998    </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1308</unitid>
+            <unittitle>Archiv Syndikátu novinářů, Praha </unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>244 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1877/1998    </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Society of Czech Journalists; Pension Association of Czech Journalists (1872); Pension Fund for Widows and Orphans of the Association of Czech Journalists (1882-1948); Union of Czechoslovak Journalists (1902-1903); All-Slavic Union of Journalists (1898-1934); Central Union of Slavic Journalists (1902-1904); Union of Czech Journalists (1909-1920); Syndicate of Czech Journalists (1909-1911); Union of Czech Journalists in Vienna (1918-1929); Reichsgewerkschaft der deutschen Presse in der CSR (1919-1939); Syndicate of the Czechoslovak Daily Press (1919-1926); Unity of Czechoslovak Journalists (1920-1939); Czechoslovak Journalists' Community (1920-1925); Club of Czechoslovak Journalists (1925-1940); Union of Publishers of Daily Newspapers (1921-1943); Syndicate of Czechoslovak Journalists (1926-1939); National Union of Journalists (1939-1945); Presseklub (1939-1945); Oberkommando der Kriegsmarine (1941-1942); Institut fur Volkslehre und Nationalitätenkunde an der Deutschen Karls-Universität (1942-1945); Institut fur Zeitungswissenschaft an der Deutschen Karls-Universität (1939-1945); Union of Czech Journalists (1945-1948); Union of Czechoslovak Journalists (1947-1972); Central Office of Journalists of the Czechoslovak Republic (1967- 1972); Czechoslovak Union of Journalists (1972-1990); Czech Union of Journalists (1972-1990); Slovak Union of Journalists (1959-1985); Syndicate of Journalists of the Czech Republic (since 1990). </name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archive of the Syndicate of Journalists, Prague / NAD 1308</p>
+        </odd>
+        <custodhist>
+            <p>Efforts to maintain the records of journalistic associations and organizations can be traced back to the late 19th century. Most journalistic organizations tried to systematically store their records. In 1955, a collection campaign was held with the aim of gathering as many documents as possible from the activities of journalistic associations in the archives of the Union of Czechoslovak Journalists. Since 1956, the archive has been maintained in the library of the Institute of Journalistic Studies. In 1967, the Journalism Study Institute was attached to the Faculty of Education and Journalism of Charles University and the archive was handed over to the administration of the Union of Czech Journalists. After 1989, the archive came under the administration of the Syndicate of Journalists of the Czech Republic, which handed it over to the National Archives in 1999.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first Czech journalistic association (the Society of Czech Journalists) was founded on 18 November 1877. At the turn of 1938-1939, restrictions on public life and the efforts to control it led to the government's pressure to establish a unified journalistic organization - the National Union of Journalists (9 June 1939). After the end of the Second World War, the prevailing opinion was that the press must not divide and polarize society by stirring up controversy according to the interests of individual publishers but must serve the development of the "people's democratic" Czechoslovakia. Steps were taken to establish a professional organization of journalists under the name of the Union of Czechoslovak Journalists. The law made membership in the Union compulsory for all editors. In 1972, the Czechoslovak Union of Journalists was established as a unified national professional organization. The Syndicate of Journalists of the Czech Republic became the successor organization after 1989.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The archive, founded by the predecessor of the Syndicate of Journalists of the Czech Republic, is an extremely valuable collection of documents resulting from the activities of individual journalistic clubs, associations and organizations. The membership records include the files of members of journalistic organizations who were of Jewish origin or who were later persecuted for being Jewish. The fonds also includes the small estates of several journalists of Jewish origin: František Bauer (7 September 1897, Turnov - 1 October 1967, Prague), Oskar Butter (25 January 1886, Rohozec u Podbořany - 17 January 1943, Auschwitz) and Alfred Fuchs (23 June 1892, Prague - 16 February 1941, Dachau).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The documents stored in the fonds have been sorted according to the individual journalistic societies, clubs, associations and organizations and these have been arranged chronologically according to the date of their creation. The structure of the individual parts of the fonds is based on the surviving material. The most frequent items are minutes of meetings of various associations, correspondence and activity material. At the end of the fonds are included the documentation and personal papers of some important journalists, containing mainly personal documents, correspondence and manuscripts of articles. No archival finding aid has yet been made for the fonds.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Only temporary list of archival material is currently available for the fonds.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Czech journalistic association</corpname></controlaccess>
+        <controlaccess><subject>Jewish journalists</subject><subject>Journalist organilsations</subject><subject>Jewish origin</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>506</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Ministerstvo zahraničních věcí - výstřižkový archiv, Praha</titleproper>
+            <subtitle>Ministry of Foreign Affairs - clippings archive, Prague / NAD 506</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1918/1987   </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>506</unitid>
+            <unittitle>Ministerstvo zahraničních věcí - výstřižkový archiv, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>1916,75 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1918/1987   </unitdate>
+            <langmaterial>
+                <language langcode="eng">eng</language><language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="rus">rus</language><language langcode="dan">dan</language><language langcode="swe">swe</language><language langcode="fre">fre</language><language langcode="ita">ita</language><language langcode="bul">bul</language><language langcode="pol">pol</language><language langcode="slo">slo</language><language langcode="fin">fin</language><language langcode="srp">srp</language><language langcode="hun">hun</language><language langcode="nor">nor</language>
+            </langmaterial>
+            <origination>
+                <name>Ministry of Foreign Affairs; Ministry of Interior</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Ministry of Foreign Affairs - clippings archive, Prague / NAD 506</p>
+        </odd>
+        <custodhist>
+            <p>The first part of the clippings archive of the Ministry of Foreign Affairs was handed over to the then State Central Archives (now the National Archives) in the autumn of 1955. At that time, the documents were roughly organized and parts of the documentation handed over by the Intelligence Department of the Ministry of the Interior were added. The remaining parts of the clippings archive were handed over in the following years. The second part of the clippings archive was processed in 1980 and the last part in 2001-2007.</p>
+        </custodhist>
+        <bioghist>
+            <p>In the first days of November 1918, a provisional Czechoslovak government was established in Paris, within which the Ministry of Foreign Affairs was set up. The National Committee of the Czechoslovak Republic also established the supreme administrative authorities by Act No. 2/1918 Sb. of 2 November 1918. They were twelve administrative offices, including the Ministry of Foreign Affairs, which later merged with the Ministry of Foreign Affairs of the Provisional Government in Paris. Shortly after the occupation of the rest of the Czechoslovak Republic and the establishment of the Protectorate of Bohemia and Moravia in March 1939, the Ministry of Foreign Affairs was abolished. During World War II, a Czechoslovak government-in-exile was established in London, including the Ministry of Foreign Affairs. In 1945, the Ministry of Foreign Affairs in Prague was re-established.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The clippings archive, which was established at the request of the Ministry of Foreign Affairs, systematically collected clippings mainly on foreign political events. Gradually, a unique collection of thematically arranged newspaper clippings from the Czechoslovak and foreign press from the years 1916-1987 was created. The fonds itself is divided into three parts, the first of which contains clippings from 1916-1944, the second one from 1945-1951 and the third one from 1952-1987. The first part of the fonds contains sets of clippings on Jews in Czechoslovakia from 1920-1944 and on the Jewish religion from 1924-1942. At the end of each part of the collection there are clippings on important personalities of the Jewish community in the Czech lands and abroad, especially politicians, artists, journalists and writers.</p>
+        </scopecontent>
+        <arrangement>
+            <p>All three parts of the fonds have almost identical internal division: Finding aids (Auxiliary books and card catalogues), International development, World and states, States, Czechoslovakia in territorial division, Czechoslovakia in detailed division, Institutions (alphabetical), Persons (alphabetical). The archival materials are arranged in subject units that respect the original division by the originator.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Havlín O.: Ministerstvo zahraničních věcí – Výstřižkový archiv 1916-1944. Inventář, 1966, s. 247, ev. č. 491.</p></otherfindaid><otherfindaid><p>Gosmanová S. – Kreč J. – Sikorová M. – Šturz J.: Ministerstvo zahraničních věcí – Výstřižkový archiv 1945-1951 (1955). Díl II., Sv. 1. Inventář, 1980, 243 s., ev. č. 1027.</p></otherfindaid><otherfindaid><p>Gosmanová S.  – Kreč J. – Sikorová M. – Šturz J.: Ministerstvo zahraničních věcí – Výstřižkový archiv 1945­1951 (1955). Díl II., Sv. 2., Inventář, 1980, 685 s., ev. č. 1028.</p></otherfindaid><otherfindaid><p>Gosmanová S. – Kreč J. – Sikorová M. – Šturz J.: Ministerstvo zahraničních věcí – Výstřižkový archiv 1945-1951 (1955). Díl II., Sv. 3., Inventář, 1980, 527 s., ev. č. 1029</p></otherfindaid><otherfindaid><p>Machková Z.: Ministerstvo zahraničních věcí – Výstřižkový archiv, Praha. Díl III., (1945) 1952-1987. Dílčí inventář, 2009, 1158 s., ev. č. 1679.</p></otherfindaid>
+        <otherfindaid><p>https://vademecum.nacr.cz/vademecum/index.jsp?</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Newspaper clippings</subject><subject>politicians</subject><subject>artists</subject><subject>journalists</subject><subject>writers</subject><subject>foreign political events</subject><subject>Jewish personalities</subject><subject>Jewish religion</subject></controlaccess>
+    </archdesc>
+</ead>    
+
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1066</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Zahraniční tiskový archiv, New York</titleproper>
+            <subtitle>Foreign Press Archive, New York / NAD 1066</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1939/1946    </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1066</unitid>
+            <unittitle>Zahraniční tiskový archiv, New York</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>588,62 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1939/1946    </unitdate>
+            <langmaterial>
+                <language langcode="eng">eng</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Foreign Press Archive, New York; Arne Laurin </name>
+            </origination>
+        </did>
+        <odd>
+            <p>Foreign Press Archive, New York / NAD 1066</p>
+        </odd>
+        <custodhist>
+            <p>Following a decision of the Czechoslovak government, the archive was moved from New York to Prague in 1946. The collection was stored in the Archives of the Ministry of Information. In 1962, it was transferred to the State Central Archives (now the National Archives). </p>
+        </custodhist>
+        <bioghist>
+            <p>In April 1939, a press service headed by Consul Ján Papánek started working at the Czechoslovak National Council in America in Chicago. The main attention was paid to the situation in the occupied homeland. After the outbreak of the Second World War, the press service also disseminated news about the situation on the fronts and information about the activities of the Czechoslovak foreign resistance centre in Great Britain. In 1940, the press service was moved from Chicago to the consulate building in New York in 1940 and renamed the Czechoslovak Information Centre. Within this organisation, a clipping archive was also established, founded by Arne Laurin (24 February 1889 Hrnčíře u Prahy - 17 February 1945 New York, USA) a journalist, literary, art and theatre critic, poet and novelist. In 1918, he was the editor of the Domov (Home) journal and in 1919 he became the deputy editor-in-chief of the Tribuna (Tribune) journal. He was the editor in chief of the Prager Presse daily from 1921 to November 1938. In January 1939 he left for France and then for New York. For the needs of the Second Foreign Resistance at the Czechoslovak consulate in New York, he founded and ran a news agency with an extensive archive. </p>
+        </bioghist>
+        <scopecontent>
+            <p>The Clippings Archive of the Second Resistance, known since 1942 as the Czechoslovak Archives in New York, was part of the Czechoslovak Information Center in New York and is associated with the name of its founder, Arne Laurin. Thanks to him, a unique archive of clippings was created, gathering clippings mainly on foreign political and military events during the Second World War, on the situation in the Protectorate and also on the Second Czechoslovak Foreign Resistance. The fonds also contains newspaper clippings on the Jewish community in Czechoslovakia and anti-Jewish measures in the late 1930s. The following sets of clippings relate specifically to Jews: Jews - anti-Semitism, in general, 1930-1939; Jews - racial policy 1939-1946; Jews - property registration 1939-1944; Jews - abuse, burning of synagogues 1939-1944; and Arization of film 1939-1940. The staff of the Foreign Press Archive also closely monitored reports concerning the emigration of Jews 1939-1940 and their relationship to the Czechoslovak foreign resistance 1939-1945. It contains clippings on important personalities from the Jewish community in Czechia and abroad, especially politicians, artists, journalists and writers. In addition to its own clippings archive, the collection contains documents from the Prague Press Service (materials brought to the USA from Prague), the Czechoslovak Information Service New York, the Inter-Allied Center New York, and materials from the UN conference in San Francisco on 25 April 1945.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into five sections: 1. The Prague Press Service, 2. The Czechoslovak Archives in New York divided as follows - T. G. Masaryk; E. Beneš; 1st Resistance; Czechoslovakia; Secession of the Sudetenland; Protectorate of Bohemia and Moravia; Independent Slovakia, Slovak State; Jews and Zionism; Refugees, Homeless; Austria; League of Nations and Other International Institutions; Baltic States, Finland; 2nd Foreign Resistance; Czechoslovakia and America; Czechoslovaks in the USA; Yugoslavia; Poland; Germany; Romania; USSR; Great Britain; France; USA; other countries; war and peace; maps; cartoons), 3. Czechoslovak Information Service New York, 4. Inter-Allied Center New York, 5. materials from the UN Conference in San Francisco of 25 April 1945. The archival materials are arranged in subject units that respect the original division by the originator.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Havlín O.: Zahraniční tiskový archiv, Díl I., 1939-1946. Inventář, 1964, 281 s., ev. č. 462</p></otherfindaid><otherfindaid><p>Havlín O.: Zahraniční tiskový archiv, Díl II., 1939-1946. Inventář, 1964, 251 s., ev. č. 463</p></otherfindaid><otherfindaid><p>Havlín O.: Zahraniční tiskový archiv. Díl III., 1939-1946. Inventář, 1964, 220 s., ev. č. 464.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Czechoslovak foreign resistance</corpname><corpname>Prague Press Service</corpname><corpname>Czechoslovak Information Service</corpname></controlaccess>
+        <controlaccess><subject>Clippings Archive</subject><subject>Second World War</subject><subject>Second Czechoslovak Foreign Resistance</subject><subject>anti-Jewish measures</subject><subject>Jewish communities</subject><subject>Arization</subject><subject>anti-Jewish violence</subject><subject>emigration</subject><subject>politicians</subject><subject>artists</subject><subject>journalists</subject><subject>writers</subject><subject>UN</subject></controlaccess>
+    </archdesc>
+</ead>    

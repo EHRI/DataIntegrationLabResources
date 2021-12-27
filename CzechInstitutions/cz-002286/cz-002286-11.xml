@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>424</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Wolf, Max Egon, MUDr.</titleproper>
+            <subtitle>MUDr. Max Egon Wolf / NAD 424</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1900/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>424</unitid>
+            <unittitle>Wolf, Max Egon, MUDr.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>0,12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1900/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language><language langcode="eng">eng</language>
+            </langmaterial>
+            <origination>
+                <name>Wolf, Max Egon, MUDr.; Additional creators: Wolfová Anny Johanna; Falkenau Emil; Falkenau Ernst; Falkenau Paul; Falkenau Wilhelm; Steiner Josef; Wolf Willy; Wolfová Hermína; Pfeifer P.</name>
+            </origination>
+        </did>
+        <odd>
+            <p>MUDr. Max Egon Wolf / NAD 424</p>
+        </odd>
+        <custodhist>
+            <p>The personal fonds of MUDr. Max Egon Wolf was acquired by the former Central Agricultural and Forestry Archives. The date of acquisition could not be established. There it was part of the broadly defined Collection of the Central Agricultural and Forestry Archive (ÚZLA). It was separated from there in 1994 and since that year it has been registered separately. The fonds consists of a fragment of the written estate of Max Egon and Anna Wolf, together with a fragment of writings of other family members. </p>
+        </custodhist>
+        <bioghist>
+            <p>MUDr. Max Egon Wolf (February 8, 1900 - April 19, 1945), after graduating from the high school, studied at the medical faculty of the German University, from which he graduated on June 26, 1926 with a doctorate in medicine. He became one of the most prominent dentists in Prague, was elected vice-chairman of the Dental Union in the Czechoslovakia, participated in dental congresses in Budapest, Bologna and Vienna, and regularly published his papers in the professional journal Deutsche Monatschrift für Zahnheilkunde. On 7 February 1928 he married Anna Johanna, the daughter of the banker Falkenau. Their marriage was divorced in 1941. Because of his Jewish origin, he was forced to leave his medical practice on 24 July 1940. Efforts to emigrate abroad (USA, Great Britain, Australia, South America or Siam) failed despite the help of his relatives living abroad. On 30 January 1942 he was deported to the concentration camp at Terezín, and from there to Auschwitz, where he perished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The personal archive of MUDr. Max Egon Wolf is a source for the knowledge of the Holocaust and the racial persecution of the Jewish population in the Protectorate of Bohemia and Moravia. The fonds contains documents from 1939-1941, when the Wolfs faced racial persecution. Using one family as an example, it is possible to trace specific interventions in the life of the Jewish population by the Protectorate authorities - e.g. the levying of special taxes or property registration. The archival material in the fonds also shows the efforts of the Wolfs and their relatives to escape persecution, e. g. negotiations on emigration, etc. Thus, the personal fonds can supplement the sources of an official nature with examples of specific human fates during the Holocaust and the racial persecution of the Jewish population. The fonds contains, among other things, Max Egon Wolf's personal documents from the years of 1900-1939 (birth certificate, marriage certificate, certificates of permanent residence, certificate of citizenship, certificate of completion of medical studies at the Faculty of Medicine in Prague, certificates of completion of professional courses and practice, membership card of the German Doctors' Association, certificate of resignation from the church) and correspondence. The fonds contains correspondence of the originator from 1939 with institutions and private individuals with whom Max Egon Wolf had discussions about the possibility of emigration (e.g. with the Co-ordinating Committee for Refugees, London; Ministry of Home Affairs, Canberra; Medical Council, Bankong, and Under-Secretary of State, London; Mc Cormick, E.J.; Rajawangsan, Phya). The fonds also contains the documents of Max Egon Waff's wife, Anna Johanna, including personal papers from 1903-1939 and tax receipts from 1937-1939. The fonds also contains the correspondence of Max Egon Woff's brother-in-law, Josef Steiner, and the brother of the originator, Willy Woff, with the Co-ordinating Committee for Refugees, London, from 1939. The fonds contains a letter from P. Pfeifer to the Central Office for Refugees from 1939. The fonds also contains the originator's own biography (b.d.) and documentation on the property affairs of the family of Max Egon Wolf and his relatives, including an inventory of the originator's property from 1939.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into the following sections: biographical material, correspondence, documents of family members, documents of foreign persons.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Novotná M. – Veselá I. – Kahuda J.: Wolf Max Egon, MUDr. (1873) 1900-1942. Inventář, 1998, 12 s., ev. č. 1572.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Anti-Jewish persecution</subject><subject>Racial persecution</subject><subject>Concentration camps</subject><subject>Holocaust</subject><subject>Second World War</subject><subject>political emigration</subject></controlaccess>
+    </archdesc>
+</ead>    
+

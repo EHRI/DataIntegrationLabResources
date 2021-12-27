@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1465</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Sbírka dokumentace k období okupace a květnové revoluce</titleproper>
+            <subtitle>Collection of Documentation for the Period of Occupation and the May Revolution / NAD 1465</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1937/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1465</unitid>
+            <unittitle>Sbírka dokumentace k období okupace a květnové revoluce</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Graphic Material</genreform> 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>2,52 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1937/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Various legal persons and private persons in Prague</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Collection of Documentation for the Period of Occupation and the May Revolution / NAD 1465</p>
+        </odd>
+        <custodhist>
+            <p>As early as May 1945, the Presidium of the Municipal Office of the Capital City of Prague commissioned the Prague City Archives to establish the archive of the underground resistance movement. In the following decades, many documents were added to the fonds through donations from witnesses of wartime events as well as from various institutions (e.g. from the Union of Anti-Fascist Fighters). However, the official institutionalization of the fonds did not take place until 1955. It was inventoried in 2015.</p>
+        </custodhist>
+        <bioghist>
+            <p>The history of many originators of the fonds overlap with the history of individual participants and witnesses of the Czech resistance and Nazi occupation, or institutions that joined the resistance or later included the former resistance movement participants.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains archival materials concerning the history of the Czech resistance during the World War II, the uprising in May 1945 and various aspects of the life of the society in that period. The fonds also includes sources for persecution of the Jewish population such as the Decree on Marriage of Jews and Jewish Half-Breeds from 8 October 1942; announcements of Jewish fiancés and undelivered envelopes from the Prague Municipal Office with copies of marriage and birth certificates for persons of Jewish origin in the transports (1941-1942).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The larger, and at the same time the first, part of the fonds was organized by the donors (natural persons) of the archival materials. Individuals are listed alphabetically in the inventory. Within the groups of 'Written Material', 'Material Monuments' and 'Photographs' there are mentions of relevant documents and materials of the given nature. The next part was also organized by the originators, especially institutions, again alphabetically. The last part consists of various materials, divided into the following groups: a) literary-documentary works, b) printed materials, c) documentary materials - miscellaneous, d) photographs, e) material monuments.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Brátková Z.: Sbírka dokumentace k období okupace a květnové revoluce, 2016, 87 s., ev. č. 572.</p></otherfindaid>
+        <otherfindaid><p>http://katalog.ahmp.cz/pragapublica/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28642762%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Nazi Occupation</subject><subject>Persecutions</subject><subject>Jews of Mixed Origin</subject><subject>Marriages</subject><subject>Mixed Marriages</subject><subject>Resistance</subject></controlaccess>
+    </archdesc>
+</ead>    

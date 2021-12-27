@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>72</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Soběslav I.</titleproper>
+            <subtitle>District Court of Soběslav I / NAD 72</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>72</unitid>
+            <unittitle>Okresní soud Soběslav I.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>72,81 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Soběslav; Mixed District Office Soběslav</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Soběslav I / NAD 72</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the Soběslav District Court from 1850-1949 were handed over to the District Archives in Tábor in 1952-2003.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Soběslav District Court was established in 1949, replacing the abolished privileged and superior court. In the years 1855-1868, the so-called mixed district office was established (political and judicial agenda). In 1868, this mixed district office was abolished and only the district court remained in Soběslav. The political agenda was taken over by the Tábor District Office. The court ruled in basic civil and criminal cases. In 1949, the District Court in Soběslav was abolished.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Soběslav District Court from the years 1850-1949 (1951) concerning the civil and criminal agendas, as well as the agenda for the establishment of new land registers. As part of the inheritance agenda (file no. D), there are the inheritance proceedings of Jews who died during World War II, for example in concentration camps, dealt with especially in 1946.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: 1. Court agenda - A. Auxiliary books - presidium, civil, criminal); B. Files - presidium files, civil files, criminal files; 2. Land book agenda.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lintner J.: Okresní soud Soběslav 1850-1949. Prozatímní inventární seznam, 1975, 54 s., ev. č. 474.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>inheritance agenda</subject></controlaccess>
+    </archdesc>
+</ead>    
+

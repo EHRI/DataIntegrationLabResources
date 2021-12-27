@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1082</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Předsednictvo ministerské rady, Praha</titleproper>
+            <subtitle>Presidium of the Ministerial Council, Prague / NAD 1082</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 240</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1918/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1082</unitid>
+            <unittitle>Předsednictvo ministerské rady, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>632,90 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1918/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Presidium of the Ministerial Council; Secretariat of the Prime Minister (1942-1945); State Economic Council (1938-1941); Coordination Department (1939-1942)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Presidium of the Ministerial Council, Prague / NAD 1082</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was taken over into the State Central Archives from the Office of the Presidium of the Council of Ministers in 1955-1956. In 1957-1958, it was organized according to archival principles and an inventory, completed in 1960, was made for it. During the following years, a number of files were created by the Presidium of the Council of Ministers during the organization of various fonds of the State Central Archives. These files were included in the fonds and provided with an additional inventory in 1975. Minor later additions from other fonds are unprocessed.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Presidium was set up to provide the Ministerial Council (government) with office service and to serve as the executive body of the prime minister. It was effective for all the preparatory and auxiliary work to be entrusted to a body directly under the Prime Minister. The Presidium was to ensure the uniformity of the government decision-making and the uniformity of legislative and administrative activities of individual ministries. It submitted to the Government for discussion both the outline of laws and Government regulations submitted by individual ministers, as well as international treaties; after their approval, it submitted them to the National Assembly. It was the mediator between the Government and other constitutional bodies. During the Protectorate reorganization of the central offices in 1942, the Presidium was abolished and replaced by the Secretariat of the Prime Minister.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds includes the entire agenda of the Presidium of the Ministerial Council. Several relatively coherent units directly concern Jews, their organizations, religious societies, relevant government regulations (with an overlap after 1939 - legal status in the Protectorate, Jewish property, emigration, Jews in the civil service); reports on the activities of Jewish parties and organizations, the memorandum of the Zionist Revision Union, the affairs of companies of Jewish entrepreneurs (strike at the company of M. Beer in Svitávka, national situation at the company of A. Hahn in Bohumín). Other materials need to be searched for in the other agendas: e. g. outlines of laws and comments on them, parliamentary interpellations, minutes of ministerial council meetings, political situation reports, reports on political party meetings, reports on political party activities, election materials, personal matters of deputies and senators, requests, complaints and memoranda of various unions, associations, traders and individuals, matters of banks, economy, industry, government participation in domestic and international conventions and congresses.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: 1) Registry finding aids, 2) Files: I Presidium secretariat, II General registry of the Presidium, III Coordination department 1939-1942, IV Registers of prime ministers 1918-1941, V National economy department 1919-1942, VI State Economic Council 1938-1941, VII Minutes of meetings of the Ministerial Council 1918-1942, VIII Original laws and government regulations 1918-1937, IX Certified copies of sealed documents (inter-ministerial agreements) 1924-1938, X Secretariat of the Prime Minister 1942-1945, XI Various. Additions.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Ponocná M.: Předsednictvo ministerské rady (PMR) 1918-1945. Inventář, 1960, Díl I.-II., 564 s., ev. č. 329-330.</p></otherfindaid><otherfindaid><p>Kutová J.: Předsednictvo ministerské rady – dodatky (PMR-d) 1918 -1942. Inventář, 1975, 20 s., ev. č. 874.</p></otherfindaid>
+        <otherfindaid><p>https://vademecum.nacr.cz/vademecum/index.jsp?</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Zionist Revision Union</corpname></controlaccess>
+        <controlaccess><subject>Jewish organizations</subject><subject>Jewish religious societies</subject><subject>governmental regulations concerning Jews</subject><subject>legal status of Jews</subject><subject>Jewish property</subject><subject>political parties</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    
+

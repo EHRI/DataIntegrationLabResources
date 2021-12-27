@@ -1,0 +1,380 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>337</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Chrudim I</titleproper>
+            <subtitle>District Office of Chrudim I / NAD 337</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Chrudim</publisher>
+            <address>
+                <addressline>Filištínská 37, Chrudim, 537 01</addressline>
+                <addressline> + 420 469 660 408</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-chrudim/</addressline>
+                <addressline>podatelna-cr@ ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>337</unitid>
+            <unittitle>Okresní úřad Chrudim I</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>213,99 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Chrudim</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="rus">rus</language><language langcode="hun">hun</language><language langcode="ita">ita</language><language langcode="srp">srp</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Chrudim; District Office of Chrudim; District Political Administration Office Chrudim; District National Committee Chrudim </name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Chrudim I / NAD 337</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives in Chrudim. The first part of the fonds from 1850-1936 was organized in 1960, the second part, from 1936-1945, in 1968. The entire fonds was re-inventoried in 2011.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Governor's Office in Chrudim was established in 1850. In 1855, its successor - Mixed District Political Office - began to function until 1868, when the District Governor's Office was re-established. In 1919, the Governor's Office was renamed the District Political Administration and later the District Office of Chrudim. It was still headed by the district governor. During the Nazi occupation, the District Office was under the Oberlandrat Pardubice until 1942, and from June 1942 under the Oberlandrat of Hradec Králové. In 1945, the District National Committee was established in Chrudim.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the Chrudim district. Jewish affairs can be found in many of the agendas of this administration. The presidium files of the office reflect various phenomena, such as anti-Jewish sentiments, riots in municipalities with Jewish communities, and during the war the agenda concerning the Galician refugees who arrived in the district. There one can find records of Jewish members of the civil service, lists of Jewish emigrants from the Sudetenland, lists of Jewish shops and businesses in the district, and Jews with Polish citizenship. After the Nazi occupation, the Office dealt with the labeling of Jewish shops, the behavior of the Czech population towards Jews, the exclusion of Jews from public administration and their compliance with prohibitions and regulations. Census sheets of individual municipalities of the district have been preserved from 1900, 1910 and 1921. An exception is Chrudim, for which census sheets from 1857 (fragment), 1869, 1880, and 1890 (only part of the district) have also been preserved.The handling period of 1850-1855 contains various files concerning the Jewish population in the following agendas: property; affairs of Jewish religious communities (1853-1854); Jewish associations; construction agenda - plans for the restoration of the burned-out Jewish houses in Přestavlky (1850), and others.The handling period of 1855-1868 contains an agenda for Jewish affairs in the following areas: affairs of municipalities - statements of the Jewish National Community; citizenship, domicile right, registry and marital affairs - keeping Jewish registries in the district (1855-1861), applications for marriage permission (1850-1868); religion and clergy; education and upbringing - matters relating to Jewish schools; construction matters; agriculture, industry and trades, transport, post office, and telegraph.The handling period of 1868-1902 contains numerous Judaica in the agendas: religion and clergy - issues of the Jewish National Community; education and upbringing - lists of non-Catholics and Jews (1874-1876); Jewish schools (1855-1888); health care - a plan to establish a Jewish cemetery in Chrudim (1889-1891); and charitable foundations.The handling period of 1903-1936 - the key Judaica can be found in the category of religion and clergy, which also contains the agendas of individual Jewish communities. Individually, Judaica can be searched by name in other agendas.The handling period of 1937-1945 mainly includes sources for the study of war persecution and the Holocaust. The Office compiled lists of Jewish employees and lawyers, and Jewish and other emigrants (1939). The offenses against the Act on the Organization of Political Administration and trade offenses, which also include Jews (1936-1944), are organized alphabetically. In the section called trades, business, and industry, one may find lists of Jewish trades and others. In the field of social care, it is a list of Jewish flats - reports of police stations from individual municipalities (1941-1942). In the transport affairs section, there is a unique collection of confiscated Jewish driving licenses, which is a unique set of documents with photographs (1925-1941).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains file material, official books, maps and plans, and census sheets. The fonds was newly arranged and described in a database system, which also enables full-text search, for example, by names, which are given in applications for travel documents, trade licenses, construction, etc.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Available upon request due to the personal data protection.</p>
+        </accessrestrict>
+        <otherfindaid><p>Bergmann I.  – Grimmlová J. – Langová A. – Růžičková R. – Šrámek P. – Šulc I. – Šulcová R. – Vaněček J.: Okresní úřad Chrudim I. Díl I.-III.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Anti-Jewish sentiments</subject><subject>Anti-Jewish riots</subject><subject>Galician refugees</subject><subject>Jewish emigrants from the Sudetenland</subject><subject>Jewish shops and businesses</subject><subject>Polish Jews</subject><subject>anti-Jewish restrictions</subject><subject>census sheets</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>204</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Hlinsko</titleproper>
+            <subtitle>District Court in Hlinsko / NAD 204</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Chrudim</publisher>
+            <address>
+                <addressline>Filištínská 37, Chrudim, 537 01</addressline>
+                <addressline> + 420 469 660 408</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-chrudim/</addressline>
+                <addressline>podatelna-cr@ ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>204</unitid>
+            <unittitle>Okresní soud Hlinsko</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>75,19 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Chrudim</corpname>
+            </repository>
+            <unitdate>1850/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Hlinsko; People's Court of Hlinsko</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Hlinsko / NAD 204</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives in Chrudim. The fonds was organized in 1959. In 2001, it was re-evaluated as unprocessed, as a large number of archive materials were gradually added.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Hlinsko District Court was established in 1849. In 1855, when a mixed district office was created, dealing with all administrative, tax and judicial matters. From 1868, the mixed district offices were again divided into separate district courts and district offices. The court in Hlinsko functioned from 1868 to 1949, when the Skuteč District Court was affiliated to it. There was a change in 1952 - the Constitutional Act on Courts and the Prosecutors' Offices divided courts into People's Courts (former district courts), regional courts and the Supreme Court. In 1960, during the territorial reorganization, the People's Court in Hlinsko ceased to exist and was annexed to Chrudim.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the court administration of the Hlinsko district. Jewish affairs can be found in the following documents: inheritance files (files marked A, D, IV) 1850-1949, index of estates, registers of estates. Also relevant are the files relating to the declarations of death (file marked M) 1946-1949, guardianship files and registers (files marked E, P) 1924-1949.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains file material, official books, and indexes. The files are first arranged according to the call numbers assigned by the court, and then chronologically.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Available upon request due to the personal data protection. Full text searching tools for the fonds are being currently developed.</p>
+        </accessrestrict>
+        <otherfindaid><p>Letocha J. – Letochová A. – Slavíková Z.: Okresní soud Hlinsko, 1959.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance files</subject><subject>the declarations of death</subject><subject>guardianship files</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>855</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Skuteč</titleproper>
+            <subtitle>District Court of Skuteč / NAD 855</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Chrudim</publisher>
+            <address>
+                <addressline>Filištínská 37, Chrudim, 537 01</addressline>
+                <addressline> +420 469 660 408</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-chrudim/</addressline>
+                <addressline>podatelna-cr@ ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>855</unitid>
+            <unittitle>Okresní soud Skuteč</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>88,39 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Chrudim</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Skuteč; District Court of Hlinsko; People's Court of Hlinsko</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Skuteč / NAD 855</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives in Chrudim. It was organized in 1959. In 2001, the fonds was re-evaluated as unprocessed, as a large number of archive material was gradually added.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Skuteč District Court was established in 1849. In 1855, a mixed district office was established in Chrudim, which administered all administrative, tax and judicial matters. In1867, the mixed district offices were again divided into separate district courts and district offices. The court in Skuteč functioned from 1868 to 1949, when it was affiliated with the District, later People's Court of Hlinsko.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the court administration of the Skuteč district. Jewish affairs can be found in the following documents: estate files marked A, D, IV), index of estates, registers of estates. Also relevant are the files relating to the declarations of death (file M) 1945-1950, guardianship files and registers (files E, P).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains file material, official books, indexes, and file registry plans. The files are arranged according to call numbers assigned by the court, and chronologically. With the knowledge of the time in which the file originated, it is possible to search something to a limited extent.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Available upon request due to the personal data protection.</p>
+        </accessrestrict>
+        <otherfindaid><p>Letocha J. – Letochová A. – Vampola J.: Okresní soud Skuteč, 1959</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance files</subject><subject>the declarations of death</subject><subject>guardianship files</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>339</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Chrudim</titleproper>
+            <subtitle>District Court in Chrudim / NAD 339</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Chrudim</publisher>
+            <address>
+                <addressline>Filištínská 37, Chrudim, 537 01</addressline>
+                <addressline> +420 469 660 408</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-chrudim/</addressline>
+                <addressline>podatelna-cr@ ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/2011</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>339</unitid>
+            <unittitle>Okresní soud Chrudim</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>273,22 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Chrudim</corpname>
+            </repository>
+            <unitdate>1850/2011</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Chrudim; People's Court of Chrudim</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Chrudim / NAD 339</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives in Chrudim. It was organized in 1959 and the first additions got to the archives in 1955. In 2001, the fonds was re-evaluated as unprocessed, because a large number of archive material was gradually added.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Chrudim District Court was established in 1849. In 1855, when a mixed district office was established in Chrudim, which managed all administrative, tax and judicial matters. In 1867, the mixed district offices were again divided into separate district courts and district offices. This arrangement lasted even after the end of the Austro-Hungarian monarchy and the establishment of an independent Czechoslovakia. A change did not occur until 1952 - the Constitutional Act on Courts and the Prosecutor's Office brought about a division into people's courts (former district courts), regional courts and the Supreme Court. During the territorial reorganization in 1960, the People's Court in Hlinsko ceased to exist being annexed to Chrudim.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the judicial administration of the Chrudim district. Jewish affairs can be found in the following documents: inheritance files (files marked A, D) 1850-1935, index of estates, and registers of estates. Also relevant are the files concerning the declarations of death (file marked M) 1945–1948, guardianship files and registers (files marked E, P).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains file material and official books. The files are sorted according to call numbers and volumes assigned by the court. There was a partial appraisal, during which Jewish inheritance files were set aside in one place (cardboard). However, most files are still waiting to be processed; they can only be searched with knowledge of, for example, the year in which the file was created in the relevant package. Declarations of death are also collected separately, but it is only a fragment in one folder.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Available upon request due to the personal data protection.</p>
+        </accessrestrict>
+        <otherfindaid><p>Letocha J. – Letochová A. – Slavíková Z.: Okresní soud Chrudim, 1959.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance files</subject><subject>the declarations of death</subject><subject>guardianship files</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>195</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv obce Hroubovice</titleproper>
+            <subtitle>Archives of Hroubovice / NAD 195</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Chrudim</publisher>
+            <address>
+                <addressline>Filištínská 37, Chrudim, 537 01</addressline>
+                <addressline> + 420 469 660 408</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-chrudim/</addressline>
+                <addressline>podatelna-cr@ ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1800/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>195</unitid>
+            <unittitle>Archiv obce Hroubovice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>0,63 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Chrudim</corpname>
+            </repository>
+            <unitdate>1800/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Hroubovice; Municipality of Hroubovice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of Hroubovice / NAD 195</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives in Chrudim. It was organized in 1978 and the first additions were made to the archives in 1956. The fonds was organized in the form of a combined inventory of the Archives of Municipalities of the Chrudim District, Part I B-L. In 2012, it was again included in the unprocessed fonds.</p>
+        </custodhist>
+        <bioghist>
+            <p>The municipality of Hroubovice belonged to the Košumberk and Chrást estates in the 19th century. There had been an important Jewish community in the municipality since the 18th century. At the beginning of the 19th century, it formed up to 50 percent of the municipality's population. At the end of the 18th century, an independent Jewish religious community was established, and a ghetto was built, in the center of which stood a synagogue and a school - until the 1970s. There were many Jewish businessmen and a few factories in the municipality, e.g. the Werner and Werson shoe factory, the V. Klein chemical factory, and several domestic manufacturers (Lampl, Nettl, Husch). The Mandelík family is important.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains a fragment of municipal documents, file material and official books. Sources for the local Jewish community can be found there. The chronicles of the municipality until the Second World War have been preserved, in which there are data on the inhabitants moved to concentration camps, as well as on the economic prosperity in the 20th century. The life of the community can also be examined in the minutes of the meetings of the council (1902-1921), whose members were representatives of Jewish families. The families can be searched in the municipal register (1902-1948), the register of the inhabitants and foreigners (1900), the list of foreigners (1920-1942), and the criminal record (1874-1924). The fonds also contains a domicile agenda (1888-1941), a list of Galician refugees (1916-1917), criminal records (1897-1945) and files concerning the disputes of two Jewish families - the Lampls and the Huschs (1929-1945).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains file material and official books in the range of 4 boxes.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible upon request</p>
+        </accessrestrict>
+        <otherfindaid><p>Šáda F.: Archivy obcí chrudimského okresu, díl I. B-L, Chrudim, 1978.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Werner and Werson manufacture of footwear</corpname></controlaccess>
+        <controlaccess><subject>municipal governmnet</subject><subject>Galician refugees</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

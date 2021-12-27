@@ -1,0 +1,532 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1142</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Havlíčkův Brod</titleproper>
+            <subtitle>Archives of the Town of Havlíčkův Brod / NAD 1142</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1269/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1142</unitid>
+            <unittitle>Archiv města Havlíčkův Brod</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>121,79 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1269/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="lat">lat</language>
+            </langmaterial>
+            <origination>
+                <name>Town Havlíčkův Brod</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Havlíčkův Brod / NAD 1142</p>
+        </odd>
+        <custodhist>
+            <p>The town archives were taken over by the district archives in Havlíčkův Brod. The archive materials were kept at the town hall and some documents were stored in the town museum. The older part of the archives from 1784-1850 is organized and the archival materials after 1850 are arranged according to the agenda of the town hall.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of the town of Havlíčkův Brod dates from 1256. From the Middle Ages until 1945, the town was called Německý Brod. Since 1637 it had been a royal town. Jews are documented to have been living there in the Middle Ages, then they were forbidden to stay there. The Jews were not allowed to come to the town again until 1848. From 1784, it was the seat of the municipality office, in 1850-1945 of the town hall, and in 1945-1990 of the Municipal National Committee of Havlíčkův Brod, the district town, the seat of the judicial district and the political district.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains deeds, law books, official books and documents from the fields of economics, culture, church, politics, construction, etc. It contains the following materials on the history of Jews: after 1848 - buildings, expansion land operation of Jewish enterprises: textile factories of the Mahler, Bauer, Stiassny, A. B. Musil, and Löwy & Drucker families, the Roth steam mill. First World War - constructing a refugee colony for Jews from Galicia and Bukovina, Jewish refugees. The first Czechoslovak Republic - self-government, minutes of the council board and council meetings, elections - mayor of Jewish origin Robert Neuern. World War II - decrees against Jews.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: The period until 1850: I. Books, II. Files. The period after 1850: I. Books (Books of minutes of meetings, Books of records, Books of the police office), II. Files (Auxiliary books, Files), III. Town finances</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Nováková D. – Pospíchalová H. – Sochr J.: Archiv města Havlíčkův Brod – Listiny, 1269-1949, Sv.1. Inventář, 1982, 123 s., ev. č. 18.</p></otherfindaid><otherfindaid><p>Macek L. – Pospíchalová H. – Sochr J.: Archiv města Havlíčkův Brod - Sv. 2, 1415-1945 (1952), Sv. 3, 1755-1945 (1952)  – Městský důchod. Inventář, 1994, 307 s., ev. č. 196.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>textile factory Mahler</corpname><corpname>textile factory Bauer</corpname><corpname>textile factory Stiassny</corpname><corpname>textile factory A. B. Musil</corpname><corpname>textile factory Löwy & Drucker</corpname><corpname>the Roth steam mill</corpname></controlaccess>
+        <controlaccess><subject>refugee colony for Jews from Galicia and Bukovina</subject><subject>Jewish refugees</subject><subject>Jewish companies</subject><subject>textile industry</subject><subject>anti-Jewish decrees</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1146</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Ledeč nad Sázavou</titleproper>
+            <subtitle>Archives of the Town of Ledeč nad Sázavou / NAD 1146</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1432/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1146</unitid>
+            <unittitle>Archiv města Ledeč nad Sázavou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>28,76 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1432/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Ledeč nad Sázavou</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Ledeč nad Sázavou / NAD 1146</p>
+        </odd>
+        <custodhist>
+            <p>The municipal archives were originally managed by the Municipal Office, and after 1945 by the Local National Committee in Ledeč nad Sázavou. After the establishment of the Ledeč nad Sázavou District Archives in 1958, the administration of the Municipal Archives passed to that institution (in 1959) and from there in 1961 the materials were taken over by the Havlíčkův Brod District Archives. The land books were handed over to the State District Archives in Zámrsk.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first uncertain record of Ledeč can be found in a document from 1181. More records date back to the 13th century. From the second half of the 18th century, Ledeč was donated by Maria Theresa to the Order of Poor Noblewomen at Prague Castle and Ledeč remained under their administration until 1918. In 1790, the regulated municipality office was established there. In 1850, a district court was established there and Ledeč became the seat of the district governor's office which lasted under various names until 1945, when the district national committee was established. Jewish settlement was evidenced since the first half of the 16th century. A synagogue and a cemetery can be found in the town.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains deeds, books of patents, land registers, town finances, minutes of the council board and council, court documents (also disputes with Jewish residents). From the period up to 1848, a rich archive of the Jewish community has been preserved. The period since 1848: Jewish community, rabbis, teachers of religion, members of the community, fees, Czech-Jewish movement. The period of 1938-1945: decrees against Jews, mixed marriage of Deputy Mayor Josef Fenik.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into two basic groups: until 1850 and from 1850.The group until 1850 is divided as follows: 1. Deeds, 2. Books, 3. Files.The group since 1850: 1. Books, 2. Files, 3. Municipal finances. The files after 1850 are further subdivided as follows: auxiliary books; minutes of meetings - registry period 1850-1862; registry period 1862-1869; registry period 1870-1945.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Macek L. – Pospíchalová H.: Archiv města Ledče nad Sázavou 1443-1945, 1443-1945 (1948). Inventář, 1990, 14 s., ev. č. 19.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Religious Community</subject><subject>Czech-Jewish movement</subject><subject>anti-Jewish restrictions</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1242</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Světlá nad Sázavou</titleproper>
+            <subtitle>Archives of the Town of Světlá nad Sázavou / NAD 1242</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1562/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1242</unitid>
+            <unittitle>Archiv města Světlá nad Sázavou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Cartographic material</genreform> 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>18,5 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1562/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town Světlá nad Sázavou</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Světlá nad Sázavou / NAD 1242</p>
+        </odd>
+        <custodhist>
+            <p>The materials originated from the activities of the town hall were stored at the town hall and managed by the town archivist. From 1952, the material was part the Ledeč nad Sázavou District Archives but remained under the administration of the Municipal National Committee in Světlá nad Sázavou. Since 1960, it formally belonged to the Havlíčkův Brod District Archives as its local branch. The documents remained in Světlá until 1991 (1992), when they were handed over to the State District Archives in Havlíčkův Brod.</p>
+        </custodhist>
+        <bioghist>
+            <p>Světlá nad Sázavou was established on the estate of the Vilémov monastery. We do not know much about the exact beginnings of the town, as important sources were destroyed during the burning of the Vilémov monastery in 1421. It was a non-royal town. There was a smaller Jewish community in the town. The synagogue was demolished after 1989, only the new Jewish cemetery has been preserved. The patrimonial office in Světlá was abolished in 1849. Its powers passed to the municipality, district office and district court. Světlá nad Sázavou belonged to the political and judicial district of Ledeč nad Sázavou and in the years 1850-1855 to the Pardubice region. In 1855 it was included again in the Čáslav region.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds stores privileges, land registers, municipal agenda, minutes of the council board and council, economic affairs, and other documents. Information of Jews can mainly be found in documents on economic matters and minutes of the municipal council board and council meetings. The economic agenda - especially the Mahler stonemason's company. There are also documents about the mayor Alfred Weinstein (mayor since 1931) and the Morawetz family - the owners of the castle in Světlá na Sázavou until 1938. The period 1938-1945: decrees against Jews.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Deeds, II. Books (until 1850, after 1850), III. Files (auxiliary books and files). The files are divided as follows: Registry until 1784, Registry after 1784. The files after 1850 are further divided thematically (Constitutional Affairs, Economic and Financial Affairs, Security, Associations, Military Affairs, Trades, Commerce, Industry, Education, etc., Social and Poverty Care, Health Care, Agriculture, Construction, etc., Judicial Affairs). The fonds also includes maps and stamps.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Pospíchalová H. – Tajovský M.: Archiv města Světlá nad Sázavou 1562-1945 (1956). Inventář, 2003, 62 s., ev. č. 212.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Mahler stonemason's company</corpname></controlaccess>
+        <controlaccess><subject>anti-Jewish decrees</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1252</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Golčův Jeníkov</titleproper>
+            <subtitle>Archives of the Town of Golčův Jeníkov / NAD 1252</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1252</unitid>
+            <unittitle>Archiv města Golčův Jeníkov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>8,25 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Golčův Jeníkov</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Golčův Jeníkov / NAD 1252</p>
+        </odd>
+        <custodhist>
+            <p>Documents related to the history of the town - land registers, privileges and various records were kept at the town hall, but they were destroyed by a fire of the town, so only documents after 1850 have been preserved. They were transferred to the District Archives in Havlíčkův Brod.</p>
+        </custodhist>
+        <bioghist>
+            <p>Golčův Jeníkov was founded in the Middle Ages on the so-called Haberská trail. In the years 1461–1580 it was owned by the Slavatas of Chlum and Košumberk. In 1636, General Martin Maxmilián Goltz received the municipality as a gift from the Emperor. In 1673, Golčův Jeníkov was owned by Barbora Eusebia, Countess of Žďár, married for the second time to Count Karel Leopold Caretto Millesimo. The town was hit by a large fire in 1784. The existence of the Jewish community is documented from 1654. In the modern times, there was an important Jewish community and a yeshiva. A remarkable cemetery, a synagogue and a Jewish ghetto have been preserved there.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains commemorative books, minutes of the municipal board and council meetings, and other documents. The history of the Jewish community after 1850 in this fonds is evidenced by archive materials concerning Jewish associations - the Talmud Torah, the Jewish Association for the Sick, the Ner Tamid Women's Support Society, the Friede Singing Association and the Bachure Chomed Association, the Jewish cemetery (an expansion of the cemetery), the funeral fraternity, Jewish farms - the weaving mill of the Pick family, the winery - the tannery of the Kohn family, and spirits, door-to-door trade, and business affairs of the Kornfeld family; decrees against Jews from the period 1939-1945, eviction of Jews from their flats.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Books (commemorative book 1922-1938), files (minutes of the municipal council meetings 1881-1945, minutes of the town council board meetings 1878-1945, registers 1850-1948, account books 1857-1939, file agenda 1834-1945).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Tajovský M.: Archiv města Golčův Jeníkov 1785-1945 (1948). Inventář, 1999, 56 s., ev. č. 206.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Talmud Torah</corpname><corpname>the Jewish Association for the Sick</corpname><corpname>the Ner Tamid Women's Support Society</corpname><corpname>the Friede Singing Association</corpname><corpname>Bachure Chomed Association</corpname><corpname>Chevra Kadisha</corpname></controlaccess>
+        <controlaccess><subject>Associations</subject><subject>cemetery</subject><subject>The Jewish religious community</subject><subject>anti-Jewish restrictions</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>621</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Habry</titleproper>
+            <subtitle>Archives of the Town of Habry / NAD 621</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1613/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>621</unitid>
+            <unittitle>Archiv města Habry</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>2,9 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1613/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Habry</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Habry / NAD 621</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the town of Habry were transferred from the register office of the Municipal National Committee in Habry in September 1956 to the District Archives in Chotěboř. The fonds was sorted and provisionally inventoried. A general inventory and classification according to the new methodology took place in 2001. In 2003, the final inventory took place.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Habry can be found in the Kosmas Chronicle from 1101. It is connected with the so-called Haberská Trail connecting Bohemia and Moravia. The earliest record concerning Jews is also connected to the trail - it is in the toll tariff from 1341. After 1850, it became the seat of the district court and the center of the Habry self-governing district and part of the Čáslav political district. In the modern times, there was an important Jewish community. A Jewish cemetery has been preserved there. In the 19th century, the town had a rural, agricultural character, the only larger enterprise - the glove factory Werfel & Böhm (affiliate) - disappeared during the First World War.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents, legal books, minutes of the council board and council, the municipal agenda, the agenda of municipal institutes and other documents. The period after 1850: the memorial book contains numerous information about the Jewish community, synagogue, and prominent natives - Adolf Stránský, A.G. Stránský, and others. In other documents (especially meetings of the council board and council): reconstruction of the synagogue, economic agenda, Jewish enterprises - Lazar Pick and sons, Werfel & Böhm Comp. The period of 1938-1945: decrees against Jews, list of Jews and Jewish enterprises, Aryanization of enterprises, regulations concerning Jewish doctors.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into two basic parts: until 1850, and after 1850. Until 1850 - it contains three parts: deeds, books, and files. After 1850 - it contains books and files. The files are divided according to content: 1. Municipality and its administration, 2. Administration of municipal property, 3. Care for security and public order, 4. Care for public institutions and facilities, poverty, 5. Cooperation in state affairs. The fonds is not complete because documents were lost due to an improper handling of the fonds before being handed over to the archives.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Macek L.– Pospíchalová H.: Archiv města Habry 1613-1945 (1950). Inventář, 2003, 16 s., ev. č. 215.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Werfel & Böhm Comp</corpname><corpname>Lazar Pick and sons</corpname></controlaccess>
+        <controlaccess><subject>The Jewish Community of Habry</subject><subject>Synagogue</subject><subject>Aryanization</subject><subject>anti-Jewish regulations</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1199</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Sbírka soudobé dokumentace</titleproper>
+            <subtitle>Collection of the Contemporary Documentation / NAD 1199</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1602/2015</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1199</unitid>
+            <unittitle>Sbírka soudobé dokumentace</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>40,57 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1602/2015</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town museum of Německý Brod; District Regional Museum Havlíčkův Brod; The Havlíčkůvr Brod District Archives</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Collection of the Contemporary Documentation / NAD 1199</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was created gradually, through collecting activities of the staff of the museum and the district archives, focusing on the documentation of important events in the town at given times.</p>
+        </custodhist>
+        <bioghist>
+            <p>The beginning of the town museum is considered to be the year 1874, when a museum association was established. A collection-building activity was started, which was deepened during an ethnographic exhibition. At the turn of the 20th century, the museum focused on collecting regional monuments and monuments associated with the name of Karel Havlíček Borovský. At the same time, it developed research activities concerning the history of the town and documentation of events in the town and its surroundings. After 1945, its efforts were followed by the district archives in Havlíčkův Brod, which took over part of the museum material.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds originated due to the collecting activities of the Municipal Museum in Německý Brod, and later due to the activities of the district archives. These parts are followed by the documentation from the period after 1945. The fonds contains documents concerning: elections to the town council, the Chamber of Deputies, the Senate, and the National Assembly, the war of 1866, World War I and II, revolutions, celebrations and various events, the workers' movement, the Communist Party and other political parties, cultural activities, sports, economy and industry, social life, Haškova Lipnice festival, documentation of rural municipalities, decrees of the town, the district national committee, the district and regional offices, newspaper clippings and various prints. The fonds also contains documentation of important personalities connected with Havlíčkův Brod. Information on the history of Jews can be found in documents from World War I - slum colony, refugees - and in documents from World War II - decrees against Jews. The fonds contains small materials on other historical topics, such as obituaries (ing. Kraus, Josef Pachner) or records of exhibitions with Jewish themes.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided thematically and according to the nature of the documents into several sections (see the thematic description of the fonds).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Vencová E.: Soudobá dokumentace – Sbírka plakátů 1731-2000. Prozatímní inventární seznam, 2004, 0 s., ev. č. 237.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>elections</subject><subject>political parties</subject><subject>World War I</subject><subject>slum colony</subject><subject>refugees</subject><subject>World War II</subject><subject>decrees against Jews</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1340</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Tichý, Jaroslav</titleproper>
+            <subtitle>Tichý, Jaroslav / NAD 1340</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1912/1996</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1340</unitid>
+            <unittitle>Tichý, Jaroslav</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>5,1 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1912/1996</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Jaroslav Tichý</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Tichý, Jaroslav / NAD 1340</p>
+        </odd>
+        <custodhist>
+            <p>Officially, this personal estate was transferred to the administration of the State District Archives in Havlíčkův Brod by a donation agreement dated 27 August 1997, i.e. less than a year after the originator's death. The documents were donated by his son Jaroslav Tichý.</p>
+        </custodhist>
+        <bioghist>
+            <p>Tichý, Jaroslav (1912 Chotěboř - 1996 Chotěboř), educator, Sokol member and cultural activist. During the war, a member of the illegal organization Defense of the Nation. He was arrested and imprisoned by the Nazis in Dresden and in the Pölitz concentration camp. He collaborated with the partisans and took part in the liberation fights in 1945 in the Chotěboř region. After the war he was a teacher again and a researcher in regional history, especially during WW II. He was a volunteer administrator of the Museum of National History in Chotěboř and organized the local town archives. He was a member of the Czech Union of Anti-Fascist Fighters and after 1990 in the Union of Freedom Fighters. He published his literary works in the press. Some of them were published as separate publications - Defense of the Nation in the Chotěboř Region, In Resistance and Suffering, etc. His mother was of Jewish origin.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains personal documents, the biography of the originator, documents on his professional activities (teacher), documents on his resistance activities (World War II), correspondence, documents on social activities (museum, resistance organizations), art works, ethnographic and historical works, study materials on the resistance in the region during WW II, photographs, decorations, diplomas, and other. Jaroslav Tichý was interested in the history of Jews in Chotěboř and its surroundings and in the fate of Jewish families during World War II. In his estate there is a lot of information about the imprisonment of Jews during the war, transports - victims of the Holocaust from Chotěboř, Golčův Jeníkov, Habry and villages in the area (Dobrnice, Venice, Horní Studenec, Leština, Nasavrky, Proseč, Sázavka, Uhelní Příbram, Vilémov, and other). Some families are given more attention - for example, the Beck family from Chotěboř. Correspondence with survivors - memories. Mixed marriages and their fates during the war. Correspondence with the Jewish Museum in Prague. Restrictions on Jews in Chotěboř during the war.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into a part related to the life of Jaroslav Tichý and a part which was created on the basis of the work of Jaroslav Tichý. Studies on the regional history are divided into three units - the history of Chotěboř and the Chotěboř region, World War II, Nazi persecution and resistance, and the history of the Communist Party in the Chotěboř region.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Tajovský M.: Tichý Jaroslav Chotěboř 1912-1996, Osobní písemná pozůstalost. Inventář, 2008, 0 s., ev. č. 450.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Memoirs</subject><subject>personal documents</subject><subject>holocaust</subject><subject>Jewish history in Chotěboř</subject><subject>anti-Jewish restrictions</subject></controlaccess>
+    </archdesc>
+</ead>    

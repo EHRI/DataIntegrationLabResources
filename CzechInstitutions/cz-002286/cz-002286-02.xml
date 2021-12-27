@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>753/1</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Zemský úřad Praha – prezidium</titleproper>
+            <subtitle>Provincial Office in Prague / NAD 753/1</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 240</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1921/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>753/1</unitid>
+            <unittitle>Zemský úřad Praha – prezidium</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>363,9 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1921/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Czech Governor's Office; Provincial Political Administration of the National Committee 1918-1919; Provincial Political Administration 1919-1920; Provincial Office Prague 1920-1945; Provincial National Committee Prague 1945-1949</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Provincial Office in Prague / NAD 753/1</p>
+        </odd>
+        <custodhist>
+            <p>The registry of the Presidium of the Provincial Office was transferred to the State Central Archives in 1949, and the files of the disciplinary commission in 1953. The registry of the PPO has not been preserved completely, apparently, due to "appraisals" from the period of the Nazi occupation or various transfers. The so-called administration from the order of the Reich has been preserved the least. Relatively little has survived from the revision of the municipal management from 1931-1940. In the last file group 1941-1945, there are partial gaps in almost all groups.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Provincial Office in Prague was a continuation of the Czech Governor's Office. In the years of 1918-1919, it was called the Political Administration of the National Committee. However, the office was headed by a president appointed by the head of state. The Office was subject to the Ministry of the Interior of the Czechoslovak Republic. From 1 December 1928, the Provincial Office in Prague began to operate in place of the Provincial Political Administration in Prague. After March 15, 1939, the entire administration became dependent on the Reich Protector, who was the highest legislator in the Czech lands. In 1945, the Prague Provincial Office was replaced by the Provincial National Committee in Prague.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds is mainly of an administrative nature. The Presidium of the Provincial Office (hereinafter PPO) monitored the economic, financial and personnel agenda of district authorities and district commissions, and provincial institutions. The personnel agenda is located in all departments of the PPO registry. The PPO-RAV files (the Reich administration) mainly concern German citizenship, name changes, requests for exemptions from the Nuremberg Laws, etc. The individual files also contain orders on the status of Jews in public life, salary suspension of Jewish employees and additional entries of first names of Jewish persons in the registers.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds consists of the registry finding aids (minutes, indices, collections) and file material. The original file order was preserved during the organization, with the exception of the remnants of the administration from the Reich order (RAV), which was organized by subject groups. Another exception to organizing according to the original file plan is the creation of the so-called alphabetical collection of personal files. The same inventory unit was not always selected during the inventory. Sometimes the first subgroup was chosen as the inventory unit, other times the last subgroup, i.e. the file.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kolektiv: I. Oddělení: Prezidium zemského úřadu v Praze 1921-1945 (1949). Inventář, 1962, 86 s., ev. č. 437.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Presidium of the Provincial Office</corpname></controlaccess>
+        <controlaccess><subject>Personnel agenda</subject><subject>PPO-RAV files</subject><subject>German citizenship</subject><subject>name changes</subject><subject>Nuremberg Laws</subject><subject>Jews in public life</subject><subject>Jewish employees</subject></controlaccess>
+    </archdesc>
+</ead>    
+

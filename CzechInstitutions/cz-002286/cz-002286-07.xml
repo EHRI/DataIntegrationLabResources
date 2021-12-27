@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1967</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Prof. PhDr. Koloman Gajan, DrSc.</titleproper>
+            <subtitle>Prof. PhDr. Koloman Gajan, DrSc. / NAD 1967</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1924/2011</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1967</unitid>
+            <unittitle>Prof. PhDr. Koloman Gajan, DrSc.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>9,19 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1924/2011</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="fre">fre</language><language langcode="eng">eng</language>
+            </langmaterial>
+            <origination>
+                <name>Gajan Koloman Prof. PhDr. DrSc.</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Prof. PhDr. Koloman Gajan, DrSc. / NAD 1967</p>
+        </odd>
+        <custodhist>
+            <p>The personal archive of Prof. PhDr. Koloman Gajan, DrSc. was handed over to the National Archives in 2013 by his family. The staff of the 6th Department of the National Archives have been in close contact with the originator since 1999, when negotiations were initiated to transfer the papers of the originator and his wife, PhDr. Alena Gajanová to the National Archives. Prof. Gajan informed the staff of the National Archives that after 1970, when he and his wife no longer hoped to be able to return to scientific work, they destroyed the vast majority of the documents. In spite of this fact, the fonds is an important source documenting the scientific activities and life of a leading Czechoslovak historian and his wife.</p>
+        </custodhist>
+        <bioghist>
+            <p>The historian, a participant in the domestic anti-fascist resistance, Prof. Koloman Gajan (original name Koloman Edelmann), was born on 7 November 1918 in the eastern Slovak village of Hamborek into an orthodox Jewish family. He graduated from a high school in Brno in the school year of 1939/1940. In the spring of 1942, he escaped to Slovakia before being transported to Terezín. In the beginning of 1943, he accepted a position in Prešov under the code name Ján Gajan as an accountant and correspondent at the company Sväz východoslovenské drevopriemyslu, družstvo s.r.o., whose director was Karol Miklánek, one of the co-founders of the partisan group Čapajev. After a short stint at Sväz, he became involved in the activities of an illegal resistance group. His activity consisted mainly in procuring weapons, clothing and medicines for the members of the partisan group Čapajev, and in procuring identity cards for illegal workers. He saved the lives of many people, and on 21 December 1944, he was arrested in Prešov on a tip-off from a Gestapo confidant, J. Wintner. He was in six concentration camps, namely, Sachsehausen, Bergen-Belsen, Kaufering, Landsberg, Lauingen, and Allach. His parents and six siblings did not survive the war, and he repeatedly saved himself by using the false identity of Gajan. As a reminder, he kept this surname after the end of the war. After the war, he settled in Prague, joined the Communist Party of Czechoslovakia (1945-1969), studied history and Romance studies at the Faculty of Arts of Charles University, and worked as a researcher at the Faculty of Arts of Charles University. He was interested in modern Central European and French political history and Czech-German relations. After the Soviet occupation, he was expelled from the Communist Party of Czechoslovakia and for the next twenty years he, like his wife, was forbidden to pursue an academic career. He published works under the names of his colleagues and taught foreign languages. After 1989, he returned to the Faculty of Arts and focused on the personality and work of T. G. Masaryk. He also participated in the revival of the Masaryk Society. He died on 27 December 2011 in Prague.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds of Prof. Koloman Gajan, PhD, DrSc., a leading Czechoslovak historian, contains mainly documents related to his scientific work: manuscripts of scientific papers, auxiliary study material, studies and articles, lectures, correspondence, and documentation of the author's public activities. The fonds also contains personal documents and biographical material. Among the Judaica in the fonds there is the author's own biography, which contributes to the knowledge of life in the Jewish community in the small village of Hamborek (now Brezovička) in eastern Slovakia, where Koloman Gajan spent his childhood and youth in an Orthodox Jewish family. The fonds also contains family photographs from 1924-1939, which mainly show the siblings of the originator. The fonds also contains school photographs from the time when Koloman Gajan studied at a Jewish high school in Brno from which he graduated in the 1939/1940 school year. The group school photographs also show the then headmaster of the high school, the prominent Jewish intellectual, writer and teacher, PhDr. Oskar Epstein (1888 Český Krumlov - 1941 Brno). On the reverse of the photographs there are the signatures of Koloman Gajan and Professor Oskar Epstein. The fonds also contains documents showing the cooperation of the originator with the Society of Jewish Academics, the Jewish Community in Prague, and the Jewish Museum.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The roughly arranged files are: personal documents; biographical material; manuscripts of scientific works; correspondence; lectures and speeches; preparatory study material; documentation from the public activities of the originator; dissertation and habilitation reviews; scientific works of PhDr. Alena Gajanová; resumes; photo albums; photographs; commemorative medals.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Czechoslovak resistance</subject><subject>Holocaust</subject><subject>Jewish resistance</subject><subject>anti-Nazi resistance</subject><subject>anti-Jewish persecution</subject><subject>racial persecution</subject><subject>Second World War</subject><subject>concentration camps</subject><subject>czechoslovak historians</subject><subject>Czechoslovak Legionnaires of Jewish origin</subject></controlaccess>
+    </archdesc>
+</ead>    
+

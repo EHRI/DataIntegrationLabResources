@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>3</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Benešov</titleproper>
+            <subtitle>Archives of the Town of Benešov / NAD 3</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Benešov</publisher>
+            <address>
+                <addressline>Pod Lihovarem 2145, Benešov 256 01</addressline>
+                <addressline> +420 311 000 101 </addressline>
+                <addressline>http://www.soapraha.cz/benesov/</addressline>
+                <addressline>soka-benesov@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>3</unitid>
+            <unittitle>Archiv města Benešov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>63,77 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Benešov</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Benešov Municipality; Magistrat of the Town of Benešov; Controlled Town Council Benešov; National Committee of Benešov; Municipal Office of Benešov</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Benešov / NAD 3</p>
+        </odd>
+        <custodhist>
+            <p>The fonds has been preserved until the beginning of the 18th century only in fragments. It was damaged by fires but also by reckless appraisal processes. Since the 18th century, the archive material had been stored in the town hall, and it was were variously moved, so there were losses. It was handed over to the District Archives in Benešov in 1957. The fonds was organized and inventoried in the 1970s.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Benešov is from the 13th century. At the head of the town was a town council composed of councilors headed by a mayor. In 1836, the regulated municipality ceased to exist, and in 1849 the municipal authority began its activities. In 1850, Benešov became the seat of the newly established district office. At the head was an elected municipal committee with a mayor. During the Nazi occupation, the then mayor was appointed head of the city as government commissioner. There was a Gestapo office in the town. In 1945, the National Committee took power in the town.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official books, files, accounting material, and photographs. From the period up to 1850, the archives contain books of decrees including a document by which Jan of Lobkovice waives the right to provide protection to the town of Benešov and to receive inhabitants of the Jewish religion into the town, inv. no. 50 (1848). There are also the censuses of the population in individual periods, especially inv. no. 795, call no. XIX B, Census of the Jewish Population (1850). Jews are explicitly mentioned in the following documents: Church affairs - keeping Jewish registries inv.no. 842 (call no. XXV L1), Matrimonial Affairs of the Jewish Population (call no. XXV L2); Judicial matters of the Jewish population - general information; inheritance proceedings (call no. XXV L3) 1718-1837, Judicial proceedings in matters of the Jewish population (defamation) (call no. XXV L4); Houses and shops of Jewish inhabitants (call no. XXV L5); Collections of the Jewish community for charitable purposes (call no. XXV L6); Behavior of the Jewish population in Benešov (call no. XXV L7); Expulsion of Jewish residents from Benešov (call no. XXV L8); The lawsuit of the Jewish community against Antonín Urbanides in the case of the synagogue (call no. XXV L9); Matters of the Jewish population (inv. no. 910 call no. X) 1851-1862, and trade affairs. Residence reports: affairs of the Jewish population (inv. no. 1049 call no. VIII/CH) (1940-1944); (inv. no. 1047); Taking care of the unemployed; Housing matters: houses for the poor, housing allocation, apartments for the Jewish population (call no. VIII (E2)) - 1932-1944; inv. no. 1049 call no. VIII/F Residence report: Matters of the Jewish population (1940-1944).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Books, II. File material, IV. Accounting material, V. Other material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Procházková E.: Archiv města Benešova 1489-1945 (1953). Část I. Inventář, 1977, 154 s., ev. č. 29.</p></otherfindaid><otherfindaid><p>Procházková E.: Archiv města Benešova 1489-1945 (1953). Část II. Inventář, 1977, 157 s., ev. č. 30.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>census records</subject><subject>inheritance proceedings</subject><subject>expulsion of the Jews</subject><subject>synagogue</subject><subject>Jewish houses</subject></controlaccess>
+    </archdesc>
+</ead>    

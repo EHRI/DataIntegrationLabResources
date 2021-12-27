@@ -1,0 +1,688 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>595</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv obce Tršice</titleproper>
+            <subtitle>Archive of the Municipality of Tršice / NAD 595</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Olomouc</publisher>
+            <address>
+                <addressline>U Husova sboru 10, 771 11, Olomouc, Czechia</addressline>
+                <addressline> +420 585 236 101</addressline>
+                <addressline>https://www.archives.cz/web/soka/olomouc/o_archivu/</addressline>
+                <addressline>podatelna@ol.archives.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1752/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>595</unitid>
+            <unittitle>Archiv obce Tršice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>2,95 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Olomouc</corpname>
+            </repository>
+            <unitdate>1752/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office in Tršice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archive of the Municipality of Tršice / NAD 595</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the fonds were deposited at the municipal office and in 1955 the Municipal and District Archives in Olomouc took over other parts of the fonds from the Local National Committee in Tršice. In 1989-1992, the fonds was organized and inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first mention of the municipality of Tršice dates back to 1282. The municipality was held by small nobility for several centuries, and its owners often took turns. The bishop of Olomouc acquired the Tršice estate in 1568, but immediately exchanged it with the Olomouc Chapter and the municipality became the center of the homonymous domain of the Olomouc Chapter which remained in the possession of the local lords until 1848. In 1526, Tršice was promoted to market town. Since 1850 Tršice was part of the political district of Hranice and in 1949 it was connected to the Olomouc district.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains relatively comprehensive documents of the self-government of the municipality of Tršice. The files of the fonds contains anti-Jewish decrees and regulations and lists of Jews deported in June 1942 to Terezín, all from 1941–1943.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Deeds; II. Official books (administrative, registering, and accounting, chronicles and memorial books); III. File material (registry finding aids and files); IV. Others (maps and plans).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koudela M.: Archiv obce Tršic 1752-1945 (1948). Inventář, 1991, 22 s., ev. č. 1354.</p></otherfindaid>
+        <otherfindaid><p>https://digi.archives.cz/da/searchlink?fcAr=227102010-0&fcDb=10026</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Deportations</subject><subject>List of the Jews</subject><subject>anti-Jewish decrees</subject><subject>June 1942</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1200</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Litovel</titleproper>
+            <subtitle>District Office in Litovel / NAD 1200</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Olomouc</publisher>
+            <address>
+                <addressline>U Husova sboru 10, 771 11, Olomouc, Czechia</addressline>
+                <addressline> +420 585 236 101</addressline>
+                <addressline>https://www.archives.cz/web/soka/olomouc/o_archivu/</addressline>
+                <addressline>podatelna@ol.archives.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1200</unitid>
+            <unittitle>Okresní úřad Litovel</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>167,27 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Olomouc</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office in Litovel</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office in Litovel / NAD 1200</p>
+        </odd>
+        <custodhist>
+            <p>After the registry of the district office ceasing to operate, it was taken over by the District National Committee in Litovel. In 1955, the Committee handed over presidium files, and later also other written material, to the State Archives of the Olomouc Region in Janovice u Rýmařova. The fonds was processed in 1995-1997, the amendments in 2014. 0,13 linear meters are not processed yet.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1850-1945, the district administration of the Litovel district was carried out the district office, called the district commissioner"s office in 1850–1918, the district political administration in the years 1918–1928, and the district office (1928-1945). In 1855-1867, it also performed the judicial administration.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the state administration at the district level. An important part of the general registry is the files from (1827) 1850-1945 (1951) divided into subject groups, among which Jewish matters can also be found, including reports on the situation of the Jewish religious community in Loštice, the legal status of Jews in public life, the registering of Jewish property, reports on the Jewish real estate in the district, evidence of the Jewish and Roma persecution during the German occupation. 
+Within the presidium registry there are documents concerning designations of Jewish businesses, lists of Jews, a notice about the dismissal of Jewish employees, the suppression of violence against Jews, statistical data on Jewish schools in the Protectorate, prohibition of Jews' residence, securing Jewish property, and others. 
+In the general register there are documents concerning the 
+reporting of Jewish registries, statistical statements of Jewish communities, the withdrawal of honorary citizenship of Jews, certificates of non-Jewish origin, evidence of persecution of the Jewish population, anti-Jewish regulations, measures for the placement of Jews, inventories of forest property of Jews, registration cards of Jewish flats.
+</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains official books and files. Furthermore, there is a filing of the German Reich citizens from 1940-1945, maps and plans.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lošťák J.: Okresní úřad Litovel  – Presidiální spisy 1866-1917. Katalog, 1973, 199 s., ev. č. 539.</p></otherfindaid><otherfindaid><p>Lošťák J.: Okresní úřad Litovel  – Presidiální spisy 1938-1945. Katalog, 1969, 276 s., ev. č. 540.</p></otherfindaid><otherfindaid><p>Lošťák J.: Okresní úřad Litovel – Presidiální spisy 1918-1937. Katalog, 1970, 61 s., ev. č. 541.</p></otherfindaid><otherfindaid><p>Lošťák J.: Okresní úřad Litovel – Presidiální spisy 1902-1945. Katalog, 1971, 22 s., ev. č. 542</p></otherfindaid><otherfindaid><p>Koudela M.: Okresní úřad Litovel (1827) 1850-1945 (1953). Inventář, 1997, 329 s., ev. č. 543.</p></otherfindaid><otherfindaid><p>Koudela M.: Okresní úřad Litovel (Dodatek) – Sčítání lidu 1921. Inventář, 2014, 24 s., ev. č. 1998.</p></otherfindaid>
+        <otherfindaid><p>https://digi.archives.cz/da/searchlink?fcAr=227102010-0&fcDb=10026</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Persecution of Jews</subject><subject>Jewish property</subject><subject>Anti-Jewish decrees</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>3</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Olomouc – venkov</titleproper>
+            <subtitle>District Office of Olomouc – region / NAD 3</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Olomouc</publisher>
+            <address>
+                <addressline>U Husova sboru 10, 771 11, Olomouc, Czechia</addressline>
+                <addressline> +420 585 236 101</addressline>
+                <addressline>https://www.archives.cz/web/soka/olomouc/o_archivu/</addressline>
+                <addressline>podatelna@ol.archives.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>3</unitid>
+            <unittitle>Okresní úřad Olomouc – venkov</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>87,52 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Olomouc</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Olomouc – region; District marshal's office Olomouc; Judicial District Office Olomouc;</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Olomouc – region / NAD 3</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the district office were, after its demise, largely taken over by its successor - the district national committee. However, in 1949–1954, some of the files were transferred to the Municipal National Committee in Olomouc. The State Archives in Janovice u Rýmařova began to take over the documents in 1956, and in 1971 the State Archives in Olomouc took over the fonds. In 1997, the census sheets of 1921 were added to the fonds. 0,45 linear meter is not processed yet.</p>
+        </custodhist>
+        <bioghist>
+            <p>When being founded in 1850, the regional political district of Olomouc consisted of three judicial districts - Olomouc, Prostějov, and Plumlov. After the administrative reform in 1855, the judicial districts of Prostějov and Plumlov were separated from it. However, the Olomouc judicial district consisted of two political districts (the city of Olomouc and Olomouc-region). In 1850-1945, the district administration was carried out by the district office seated in Olomouc, called the district marshal's office in 1850-1918, the district political administration in 1918–1928, and the district office in 1928–1945. The jurisdiction of the office included Jewish communities in Prostějov (until 1855) and in Olomouc.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the state administration of the political district of Olomouc, including documents concerning the Jewish religious community in Olomouc from 1920-1936; documents concerning the moving of Jews of foreign nationality to Czechoslovakia from 1936; lists for confiscating Jewish property from 1940-1941. In addition, the fonds includes the implementation of the Government Order on Jews and Jews of Mixed-race in the Public Service, and the files evidencing the confiscation of Jewish assets. The catalog of presidium files from 1918–1937 includes ordinances from 1918–1919 on the anti-Jewish riots in Holešov, notices about the Jewish association “Poale Zion” in Moravia, or the anti-Jewish style of writing of the magazines Pozor and Našinec. Furthermore, there are lists of Jews and a circular concerning anti-Jewish riots, and also a proposal of the Jewish religious community to honor the officials of the Jewish Women's Association. The presidium files from 1938–1945 include circulars on the spreading of anti-Jewish leaflets from 1938, on the danger of Jewish immigration to Czechoslovakia from 1938, as well as circulars with press instructions from 1939, circulars on declarations of non-Jewish origin from 1940, on marking Jews, the closing and destruction of synagogues, the measures against "Jew-friendly" Czechs, interventions against evacuated Jews, etc., from 1938-1942. We also learn about the Jewish population from the census of 1921.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds was divided into two handling periods. The 1st handling period (1850–1928) is further divided into A - N call numbers; the 2nd handling period (1928–1935) is divided into I – IX call numbers. The later filing system, which had been in place since 1935, had a total of 11 groups marked with Roman numerals again. However, these groups are divided into further subgroups. The factual groups in particular included electoral files, criminal files, granting concessions, purchase contracts, and other larger units.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bartl Z. – Hartlová Z. – Spáčil V.: Okresní úřad Olomouc – venkov (1801) 1850-1945 (1950). Inventář, 1980, 171 s., ev. č. 7.</p></otherfindaid><otherfindaid><p>Miklošová M. – Spáčil V.: Okresní úřad Olomouc-venkov – Presidiální spisy 1918-1937. Katalog, 1970, 147 s., ev. č. 8.</p></otherfindaid><otherfindaid><p>Miklošová M. – Spáčil V.: Okresní úřad Olomouc – venkov – Presidiální spisy 1938-1945. Katalog, 1968, 209 s., ev. č. 9.</p></otherfindaid><otherfindaid><p>Bartl Z. – Spáčil V.: Okresní úřad Olomouc – venkov, Presidiální spisy, Věcné skupiny, 1917-1945. Katalog, 1981, 11 s., ev. č. 10.</p></otherfindaid><otherfindaid><p>Koudela M.: Okresní úřad Olomouc – venkov (Dodatek) – Sčítání lidu 1921. Inventář, 2015, 19 s., ev. č. 2000.</p></otherfindaid>
+        <otherfindaid><p>https://digi.archives.cz/da/searchlink?fcAr=227102010-0&fcDb=10026</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Poale Zion</subject><subject>Jewish Property</subject><subject>print</subject><subject>List of the Jews</subject><subject>Jewish Women's association</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1155</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Farní úřad u Nejsvětějšího Srdce Páně Praha – Vinohrady</titleproper>
+            <subtitle>Parish Office at the Church of the Most Sacred Heart of Our Lord in Prague-Vinohrady / NAD 1155</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1884/1950</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1155</unitid>
+            <unittitle>Farní úřad u Nejsvětějšího Srdce Páně Praha – Vinohrady</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>4,98 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1884/1950</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Parish Office at the Church of the Most Sacred Heart of Our Lord in Prague-Vinohrady</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Parish Office at the Church of the Most Sacred Heart of Our Lord in Prague-Vinohrady / NAD 1155</p>
+        </odd>
+        <custodhist>
+            <p>The archival materials were obtained from its originator in 1960. The fonds was inventoried in 2011. 0,28 linear meters are not processed yet.</p>
+        </custodhist>
+        <bioghist>
+            <p>The single local parish of St. Ludmila did not meet the needs of the fast-growing neighborhood of Vinohrady already at the beginning of the 20th century, so a new rectory was founded in 1910 which was dedicated to the Sacred Heart of the Lord in 1921.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains archival material concerning mainly Prague's religious history in 1884-1950. It also includes records of baptisms of adult Jews from 1933-1942 (Inv. No. 168) and sets of rules for Jews during World War II.(Inv. No. 186)</p>
+        </scopecontent>
+        <arrangement>
+            <p>The archival materials are organized in the fonds as follows: A. Books, B. Files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Brátková, Z.: Farní úřad u Nejsvětějšího Srdce Páne na Vinohradech 1884-1950. Inventář, 2011, 43 s., ev. č. 522.</p></otherfindaid>
+        <otherfindaid><p>http://www.ahmp.cz/page/docs/AP-522-fara-NSP-Vinohrady.pdf</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Religious history</subject><subject>Jewish baptisms</subject><subject>registry matters</subject><subject>Second World War</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1431</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Hráský Josef PhDr.</titleproper>
+            <subtitle>PhDr. Josef Hráský / NAD 1431</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1916/1981</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1431</unitid>
+            <unittitle>Hráský Josef PhDr.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>2,19 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1916/1981</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>PhDr. Josef Hráský</name>
+            </origination>
+        </did>
+        <odd>
+            <p>PhDr. Josef Hráský / NAD 1431</p>
+        </odd>
+        <custodhist>
+            <p>The archival materials were handed over to the AHMP by the wife of J. Hráský in 1982-1998. Some of the documents are works processed by the originator himself directly for the AHMP. The fonds was processed and inventoried in 2015.</p>
+        </custodhist>
+        <bioghist>
+            <p>Josef Hráský was born in 1905, studied at Charles University in the 1920s and at the State Archival School in the 1930s. In 1935 he married Marta Picková (1913-2001), who came from a Jewish family based in Nové Město nad Metují. In 1931-1951 he worked (with the exception of three wartime years when he was persecuted because of his Jewish wife) in the Central Archives of the Ministry of the Interior. In 1951-1960 he worked as a laborer because he was persecuted by the Communist authorities. Since the 1960s he worked until his retirement in 1971 in the State Jewish Museum in Prague.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains archival materials concerning the life and work of PhDr. Josef Hráský (born 31.12.1905, Slavoňov, died 1981 Prague). There is also a great number of sources for Jewish history, especially the persecution of him and his Jewish wife Marta (born Picková) during the World War II (sections Biographical Material and Personal Documents), and sources for his wife's Jewish family (The Pick family - Documents; Marta Picková-Hráská): It also contains materials for Jewish history which J. Hráský dealt with, e.g. the files of Jewish goldsmiths or the works of foreign authors from the interwar period.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The archival materials are organized as follows: A. Biographical Material, B. Correspondence, C. Scientific Activities D. Documentation, E. Publications by Other Authors, F. Files, G. The Hráský Family, H. Marta Picková (Hráská), I. The Pick Family.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Damová Z.: Hráský Josef PhDr., 1916-1981 (1998). Inventář, 2016, 26 s., ev. č. 574.</p></otherfindaid>
+        <otherfindaid><p>http://www.ahmp.cz/page/docs/AP-574-Hrasky-Josef.pdf</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Occupation</subject><subject>Persecution</subject><subject>Jewish History</subject><subject>Goldsmiths</subject><subject>Mixed Marriages</subject><subject>Antisemitism</subject><subject>The State Jewish Museum Prague</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1613</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Náboženská společnost unitářů československých</titleproper>
+            <subtitle>Religious Society of Czechoslovak Unitarians / NAD 1613</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1921/1951</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1613</unitid>
+            <unittitle>Náboženská společnost unitářů československých</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>2,12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1921/1951</unitdate>
+            <langmaterial>
+                <language langcode="eng">eng</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Religious Society of Czechoslovak Unitarians, Prague 1 – Old Town</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Religious Society of Czechoslovak Unitarians / NAD 1613</p>
+        </odd>
+        <custodhist>
+            <p>The archival materials were taken over from their originator by the AHMP in 1960, first to be temporarily deposited there in two places. In 1997, the fonds was inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>On the initiative of Norbert Fabian Čapek, the Free Brotherhood organization was founded in 1922 which was transformed, in 1923, into the Society of Free Brotherhood under the Act on Associations. Its goal was to support all religious, educational, social and promotional efforts to organize human relations on the basis of freedom and brotherhood. The Unitarians were eventually recognized by the Czechoslovak state and registered in 1930 as the Religious Society of Czechoslovak Unitarians. During the Nazi occupation the Society was dissolved in 1943, but in 1945 it was restored again.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains archival materials concerning the religious and cultural history of Czechoslovakia in particular. It also contains sources for Jewish history, namely the correspondence (probably from the World War II) with the Ministry of Education and the Provincial Office in Prague on Jewish employees and the legal status of Jews (Inv. No. 57).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The archival materials are organized in the fonds as follows: A. Books, B. Files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        <otherfindaid><p>http://katalog.ahmp.cz/pragapublica/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28621680%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Religious History</subject><subject>legal status of the Jews</subject><subject>Occupation</subject><subject>Persecution</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1785</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Sebeochrana, všeobecně prospěšné stavební družstvo, s. r. o.</titleproper>
+            <subtitle>Self-Protection, general-benefit construction cooperative, Ltd. / NAD 1785</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1921/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1785</unitid>
+            <unittitle>Sebeochrana, všeobecně prospěšné stavební družstvo, s. r. o.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>0,13 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1921/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Self-Protection, general-benefit construction cooperative, Ltd., Prague 11 – Žižkov</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Self-Protection, general-benefit construction cooperative, Ltd. / NAD 1785</p>
+        </odd>
+        <custodhist>
+            <p>There is no detailed information on the history of the fonds.</p>
+        </custodhist>
+        <bioghist>
+            <p>There is no detailed information on the history of the originator of the fonds.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains sources for the social and building history of the city of Prague in 1921-1949. It also contains materials on Jewish history, namely the issues of several Jewish flats, especially from the period of the occupation (Inv. No. 6-17)</p>
+        </scopecontent>
+        <arrangement>
+            <p>The archival materials are organized in the fonds as follows: A. Books, B. Files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kopečková, J.: Sebeochrana, všeobecně prospěšné stavební družstvo, s. r. o. 1921-1949. Prozatímní inventární seznam, 2003, 2 s., ev. č. 219.</p></otherfindaid>
+        <otherfindaid><p>http://katalog.ahmp.cz/pragapublica/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28646552%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Economic History</subject><subject>Social History</subject><subject>Apartments</subject><subject>Aryanization</subject><subject>Persecutions</subject><subject>Second World War</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1379</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Vysoká škola umělecko-průmyslová, Praha 1, Alšovo nábř. 8</titleproper>
+            <subtitle>Academy of Arts, Architecture and Design, Prague 1, Alšovo nábř. 8 / NAD 1379</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1885/1999</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1379</unitid>
+            <unittitle>Vysoká škola umělecko-průmyslová, Praha 1, Alšovo nábř. 8</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>28,95 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1885/1999</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>The Academy of Arts, Architecture and Design, Prague 1</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Academy of Arts, Architecture and Design, Prague 1, Alšovo nábř. 8 / NAD 1379</p>
+        </odd>
+        <custodhist>
+            <p>The documents were transferred to the AHMP from the originator in 1971 and 1973. The fonds was organized and inventoried in 1974, and newly in 2004.</p>
+        </custodhist>
+        <bioghist>
+            <p>The School of Applied Arts in Prague was established according to its Viennese model in 1885 and its task was to educate workers for the art industry and train teachers of arts and crafts. Important Czech artists also worked at the school as employees. In 1946 it was changed to a college. The institution still operates today.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains archive materials for the history of the Academy of Arts, Architecture and Design in Prague 1, including personal files of employees, in many cases leading Czech artists. The fonds also includes archival materials towards the persecution of the Jewish population during World War II, namely on the prohibition of the private teaching of Jewish children from 1940 (inv. No. 331).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The archival materials are organized in the fonds in thematic areas: student catalogs, minutes of the staff meetings, personal files of the school employees, filing protocols, project documentation, photo documentation, diploma theses, and professors’ seminars.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lameš J.: Vysoká škola uměleckoprůmyslová v Praze 1885-1962. Inventář, 1974, 60 s., ev. č. 252.</p></otherfindaid>
+        <otherfindaid><p>http://katalog.ahmp.cz/pragapublica/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28648806%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>History of Education</subject><subject>Persecutions</subject><subject>Occupation</subject><subject>Illegal schooling</subject><subject>Education</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1465</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Sbírka dokumentace k období okupace a květnové revoluce</titleproper>
+            <subtitle>Collection of Documentation for the Period of Occupation and the May Revolution / NAD 1465</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1937/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1465</unitid>
+            <unittitle>Sbírka dokumentace k období okupace a květnové revoluce</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Graphic Material</genreform> 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>2,52 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1937/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Various legal persons and private persons in Prague</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Collection of Documentation for the Period of Occupation and the May Revolution / NAD 1465</p>
+        </odd>
+        <custodhist>
+            <p>As early as May 1945, the Presidium of the Municipal Office of the Capital City of Prague commissioned the Prague City Archives to establish the archive of the underground resistance movement. In the following decades, many documents were added to the fonds through donations from witnesses of wartime events as well as from various institutions (e.g. from the Union of Anti-Fascist Fighters). However, the official institutionalization of the fonds did not take place until 1955. It was inventoried in 2015.</p>
+        </custodhist>
+        <bioghist>
+            <p>The history of many originators of the fonds overlap with the history of individual participants and witnesses of the Czech resistance and Nazi occupation, or institutions that joined the resistance or later included the former resistance movement participants.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains archival materials concerning the history of the Czech resistance during the World War II, the uprising in May 1945 and various aspects of the life of the society in that period. The fonds also includes sources for persecution of the Jewish population such as the Decree on Marriage of Jews and Jewish Half-Breeds from 8 October 1942; announcements of Jewish fiancés and undelivered envelopes from the Prague Municipal Office with copies of marriage and birth certificates for persons of Jewish origin in the transports (1941-1942).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The larger, and at the same time the first, part of the fonds was organized by the donors (natural persons) of the archival materials. Individuals are listed alphabetically in the inventory. Within the groups of 'Written Material', 'Material Monuments' and 'Photographs' there are mentions of relevant documents and materials of the given nature. The next part was also organized by the originators, especially institutions, again alphabetically. The last part consists of various materials, divided into the following groups: a) literary-documentary works, b) printed materials, c) documentary materials - miscellaneous, d) photographs, e) material monuments.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Brátková Z.: Sbírka dokumentace k období okupace a květnové revoluce, 2016, 87 s., ev. č. 572.</p></otherfindaid>
+        <otherfindaid><p>http://katalog.ahmp.cz/pragapublica/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28642762%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Nazi Occupation</subject><subject>Persecutions</subject><subject>Jews of Mixed Origin</subject><subject>Marriages</subject><subject>Mixed Marriages</subject><subject>Resistance</subject></controlaccess>
+    </archdesc>
+</ead>    

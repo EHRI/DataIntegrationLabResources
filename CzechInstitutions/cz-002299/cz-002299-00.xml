@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>390</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Bechyně</titleproper>
+            <subtitle>Archives of the Town of Bechyně / NAD 390</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1444/1945 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>390</unitid>
+            <unittitle>Archiv města Bechyně</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>40,49 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1444/1945 </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Bechyně</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Bechyně / NAD 390</p>
+        </odd>
+        <custodhist>
+            <p>A lot of the town's documents were destroyed in the mid-18th century. The oldest inventory of the town archives dates from 1769. In the period municipal office, the registry was divided into - Politicum and Judiciale, for each part being kept a separate filing protocol (filing protocols in judicialibus have not been preserved). The town archive material was stored at the town hall. In 1943, it was moved to the museum building. The first part of the fonds was handed over to the archives in 1953. Other additions were taken over in the period of 1967-2013. The fonds was processed, and in 1981, the files were reclassified and processed in the form of a supplement to the inventory.</p>
+        </custodhist>
+        <bioghist>
+            <p>The town of Bechyně was founded in about 1323. After 1340, Bechyně was owned by various aristocratic families (the Šternberk family, the Bechyně family from Lažany, the Švamberks, the Rožmberks, the Paars). The first record of the stay of Jews in the town is a tax census from 1570. The Jewish religious community was founded in the town in the 17th century and it was abolished during the Nazi occupation. Since 1850 Bechyně was part of the Bechyně judicial district, in 1850-1855 the Milevsko political district, 1855-1868 Bechyně, 1868-1949 Milevsko.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the local self-government, deeds, books, file material and accounting material. Information of Jews can be found in documents from 1826 and 1939-1945 (persecution of Jews during the Nazi occupation, inventories of Jewish property, Jewish flats, Kohn's lands).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds structure: I. Deeds; II. Books; III. File material: a) registry finding aids, b) files; IV. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lintner J. – Poustka K.: Archiv města Bechyně 1444-1948. Inventář, 1962, 78 s., ev. č. 19.</p></otherfindaid><otherfindaid><p>Vančata V.: Archiv města Bechyně (1751) 1792-1945 (1946). Doplněk inventáře, 1981, 23 s., ev. č. 150.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210701000150/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>persecution of Jews</subject><subject>inventories of Jewish property</subject><subject>Jewish flats</subject><subject>Kohn's lands</subject></controlaccess>
+    </archdesc>
+</ead>    
+

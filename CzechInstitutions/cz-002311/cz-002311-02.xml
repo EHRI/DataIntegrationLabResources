@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1065</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Valašské Klobouky</titleproper>
+            <subtitle>Valašské Klobouky Town Archives / NAD 1065</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Zlín</publisher>
+            <address>
+                <addressline>Klečůvka-zámek, 763 11 Želechovice nad Dřevnicí</addressline>
+                <addressline> +420 577 901 132</addressline>
+                <addressline>www.mza.cz/zlin</addressline>
+                <addressline>soka_zlin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1356/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1065</unitid>
+            <unittitle>Archiv města Valašské Klobouky</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>9,81 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Zlín</corpname>
+            </repository>
+            <unitdate>1356/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Valašské Klobouky; Valašské Klobouky Minicipality</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Valašské Klobouky Town Archives / NAD 1065</p>
+        </odd>
+        <custodhist>
+            <p>Valuable documents of the town council were stored in the municipal chest at the town hall, the form of storing other written agendas being unknown. In 1954, the district archives were established in Valašské Klobouky, where the documents of the town hall were handed over. The archives, together with the oldest archive material stored in the museum in Valašské Klobouky, was then transferred in 1963 to the branch of the district archives in Gottwaldov (now Zlín), where it was inventoried. In the years 1968–1969, the fonds was organized.</p>
+        </custodhist>
+        <bioghist>
+            <p>Valašské Klobouky was first mentioned in a document from 1341. The town's representatives were initially headed by the Vogt, who was eventually degraded to the position of an executor of the power of the council, and the main representatives of the town became mayor and councilors. After the revolution in 1848–1849, a district court was established in Valašské Klobouce (1850–1949), and in 1855–1868 a mixed district office combining the functions of judicial and political administration. For most of the time, however, the seat of the district office was Uherský Brod (1850–1855, 1868–1949).</p>
+        </bioghist>
+        <scopecontent>
+            <p>The first records of the Jewish population in Valašské Klobouky date back to the 16th century. The Jews ran commercial and hospitality businesses, and engaged in dyeing and making draperies which was a strategic craft of that region. Because the Jewish descent made social advancement difficult, there were cases of conversion to Christianity - this was the case of the originally Jewish family of the Bratmanns, whose converted member later even became mayor of Valašské Klobouky. The number of Jews in the town did not exceed several dozens of individuals in the second half of the 19th century. In connection with the decline of handicraft cloth production, there was also a gradual outflow of Jews from the city. The fonds contains documents of the town self-government, deeds, official books, and files. Jews are specifically mentioned in documents from the Holocaust period: register of Jews, instructions (1939–1943). Sufficient attention should be paid to the following material: guild and trade issues 1779-1845; trade matters - ordinances, price lists, apprenticeship certificates 1855–1943; parcel protocols, 1878–1945; applications for domicile 1852–1939; enlistments, ordinances, billing 1881–1939; building permits 1852–1945.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Deeds, II. Official books, III. File material - A. auxiliary books, B. files, IV. Accounts, V. Maps and plans.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Štarha I.: Archiv města Valašské Klobouky 1356-1945 (1951). Inventář, 1969, 59 s., ev. č. 203.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>commercial business</subject><subject>hospitality business</subject><subject>dyeing draperies</subject><subject>making draperies</subject><subject>conversions</subject><subject>Holocaust</subject><subject>register of Jews</subject><subject>trade issues</subject><subject>building permits</subject></controlaccess>
+    </archdesc>
+</ead>    
+

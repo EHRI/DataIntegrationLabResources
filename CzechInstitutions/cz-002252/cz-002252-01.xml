@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>129</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Smečno</titleproper>
+            <subtitle>Archives of the Town of Smečno / NAD 129</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kladno</publisher>
+            <address>
+                <addressline>Severní 3127, Kladno, PSČ 272 04</addressline>
+                <addressline> +420 312 243 992</addressline>
+                <addressline>http://www.soapraha.cz/kladno/</addressline>
+                <addressline>soka-kladno@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>129</unitid>
+            <unittitle>Archiv města Smečno</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>7,36 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kladno</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Smečno Municipality; Controlled town council of Smečno (1784 - 1850); Municipal Office of Smečno (1850 - 1945); National Committee of Smečno (1945 - 1990)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Smečno / NAD 129</p>
+        </odd>
+        <custodhist>
+            <p>The fonds originated from the activities of the mayor and the council (12 councilors) of this non-royal town, and after 1850 from the activities of the municipal council and the board. The fonds was stored in the town hall building, where it suffered considerable damage, especially during the war. Later, a part of the fonds was discarded by the Municipal National Committee. In 1956, it was handed over to the district and town archives in Slaný. The fonds was organized, and in 1972, an inventory was made for it.</p>
+        </custodhist>
+        <bioghist>
+            <p>The municipality was promoted to a town in 1510 and was renamed Muncifaj. In 1882, the town council asked to change the name of the town back to Smečno. The town had been owned by the Martinic, later Clam-Martinic, family since the 16th century. After 1850, the town of Smečno was part of the political, judicial and tax district of Slaný, Prague Region. Since 1849, elected representatives had stood at the head of the municipality.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds deals with the history of the town of Smečno and contains deeds, official books, auxiliary books, files, and accounting material. The considerably fragmented fonds also contains information about Jews in the town .Files until 1850: inv. no. 161 A complaint of the Hosiery Guild against Jews for their door-to-door stocking trade (1711?), inv. no. 193 Leasing municipal property: b) a grain store to Jew Abraham 1791-1815, d) a teams of horses to Jew Abraham 1796, f) a tavern at the town hall 1841, inv. no. 199, also the maintenance of the army and other military affairs (an excerpt from a notification 1683, collections for the army, accommodation, leasing of supplies for the army to Jew Marek Gras). Documents after 1850 - information about Jews in: inv. no. 386 Probate 1851-1945; inv. no. 392 Jewish property - Rudolf Steiner 1940-41. Information can also be found in the records, especially inv. no. 84 Population records after 1856 (no date); inv. no. 85, 86, 87, Record of all population; inv. no. 88 Register of domicile certificates and laborers' books issued to members of the municipality 1903-1922; inv. no. 295 Register and numbering of houses (1856-1901), census (1870-1921).</p>
+        </scopecontent>
+        <arrangement>
+            <p>Name of the town until 1882 - Muncifaj. The fonds is divided into: I. Deeds; II. Official books (A. until 1850, B. after 1850); III. Registry (Auxiliary books, Files); IV. Accounting material; V. Others (2 seal matrixes)</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Krotilová J.: Archiv města Smečno 1603-1945 (1963). Inventář, 1972, 71 s., ev. č. 32.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28237198%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>population records</subject><subject>domicile certificates</subject><subject>Jewish property</subject></controlaccess>
+    </archdesc>
+</ead>    

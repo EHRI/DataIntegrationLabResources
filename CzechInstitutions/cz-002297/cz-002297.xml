@@ -1,0 +1,760 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>16</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Městský národní výbor Blatná</titleproper>
+            <subtitle>Town National Committee of Blatná / NAD 16</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1990</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>16</unitid>
+            <unittitle>Městský národní výbor Blatná</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>13,9 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1945/1990</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town National Committee of Blatná</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Town National Committee of Blatná / NAD 16</p>
+        </odd>
+        <custodhist>
+            <p>The materials from the Blatná Municipal Office were first handed over to the Strakonice District Archives in 1972. Other archival materials were regularly handed over in the following years within the appraisal procedure. The last addition transferred to the State District Archives of Strakonice was appendices to the chronicles in 2019. The fonds was processed and inventoried in 2019.</p>
+        </custodhist>
+        <bioghist>
+            <p>The origin, organization and competence of district national committees as new state bodies were first established in Constitutional Decree No. 18 of the President of the Republic of 1945. Their powers were based on government regulations from 1945. The Blatná Municipal National Committee was established in 1945 and was the successor of the abolished Blatná Municipal Office. The municipal national committee was abolished in 1989.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the town administration and delegated state administration. Jewish issues can be found in the following areas: imposing national administration on Jewish property 1945-1951, property of the Jewish religious community - applications 1951, searching for those released from concentration camps (Drucker, E. Kohn) 1945-1957.</p>
+        </scopecontent>
+        <arrangement>
+            <p>During the organization process, the organization scheme was used according to the original registry system and the fonds is divided thematically into 22 groups.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koštová J.: Městský národní výbor Blatná (1923) 1945-1990 (1992). Inventář, 2019, 55 s., ev. č. 1132.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/122726</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>national administration of Jewish property</subject><subject>property of the Jewish religious community</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>310</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Městský národní výbor Strakonice</titleproper>
+            <subtitle>Town National Committee of Strakonice / NAD 310</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date> 1945/1989</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>310</unitid>
+            <unittitle>Městský národní výbor Strakonice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>54,99 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate> 1945/1989</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town National Committee of Strakonice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Town National Committee of Strakonice / NAD 310</p>
+        </odd>
+        <custodhist>
+            <p>The first transfer of written materials from the Municipal Office of Strakonice to the District Archives of Strakonice took place in 1965. Other archival materials were handed over regularly during the following years as part of the appraisal procedure. The last transfer to the State District Archives in Strakonice took place in 2020. Part of the fonds was processed in 1979.</p>
+        </custodhist>
+        <bioghist>
+            <p>The origin, organization and competence of district national committees as new state bodies were first established by the Constitutional Decree No. 18 of the President of the Republic of 1945. The activities of the town national committee were terminated in 1989.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the town people's administration and delegated state administration, deeds, official books, file material and accounting material. Jewish issues can be found in the following areas: assistance to repatriates 1945, victims of the Gestapo 1942, renouncing Czechoslovak citizenship - A. Zucker 1948, national administration 1945-1949, Jews declared dead 1946-1948.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The inventoried part of the fonds is divided as follows: II Books III File material: a) auxiliary books; b) files - I Period 1945-1947 (1949), II Period 1949-1950, III Period 1951-1954, IV Period 1955-1970 (1981); IV Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Pahorecká J.: Městský národní výbor Strakonice (1937) 1945-1989. Prozatímní inventární seznam, 1979, 72 s., ev. č.620.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210601000620/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>victims of the Gestapo</subject><subject>citizenship</subject><subject>national administration</subject><subject>Jews declared dead</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>419</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Blatná</titleproper>
+            <subtitle>District Office of Blatná / NAD 419</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>419</unitid>
+            <unittitle>Okresní úřad Blatná</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>85,38 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1850/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Blatná</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Blatná / NAD 419</p>
+        </odd>
+        <custodhist>
+            <p>Originally, the fonds was probably stored in the building of the Blatná District Office, and in 1953 it was handed over to the State Regional Archives in Pilsen. The roughly organized fonds was handed over to the Strakonice District Archives in 1959. The census sheets of 1921 were handed over as late as 1998. In 2008, the entire fonds was processed and inventoried. However, due to an unsatisfactory archival finding aid, it was again included in the unprocessed materials and the finding aid was canceled.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1848, the Blatná District Governor's Office was established within the competence of the Regional Office in Písek and included the Blatná judicial district and, since 1868, the Březnice judicial district. The Blatná District Office was established as a mixed district office in 1855 and dealt with the political and judicial agendas. In 1868, the Blatná District Governor's Office was restored. In 1919, it was renamed the District Political Administration Blatná and in 1928 the District Office Blatná. Its competence lasted until 1942, when it was abolished by the Ministry of the Interior, and its municipalities were incorporated into the district of the Strakonice District Office.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the regional political state administration and the judicial administration, dealing with the economic, political, social and cultural conditions of the former judicial district of Blatná and Březnice. Information on Jews can be found in the following areas: presidium files - threatening Jewish traders in Březnice and Rožmitál Blatné, an anti-Jewish campaign in Blatná, a dispute between the Sokol association and the Jewish religious community 1870-1899, E. Kohn's funeral, a list of Jewish shops, associations, organizations and companies, search for Polish Jews and their list, measures to limit contact with the Jewish population, lists of Jews and their property, property of Jewish religious communities, Jewish shops, anti-Jewish actions, arresting A. Herrmann, a list of Jewish property in the Blatná district, confiscation of Jewish property 1939-1942, permission of a soup kitchen for the Jewish population 1857-1867, affairs of the Jewish religious community of Blatná, Březnice, Enisovy Lažany, Lažany, Kasejovice, Rožmitál (debt recovery - the regional rabbi's salary, the inheritance of the Popper Foundation House in Březnice, a deed of donation of the Solomon Neumann Foundation, the activities of the Chevra Kadisha Association, an extract from the land register - cemetery, statutes, duplicates of registry records, documents for the declaration of Aryan origin) 1855-1942, Jewish school (due tuition fees) 1869-1878, police affairs (the general meeting notice and the statutes of the Chevra Kadisha Association) 1890-1912, security (restaurants reserved for the Jewish population) 1937-1942.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The handling of the fonds is divided into seven periods, which are further divided thematically. The following material groups are of decisive importance: the handling period 1855-1867: 5. Church affairs, 11. Agriculture, industry, forestry; the handling period 1868-1879: 4. Registry matters, 5. Church affairs; the handling period 1880-1886: 5. Church affairs; the handling period 1887-1900: 5. Church affairs, 8. Police affairs; the handling period 1901-1929: 5. Church affairs, 8. Police affairs; the handling period 1930-1936: 5. Religious affairs; the handling period 1937-1942: 2. Economic and financial affairs, 3. Security, 7. Education, religion registry and foundation matters.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>not accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Popper Foundation</corpname><corpname>Solomon Neumann Foundation</corpname><corpname>Chevra Kadisha</corpname></controlaccess>
+        <controlaccess><subject>Jewish traders</subject><subject>Polish Jews</subject><subject>lists of Jews</subject><subject>soup kitchen</subject><subject>confiscation of Jewish property</subject><subject>Jewish school</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>418</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Vodňany</titleproper>
+            <subtitle>District Office of Vodňany / NAD 418</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1855/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>418</unitid>
+            <unittitle>Okresní úřad Vodňany</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>25,14 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1855/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Vodňany</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Vodňany / NAD 418</p>
+        </odd>
+        <custodhist>
+            <p>Originally, the fonds of the Vodňany Mixed District Office was stored in the building of the former Vodňany town hall. After the abolition of the office, the materials were transferred to Písek and partially appraised. In 1941, it was transferred to the former archives of the Ministry of the Interior in Prague and from there, in 1951, to the State Archives in Třeboň. In 1958, this part was processed. The materials of the fonds from the period of 1940-1942 were handed over to the District Archives in Písek in 1956, and to the State Archives in Třeboň in 1960. In that year, this part of the fonds was processed, and the entire fonds was inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Vodňany District Office was established as a mixed district office in 1855 and dealt with the political and judicial agendas. It administered the judicial district of Vodňany and was subordinated to the Regional Office in Písek. In 1868, the mixed district office was abolished and the entire Vodňany judicial district was merged with the District Governor's Office in Písek. This situation lasted until 1940, when the Vodňany District Office was established as part of the Nazi occupation administrative reorganization. It lasted until 1942, when it was abolished by the Ministry of the Interior and its municipalities were incorporated into the district of the District Office of České Budějovice and the District Office of Písek.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the regional political state administration and the judicial administration, dealing with the economic, political, social and cultural conditions of the former judicial district of Vodňany. It includes official books, accounting material and file material. The following subject groups are of decisive importance for the Jewish history: the period of 1855-1868 - 5. Religious affairs; the period of 1940-1942 - 1. Constitutional affairs of the state, lands, districts and municipalities, 7. Education, religious, marriages, registry and foundation matters. Jewish can also be found in the following areas: Jewish religious community, community management (exclusion of Jews from municipal councils), Jewish affairs (prohibition of change of residence, reporting the Jews of the mixed race, action against evacuated Jews), anti-Jewish exhibition in Bavorov and Husinec, certificates of non-Jewish origin.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The handling of the fonds is divided into two periods, which are further divided thematically: I. Books, II. File material: a) auxiliary books; b) files - I. Period 1855-1868, II. Period 1940-1942, III. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Haubert J. – Lesák V.: Okresní úřad Vodňany 1850-1942. Inventář, 1960, 87 s., ev. č. 8/1.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/922210601000008/1</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Jewish religious community</subject><subject>mixed origin</subject><subject>anti-Jewish exhibition</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1320</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Soukromá obecná škola židovská Strakonice</titleproper>
+            <subtitle>Private Jewish Primary School of Strakonice / NAD 1320</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1906/1907  </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1320</unitid>
+            <unittitle>Soukromá obecná škola židovská Strakonice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>0,01 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1906/1907  </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Private Jewish Primary School of Strakonice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Private Jewish Primary School of Strakonice / NAD 1320</p>
+        </odd>
+        <custodhist>
+            <p>No information has been preserved about the transfer of the fonds to the State District Archives in Strakonice. The fonds was most likely taken out of another fonds in the past.</p>
+        </custodhist>
+        <bioghist>
+            <p>The history of the originator is unknown.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains only a list of children attending the Private Jewish Primary School in Strakonice, probably in the school year of 1906-1907. There is no dating on the material and the time range is determined only by estimation.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds has not been processed yet.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>not accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Private Jewish Primary School</subject><subject>list of pupils</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>309</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Strakonice </titleproper>
+            <subtitle>Archives of the Town of Strakonice / NAD 309</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1367/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>309</unitid>
+            <unittitle>Archiv města Strakonice </unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>46,65 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1367/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office Strakonice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Strakonice / NAD 309</p>
+        </odd>
+        <custodhist>
+            <p>A large part of the fonds was handed over to the Strakonice District Archives in 1957. The documents from the period of the municipal office have been preserved in fragments, being taken over in 1958. The fonds was processed and inventoried in 1990 in the Strakonice State District Archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>The municipality of Strakonice was promoted to town in 1367. Until 1402, the town with the castle had two lords - the secular ones (the Bavors of Strakonice) and the church ones (Johannites). In 1402, the castle and the entire city fell to the Order of the Knights of Malta. Until 1784, there was the mayor's office, which was replaced by the municipal office in 1784-1850, and in 1850 a town office was established. The Strakonice Town Office ceased to exist in 1945 when the town was liberated by the American army.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipal self-government and the delegated state administration until 1945 (1953), namely deeds, books, file material, and accounting material. In terms of industrial development, the town of Strakonice was among the important towns of southern Bohemia at the end of the 19th, and also during the 20th century. There were 5 factories producing fezzes, which were owned by the Jewish families of Fürth, Stein, Zucker, and Weil. At the beginning of the 20th century, these factories were merged into a joint-stock company based in Vienna and later in Strakonice (under the name of Fezko). The operation of these factories covers the period of 1844-1925. Other particularities concerning Jews before 1850 are as follows: the Jewish land register 1734-1880 and judicial matters divided according to agendas and names, namely the documents from 1850-1945, including M. Fürth's fund for poor children, Jewish affairs 1936-1940, measures against Jews, securing property and appointing an administrator of Jewish houses and lands 1936-1940.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The inventoried part of the fonds is divided as follows: I Deeds; II Books: a) until 1850, b) after 1850; III File material: a) auxiliary books; b) files - I The period of the mayor's office (until 1784), II The period of the municipality office (1784-1850), III The period of the municipal office 1850-1880, 1881-1892, 1893-1896, 1897-1906, 1907-1916, 1917-1925, 1926-1930, 1931-1935 , 1936-1940, and 1941-1945; IV Other material; V Maps and plans; VI Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kuncipál K.: Archiv města Strakonice 1367-1945 (1953). Inventář, 1990, 100 s., ev. č. 619.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/169244</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Fürth factory</corpname><corpname>Stein factory</corpname><corpname>Zucker factory</corpname><corpname>Weil factory</corpname><corpname>Fezko</corpname><corpname>M. Fürth's fund for poor children</corpname></controlaccess>
+        <controlaccess><subject>fez producing factories</subject><subject>land register</subject><subject>anti-Jewish measurments</subject><subject>Jewish houses</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>442</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Blatná</titleproper>
+            <subtitle>District National Committee of Blatná / NAD 442</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>442</unitid>
+            <unittitle>Okresní národní výbor Blatná</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>56,98 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1945/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee of Blatná</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Blatná / NAD 442</p>
+        </odd>
+        <custodhist>
+            <p>The fonds has been preserved almost untouched. First, the materials of the fonds were stored in the District National Committee of Blatná. Before the abolition of the District National Committee of Blatná in 1960, the files were handed over to the District National Committee of Strakonice. The first transfer of files to the Strakonice District Archives took place in 1957, and then further transfers took place. The last acquisition took place in 2015. In 2018, the fonds was reorganized, and an inventory was made.</p>
+        </custodhist>
+        <bioghist>
+            <p>The origin, organization and competence of district national committees as new state bodies were first established by the Constitutional Decree No. 18 of the President of the Republic of 1944. The Blatná District National Committee was established in 1945. It ceased to exist due to a territorial reorganization in 1960.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the district people's administration and delegated state administration, documenting the economic, political, social and cultural conditions of the former Blatná district. It contains official books, file material and accounting material. Jewish issues can be found in the following areas: commission of inquiry (list of Jews in the district, anti-Jewish action) 1940-1946, citizenship - sorted alphabetically by name (J. Stein, representative of Bata's enterprises in Africa) (1910) 1945-1948, Jewish religious municipality (inventory of property) 1945-1950.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I Official books: a) administrative books, b) records; II File material: a) registry finding aids; b) files - handling periods 1945-1948, 1949-1950, 1951-1954, 1955-1958, 1959-1960; III Accounting material; IV Other material; V Associated agenda of the District National Committee.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessibble</p>
+        </accessrestrict>
+        <otherfindaid><p>Koštová J.: Okresní národní výbor Blatná (1810) 1945-1960 (1962). Inventář, 2018, 169 s., ev. č. 1114.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/437430</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>list of Jews</subject><subject>anti-Jewish action</subject><subject>Jewish religious municipality</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>441</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Strakonice </titleproper>
+            <subtitle>District National Committee of Strakonice / NAD 441</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1978</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>441</unitid>
+            <unittitle>Okresní národní výbor Strakonice </unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>316,51 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1945/1978</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee of Strakonice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Strakonice / NAD 441</p>
+        </odd>
+        <custodhist>
+            <p>Originally, the materials of the District National Committee of Strakonice were stored in the State Archives in Třeboň and transferred to the District Archives in Strakonice in 1974. Presidium files were taken over by the archives in 1956. Part of the fonds was processed in 1980. The most recent acquisitions took place in 2020 when the district authorities ceased to exist.</p>
+        </custodhist>
+        <bioghist>
+            <p>The origin, organization and competence of district national committees as new state bodies was first established by the Constitutional Decree No. 18 of the President of the Republic in 1945. The Strakonice District National Committee was established in 1945 and ceased to exist in 1989.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the district people's administration and delegated state administration, documenting the economic, political, social and cultural conditions of the former district of Strakonice. Jewish issues can be found in the following areas: renouncing Czechoslovak citizenship 1947 (1951), national administration 1947, affairs of individual companies 1945-1949, Jewish religious community 1949-1950, commission of inquiry - lists of victims of Nazism, lists of persons imprisoned during the occupation 1945- 1947. Information on Jews can also be found in the section entitled the District National Committee Commission of Inquiry.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The file handling of the fonds is divided into four periods, which are further divided thematically. The subject groups from the following periods are of decisive importance: the handling period of 1945-1948 - I Constitutional affairs of the state, districts, and municipalities, II Economic and financial affairs, VI Trades, shops, industry; the handling period of 1949-1950 - 3 Education and enlightenment.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koubová J. – Strnadová I.: Okresní národní výbor Strakonice (1852) 1945-1978. Prozatímní inventární seznam, 1980, 115 s., ev. č. 2.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>state administration</subject><subject>Jewish religious community</subject><subject>lists of victims of Nazism</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>443</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Vodňany </titleproper>
+            <subtitle>District National Committee of Vodňany / NAD 443</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>443</unitid>
+            <unittitle>Okresní národní výbor Vodňany </unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>49,64 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1945/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee of Vodňany</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Vodňany / NAD 443</p>
+        </odd>
+        <custodhist>
+            <p>The fonds has been preserved almost untouched. The first transfer of files from the district national committees to the Strakonice District Archives took place in 1963. Gradually, further transfers took place, the last of which in 2014 from the Písek State District Archives. The processing and inventory of the District National Committee of Vodňany was completed in 2016.</p>
+        </custodhist>
+        <bioghist>
+            <p>The origin, organization and competence of district national committees as new state bodies was established by the Constitutional Decree No. 18 of the President of the Republic of 1945. First, a branch of the District National Committee of Písek was established in Vodňany, and then in 1949, the District National Committee of Vodňany. It ceased to exist on June 30, 1960 due to a territorial re-organization.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the district people's administration and delegated state administration: official books, files, and accounting material. It documents the economic, political, social and cultural conditions of the former district of Vodňany. Information on Jews can be found in the following areas: confiscated Jewish property (1935) 1945-1952 (sorted alphabetically by name), Jewish religious community 1950, the use of the former Jewish synagogue 1950-1958.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I Official books: a) administrative books, b) records; II File material: a) registry finding aids; b) files - the handling periods 1945-1948, 1949-1950, 1951-1954, 1955-1958, 1959-1960; III Accounting material; IV Other material; V Associated agenda of the District National Committee.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koštová J.: Okresní národní výbor Vodňany (1779) 1945-1960 (1966). Inventář, 2017, 162 s., ev. č. 1071.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/336522</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>confiscated Jewish property</subject><subject>Jewish religious community</subject><subject>synagogue</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>417</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Strakonice I</titleproper>
+            <subtitle>District Office of Strakonice I / NAD 417</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>417</unitid>
+            <unittitle>Okresní úřad Strakonice I</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>216,94 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Strakonice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Strakonice I / NAD 417</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was processed and inventoried in 1961 in the State Regional Archives in Třeboň and transferred to the State District Archives in Strakonice in the following years. Since the 1970s, the fonds has been gradually complemented. The documents from the first handling period have been preserved only in fragments. In 1969 and 1984, a catalog of presidium files I and II were made.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1848, the District Governor's Office of Strakonice was established including the judicial districts of Horažďovice and Strakonice. In 1855, the political and judicial agendas were merged, and the Strakonice Mixed District Office was established. In 1868, the District Governor's Office of Strakonice was restored, consisting of the judicial districts of Strakonice, Horaždovice and Volyně. In 1919, it was renamed the Strakonice District Political Administration and in 1928 the Strakonice District Office. In 1945, it was changed to the District National Committee of Strakonice.</p>
+        </bioghist>
+        <scopecontent>
+            <p>This large fonds contains documents from the regional political state administration and the judicial administration, dealing with the economic, political, social and cultural conditions of the former judicial district of Strakonice and Horažďovice. Most materials concerning Jews can be found in the affairs of the Jewish communities of Strakonice, Volyně and Horažďovice (rabbi affairs, elections to the Jewish religious community, model statutes of the Jewish community, Wilhemine vom Fürth Foundation, dissolution of the Jewish Women's Association in Strakonice, police travel permits, circulars on evacuation of Jews, transfer of property of Jewish communities - handover of the synagogue and the prayer house) from 1886-1946. The fonds also contains a large amount of information in the field of trades, shops and industries (trade concessions and their operation, construction and technical matters of factories, especially for the production of fezzes that belonged to Jewish families, the most important of which were the Fürths, Steins, Zuckers, and Weils). Valuable data can also be found in ​​police matters, such as the examination of Aryan origin, the list of Jews evicted before 1 July 1939, lists of the Jews of mixed race, various measures and decrees concerning the Jewish population during the Nazi occupation. In the presidium files I. 1854-1918 there are reports on events in the fez factories and on the activities of their owners. In the presidium files II. 1918-1945 one can find lists of Jews with Polish citizenship, a list of Jewish enterprises and their designation. Jewish issues are also to be found in registry matters - keeping Jewish registries 1886-1899, duplicates of Jewish registries 1933-1947.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The file handling of the fonds is divided into eleven periods, which are further divided thematically. The following subject groups are of decisive importance: the handling period 1855-1868: 11. Agriculture and industry; the handling period 1886-1899: 1. Court and state, 5. Religious affairs, 9. Construction and fire safety, 11. Agriculture and industry; the handling period 1900-1905: 5. Religious affairs; the handling period 1906-1912: 5. Religious affairs; the handling period 1913-1920: 5. Religious affairs, 15. Industry and trades; the handling period 1924-1932: 4. Citizenship, domicile, registry matters, 12. Financial affairs, state loans, subscriptions and bonds; the handling period 1933-1941: 4. Citizenship, domicile, registry matters, 5. Religious affairs, 8. Police affairs, 12. Financial affairs; the handling period 1942-1948: 3. Security, 6. Trades, shops and industries, 7. Education, religion, marriages, registry, and foundation matters;</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Lesák V.: Okresní úřad Strakonice (1817) 1850-1945 (1960). Inventář, 1961, 259 s., ev. č. 9.</p></otherfindaid><otherfindaid><p>Marčal J.: Okresní úřad Strakonice – Presidiální spisy I. 1854-1918. Katalog, 1984, 56 s., ev. č. 793</p></otherfindaid><otherfindaid><p>Vačkářová J.: Okresní úřad Strakonice – Presidiální spisy II. 1918-1945. Katalog, 1969, 125 s., ev. č. 794</p></otherfindaid><otherfindaid><p>Marčal J.: Okresní úřad Strakonice – Pracovní úřad 1939-1945. Prozatímní inventární seznam, 1983, 4 s., ev. č. 797</p></otherfindaid><otherfindaid><p>Šeda O.: Sčítací operáty politického okresu Strakonice 1921. Prozatímní inventární seznam, 1966, 8 s., ev. č. 863.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/142595</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Wilhemine vom Fürth Foundation</corpname><corpname>Jewish Women's Association</corpname></controlaccess>
+        <controlaccess><subject>rabbi</subject><subject>elections</subject><subject>Jewish religious community</subject><subject>Jewish property</subject><subject>synagogue</subject><subject>prayer house</subject><subject>Jewish businesses</subject><subject>Nazi occupation</subject><subject>polish citizenship</subject></controlaccess>
+    </archdesc>
+</ead>    

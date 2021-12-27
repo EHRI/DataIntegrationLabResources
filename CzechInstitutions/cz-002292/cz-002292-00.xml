@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>32</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Rakovník I</titleproper>
+            <subtitle>District Office of Rakovník I / NAD 32</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Rakovník</publisher>
+            <address>
+                <addressline>Plzeňská 2493, Rakovník, PSČ 269 01</addressline>
+                <addressline> +420 313 513 062</addressline>
+                <addressline>http://www.soapraha.cz/rakovnik/</addressline>
+                <addressline>soka-rakovnik@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>32</unitid>
+            <unittitle>Okresní úřad Rakovník I</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>145,55 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Rakovník</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Rakovník </name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Rakovník I / NAD 32</p>
+        </odd>
+        <custodhist>
+            <p>In 1933, the former municipal archive of Rakovník took over part of the files from the registry of the district office. A large part of the fonds was destroyed during the relocation of the district national committee from the district office building. Gradually, the fonds was consolidated in the archives in Rakovník from the 1950s. It was organized and inventoried there.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1850, the district governor's office began to operate. It was changed to a mixed political-judicial district office during the reorganization of the administration in 1855. Similar first instance offices were established in the seats of the former judicial districts, which were originally subject to Rakovník. The mixed districts ceased to exist in 1868, when the district governor's office was established again. It was formed by the judicial districts of Rakovník and Křivoklát. In 1919-1928, it was called the district political administration, and in 1928-1945 the district office.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the Rakovník District Office, i.e. books, files, accounting material, census records, and projects. The file material contains the registry finding aid Jews 1724-1866 (no. 400-407). Trade, church and residence matters are also relevant. File material: Jews 1724-1865 (no. 400-407); Church matters, Jews, 1850-1914 (no. 638-641); Church matters, Jews 1928-1948 (no. 1121-1126); Security and police matters, among others Jews (1928-48 1155-1363); Registers of apostasies and conversions (no. K39-50); Volume LIV, no. VII-1-Jews, Files concerning Jews on the Olešná estate 1724-1833; How the Jews are to swear 1842-48 (inv. no. 77); Method of circumcision 1839-1842, Lists of Jews 1776-1849, General files concerning Jews 1791-1865 (inv. no. 77), Name list - applications, decisions to grant support to families whose breadwinners were arrested by the Gestapo 1939-2944 (inv. no. 799/1647). Group 4 may also be relevant. Register documents, emigration, citizenship, examination of traitors and collaborators, births, marriages and deaths abroad 1906-1948 (no. 952-1120). Presidium files contain many records of Jews, especially from the period of the Nazi occupation: inv. no. 317/1890 National harassment in Bohemia and Jews; inv. no. 1457/1938 and inv. no. 1437/1939 Jews from Germany; inv. no. 1677/1939 confiscation of radios from Jews. From 1941, the following files are relevant: inv. no. 746 Anti-Jewish articles, inv.no. 786 Ban on the distribution of musical compositions by Jewish authors; inv. no. 836/1941 Ban on lending books to Jews from public libraries; inv. no. 855/1941 Ban on the distribution of Jewish musical works; inv. no. 1101/1941 Measures against Czechs showing sympathy to Jews; inv. no. 1150/1941 Visiting hours for Jews in offices; inv. no.1166/1941 Ban on Jews to enter museums, libraries, and exhibitions; inv. no. 50/1942 Search for Jews who avoided transportation to concentration camps; inv. no.64 Denunciations; inv. no. 107 Searching for a Jew. From 1942 , the following files are relevant: inv. no. 879, 880,880-3, 889-92, 894, 909, 935, 950, 951, 1014, 1031 Search for fugitive Jews; inv. no. 608/1942 Ban on serving Jews in barbershops; 1035 Allocating Jewish flats; inv. no. 1191/1942 Ban on Jews to use coaches when going to the places from which they were taken to concentration camps; inv. no. 873/1941 Damage to synagogues; inv. no. 897/1941 Removal of an anti-German inscriptions by Jews; inv. no. 798/1942 Jewish half-breeds among the police.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into 1. Books, 2. Files, 3. Accounting books and documents, 4. Census reports, 5. Large projects.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Indra B.: Okresní úřad Rakovník 1874-1918. Katalog presidiálních spisů I. Katalog, 1972, 55 s., ev. č. 24.</p></otherfindaid><otherfindaid><p>Bolek E.: Okresní úřad Rakovník 1925-1939. Katalog presidiálních spisů II. Katalog, 1973, 43 s., ev. č. 25.</p></otherfindaid><otherfindaid><p>Šolle V.: Okresní úřad Rakovník 1941-1945. Katalog presidiálních spisů III. Katalog, 1976, 47 s., ev. č. 26.</p></otherfindaid><otherfindaid><p>Cikánek A.: Okresní úřad Rakovník I, 1850-1945. Inventář, 1961, 191 s., ev. č. 860.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/PomPohled.action?ref=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%2831513%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Conversions</subject><subject>circumcision</subject><subject>Lists of Jews</subject><subject>anti-Jewish restrictions</subject><subject>Anti-Semitism</subject><subject>transports</subject><subject>concentration camps</subject><subject>Jewish flats</subject><subject>Synagogue</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,456 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>316</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Berní správa Jihlava</titleproper>
+            <subtitle>Tax Office of Jihlava / NAD 316</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1920/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>316</unitid>
+            <unittitle>Berní správa Jihlava</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>51,17 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1920/1949</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Tax Office of Jihlava</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Tax Office of Jihlava / NAD 316</p>
+        </odd>
+        <custodhist>
+            <p>Part of the fonds was taken over into the State Archives in Telč from the State Central Archives in Prague (today the National Archives), the newer part directly from the Registry of the District National Committee in Jihlava, and criminal files from the Regional National Committee in Jihlava. The inventory of the fonds was made in 1960.</p>
+        </custodhist>
+        <bioghist>
+            <p>The acts of 1919 made the existing tax departments of district offices independent offices of the first instance for the administration of direct taxes. At the time of its establishment, the Jihlava tax administration district consisted of the Jihlava and Třešť tax districts. There were changes during the World War II, but in 1945 the original state was restored. In 1949, the administration of direct and indirect taxes was taken over by the financial departments of the district national committees. Since the establishment of the tax criminal districts, the Jihlava tax office had been part of the Brno-City I Criminal District.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains apartment and house tax files of the city of Jihlava and municipalities, building plans for houses and constructions. Files on the Jewish property and the Aryanization of enterprises date back to the Holocaust.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains official books, registry finding aids and files. , 45,19 linear meters are not processed.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Janák J. – Štarha I.: Berní správa Jihlava 1920-1949. Inventář, 1960, 20 s., ev. č. 363.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish property</subject><subject>Aryanization</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>225</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv obce Puklice</titleproper>
+            <subtitle>Archives of the Municipality of Puklice / NAD 225</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1861/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>225</unitid>
+            <unittitle>Archiv obce Puklice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>1,52 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1861/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Puklice; Regierungskomissär Puklitz; National Committee of Puklice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Municipality of Puklice / NAD 225</p>
+        </odd>
+        <custodhist>
+            <p>The documents arose from the activities of the municipal office in Puklice, where they were also stored. In 1953 and 1963 they were transferred to the District Archives in Jihlava and were organized in 1958 and 1978.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Puklice dates to 1318. It was the center of the manor, which was owned by various aristocratic families. After 1848, it was an independent municipality, which in 1850-1949 was part of the judicial and political district of Jihlava. </p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipal self-government. Jewish issues can be found in an item from the Holocaust period titled Jewish Cemetery - Puklice 1941-1944.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains official, auxiliary and accounting books and files. 0,04 linear meters are not processed.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Berková, O.: Obecní úřad Puklice 1861-1945 (1951). Inventář, 1978, 10 s., ev. č. 268.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Cemetery</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>325</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Jihlava</titleproper>
+            <subtitle>District Court of Jihlava / NAD 325</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/2004 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>325</unitid>
+            <unittitle>Okresní soud Jihlava</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>632,60 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1850/2004 </unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Jihlava</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Jihlava / NAD 325</p>
+        </odd>
+        <custodhist>
+            <p>A major part of the fonds from 1850–1897 was taken over by the State Archives in Telč in 1951 from the former Regional Court in Brno, later material was taken over from the People's Court in Jihlava in 1954. Other documents were handed over in 1961 and 1963 after the reorganization of the judiciary in 1960. In 2000-2015, there were 6 major acquisitions and several small ones.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Court in Jihlava was established in 1850 for the judicial districts of Jihlava, Třebíč and Velké Meziříčí. After the reform in 1855, the jurisdiction of the court was limited to the judicial district of Jihlava. However, a mixed political office was not established in Jihlava as elsewhere, but the judicial administration of the first instance remained independent as the so-called municipal delegated district court, whose staff belonged to the Jihlava Regional Court. It operated under this name until 1897. In 1911, 11 municipalities from the Jihlava judicial district were connected to the newly created judicial district in Třešť. The judicial districts were abolished in 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains files of the Jihlava District Court. The judicial agenda is divided into civil and criminal. The civil agenda includes disputes, estates and wills, and the criminal agenda mainly misdemeanors. Registry books and name indexes enable orientation in the files. Jewish issues can be found in all groups of documents, especially the estate files (mark D) from 1946–1949, which often concern persons who did not survive the German occupation and for whom inheritance proceedings took place only after the end of the war. Registers of estates and lists of names can be used for orientation in the files. Restitution files from 1949–1950 are also important, and from the department of OS Jihlava V (Land Book Agenda) also the Book of seats in the Jewish synagogue in Puklice from 1855.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The documents from 1850–1949 are inventoried, having three inventories according to the handling periods (1850–1897, 1898–1923, 1924–1949) and one including the land book agenda from 1850–1949. The earliest part of the fonds from 1850–1897 was inventoried in the State Archives in Telč in 1957, the remaining handling periods until 1949 were organized in the District Archives in Jihlava in 1965. The archive material from 1949–2004 has not been organized yet.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Cvek V. – Papíková M.: Okresní soud Jihlava, Inventář I, 1850-1897, 1957, 27 s., ev. č. 371.</p></otherfindaid><otherfindaid><p>Svoboda J. – Hoffmann F. – Krpálková J.: Okresní soud Jihlava, Inventář II, 1898-1923 (1929), 1965, 28 s., ev. č. 372.</p></otherfindaid><otherfindaid><p>Hoffmannová J. – Krpálková J.: Okresní soud Jihlava, Inventář III, (1919) 1924-1948 (1949), 1965, 49 s., ev. č. 373.</p></otherfindaid><otherfindaid><p>Hoffmann F. – Krpálková J.: Okresní soud Jihlava, Pozemkově knižní agenda, Inventář V, 1850-1949, 1965, 41 s., ev. č. 374.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Restitutions</subject><subject>inheritance</subject><subject>synagogue seats</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>318</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Berní úřad Jihlava</titleproper>
+            <subtitle>Tax Office of Jihlava / NAD 318</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1853/1948</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>318</unitid>
+            <unittitle>Berní úřad Jihlava</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>28,69 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1853/1948</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Tax Office of Jihlava; Tax Office of Třešť; Assay Office of Jihlava; District National Committee of Jihlava</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Tax Office of Jihlava / NAD 318</p>
+        </odd>
+        <custodhist>
+            <p>After the abolition of the office, its documents were handed over to the district archives by the successor by the District National Committee in Jihlava, where the fonds was organized and inventoried in 1960.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1848, tax authorities became executive financial authorities in the field of direct and indirect taxes, depository authorities and the lowest state treasuries. In the field of direct taxation, the authorities were subordinated to the political authorities of first instance, in matters of fees, excise duties and all treasury and financial activities, and in matters of state property and management, they were subordinated to the district financial directorates. In matters of court deposits and orphan funds, they were subordinated to district courts. From 1919, they were subject to new tax administrations - tax departments of district governor's offices. The district of the Jihlava tax office had the same area as the district court. In 1930, the tax office in Třešť was abolished and its scope was transferred to the tax office in Jihlava. From 1 January 1922, the agenda of collecting and enforcing direct taxes passed to the office. It was abolished during the reorganization of the financial administration in 1948.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains the agenda of collecting taxes of the judicial district of Jihlava and later of the judicial district of Třešť. Jewish issues can be found in the files from the Holocaust period about the ancestry of 1940-1944, and the estate of K. Löw from Helenín 1930-1945.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains official books and files. 14,99 linear meters are not processed yet.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Štarha I.: Berní úřad Jihlava 1853-1953. Inventář, 1960, 18 s., ev. č. 365.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>taxation</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1179</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Telč</titleproper>
+            <subtitle>Archives of the Town of Telč / NAD 1179</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1387/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1179</unitid>
+            <unittitle>Archiv města Telč</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>30,21 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1387/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Advocatus' (rychtář) office of Telč; Magistrat of the Town of Telč (1787-1850); Municipal Office of Telč (1850-1945); National Committee of Telč (1945 - )</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Telč / NAD 1179</p>
+        </odd>
+        <custodhist>
+            <p>At the end of the 19th century, the town council began handing over its documents to the town museum, where a collection of archive material was created containing, among others, estates, various prints, maps, etc. In the early 1950s the museum was subordinated to the cultural department of the Municipal National Committee of Telč. In 1953, the paper documents were separated from the museum, and since 1961 the documents had been handed over to the archives of Telč. Today they are stored in the State District Archives in Jihlava. It was not until 2002-2004 that the fonds was organized and inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Telč dates to 1207. Since the middle of the 14th century it has been possible to speak of Telč as a town. The town was the center of the estate owned by various aristocratic families, from the 17th and 18th centuries it was the Lichtensteins-Kastelkorns and in the years 1761-1945 it was the Podstatskýs of Lichtenstein. The town of Telč was part of the political districts of Dačice in 1850-1855, and Telč in 1868-1949, 1855-1868, and in 1850-1949 it was part of the judicial district of Telč. Jewish settlement in Telč had been recorded since the first half of the 17th century, later there was a Jewish religious community, which disappeared during the Second World War, when 68 Telč Jews were taken to Terezín and Auschwitz. </p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds has been preserved in fragments and contains documents of the local government (documents, official books, file material). The Jewish community, too, is represented by several documents. From the Holocaust period it is the correspondence, orders, and decrees from 1939-1944.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is organized into groups: documents, official books, file material. Except for a small period of time (files from 1850-1860), the fonds is arranged artificially.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Jelínek J.– Nedbalová H. – Žáčková H.: Archiv města Telč 1387-1945 (1954). Inventář, 2004, 112 s., ev. č. 992.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Community Telč</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1127</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Třešť</titleproper>
+            <subtitle>Archives of the Town of Třešť / NAD 1127</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1562/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1127</unitid>
+            <unittitle>Archiv města Třešť</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>43,12 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1562/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language><language langcode="heb">heb</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Třešť; Market town Třešť; National Committee of Třešť</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Třešť / NAD 1127</p>
+        </odd>
+        <custodhist>
+            <p>The documents were stored at the town hall and after 1950 they were handed over to the District Archives in Třešť. After the demise of the Třešť district in 1960, the Jihlava District Archives took over the documents and deposited them in its branch in the Telč chateau. After the cancellation of the branch, or the depository, the archives were transferred from Telč to Jihlava in 2005.</p>
+        </custodhist>
+        <bioghist>
+            <p>Třešť had been a non-royal town with a strong Jewish minority since the 15th century. Jews were mentioned to live in Třešť as early as the second half of the 13th century. From 1686, the compact Jewish settlement (ghetto) had been separated from the Christian community. In 1850–1864 Třešť was part of the judicial district of Jihlava, and in 1864–1911 a part of the judicial district of Jihlava-Country. In 1902, Třešť was promoted to a town. In 1908 the judicial district of Třešť was declared to be established and in 1911 came into being, ceasing to exist in 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official books and files of the town of Třešť. Books: A list of Jewish families 1789–1840 (only men as heads of households), A book of documents of the Jewish synagogue (1790) 1811–1860, The principal book of seats in the synagogue in Třešť 1811–1873. Files: Jewish cemetery - an agreement between the town and the Jewish community 1736–1739, Jews (various files in the dossier with the old calling number 339): files about the synagogue 1941–1942, the topographic plan of the synagogue and the immediate vicinity in 1920s and 1930s, Jewish property 1942–1944, lists of Jewish inhabitants by age categories - after 1939, a list of Jewish flats - after 1939, a list of Aryanized Jewish plots 1940–1942, 2 photographs of a commemorative Hebrew inscription in the synagogue about the fire of the Jewish town on October 2, 1824, a Czech translation of the inscription, made by Prof. Dr. Hugo Jokl in 1957, an obituary of Prof. Jokl from 1960.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds has not been processed.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>not accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There is only incomplete list of the documents added to the fonds. Part of the official books concerning criminal agenda taken from the archives in Brno in 1970´s is listed on the paper cards.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Synagogue</subject><subject>synagogue seats</subject><subject>Jewish Religious Community Třešť</subject><subject>Aryanization</subject><subject>Jewish Cemetery</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>147</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Tábor</titleproper>
+            <subtitle>Archives of the Town of Tábor / NAD 147</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1406/1945  </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>147</unitid>
+            <unittitle>Archiv města Tábor</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>116,32 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1406/1945  </unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Tábor</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Tábor / NAD 147</p>
+        </odd>
+        <custodhist>
+            <p>The original town archives only consisted of town privileges. Books and files were stored in the registry office. In 1871, two appraisals of documents were carried out leading to destruction of files and books from the 17th and 18th centuries and files from the late 18th century to 1851. After the founding of the town museum in 1878, the town archives became part of it. The remains of the town archives were processed in 1890—1894, and in 1962 an inventory list was made. Other documents of the fonds were handed over to the archives in 1958-2015. The fonds was processed and a registry finding aid was made.</p>
+        </custodhist>
+        <bioghist>
+            <p>Tábor was founded in 1420 by the Hussites. The town was headed by four elected governors. Tábor became a royal town in 1750 and Maria Theresa promoted Tábor to regional town (remaining so until 1848). In 1960, Tábor became the center of a large district, which also included the existing Soběslav district, and parts of the Milevsko, Votice, Pacov and Týn nad Vltavou districts. Political district: Tábor. Judicial district: Tábor.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains the local government documents, deeds, official books, file material, and accounting material. Information on Jews can be found in documents from 1628-1945 (debts of the municipality to the Prague Jews David Lury and Aaron Tausk and to Matyáš Žlutický of Tábor, and the debt of Saul Israel to the municipality 1622; debts of the Jewish population; the permission of the town council to establish a Jewish cemetery (copy) 1634, list of Jewish families living in Tábor 1691, the number of children registered in Jewish registries 1913-1916, the proposal of the city council to close the Jewish cemetery 1937, the proposal to remove the Jewish cemetery 1940, the proposal for anti-Jewish actions 1941, persecution of Jews,1942-1945; general book of funds and foundations (Jewish communities) 1906-1921 (1924).</p>
+        </scopecontent>
+        <arrangement>
+            <p>Fonds structure: I. Deeds; II. Books: A) until 1850, B) from 1850; III. File material: A) registry finding aids, B) files: 1) pre-municipal period (1400) -1789 (1859), 2) files of the regulated municipality, 3) files of the municipal office (1841) 1851-1945 (1955), 4) files of associated agendas; IV. Accounting material: until 1850, after 1850; V. Other material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Vančata V.: Archiv města Tábor 1406-1945 (1955). Prozatímní inventární seznam, 2000, 187 s., ev. č. 973.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish children</subject><subject>Jewish cemetery</subject><subject>persecution of the Jews</subject><subject>Jewish foundations</subject></controlaccess>
+    </archdesc>
+</ead>    
+

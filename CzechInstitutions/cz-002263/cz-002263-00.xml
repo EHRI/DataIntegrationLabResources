@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>822</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Kralupy nad Vltavou</titleproper>
+            <subtitle>District Office of Kralupy nad Vltavou / NAD 822</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Mělník</publisher>
+            <address>
+                <addressline>Pod Vrchem 3358, Mělník, PSČ 276 01</addressline>
+                <addressline> +420 315 622 629</addressline>
+                <addressline>http://www.soapraha.cz/melnik/</addressline>
+                <addressline>soka-melnik@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1913/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>822</unitid>
+            <unittitle>Okresní úřad Kralupy nad Vltavou</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>33,69 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Mělník</corpname>
+            </repository>
+            <unitdate>1913/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Kralupy nad Vltavou; District Office of Kralupy nad Vltavou; District Political Administration Kralupy nad Vltavou; District National Committee Kralupy nad Vltavou</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Kralupy nad Vltavou / NAD 822</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was partly damaged by improper storing. It was taken over in 1955 from the District National Committee. In 1958, it was supplemented with 50 boxes from the State Archives in Prague. The fonds was organized, and in 1965, an inventory was made.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1850, the Velvary court district was established belonging to the Slaný governor's office, where Kralupy also belonged to. In 1855, a mixed district office was established in Velvary, including the Kralupy district, too. After its abolition in 1868, Kralupy belonged to the district governor's office in Slaný. The Kralupy District Court was established in 1912, and the district governor's office in 1913, renamed in 1918 the political district administration. In 1927 it was renamed the district office again. Between 1939 and 1945, the office was put under the supervision of the Nazi authorities, being subject to the Oberlandrat in Kladno. After 1945, the district national committee was established.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official documents: official books, file material and accounting material. The file material includes trade matters arranged alphabetically according to the names of persons and factories. Larger companies are listed by their names in the Commercial Register. One can search for Jewish people by name. Jews are explicitly mentioned in the following documents: documents of the Jewish religious community from 1938-42 (inv. no. 324); a file of citizens of Jewish religion A-W; records of Jewish property (cottages, businesses, etc.) (inv. no. 485), list of permits issued to Jews to travel to work and back (inv. no. 454).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Official books and protocol records; II. File material; III. Accounting material; IV. Appendices</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Havelková V.: Okresní úřad Kralupy nad Vltavou 1913-1942. Inventář, 1965, 62 s., ev. č. 3.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28275784%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>trade matters</subject><subject>Jewish religion</subject><subject>Jewish religious community</subject><subject>Jewish property</subject><subject>permission to travel</subject></controlaccess>
+    </archdesc>
+</ead>    

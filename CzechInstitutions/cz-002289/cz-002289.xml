@@ -1,0 +1,228 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>7</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Sedlčany</titleproper>
+            <subtitle>Sedlčany District Office / NAD 7</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive in Příbram</publisher>
+            <address>
+                <addressline>E. Beneše 337, 261 01 Příbram VII</addressline>
+                <addressline> +420 318 492 411</addressline>
+                <addressline>http://www.soapraha.cz/pribram</addressline>
+                <addressline>soka-pribram@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1854/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>7</unitid>
+            <unittitle>Okresní úřad Sedlčany</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>77,46 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive in Příbram</corpname>
+            </repository>
+            <unitdate>1854/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Sedlčany District Office; District Governor's Office Sedlčany; District Political Administration Sedlčany</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Sedlčany District Office / NAD 7</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the district office were taken over by its successor, the District National Committee of Sedlčany. After its abolition, the material was handed over to the State District Archives in Příbram, where it was organized and inventoried in 1960-1964.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Sedlčany District Office was established in 1855. It had mixed political and judicial powers. In 1868, it was changed into the District Governor's Office. Its authority was limited to political issues. In 1868, the authority of the district governor's office was extended to the judicial districts of Votice and Sedlec, and so it remained until 1945. After the establishment of Czechoslovakia, the office was renamed the District Political Administration (in 1919) and the District Office (in 1928-1945). A drastic intervention in the district took place in the years 1943-1944, when the northern part of the district was occupied as a SS training ground. In 1945, the district office ceased to exist and its competence was taken over by its successor, the District National Committee of Sedlčany.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official books and files. The following documents are relevant: Conversion to the Roman Catholic Church and change of name Teresia Kohnová 1900; Jewish Religious Society 1904-1927, 1909-1937; Register of Jews: file 1940-1941 (A-K, L-W) with photographs; trade licenses 1940 (containing an inventory of Jewish property); Jewish religious communities 1938-1941; records of conversions 1938; The Record of Infectious Human Diseases 1940; Presidium files: Measures against agitation and political terror against Jewish citizens in connection with the exercise of their right to vote from the part of the opposition political parties of July 29, 1869; Report on the course of the general meeting of the Sedlčany Department of the Czech-Jewish National Unity of 4 October 1896; Resolution of the town council in Prčice sent to Jewish families living in Prčice, in which they demand that Jews should refrain from provocative German conversations on the streets, September 24, 1911; Report of the district governor's office that there are 13 Polish Jews from the occupied and war zones in the district, June 21, 1916; Seizure of cars of Jewish citizens for the Gestapo in Benešov, 1939; Collection of a fee of CZK 10 for a professional inspection of radio receivers during their confiscation from Jews 1939; A copy of the report from the police station on the arrest of František Chyle and Václav Procházka from Prosenická Lhota on suspicion of blackmailing landowner Josef Počepický from Kosova Hora for contacts with Jew Vítězslav Klepetář 1941; Hate articles in the magazine Aryan Struggle on the unacceptable behavior of Jews, 1941; A report of the police station in Sedlčany on anonymous reports of the behavior of Jews in Kosova Hora and Štětkovice from August 24, 1942; Decrees and circulars regulating the Aryan population's contact with the Jewish population</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into official administrative and registration books. The file material is divided into groups of registry finding aids and files. The files are divided into the presidium registry, the general registry, and the files stored outside the registry plan. The general registry is further divided into individual handling periods: 1855-1868, 1868-1904, 1904-1938, 1938-1946.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Polák S.: Okresní úřad Sedlčany 1855-1945. Inventář, 1966, 73 s., ev. č. 6.</p></otherfindaid><otherfindaid><p>Hlinecký O.: Presidiální spisy Okresního úřadu v Sedlčanech 1868-1918. Katalog, 1973, 195 s., ev. č. 24.</p></otherfindaid><otherfindaid><p>Hlinecký O.: Presidiální spisy Okresního úřadu v Sedlčanech 1939-1945. Katalog, 1972, 105 s., ev. č. 21.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Czech-Jewish National Unity</corpname></controlaccess>
+        <controlaccess><subject>Jewish Religious Society</subject><subject>conversions</subject><subject>register of Jews</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>152</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Příbram</titleproper>
+            <subtitle>Archives of the Town of Příbram / NAD 152</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive in Příbram</publisher>
+            <address>
+                <addressline>E. Beneše 337, 261 01 Příbram VII</addressline>
+                <addressline> +420 318 492 411</addressline>
+                <addressline>http://www.soapraha.cz/pribram</addressline>
+                <addressline>soka-pribram@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1393/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>152</unitid>
+            <unittitle>Archiv města Příbram</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>138,39 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive in Příbram</corpname>
+            </repository>
+            <unitdate>1393/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town of Příbram</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Příbram / NAD 152</p>
+        </odd>
+        <custodhist>
+            <p>The materials of the town of Příbram were taken over by the State District Archives of Příbram some time before 1997. The fonds is organized. However, it is chronologically divided into three separate sections, each having its own independent series of inventory numbers. These are the sections Municipal Office (MM) until 1790, Regulated Municipal Office (RM) 1790-1850, and Self-Government (S) 1850-1945.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first historical record of Příbram dates from 1216, when the Prague bishop Ondřej bought the farm Příbram from the Premonstratensian monastery in Teplá and began to build his estate around it. The first preserved records of the Jewish population date from the 16th century. Due to alleged mining frauds, Emperor Maximilian II issued a decree in 1568 prohibiting Jews from staying in the mining towns. The Jews began to return to the town in 1848. The Jewish religious community in Příbram was established in 1858.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official books and files. The following documents concern Jewish issues. The population register books: electoral registers; lists of townspeople; registers of inhabitants; alphabetical lists of inhabitants; lists of issued domicile certificates; lists of house owners; lists of tenants; trade registers; Příbram Jewish Cemetery, a list of persons of Jewish origin who died during the Nazi occupation in 1939-1945, a list of persons deported by the transport from Příbram on 4 September 1942; File material: Jews - staying in the town in 1848; citizens' protests against Jews settling in Příbram, Jews (a file) 1857; German Jewish Primary School 1862, 1879-1906; Contribution of the municipality of the Union of Czech Progressive Jews for Bohemia and Moravia 1908; Jewish religious community: teaching the Jewish religion 1884, installing a new door in the synagogue in 1900; Czech-Jewish Political Secretariat in Prague - support for the campaign "A Czech child belongs only to the Czech school" 1920; Measures against Jews: list of owners of Aryan and non-Aryan companies in Příbram 1939, a list of persons of Jewish religion 1939, designation of Aryan shops 1939, rental of Jewish flats 1941, Jewish half-breeds and mixed marriages 1941; forest workers (Jews) 1941-1942; Israeli religious community 1920.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into official administrative books and register books, the registry, and various other documents. The registry is further divided into registry finding aids, files according to individual handling periods and individual agendas (police administration, forest office, charity for the poor, etc.).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Polák S.: Archiv města Příbramě. Inventář. I. díl 1393-1792, 1991, 131s., ev. č. 37.</p></otherfindaid><otherfindaid><p>Polák S.: Archiv města Příbramě. Inventář. II. díl 1792-1850 (1870), 1991, 42 s., ev. č. 38.</p></otherfindaid><otherfindaid><p>Polák S.: Archiv města Příbramě. Inventář. III. díl 1851-1945 (1953), 1991, 202 s., ev. č. 39.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>The Union of Czech Progressive Jews for Bohemia and Moravia</corpname><corpname>Czech-Jews</corpname></controlaccess>
+        <controlaccess><subject>Jewish Cemetery</subject><subject>Syangogue</subject><subject>German Jewish Primary School, registers of the Jews</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>38</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Příbram</titleproper>
+            <subtitle>District Office of Příbram / NAD 38</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive in Příbram</publisher>
+            <address>
+                <addressline>E. Beneše 337, 261 01 Příbram VII</addressline>
+                <addressline> +420 318 492 411</addressline>
+                <addressline>http://www.soapraha.cz/pribram</addressline>
+                <addressline>soka-pribram@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1854/1945  </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>38</unitid>
+            <unittitle>Okresní úřad Příbram</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>126,31 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive in Příbram</corpname>
+            </repository>
+            <unitdate>1854/1945  </unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Příbram; District Governor's Office Příbram; District Political Administration Příbram</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Příbram / NAD 38</p>
+        </odd>
+        <custodhist>
+            <p>The older part of the materials of the district office in Příbram, namely books, general registry until 1874 and presidium files until 1918, was taken over by the Archives of the Ministry of the Interior after the establishment of Czechoslovakia and was organized there. The newer part remained in the registry office of the district office and was taken over by its successor, the district national committee. In 1960, the fonds was taken over by the State District Archives in Příbram. In 1962-1963, the fonds was organized and inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district governor's office in Příbram was established in 1850 for the judicial districts of Příbram and Dobříš. In 1855 it was changed into the district office with mixed political and judicial powers for the judicial district of Příbram. Dobříš was an independent district in 1855-1868. By order of the Ministry of the Interior, in 1868 the district office was again changed into the district governor's office with only political authority for the districts of Příbram and Dobříš. After the establishment of Czechoslovakia, the office was renamed the District Political Administration in 1919, and the District Office in 1928-1945. By a decree of the Minister of the Interior of 1937, a branch office of the district office with its seat in Dobříš was established for the Dobříš judicial district and part of the competence of the district office was transferred to it. In 1942, it was abolished again, and its agenda was taken over again by the district office. In May 1945, a national committee was established, later transformed into the Příbram District National Committee which became the successor of the abolished district office.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains official books and files. The following documents are relevant: Records of changes in religion 1882-1948 with registers; Lists of trades 1856-1949; Citizenship and emigration 1920-1940; Citizenship A-Ž 1937-1948; Lists of Jews who emigrated to Příbram in 1940; Seizure of Jews' bicycles 1941-1942; A list of Jewish trades 1942, Census sheets from 1921, Police population register approx. 1939-1945. Presidium files: Filling the post of the temporary rabbi for the former Beroun region. Supporting the candidacy of Moses Schiffmann of Votice for the district of Příbram 1866; A proposal of an imperial decoration for the head of the Jewish religious community in Příbram, Samuel Beständig, 1875; An anonymous letter sent to the chairman of the Support Association of Craftsmen in Příbram calling for violent acts against Jews from 1881; Finding explosives at the gates of the Jewish prayer house in Příbram and seditious anti-Jewish letters - a report of the town council and a report of the police station 1883; Anti-Jewish riots in the town of Příbram on the night of March 24, 1885; A report of the police station in Březové Hory on anti-Jewish demonstrations and damage caused to Jewish property in connection with the death of Crown Prince Rudolf in 1889; Suspension of the activities of the local department of the Czech-Jewish National Unity in Příbram for illegal political activities 1894; Serious anti-Jewish riots in Příbram, Nový Knín and Dobříš with damaged property in 1897; A declaration of the Příbram Town Council addressing the population, the local department of the Czech-Jewish National Unity in Příbram, and Jewish parents, to stop sending their children to the German school in 1898; A report against the perpetrator of derogatory inscriptions on Jewish shops in Dobříš 1899; Putting on an anti-Jewish poster in Příbram 1900; Finding a dynamite cartridge with a fuse and a capsule at the door of the synagogue in Příbram 1900; Dissemination of false reports of the murder of an 18-year-old Jewish girl in Příbram in 1904; Reports of the German press on the attacks of the Department of Czech-Jewish National Unity in Příbram against the public general German school in Příbram - a report of the district school committee on the situation of the school 1904; Sedition and attacks against Jewish refugees from Galicia located in Příbram in 1915; A report of the district governor's office that there are 161 Polish Jews from the war-infested and occupied eastern areas in the district 1916; A report of the police station about an anti-Jewish demonstration in Příbram and extraordinary measures as a result of this event 1919; A report of the police station in Příbram on an anti-Jewish riot 1919; A report of the police station in Bohutín about Alexander Frankel, a candidate for the United Jewish Party 1924; A report of the police station in Příbram on disseminating leaflets with anti-Jewish content 1938; Prohibiting Jews from staying in the main square and in Pražská Street - A decree of the District Office 1941; Decrees and circulars governing the Aryan population's contact with the Jewish population.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into official administrative and registration books. The file material is divided into groups of the registry finding aids and files. The files are divided into the presidium registry, the general registry, and files stored outside the registry plan. The general registry is further divided into individual handling periods: 1855-1868, 1868-1905, 1906-1936, 1937-1948.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Polák S.: Okresní úřad Příbram 1850-1948. Inventář, 1963, 93 s., ev. č. 3.</p></otherfindaid><otherfindaid><p>Hlinecký O.: Presidiální spisy Okresního úřadu v Příbrami I 1850-1918. Katalog, 1973, 270 s., ev. č. 25.</p></otherfindaid><otherfindaid><p>Polák S. – Kulíková J.: Presidiální spisy Okresního úřadu v Příbrami 1918-1939. Katalog, 1969, 156 s., ev. č. 11.</p></otherfindaid><otherfindaid><p>Polák S.: Presidiální spisy Okresního úřadu v Příbrami 1939-1945. Katalog, 1967, 69 s., ev. č. 7.</p></otherfindaid><otherfindaid><p>Doležal D.: Sčítání obyvatelstva roku 1921 (současný okres Příbram). Inventář, 2005, 22 s., ev. č. 95.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>The Support Association of Craftsmen in Příbram</corpname><corpname>Czech-Jewish National Unity</corpname></controlaccess>
+        <controlaccess><subject>Conversions</subject><subject>Jewish migrants</subject><subject>population census</subject><subject>anti-Semitism</subject><subject>Anti-Jewish violence</subject></controlaccess>
+    </archdesc>
+</ead>    

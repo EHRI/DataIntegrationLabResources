@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>570</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Luhačovice</titleproper>
+            <subtitle>Luhačovice Town Archives / NAD 570</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Zlín</publisher>
+            <address>
+                <addressline>Klečůvka-zámek, 763 11 Želechovice nad Dřevnicí</addressline>
+                <addressline> +420 577 901 132</addressline>
+                <addressline>www.mza.cz/zlin</addressline>
+                <addressline>soka_zlin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1716/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>570</unitid>
+            <unittitle>Archiv města Luhačovice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Graphic Material</genreform> 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>9,06 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Zlín</corpname>
+            </repository>
+            <unitdate>1716/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Luhačovice Municipality; Municipal Office of Luhačovice. </name>
+            </origination>
+        </did>
+        <odd>
+            <p>Luhačovice Town Archives / NAD 570</p>
+        </odd>
+        <custodhist>
+            <p>The documents were stored in the past with the mayor of the municipality. In the 20th century, the municipal registry was often relocated, because of which the older file material was destroyed. Parchments, documents, a collection of photographs, and posters were stored in the Uherské Brod Museum, and part of the archive was probably in Luhačovice Castle which was engulfed in fire in 1917. The preserved archive material was transferred to the State District Archives of Gottwaldov (today Zlín) in 1960 and 1964. The fonds was inventoried in 1967.</p>
+        </custodhist>
+        <bioghist>
+            <p>The oldest record of Luhačovice dates from 1412. In 1629 the manor was bought by Gabriel Serenyi, whose family possessed it until 1945. Luhačovice was promoted to a town on June 3, 1936. The first-instance political supervision of the town was exercised until 1949 by the district governor's office of Uherský Brod, where the judicial district was also located. In the second half of the 19th century, Jews began to buy land in the municipality starting business there. In the following generations, they expanded their business to the surrounding area. An example is the Jelínek family, the distillery owners in Vizovice. Jewish business families owned several famous spa hotels and villas and the Slavia café. Many local non-Jewish entrepreneurs also adapted their business to the demands of Jewish visitors to the spa as far as housing, food, entertainment, and spiritual life were concerned.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipality of Luhačovice, official books, files, and accounting material. Jews began to settle in Luhačovice permanently after 1848, until then they visited Luhačovice only during the spa season. Information on Jews can be found in the Luhačovice Archive fonds in individual documents: permission for Jews to use a hall for services 1845; Jewish religious community: model statutes, a request for the establishment of a prayer house 1934; the building commission for the construction of the synagogue and hospital 1928. From the Holocaust period: a list of Jews in Luhačovice, their accommodation, medical certificates, restrictions on movement, removal, administration of confiscated property 1939–1944. Specific attention should be paid to the following material: building documents and plans 1862–1944; concessions: restaurants, inns, hotels 1905–1945; trade licenses, businesses 1932.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Deeds, II. Official books, III. File material - A) books, B) files, IV. Accounting books, V. Other material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koželuhová L.: Archiv města Luhačovice 1716-1945 (1952). Inventář, 1967, 46 s., ev. č. 145.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>spa</subject><subject>prayer house</subject><subject>Jewish religious community</subject><subject>Holocaust</subject><subject>anti-Jewish restrictions</subject><subject>building plans</subject></controlaccess>
+    </archdesc>
+</ead>    
+

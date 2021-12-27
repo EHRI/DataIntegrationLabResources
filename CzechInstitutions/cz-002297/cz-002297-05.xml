@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>309</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Strakonice </titleproper>
+            <subtitle>Archives of the Town of Strakonice / NAD 309</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1367/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>309</unitid>
+            <unittitle>Archiv města Strakonice </unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>46,65 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1367/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office Strakonice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Strakonice / NAD 309</p>
+        </odd>
+        <custodhist>
+            <p>A large part of the fonds was handed over to the Strakonice District Archives in 1957. The documents from the period of the municipal office have been preserved in fragments, being taken over in 1958. The fonds was processed and inventoried in 1990 in the Strakonice State District Archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>The municipality of Strakonice was promoted to town in 1367. Until 1402, the town with the castle had two lords - the secular ones (the Bavors of Strakonice) and the church ones (Johannites). In 1402, the castle and the entire city fell to the Order of the Knights of Malta. Until 1784, there was the mayor's office, which was replaced by the municipal office in 1784-1850, and in 1850 a town office was established. The Strakonice Town Office ceased to exist in 1945 when the town was liberated by the American army.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the municipal self-government and the delegated state administration until 1945 (1953), namely deeds, books, file material, and accounting material. In terms of industrial development, the town of Strakonice was among the important towns of southern Bohemia at the end of the 19th, and also during the 20th century. There were 5 factories producing fezzes, which were owned by the Jewish families of Fürth, Stein, Zucker, and Weil. At the beginning of the 20th century, these factories were merged into a joint-stock company based in Vienna and later in Strakonice (under the name of Fezko). The operation of these factories covers the period of 1844-1925. Other particularities concerning Jews before 1850 are as follows: the Jewish land register 1734-1880 and judicial matters divided according to agendas and names, namely the documents from 1850-1945, including M. Fürth's fund for poor children, Jewish affairs 1936-1940, measures against Jews, securing property and appointing an administrator of Jewish houses and lands 1936-1940.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The inventoried part of the fonds is divided as follows: I Deeds; II Books: a) until 1850, b) after 1850; III File material: a) auxiliary books; b) files - I The period of the mayor's office (until 1784), II The period of the municipality office (1784-1850), III The period of the municipal office 1850-1880, 1881-1892, 1893-1896, 1897-1906, 1907-1916, 1917-1925, 1926-1930, 1931-1935 , 1936-1940, and 1941-1945; IV Other material; V Maps and plans; VI Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kuncipál K.: Archiv města Strakonice 1367-1945 (1953). Inventář, 1990, 100 s., ev. č. 619.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/169244</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Fürth factory</corpname><corpname>Stein factory</corpname><corpname>Zucker factory</corpname><corpname>Weil factory</corpname><corpname>Fezko</corpname><corpname>M. Fürth's fund for poor children</corpname></controlaccess>
+        <controlaccess><subject>fez producing factories</subject><subject>land register</subject><subject>anti-Jewish measurments</subject><subject>Jewish houses</subject></controlaccess>
+    </archdesc>
+</ead>    

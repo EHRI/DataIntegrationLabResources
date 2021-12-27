@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1785</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Sebeochrana, všeobecně prospěšné stavební družstvo, s. r. o.</titleproper>
+            <subtitle>Self-Protection, general-benefit construction cooperative, Ltd. / NAD 1785</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1921/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1785</unitid>
+            <unittitle>Sebeochrana, všeobecně prospěšné stavební družstvo, s. r. o.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>0,13 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1921/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Self-Protection, general-benefit construction cooperative, Ltd., Prague 11 – Žižkov</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Self-Protection, general-benefit construction cooperative, Ltd. / NAD 1785</p>
+        </odd>
+        <custodhist>
+            <p>There is no detailed information on the history of the fonds.</p>
+        </custodhist>
+        <bioghist>
+            <p>There is no detailed information on the history of the originator of the fonds.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains sources for the social and building history of the city of Prague in 1921-1949. It also contains materials on Jewish history, namely the issues of several Jewish flats, especially from the period of the occupation (Inv. No. 6-17)</p>
+        </scopecontent>
+        <arrangement>
+            <p>The archival materials are organized in the fonds as follows: A. Books, B. Files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kopečková, J.: Sebeochrana, všeobecně prospěšné stavební družstvo, s. r. o. 1921-1949. Prozatímní inventární seznam, 2003, 2 s., ev. č. 219.</p></otherfindaid>
+        <otherfindaid><p>http://katalog.ahmp.cz/pragapublica/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28646552%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Economic History</subject><subject>Social History</subject><subject>Apartments</subject><subject>Aryanization</subject><subject>Persecutions</subject><subject>Second World War</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

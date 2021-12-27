@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>25</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Mnichovo Hradiště</titleproper>
+            <subtitle>District Office of Mnichovo Hradiště / NAD 25</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Mladá Boleslav</publisher>
+            <address>
+                <addressline>Staroměstské náměstí 1, Mladá Boleslav, PSČ 293 01</addressline>
+                <addressline> +420 326 722 244</addressline>
+                <addressline>http://www.soapraha.cz/mladaboleslav/</addressline>
+                <addressline>soka-mlada.boleslav@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1855/1959</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>25</unitid>
+            <unittitle>Okresní úřad Mnichovo Hradiště</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Unknown</physfacet>
+                <extent>81,87 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Mladá Boleslav</corpname>
+            </repository>
+            <unitdate>1855/1959</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Mnichovo Hradiště; District Governor's Office (1868-1920); District Political Administration (1920-1928)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Mnichovo Hradiště / NAD 25</p>
+        </odd>
+        <custodhist>
+            <p>Gradually, the fonds was transferred from the State Regional Archives in Prague to Mladá Boleslav in 1953. The processing of the fonds began in the 1960s, books were organized and the material was removed from other fonds. In 1965-66, the files were gradually organized. In 1966, the material was arranged and a temporary inventory list was made. In the 1970s, a selection catalog of presidium files was made.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the patrimonial administration, the political administration of the first institution was centralized in the district governor's office of Mladá Boleslav. In 1855, Mnichovo Hradiště became the seat of the mixed political-judicial district office. It was subject to the office in Mladá Boleslav. The judiciary and political administration were separated in 1868 and the district governor's office was established in Mnichov Hradiště, functioning until 1942. There was only a change of name - in 1918 to District political administration and in 1928 to District office. The office ceased to exist in 1942.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains deeds, official books, file material, accounting material, and also census sheets which contain valuable records of Jews in the region. In general, the relevant items can be found in documents related to the trade agenda and religious issues in individual handling periods. Explicit references to Jews are then in the following documents: inv. no. 491 5/3-5/11 Churches, cemeteries, parishes, religious communities (1878-1892); inv. no. 516 5/25 Jewish religious communities; inv. no. 5/544 Jewish religious communities (1903-1913); inv. no. 771 VII/25 Jewish religious communities (1938-1942); inv. no. 55-64 Registers - register of conversions (1918-47). Presidium files contain specific references to Jews in the following documents: inv. no.v18/1855 Zionist literature; inv. no.882/1916 Zionist associations in Austria; inv. no. 993/1917 - 54 Jews of Russian nationality in the district; inv. no. 19/1918; inv. no. 96/1918 - 54 Russian Jews in the district; inv. no. 914/1915 Copper for military purposes from the Jewish National Association; inv. no. 394/1911 Mitigation of anti-militarist agitation through rabbis and Jewish teachers of religion; inv. no. P16/122 (1934) Polish Jews - illegal entry into the Czechoslovak Socialist Republic 10 884-1367 (1939) Measures concerning Jews, signs of Jewish enterprises; inv. no. G 13 504 Charges of non-Aryanism.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains the following: I. Deeds, II. Municipal books (books until 1850, books after 1850) III. Registry (record finding aids, file material, IV. Accounting material, V. Miscellaneous material including census sheets 1880, 1890.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Doležalová A. – Herčík K. – Pazderníková J.: Okresní úřad Mnichovo Hradiště 1855-1942. Prozatimní inventární seznam, 1966, 35 s., ev. č. 99.</p></otherfindaid><otherfindaid><p>Indra B. – Roubíček J. – Šuchma F.: Okresní úřad Mnichovo Hradiště – Výběrový katalog presidiálních spisů 1855-1918. Katalog, 1976, 224 s., ev. č. 224.</p></otherfindaid><otherfindaid><p>Doležalová A. – Ort J. – Šimonek J.: Okresní úřad Mnichovo Hradiště – Výběrový katalog presidiálních spisů 1919-1938. Katalog, 1976, 98 s., ev. č. 318.</p></otherfindaid><otherfindaid><p>Doležalová A. – Herčík K. – Indra B. – Šuchma F.: Okresní úřad Mnichovo Hradiště – Výběrový katalog presidiálních spisů 1939-1942. Katalog, 1976, 36 s., ev. č. 319.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Religious community</subject><subject>Zionism</subject><subject>migration</subject><subject>anti-Semitism</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    

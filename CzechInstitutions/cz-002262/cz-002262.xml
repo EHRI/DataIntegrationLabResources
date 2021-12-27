@@ -1,0 +1,152 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>196</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Poděbrady</titleproper>
+            <subtitle>Archives of the Town of Poděbrady / NAD 196</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Nymburk in Lysa nad Labem</publisher>
+            <address>
+                <addressline>Zámecká 6/13, p. s. 11, Lysá nad Labem, PSČ 289 22</addressline>
+                <addressline> +420 325 551 046</addressline>
+                <addressline>http://www.soapraha.cz/nymburk/</addressline>
+                <addressline>soka-nymburk@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1567/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>196</unitid>
+            <unittitle>Archiv města Poděbrady</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>113, 83 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Nymburk in Lysa nad Labem</corpname>
+            </repository>
+            <unitdate>1567/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Poděbrady Municipality; Controlled Town Council Poděbrady; Municipal Office of Poděbrady; Martin Paroubkovský Institute of the Poor Poděbrady; Komité for the Support of Polish Refugees Poděbrady</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Poděbrady / NAD 196</p>
+        </odd>
+        <custodhist>
+            <p>The town archive was always kept in the town hall. Documents from the oldest period have not been preserved. The older part of the fonds has been preserved only in fragments. The files of the political department of the municipal office from 1826 to 1850 have been almost completely preserved. The fonds was gradually transferred to the central depository of the Nymburk district archives in Lysá nad Labem in the late 1980s. It was definitively organized and inventoried in 1995-2002. The fonds is equipped with an inventory.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Poděbrady dates back from 1223. Since the 16th century reports of self-government have been preserved. The administrative body was the town council consisting of 12 councilors who elected the mayor. Since 1850, there had been the municipal committee, which elected the municipal board headed by the mayor, and this municipal establishment lasted until 1919. In September 1940, the town council and the council board council were dissolved, and the town administrative commission was established. In January 1942, a German government commissioner was appointed to Poděbrady. After the war, a local national committee was established.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arising from the administration of the town of Poděbrady: deeds, official books, file material and accounting material. It also includes census sheets, important for the research of Jewish history. The following documents are relevant for the first half of the 19th century: files of the political department of the Poděbrady municipality office, group VIII. Judaism, tolerance patent (1826 -1850). Specific mentions of Jews can be found in the documents of individual groups (Group I. Regulations, circulars by the regional office and reports on them by the municipality office; III. Political investigation files, criminal issues, political settlements, interrogations of parties; IX. Business matters, insurance against fire, matters of trade, food tax, and fairs, XVI. Matters of the Poděbrady estate and other estates, auction decrees and notices.) Information on Jews can also be found in: Inv. no. 609 Jews - permission to build a Jewish synagogue in Poděbrady, census of Jewish inhabitants (1820); inv. no. I/2 lists of Jews (1827-1842); inv. no. I/15 Jewish affairs (1840-41); inv. no. III/16 thefts, orders to reside in the place domicile, escapes - reporting Jew Josef Štejner (1841-47). In general, documents on the history of Jews in the town can be found in the agenda concerning domicile, religion in trade or tax matters. From the second half of the 19th century, there are the following documents there: inv. no. 682 4/13 (J) School affairs - establishment of a Jewish school (1869-95); inv. no.10/3 synagogue and Jewish school, proposal for their demolition (1940-50); call no. 4/9 Cemetery matters - Jewish cemetery - list of buried Jews (1940-50); inv. no. 1139 4/13 Reports on Jews that they gather in busy places (1940-50); inv. no. 1170 call no. 7/2 and 7/6 - administration of Jewish property, Jewish flats for Germans (1938-50); inv. no.1175 7/5 property of Jews before 1838, seizure of Jewish flats, ban on visiting Aryan restaurants, work duties of Jews; inv. no. 1174 7/6 Reports about damage to Jews (1945-50) (alphabetically by individuals); inv. no. 1135 4/9 Jewish cemetery (1940-1950); inv. no. 1240 12/54 Jewish National Association - establishment of an old people's home for Jews in the Luxor Hotel (1940-50); inv. no. 1170 7/2 Josef Wiener - purchase of a synagogue by the town (1948); inv. no. 1170 7/2 administration of apartments, administration of Jewish property (1938-1950).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Deeds, II. Official books, III. File material: a) registry finding aids b) general agenda files c) domicile right files d) police office files e) census, IV. Accounting material, V. Miscellaneous.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šmilauerová E.: Archiv města Poděbrady 1567-1945 (1951). Inventář, 2003, 51 s., ev. č. 928.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%2847236%29%29</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>Jewish National Association</corpname></controlaccess>
+        <controlaccess><subject>Synagogue</subject><subject>Domicile rights</subject><subject>Jewish school</subject><subject>Jewish cemetery</subject><subject>Jewish property</subject><subject>Jewish flats for Germans</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>189</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Poděbrady</titleproper>
+            <subtitle>District Office of Poděbrady / NAD 189</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Nymburk in Lysa nad Labem</publisher>
+            <address>
+                <addressline>Zámecká 6/13, p. s. 11, Lysá nad Labem, PSČ 289 22</addressline>
+                <addressline> +420 325 551 046</addressline>
+                <addressline>http://www.soapraha.cz/nymburk/</addressline>
+                <addressline>soka-nymburk@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>189</unitid>
+            <unittitle>Okresní úřad Poděbrady</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>263,13 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Nymburk in Lysa nad Labem</corpname>
+            </repository>
+            <unitdate>1850/1942</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Poděbrady; District Office of Poděbrady (1855 - 1868), (1928 - 1942); District Political Administration Poděbrady (1919 - 1928)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Poděbrady / NAD 189</p>
+        </odd>
+        <custodhist>
+            <p>The most important part of the fonds is presidium files, which have been preserved except for the year of 1864. The documents were stored at the seat of the office, and after its abolition they were transferred to Nymburk. The fonds was deposited in Prague and Jičín, until being transferred to the District Archives Nymburk in the late 1950s. In 1972 - 1974, presidium files from 1851-1942 were processed in the form of thematic catalogs. Since 2006, the fonds has been gradually processed.</p>
+        </custodhist>
+        <bioghist>
+            <p>The office began its activities in 1850 as a district governor's office, a body of political administration of first instance. It was subject to the regional administration in Jičín. In 1855, the mixed political-judicial district offices began to operate, being separated in 1868. In that year, the District Governor's Office in Poděbrady was re-established. In 1928, the name was changed to the District Office and the branch of the district political administration in Nymburk was merged with the political administration in Poděbrady. The office was abolished in 1942 and the agenda was transferred to the district office in Nymburk.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arising from the activities of the Poděbrady District Office, official books, files and registry finding aids. Information on Jews can be found generally in census sheets. Specific references to Jews can be found in the presidency files. These also contain situation reports from 1939-1942 (boxes 81 and 82). Relevant are also: inv. no. 22/1866 and inv. no. 13/1866 Jews - no riots reported; inv. no. 460, 493, 502/1899 Riots against Jews in Pečky; inv. no. 510/1899 Attacks against the offices and the synagogue in Křinec; inv. no. 530/1899 Anti-Jewish demonstrations in Pečky; inv. no. 538/1899 Attack on the Křinec synagogue; inv. no. 544/1899 Anti-Jewish demonstrations in Mcely; inv. no. 581/1899 Anti-Jewish demonstrations in Městec; inv. no. 752 Anti-Jewish demonstrations in Sadská; inv. no. 1321/1915 Handing over copper objects to ZNO in Poděbrady and Městec Králové; inv. no. 374/1920 Supplies; inv. no. 152/1934 Zionist Congress in Prague - Polish delegates; inv. no. 1408/1938 Agitation against Jews; inv. no. 1425/1938 Refugees from the borderland - Jews, also inv. no. 1429/1938; inv. no. 1504/1938 Anti-Jewish leaflets; inv. no. 1514/1938 Jews in Poděbrady; inv. no. 1551/1938 also inv. no. 1612/1938 Jewish refugees.Relevant documents from the period 1939-1945 are: inv. no. 814/1939 Jewish property; inv. no. 832/1939 Ban on access and visits to restaurants, cafes, bars and other enterprises; inv. no. 689/1940 Jewish question; inv. no. 708/1940 Jewish property; inv. no.728 Jews - visits to spas; inv. no. 7821941 also 447/1940 Jews - prohibition from staying in certain places; inv. no. 278/1941 Jews - stay in resorts, prohibition of change of residence; inv. no. 1001/1940 also inv. no. 1021/1940 Jewish businesses and enterprises; inv. no. 1118/1940 Jews, stay in spas; inv. no. 1165/1939 Jewish enterprises and factories; inv. no. 901/1940 also inv. no. 1086/1941 Jews - contact with other population; inv. no. 19/1941 Jews in public life; inv. no. 398/1939 Jews who left the religious community since 1875; inv. no. 447/1941 Anti-Jewish measures; inv. no. 1939/247 Arrest of Polish Jews; inv. no. 1814/1938 The solution of the Jewish and Gypsy questions is necessary.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains official books and file material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Capoušková E. – Forst F. – Jíra O. – Novotný K.: Okresní úřad Poděbrady – Presidiální spisy 1851-1918. Katalog, 1974, 259 s., ev. č. 15.</p></otherfindaid><otherfindaid><p>Forst F. – Jíra O. – Novotný K.: Okresní úřad Poděbrady  – Presidiální spisy 1918-1939. Katalog, 1974, 238 s., ev. č. 16.</p></otherfindaid><otherfindaid><p>Forst F. – Jíra O.: Okresní úřad Poděbrady  – Presidiální spisy 1939-1942. Katalog, 1972, 74 s., ev. č. 17.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Anti-Jewish riots</subject><subject>Anti-Jewish restrictions</subject><subject>Zionism</subject><subject>Jewish refugees</subject><subject>Jewish property</subject><subject>Jewish enterprises</subject></controlaccess>
+    </archdesc>
+</ead>    

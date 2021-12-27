@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>316</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Berní správa Jihlava</titleproper>
+            <subtitle>Tax Office of Jihlava / NAD 316</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1920/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>316</unitid>
+            <unittitle>Berní správa Jihlava</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>51,17 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1920/1949</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Tax Office of Jihlava</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Tax Office of Jihlava / NAD 316</p>
+        </odd>
+        <custodhist>
+            <p>Part of the fonds was taken over into the State Archives in Telč from the State Central Archives in Prague (today the National Archives), the newer part directly from the Registry of the District National Committee in Jihlava, and criminal files from the Regional National Committee in Jihlava. The inventory of the fonds was made in 1960.</p>
+        </custodhist>
+        <bioghist>
+            <p>The acts of 1919 made the existing tax departments of district offices independent offices of the first instance for the administration of direct taxes. At the time of its establishment, the Jihlava tax administration district consisted of the Jihlava and Třešť tax districts. There were changes during the World War II, but in 1945 the original state was restored. In 1949, the administration of direct and indirect taxes was taken over by the financial departments of the district national committees. Since the establishment of the tax criminal districts, the Jihlava tax office had been part of the Brno-City I Criminal District.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains apartment and house tax files of the city of Jihlava and municipalities, building plans for houses and constructions. Files on the Jewish property and the Aryanization of enterprises date back to the Holocaust.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains official books, registry finding aids and files. , 45,19 linear meters are not processed.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Janák J. – Štarha I.: Berní správa Jihlava 1920-1949. Inventář, 1960, 20 s., ev. č. 363.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish property</subject><subject>Aryanization</subject></controlaccess>
+    </archdesc>
+</ead>    

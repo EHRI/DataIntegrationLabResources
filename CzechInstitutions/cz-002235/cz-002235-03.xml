@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>339</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Chrudim</titleproper>
+            <subtitle>District Court in Chrudim / NAD 339</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Chrudim</publisher>
+            <address>
+                <addressline>Filištínská 37, Chrudim, 537 01</addressline>
+                <addressline> +420 469 660 408</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-chrudim/</addressline>
+                <addressline>podatelna-cr@ ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/2011</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>339</unitid>
+            <unittitle>Okresní soud Chrudim</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>273,22 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Chrudim</corpname>
+            </repository>
+            <unitdate>1850/2011</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Chrudim; People's Court of Chrudim</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Chrudim / NAD 339</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is stored in the State District Archives in Chrudim. It was organized in 1959 and the first additions got to the archives in 1955. In 2001, the fonds was re-evaluated as unprocessed, because a large number of archive material was gradually added.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Chrudim District Court was established in 1849. In 1855, when a mixed district office was established in Chrudim, which managed all administrative, tax and judicial matters. In 1867, the mixed district offices were again divided into separate district courts and district offices. This arrangement lasted even after the end of the Austro-Hungarian monarchy and the establishment of an independent Czechoslovakia. A change did not occur until 1952 - the Constitutional Act on Courts and the Prosecutor's Office brought about a division into people's courts (former district courts), regional courts and the Supreme Court. During the territorial reorganization in 1960, the People's Court in Hlinsko ceased to exist being annexed to Chrudim.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the judicial administration of the Chrudim district. Jewish affairs can be found in the following documents: inheritance files (files marked A, D) 1850-1935, index of estates, and registers of estates. Also relevant are the files concerning the declarations of death (file marked M) 1945–1948, guardianship files and registers (files marked E, P).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains file material and official books. The files are sorted according to call numbers and volumes assigned by the court. There was a partial appraisal, during which Jewish inheritance files were set aside in one place (cardboard). However, most files are still waiting to be processed; they can only be searched with knowledge of, for example, the year in which the file was created in the relevant package. Declarations of death are also collected separately, but it is only a fragment in one folder.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Available upon request due to the personal data protection.</p>
+        </accessrestrict>
+        <otherfindaid><p>Letocha J. – Letochová A. – Slavíková Z.: Okresní soud Chrudim, 1959.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance files</subject><subject>the declarations of death</subject><subject>guardianship files</subject></controlaccess>
+    </archdesc>
+</ead>    

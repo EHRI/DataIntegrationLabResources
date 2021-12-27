@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>29</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Počátky</titleproper>
+            <subtitle>District Court in Počátky / NAD 29</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pelhřimov</publisher>
+            <address>
+                <addressline>Pražská 1883, 393 01 Pelhřimov</addressline>
+                <addressline> +420 565 323 626</addressline>
+                <addressline>https://www.mza.cz/pelhrimov/</addressline>
+                <addressline>soka_pelhrimov@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>29</unitid>
+            <unittitle>Okresní soud Počátky</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>56,78 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pelhřimov</corpname>
+            </repository>
+            <unitdate>1850/1949</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Court in Počátky; Mixed District Office Počátky (1855-1868); People's Court of Počátky</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court in Počátky / NAD 29</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is not inventoried, so its history is unknown. From the court's registry, the documents were handed over to the Kamenice nad Lipou People's Court and, after the merger in 1960, to the newly established Pelhřimov District Court, from which the documents are handed over directly to the District Archives after the statutory appraisal proceedings deadlines.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the manorial administration and with the establishment of a new organization of political and judicial administration, the Počátky District Court was established in 1850 for the judicial district of the same name, which respected the territory of the existing estates within their borders. At the time of Bach's absolutism, with effect from 26 May 1855 to 31 August 1868, the performance of political and judicial administration was merged into one office, the so-called mixed district office. The separation of political and judicial administration took place again in 1868, when a district court was established, which existed until 1949. The Počátky District Court ceased to exist by order of the Minister of Justice No. 11/1949 Sb. on 31 January 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains an agenda arising from the activities of the district court. The agenda is divided according to individual periods into sections A, B, C, and D - land books. The unprocessed part of the fonds includes inheritance proceedings, including the Jewish population - from older periods only selectively after appraisal proceedings. The books of estates dealt with in 1864-1897 have been preserved. The files of call number D (inheritance) from 1933-1949 and call number P (guardianship) from 1898-1947 have been completely preserved. The files can be searched on the basis of name lists D (1914-1949), registers D (1931-1949), and registers P (1898-1925). The files of individual deceased persons contain biographical information about persons, their relatives, property, and dealing with the inheritance in preserved death records, wills, property inventories and descriptions of buildings, protocols on the discussion of estates, resolutions and respective documents.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The processed part of the fonds is divided into sections A for the years 1850-1854, B for the years 1855-1897, C for the years 1898-1949, and D - land book. It contains, among other things, filing registers and registers for them from the years 1851-1897, registers of misdemeanors (1877-1897), presidium records (1898-1947), registers and lists of names for signatures A, C, E, K, L, M, N , O, P, T, U, Z, V and land books, land protocols, real estate lists, document registers (1880-1897).The part of the fonds that contains call numbers D and P is not processed. However, searching in the files is possible on the basis of the preserved registers with references to the names of persons and file numbers.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kovaříková I. – Martínek Z. Okresní soud Počátky 1850-1949 (1956). Prozatímní inventární seznam, 1992, 15 s., ev. č. 122.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>district court</subject><subject>inheritance matters</subject><subject>guardianship</subject><subject>property matters</subject></controlaccess>
+    </archdesc>
+</ead>    

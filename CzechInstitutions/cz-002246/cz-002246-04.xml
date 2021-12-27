@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1179</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Telč</titleproper>
+            <subtitle>Archives of the Town of Telč / NAD 1179</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1387/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1179</unitid>
+            <unittitle>Archiv města Telč</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>30,21 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1387/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Advocatus' (rychtář) office of Telč; Magistrat of the Town of Telč (1787-1850); Municipal Office of Telč (1850-1945); National Committee of Telč (1945 - )</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Telč / NAD 1179</p>
+        </odd>
+        <custodhist>
+            <p>At the end of the 19th century, the town council began handing over its documents to the town museum, where a collection of archive material was created containing, among others, estates, various prints, maps, etc. In the early 1950s the museum was subordinated to the cultural department of the Municipal National Committee of Telč. In 1953, the paper documents were separated from the museum, and since 1961 the documents had been handed over to the archives of Telč. Today they are stored in the State District Archives in Jihlava. It was not until 2002-2004 that the fonds was organized and inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Telč dates to 1207. Since the middle of the 14th century it has been possible to speak of Telč as a town. The town was the center of the estate owned by various aristocratic families, from the 17th and 18th centuries it was the Lichtensteins-Kastelkorns and in the years 1761-1945 it was the Podstatskýs of Lichtenstein. The town of Telč was part of the political districts of Dačice in 1850-1855, and Telč in 1868-1949, 1855-1868, and in 1850-1949 it was part of the judicial district of Telč. Jewish settlement in Telč had been recorded since the first half of the 17th century, later there was a Jewish religious community, which disappeared during the Second World War, when 68 Telč Jews were taken to Terezín and Auschwitz. </p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds has been preserved in fragments and contains documents of the local government (documents, official books, file material). The Jewish community, too, is represented by several documents. From the Holocaust period it is the correspondence, orders, and decrees from 1939-1944.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is organized into groups: documents, official books, file material. Except for a small period of time (files from 1850-1860), the fonds is arranged artificially.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Jelínek J.– Nedbalová H. – Žáčková H.: Archiv města Telč 1387-1945 (1954). Inventář, 2004, 112 s., ev. č. 992.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Community Telč</subject></controlaccess>
+    </archdesc>
+</ead>    

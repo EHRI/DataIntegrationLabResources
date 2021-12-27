@@ -1,0 +1,228 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>331</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Vsetín</titleproper>
+            <subtitle>Archive of the Town of Vsetín / NAD 331</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Vsetín</publisher>
+            <address>
+                <addressline>4. května 227, 755 01 Vsetín, Czechia</addressline>
+                <addressline> +420 571 424 684</addressline>
+                <addressline>https://www.mza.cz/vsetin/</addressline>
+                <addressline>soka_vsetin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1674/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>331</unitid>
+            <unittitle>Archiv města Vsetín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>22,1 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Vsetín</corpname>
+            </repository>
+            <unitdate>1674/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Vsetín Municipality; Municipal Office of Vsetín (1850-1945); National Committee of Vsetín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archive of the Town of Vsetín / NAD 331</p>
+        </odd>
+        <custodhist>
+            <p>The registry used to be stored at the town hall. The town documents burned down in the 18th century. Part of the documents were moved to the Provincial Archives in Brno in the 19th century. Gradually, the fonds was taken over from Brno and the Municipal National Committee of Vsetín in the 1960s. The fonds was processed and organized. It has been preserved with considerable gaps, but in relatively good condition. The inventory was made in 1980.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record of Vsetín dates from 1308. The town was managed by the municipal council headed by the mayor. After 1949, the administration of the municipality was performed by an elected body - the municipal committee headed by the mayor. During the Nazi occupation, the town was headed by the government commissioner. In 1945, the municipal office of the town was abolished and the local national committee was formed. The oldest evidence of Jewish settlement dates from 1669. In 1880, 111 Jews (2% of the population) lived there. There was a Jewish community, after 1890 belonging to the Jewish religious community of Hranice. The 19th century synagogue was burned and demolished by the Nazis.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the administrative bodies of the town of Vsetín. It contains deeds, official books, files, and accounting material. Jews are explicitly mentioned in documents from the 18th and 19th centuries. From the 18th century these are: Investigation of Jews Aaron Hercle and Fabián Feitl 1719; inv. no 228 Investigation of Jew Gabriel Hirschl 1720-31; Leasing the Vsetín distillery to Jew Scheuer Bärl 1773-1778; Relevant to the history of Jews in the 19th century are the following documents: inv. no. 258 Permission for a wine bar to Catherine, the widow of Jew Jakub Hass 1819; inv. no. 274 debts on the houses of Jews Šimon Fuchsel and Gotlieb Hirsch in Ostrava 1832; inv. no. 298 The area of ​​the land of Josef Kohn, the owner of a potassium carbonate plant 1847; inv. no. 449 Protocols on confiscation of gold and silver jewelry and valuables from Jews in the Vsetín district 1940; inv. no. 309 - S. Reich glassworks buildings 1899-1904; inv. no. 309 The industrial track to the Kohn furniture company (1905-1909; inv. no. 309 List of Jews who declared their Czech nationality (1919-1923); Workers in the Reich company 1919-23; inv. no. 309 Survey on the activities of the Marian Support Institute at the Jakub and Josef Kohn Company 1931-33, inv. no. 390, Purchase of a burnt-out synagogue of the Jewish religious community in Vsetín 1939; Report of agricultural and forest property in the hands of Germans, Jews, the state and the church 1940-41, Registry after 1850 (secret): inv. no. 354 Confiscated goods from the S. Reich and Comp. factory 1933-35.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds containes: I. Deeds; II. Official books (registration, administrative, commemorative); III. File material (registry finding aids, files); IV. Accounting material (books); Maps and plans</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Baletka L.: Archiv města Vsetín 1674-1945 (1960). Inventář, 1980, 141 s., ev. č. 111.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Kohn furniture company</corpname><corpname>Jakub and Josef Kohn Company</corpname></controlaccess>
+        <controlaccess><subject>Jewish businesses</subject><subject>potassium carbonate plant</subject><subject>confiscation of Jewish property</subject><subject>synagogue</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>13</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Valašské Meziříčí</titleproper>
+            <subtitle>District Office of Valašské Meziříčí / NAD 13</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Vsetín</publisher>
+            <address>
+                <addressline>4. května 227, 755 01 Vsetín, Czechia</addressline>
+                <addressline> +420 571 424 684</addressline>
+                <addressline>https://www.mza.cz/vsetin/</addressline>
+                <addressline>soka_vsetin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>13</unitid>
+            <unittitle>Okresní úřad Valašské Meziříčí</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>213,1 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Vsetín</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Valašské Meziříčí; District Office of Valašské Meziříčí (1855-1868); District Political Administration Valašské Meziříčí</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Valašské Meziříčí / NAD 13</p>
+        </odd>
+        <custodhist>
+            <p>Part of the registry was destroyed during appraisals at the beginning of the 20th century. Part of the fonds was taken over by the Provincial Archives in Brno (1943-1944). The files created by the German authorities were destroyed. The census records have been preserved in poor condition. The fonds was organized and inventoried in the 1960s and 1970s.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district governor's office in Valašské Meziříčí was established in 1850 and included 3 court districts (Valašské Meziříčí, Vsetín, Rožnov pod Radhoštěm). The office performed the political administration of the district. It was headed by the district governor. In 1854, the governor's office was divided into three mixed district offices. In 1868, the governor's office was restored. In 1919-28, the name was changed to the district political administration. During the Nazi occupation, the territory administered by the autonomous authorities of the Protectorate administration was supervised by the so-called Oberlandrat, later by the "Reich Command" Reichsauftragsverwaltung. In 1945, national committees were established.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the district office: official books, file material and accounting material. Register, religious, and foundation matters, population records, passports, evictions, group D - School and religious matters, Trade matters (no. D, H, IV, VII), commercial and industrial matters, and also census records. Jews are explicitly mentioned in inv. no. 1508 VII, and 1-1500, Investigation of the property of the Jewish religious community in Valašské Meziříčí, the Jewish religious community in Vsetín. (box 962 A); inv. no. 1273 D Jewish affairs - religious administration 1855-56 (box 129); Religious conversions, register matters, Jewish religious administration 1889 (box 130); inv. no. 1702 no. 94 Matters of Jews, registration of Jews, appointment of commissioners to Jewish enterprises, confiscation of Jewish property, verification of employees, lists of Jewish enterprises, public designation of Jews and other general measures against Jews (1939-44); inv. no. 1476 no. III, also file no. 11001-15887 Confiscation of radio sets from Jews, administration of Jewish property, arrests by the Gestapo, etc.; inv. no. 1476 III ia Administrators of Jewish property and forced administrators (year 1942); inv. no. 1511 VII-3 Apostasy, religious conversions (1936-45); inv. no. 1476 no. III Anti-Semitism in Valašské Meziříčí 1938; inv. no. 1476 III Anti-Semitic posters in Valašské Meziříčí. Presidium files containing information about Jews in the region: inv. no. 115/1883, 113/1884, 114/1894 Anti-Semitism; inv. no. 106/1884 Ignác Löw - search for a Jewish merchant; inv. no. 20/1894, inv. no. 5/1889, inv. no. 49/1909 Anti-Semitic press; inv. no. 114/1900 Anti-Jewish publications in the inn of Josef Glesinger; inv. no. 4/1915 Investigation of the movement of refugees - Jews from Galicia; 410, 419, 420,421, 468/1899 inv. no. 110/1900 Anti-Jewish demonstrations; inv. no. 130/1900 Strike in Kohn's factory in Vsetín; inv. no. 156/1900, inv. no. 358/1900 Breaking the windows of the Jewish prayer house; inv. no. 57/1877, inv. no. 7/1879 Jakob and Josef Kohn firm; inv. no. 181/1882 Thonetu enterprise; inv. no. 203/1940 Abolition and Aryanization of Jewish business; inv. no. 477/1940 Jewish groups forced to remove anti-German inscriptions; inv. no. 393/1942 Jewish flats; inv.no. 115/1943 Aryanization of the Thein and Comp. enterprise in Valašské Meziříčí; inv. no. 707/1918 Robbery of a Jewish trade; inv. no. 714/1919 Prevention of Jewish pogroms; inv. no. 349/1919 Anti-Jewish movement and its manifestations; inv. no. 512 / 1938 Anti-Jewish performance by Jiří Kovalik</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds containes: I. Official books (administrative, registration); II. File material (A. Registry finding aids, B. Files); III. Accounting material; IV. Other material</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Baletka L. – Mikula J.: Okresní úřad Valašské Meziříčí – Presidiální spisy. Díl I. (1864) 1865, 1873-1918. Katalog, 1968, 310 s., ev. č. 5.</p></otherfindaid><otherfindaid><p>Baletka L. – Mikula J.: Okresní úřad Valašské Meziříčí – Presidiální spisy. Díl II. 1918-1939. Katalog, 1968, 144 s., ev. č. 6.</p></otherfindaid><otherfindaid><p>Baletka L. – Mikula J.: Okresní úřad Valašské Meziříčí – Presidiální spisy. Díl III. 1939-1944. Katalog, 1967, 42 s., ev. č. 7.</p></otherfindaid><otherfindaid><p>Baletka L. – Mikula J.: Okresní úřad Valašské Meziříčí – tajné Presidiální spisy (1893) 1915-1939. Katalog, 1967, 12 s., ev. č. 93.</p></otherfindaid><otherfindaid><p>Baletka L.: Okresní úřad ve Valašském Meziříčí (1787) 1850-1945 (1950). Inventář, 1975, 339 s., ev. č. 94.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>The Jewish religious community in Valašské Meziříčí</corpname><corpname>The Jewish religious community in Vsetín</corpname><corpname>Kohn's factory in Vsetín</corpname><corpname>Jakob and Josef Kohn firm</corpname><corpname>Thonet enterprise</corpname></controlaccess>
+        <controlaccess><subject>Jewish property</subject><subject>Religious conversions</subject><subject>Register matters</subject><subject>Jewish enterprises</subject><subject>forced administration</subject><subject>Anti-Semitism</subject><subject>confiscations of Jewish property</subject><subject>Jewish refugees</subject><subject>prayer house</subject><subject>Aryanization</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>76</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Vsetín</titleproper>
+            <subtitle>District Office of Vsetín / NAD 76</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Vsetín</publisher>
+            <address>
+                <addressline>4. května 227, 755 01 Vsetín, Czechia</addressline>
+                <addressline> +420 571 424 684</addressline>
+                <addressline>https://www.mza.cz/vsetin/</addressline>
+                <addressline>soka_vsetin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1909/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>76</unitid>
+            <unittitle>Okresní úřad Vsetín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>60,2 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Vsetín</corpname>
+            </repository>
+            <unitdate>1909/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Vsetín; District Political Administration Vsetín; District Office of Vsetín (1928-1945)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Vsetín / NAD 76</p>
+        </odd>
+        <custodhist>
+            <p>After 1945, the registry of the District Office was kept in the building of the District National Committee. In 1962 it was taken over by the District Archives in Vsetín. The census records from 1869, 1890, 1900 of the judicial district of Vsetín were added to the fonds. The fonds has been preserved in relatively good condition. Part of the fonds from the period of the Nazi occupation has been preserved with the greatest losses, the documents being largely destroyed by the German authorities. The fonds is arranged according to individual handling periods, and an inventory was made for it.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Governor's Office, later the District Office, in Vsetín was established as the first instance of political administration in 1909. The office kept population records, dealt with the association approval and supervision agenda, and issued trade concessions. The office was headed by the district governor. In 1945, the District National Committee was established and the District Office therefore ceased to exist.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the district office: official books, file material, accounting material and others. Information on Jews can be found in the following files: Group V Register and religion matters, Trade licensing matters, Apostasies and conversions (1909-1921). Jews are also explicitly mentioned in inv. no. 536 VII/37 Jewish religious associations 1936-40; inv. no. 528 VI/1 Register of Jewish property and Aryanization of Jewish enterprises 1942-43. Mentions of Jews can also be found in presidium files: inv. no. 35/1913 Jewish representatives in the Provincial school board; inv. no. 61/1913 Decoration of Alfred Reich; inv. no. 162,164 Condolences of the Jewish religious association in Vsetín; inv. no. 35/1911 Violation of the military secret by Jews clergymen - inquiry; inv. no 41/1911 Assaults on Jews; inv. no. 308/1936 Immigration of Jews from Germany; inv. no. 257/1938 Dismissal of Jewish employees; inv. no. 48/1919 Manifestations of anti-Semitism; inv. no. 433/1938 Leopold Pilzner's stay in Vsetín (Jew); inv. no 506/1941 Forming Jewish groups for removing anti-German inscriptions; inv. no. 672/1941 Lists of employees of the political administration of Jewish origin. Presidium files concerning the Jakub and Josef Kohn Comp., furniture factory in Vsetín: inv. no. 34,85/1920 Workers' strike; inv. no. 115, 116, 127/1922, 85/1923 Resuming the operation of the factory; 82/1924 Employee Karel Suozka; 146/1924 Dismissal of workers; inv. no 113/1022 Workers' strikes.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds containes: I. Official books (Administration, registration); II. File material (Registry finding aids, Files); III. Accounting material; IV. Other material (Printed matters)</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Baletka L. – Mikula J.: Okresní úřad Vsetín – Presidiální spisy. Díl I. 1909-1918. Katalog, 1968, 79 s., ev. č. 1.</p></otherfindaid><otherfindaid><p>Baletka L. – Mikula J.: Okresní úřad Vsetín  – Presidiální spisy. Díl II. 1918-1939. Katalog, 1968, 219 s., ev. č. 2.</p></otherfindaid><otherfindaid><p>Baletka L. – Mikula J.: Okresní úřad Vsetín  – Presidiální spisy. Díl III. 1939-1945. Katalog, 1968, 84 s., ev. č. 3.</p></otherfindaid><otherfindaid><p>Baletka L.: Okresní úřad ve Vsetíne (1874) 1909-1945. Inventář, 1975, 152 s., ev. č. 95.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Jewish religious association in Vsetín</corpname><corpname>Jakub and Josef Kohn Comp. Vsetín</corpname></controlaccess>
+        <controlaccess><subject>Anti-Semitism</subject><subject>Aryanization of Jewish enterprises</subject><subject>Jewish property</subject><subject>Assaults on Jews</subject><subject>furniture company</subject></controlaccess>
+    </archdesc>
+</ead>    

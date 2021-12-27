@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>441</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Strakonice </titleproper>
+            <subtitle>District National Committee of Strakonice / NAD 441</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1978</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>441</unitid>
+            <unittitle>Okresní národní výbor Strakonice </unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>316,51 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1945/1978</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee of Strakonice</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Strakonice / NAD 441</p>
+        </odd>
+        <custodhist>
+            <p>Originally, the materials of the District National Committee of Strakonice were stored in the State Archives in Třeboň and transferred to the District Archives in Strakonice in 1974. Presidium files were taken over by the archives in 1956. Part of the fonds was processed in 1980. The most recent acquisitions took place in 2020 when the district authorities ceased to exist.</p>
+        </custodhist>
+        <bioghist>
+            <p>The origin, organization and competence of district national committees as new state bodies was first established by the Constitutional Decree No. 18 of the President of the Republic in 1945. The Strakonice District National Committee was established in 1945 and ceased to exist in 1989.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the district people's administration and delegated state administration, documenting the economic, political, social and cultural conditions of the former district of Strakonice. Jewish issues can be found in the following areas: renouncing Czechoslovak citizenship 1947 (1951), national administration 1947, affairs of individual companies 1945-1949, Jewish religious community 1949-1950, commission of inquiry - lists of victims of Nazism, lists of persons imprisoned during the occupation 1945- 1947. Information on Jews can also be found in the section entitled the District National Committee Commission of Inquiry.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The file handling of the fonds is divided into four periods, which are further divided thematically. The subject groups from the following periods are of decisive importance: the handling period of 1945-1948 - I Constitutional affairs of the state, districts, and municipalities, II Economic and financial affairs, VI Trades, shops, industry; the handling period of 1949-1950 - 3 Education and enlightenment.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koubová J. – Strnadová I.: Okresní národní výbor Strakonice (1852) 1945-1978. Prozatímní inventární seznam, 1980, 115 s., ev. č. 2.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>state administration</subject><subject>Jewish religious community</subject><subject>lists of victims of Nazism</subject></controlaccess>
+    </archdesc>
+</ead>    

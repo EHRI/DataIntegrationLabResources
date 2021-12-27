@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1910</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Baťova nemocnice, Zlín</titleproper>
+            <subtitle>Baťa Hospital, Zlín / NAD 1910</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Zlín</publisher>
+            <address>
+                <addressline>Klečůvka-zámek, 763 11 Želechovice nad Dřevnicí</addressline>
+                <addressline> +420 577 901 132</addressline>
+                <addressline>www.mza.cz/zlin</addressline>
+                <addressline>soka_zlin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1894/1948</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1910</unitid>
+            <unittitle>Baťova nemocnice, Zlín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">good</physfacet>
+                <extent>28,79 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Zlín</corpname>
+            </repository>
+            <unitdate>1894/1948</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Baťa Hospital Zlín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Baťa Hospital, Zlín / NAD 1910</p>
+        </odd>
+        <custodhist>
+            <p>Documents concerning the administration of the institute, staff matters, balance sheets, technical plans and reports, statistical records, as well as part of more general records of medical and other health activities were in the registry of the Baťa Comp. and its successor Svit. in 2012, the fonds of the Baťa Hospital in Zlín was handed over to the State District Archive in Zlín, where it is stored and made accessible.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Baťa Hospital was established in 1927 at the initiative and expenses of the Baťa Comp. due to the needs of the company's employees. It was a company hospital managed by a specially elected hospital committee. The actual construction began in 1927. At the beginning, the hospital had three specialized departments. In 1932, it already had 11 buildings. After the Second World War, the Baťa Hospital was transformed into a hospital of the national company Baťa Zlín, later the national company Svit Gottwaldov. In 1949, the hospital was transformed into the State Regional Hospital.</p>
+        </bioghist>
+        <scopecontent>
+            <p>A large part of the Baťa hospital staff consisted of Jewish doctors, of whom more than two dozen worked at the hospital at the end of the 1930s. Some of them left Baťa's hospital to set up private surgeries or went to another hospital. However, most of them left the Baťa Hospital because of anti-Jewish measures introduced by the after-Munich Czechoslovakia. The fonds contains documents on the hospital operation, personnel matters, and accounting material. Information on Jews can be found a document recapitulating the result of anti-Jewish measures from 1939: Report on the departure of 23 Jewish doctors from Zlín 1937–1939. Sufficient attention should also be paid to the following material: death registers 1927–1937; death reports 1938–1945; operation books: the obstetrics department of MUDr. Král, 1939–1940; coroner's reports 1939. Documents about Jewish doctors should be confronted with the preserved files of Jewish doctors employed at Baťa Hospital in Zlín in the 1930s, which are stored in the same archive, in the fonds Baťa, a. s, Zlín NAD 1921.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Administration and management of the hospital; II. Personnel matters; III. Financial accounting documents; IV. Organizational, therapeutic, and socio-health activities; V. Technical plans and equipment of the hospital.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Klepáč J.: Baťova nemocnice Zlín (1926) 1927-1949. Inventář, 2012, ev. č. 601.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish doctors</subject><subject>anti-Jewish measures</subject><subject>death registers</subject></controlaccess>
+    </archdesc>
+</ead>    
+

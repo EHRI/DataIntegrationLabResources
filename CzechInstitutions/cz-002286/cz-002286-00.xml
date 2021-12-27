@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1075/2</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Ministerstvo vnitra I - stará registratura, Praha</titleproper>
+            <subtitle>Ministry of Interior I - old registry, Prague / NAD 1075/2</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 240</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1918/1944</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1075/2</unitid>
+            <unittitle>Ministerstvo vnitra I - stará registratura, Praha</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>965,15 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1918/1944</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Ministry of Interior Prague</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Ministry of Interior I - old registry, Prague / NAD 1075/2</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the Ministry of Interior from the period of 1918-1948 were handed over to the Central Archives of the Ministry of Interior and the State Central Archives in the years of 1928-1974. In 1953 and 1954, the organization and appraisal of file material began. After 1954, the appraisal was stopped due to the importance of the fonds. The material taken over into the State Central Archives is complete and closed.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Act of 2 November 1918 established the Office for Internal Administration, which was renamed the Ministry of Interior on 18 November 1918. The organizational structure of the ministry was formed by the presidium, departments, sections and auxiliary offices. After the adoption of the Act on the Organization of Political Administration in 1927, the powers of the presidium were extended, for example, to representational and disciplinary matters, internal organization of the service, management of official lump sums, etc. During the Nazi occupation, the competences of the Ministry of Interior were changed by orders of 15 January 1942. From the Ministerial Council presidium were transferred to the Ministry of Interior such important matters as the organization, legislation and public employees. Also, the Commission for the Streamlining of the Public Administration and the Planning Commission for Prague and its Surroundings were subordinated to it.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds as a whole provides information on the activities of the state authorities during the first Czechoslovak Republic and the so-called autonomous administration at the beginning of the Nazi occupation. For researchers, the most valuable part is the legislative issues, issues of organization of political administration, federal affairs, elections, and national and autonomous affairs. The fonds also stores valuable material on economic history. Jews are explicitly mentioned in the following documents: reports on the activities of national committees and the memorandum of the Jewish National Council on dealing with the Jewish question in the Czechoslovak Republic (1918-1919); a protest of the associated Jewish parties against the rules of election to the National Assembly (1920); a report on the distribution of fascist anti-Jewish leaflets in Břeclav (1934), a protest against the activities of rabbis in Carpathian Ruthenia (1935), results of the census of Jews in Germany (1934), general issues concerning elections to the Jewish religious community (1936-1938), a report on the anti-Jewish campaign of the National Unification in Jičín (1937), the exclusion of Jews from the councils in the Moravská Ostrava district (1935-1941). Documents concerning Jews can undoubtedly be found in other parts of the fonds, too.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: A. Auxiliary books; B. File material: I period of 1918-1924, II period of 1925-1930, III period of 1931-1935, IV period of 1936-1940, V period of 1941-1944; Miscellaneous I.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Durmanová M.  – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1918-1944. Díl I. Inventář, 1960, ev. č. 172.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1918-1944. Díl II. Inventář, 1960, ev. č. 173.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1919-1944. Díl III. Inventář, 1960, ev. č. 174.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1919-1944. Díl IV. Inventář, 1960, ev. č. 175.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I., Uhlířova V.: Ministerstvo vnitra – stará registratura 1919-1944. Díl V. Inventář, 1960, ev. č. 176.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1919-1944. Díl VI. Inventář, 1960, ev. č. 177.</p></otherfindaid><otherfindaid><p>Durmanová M. – Helešicová V. – Janíková V. – Lesjuk P. – Malá I. – Uhlířova V.: Ministerstvo vnitra – stará registratura 1919-1944. Díl VII. Inventář, 1960, ev. č. 178.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Jewish National Council</corpname><corpname>National Assembly</corpname><corpname>anti-Jewish leaflets</corpname></controlaccess>
+        <controlaccess><subject>Jewish question</subject><subject>Jewish parties</subject><subject>Jewish religious community</subject><subject>the anti-Jewish campaign of the National Unification in Jičín</subject></controlaccess>
+    </archdesc>
+</ead>    
+

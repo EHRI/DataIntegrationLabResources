@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>8</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Čáslav</titleproper>
+            <subtitle>District Office of Čáslav / NAD 8</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kutná Hora</publisher>
+            <address>
+                <addressline>Benešova 257/33, Kutná Hora, PSČ 284 81</addressline>
+                <addressline> +420 321 024 353, 737 277 820 (mobile phone), 321 024 360 (research room)</addressline>
+                <addressline>http://www.soapraha.cz/kutnahora/</addressline>
+                <addressline>soka-kutna.hora@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>8</unitid>
+            <unittitle>Okresní úřad Čáslav</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>197,41 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kutná Hora</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office Čáslav; District Governor's Office Čáslav (1868 – 1918); District Political Administration Čáslav (1918 - 1927)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Čáslav / NAD 8</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the Čáslav District 0ffice were handed over to the district archives in Kutná Hora in 1961 from the state archives in Zámrsk. In the 1960s, the documents were organized, and an inventory list was made for them. Another part of the fonds was handed over from Zámrsk in the 1970s and was also organized and provided with an inventory list. The common registry included in the handling period has been completely preserved for the period after 1900, until then only in fragments. After all amendments had been added to the fonds, a new inventory was made in 2004.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Office of Čáslav worked in the years of 1855-1945. In the years of 1868-1945, it included the territories of two judicial districts: Čáslav and Bamberg. In the years of 1855-68, there was a separate mixed district office in Habry. Until 1855, Čáslav was part of the district governor's office in Kutná Hora. Until 1868, the office dealt with the mixed political and judicial agenda. After 1868, the district governor's office was established in Čáslav, renamed the district political administration in 1919. The office was abolished in 1945.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arising from the activities of the Čáslav District Office: official books, file material, accounting material, the associated agenda, and official documents. In individual handling periods, the following is relevant: citizenship, domicile, marital and registry matters, and religious matters. The trade agenda may also be relevant as trade issues from 1912-35 have been well preserved. In presidium files, situation reports are relevant. Information about Jews can also be found in the census sheets preserved for the years of 1868, 1880, 1890, 1910 and 1921. The handling period 1911-1936/1868-1911/: Group 4 - census (fragment) and citizenship; Group 5 - agenda of the Jewish religious community; Group 6 (Education) - 6/9 Evangelical and Jewish religions, mainly teaching materials and rewards for teaching; Group 9 - Jewish construction affairs, inv. no. 9/11-19 Lustig and Pick Sawmill in Golčův Jeníkov; Group 15 - inv. no. 15/2 Trades and inns; inv. no. 5 4/41 Construction of a Jewish synagogue with plans 1849-1899. The handling period 1936-48: inv. no. I. 7/12 Jews - confiscation of radio sets 1939, lists of Jews in the district, exclusion of Jews from the economy of the Protectorate, Jewish property Kosmos-Pick; Group 3 - inv. no. III. 21-b / K-2607 Karel Kozák punished with a fine of 300 CZK for saying goodbye to Jews who were transported to a concentration camp, 1942, also III. 21-B/M-1163 R. Malá; inv. no. III. 2 Persecution of Jews; inv. no. III. 2/26 Anti-Jewish inscriptions in Čáslav; inv. no. III. 2/27 Requests for support for former prisoners in concentration camps; inv. no. III. 18/162 Opening of the Secretariat of the Anti-Jewish League in Čáslav; Group 6 - inv. no. 1/253 List of Jewish trades 1843; inv. no. IV. 2 Lists of trades, enterprises, and Jewish shops; Group 7 - inv. no. VIII. 7e/1 Exclusion of certain persons from the performance of public functions in the judiciary - Jews 1939; inv. no. VIII. 20/153 Liquidation of Jewish shops 1941; inv. no. VII. 25 Jewish religious community - statutes, their changes, elections of the board of directors, appointment of the rabbi and the registrar; inv. no. IX 2-F/76 Reasoning of doctors for the treatment of Jews 1942; inv. no. X. 7/17 Inventory of Jewish property 1940. Presidium files: inv. no. 82/1882 Disagreements between Jewish and Christian recruits, inv. no.1775/1915 Telegram to the Jewish National Association; inv. no. 944/1916 Zionist associations; inv. no. 1373/1938 Jewish factory owners; inv. no. 1656/1938, inv. no.1686/1938, inv. no. 1702/1938 also inv. no.1817/1938 Anti-Jewish leaflets; inv. no.1688/1938 Anti-Jewish inscriptions; inv. no. 208/1934 Polish Jews - some of them Zionists, illegal stay in Czechoslovakia; inv. no. 534/1936 Migration of Jews - foreigners - to the Czechoslovak Republic; inv. no.1528/1938 V. Bernt's factory in Ronov n.D.; inv. no. 1720/1938 Anti-Jewish event in Čáslav; inv. no. 343/1939 Jewish members in the civil service; inv. no. 370/1939 Arrest of J. Guttmann in Germany, born in Čáslav; inv. no. 509/1939 List of Jewish tenants and estates.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is organized as follows: I. Books; II. File material (A Registry finding aids, B Files, C Census sheets); III. Accounting material (Books, Accounting documents); IV. Associated agendas of the District Office; V. Official documents (Bulletins) of the District Office</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bisingerová M. – Lebedová J.: Okresní úřad Čáslav 1855-1945 (1948). Inventář, 2004, 163 s., ev. č. 8.</p></otherfindaid><otherfindaid><p>Kapavíková M. – Tovara L.: Okresní úřad Čáslav – Katalog presidiálních spisů, Sv. 1., 1877-27. 10. 1918. Katalog, 1973, 94 s., ev. č. 9.</p></otherfindaid><otherfindaid><p>Moravová L. – Vlčková M.: Okresní úřad Čáslav – Katalog presidiálních spisů, Sv. 2., 28. 10. 1918-14. 3. 1939. Katalog, 1968, 97 s., ev. č. 10.</p></otherfindaid><otherfindaid><p>Moravová L. – Vlčková M.: Okresní úřad Čáslav – Katalog presidiálních spisů, Sv. 3. 15. 3. 1939-9. 5. 1945. Katalog, 1967, 56 s., ev. č. 11.</p></otherfindaid><otherfindaid><p>Frydová V. – Kapavíková M. – Moravová L. – Vlčková M.: Okresní úřad Čáslav - Rejstříky ke katalogům presidiálních spisů, Sv. I. - III., 1877-1945. Register, 1974, 75 s., ev. č. 12.</p></otherfindaid><otherfindaid><p>Moravová L.: Okresní úřad Čáslav – Konkréta, 1868-1935. Katalog, 1977, 23 s., ev. č. 16.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Lustig and Pick Sawmill</corpname><corpname>Anti-Jewish League</corpname><corpname>TheJewish National Association</corpname><corpname>V. Bernt's factory</corpname></controlaccess>
+        <controlaccess><subject>Citizenship</subject><subject>domicile right</subject><subject>trade matters</subject><subject>Jewish religious community</subject><subject>Jewish synagogue</subject><subject>concentration camp</subject><subject>Anti-Semitism</subject><subject>Jewish property</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    

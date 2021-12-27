@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1853</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Heller Josef - osobní fond</titleproper>
+            <subtitle>Josef Heller / NAD 1853</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Mladá Boleslav</publisher>
+            <address>
+                <addressline>Staroměstské náměstí 1, Mladá Boleslav, PSČ 293 01</addressline>
+                <addressline> +420 326 722 244</addressline>
+                <addressline>http://www.soapraha.cz/mladaboleslav/</addressline>
+                <addressline>soka-mlada.boleslav@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1878/1947</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1853</unitid>
+            <unittitle>Heller Josef - osobní fond</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>0,02 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Mladá Boleslav</corpname>
+            </repository>
+            <unitdate>1878/1947</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Josef Heller</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Josef Heller / NAD 1853</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was created by dividing the Mladá Boleslav Collection of Estates and Gifts into individual fonds in 2007.</p>
+        </custodhist>
+        <bioghist>
+            <p>Unknown.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents from the personal fonds of Josef Heller, a Jewish merchant in Mladá Boleslav, who perished in a concentration camp. It contains correspondence and documents, old banknotes, Jewish yellow badges from the time of the Nazi occupation, and posters for theater performances in Mladá Boleslav from the years of 1850-1851.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds includes: Personal documents, correspondence, and illustration material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Doležalová A. – Pazderníková J.: Heller Josef – Osobní fond (1850) 1878-1947. Prozatimní inventářní seznam, 1957, ev. č. 617.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish merchant</subject><subject>concentration camp</subject></controlaccess>
+    </archdesc>
+</ead>    

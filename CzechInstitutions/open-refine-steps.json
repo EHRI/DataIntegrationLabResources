@@ -1,0 +1,106 @@
+[
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Language(s)",
+      "expression": "jython:f = lambda i: '<language langcode=\"%s\">%s</language>' % (i.strip(), i.strip())\nreturn \"\".join(map(f, value.split(';')))",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Language(s) using expression jython:f = lambda i: '<language langcode=\"%s\">%s</language>' % (i.strip(), i.strip())\nreturn \"\".join(map(f, value.split(';')))"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Access points: locations",
+      "expression": "jython:f = lambda i: '<geogname>%s</geogname>' % (i.strip())\nreturn \"\".join(map(f, value.split(';')))",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Access points: locations using expression jython:f = lambda i: '<geogname>%s</geogname>' % (i.strip())\nreturn \"\".join(map(f, value.split(';')))"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Access points: persons/familes",
+      "expression": "jython:f = lambda i: '<persname>%s</persname>' % (i.strip())\nreturn \"\".join(map(f, value.split(';')))",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Access points: persons/familes using expression jython:f = lambda i: '<persname>%s</persname>' % (i.strip())\nreturn \"\".join(map(f, value.split(';')))"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Acces points: corporate bodies",
+      "expression": "jython:f = lambda i: '<corpname>%s</corpname>' % (i.strip())\nreturn \"\".join(map(f, value.split(';')))",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Acces points: corporate bodies using expression jython:f = lambda i: '<corpname>%s</corpname>' % (i.strip())\nreturn \"\".join(map(f, value.split(';')))"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Access points: subject terms",
+      "expression": "jython:f = lambda i: '<subject>%s</subject>' % (i.strip())\nreturn \"\".join(map(f, value.split(';')))",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Access points: subject terms using expression jython:f = lambda i: '<subject>%s</subject>' % (i.strip())\nreturn \"\".join(map(f, value.split(';')))"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Finding aids",
+      "expression": "jython:f = lambda i: '<otherfindaid><p>%s</p></otherfindaid>' % (i.strip())\nreturn \"\".join(map(f, value.split('; ')))",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Finding aids using expression jython:f = lambda i: '<p>%s</p>' % (i.strip())\nreturn \"\".join(map(f, value.split('\\n')))"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Contact information: phone number",
+      "expression": "jython:import re\npattern = re.compile(r\"(t|T)el.?:?\")\nreturn pattern.sub(\"\", value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Contact information: phone number using expression jython:import re\npattern = re.compile(r\"(t|T)el.?:?\")\nreturn pattern.sub(\"\", value)"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "Links to finding aids",
+      "expression": "jython:f = lambda i: '<p>%s</p>' % (i.strip())\nreturn \"\".join(map(f, value.split('\\n')))",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column Link to Finding aids using expression jython:f = lambda i: '<p>%s</p>' % (i.strip())\nreturn \"\".join(map(f, value.split('\\n')))"
+    }
+  ]

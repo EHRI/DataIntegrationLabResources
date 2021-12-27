@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1258/18</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Plzeň – Městský úřad Plzeň (registratura D a měst. úřady)</titleproper>
+            <subtitle>City Archives of Pilsen – Pilsen Municipal Office (D registry and municipal authorities) / NAD 1258/18</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Pilsen City Archives</publisher>
+            <address>
+                <addressline>Veleslavínova 19, Plzeň, 306 32, Czechia</addressline>
+                <addressline> +420 378 032 609</addressline>
+                <addressline>https://amp.plzen.eu/</addressline>
+                <addressline>maglic@plzen.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1880/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1258/18</unitid>
+            <unittitle>Archiv města Plzeň – Městský úřad Plzeň (registratura D a měst. úřady)</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>156,92 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Pilsen City Archives</corpname>
+            </repository>
+            <unitdate>1880/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Plzeň</name>
+            </origination>
+        </did>
+        <odd>
+            <p>City Archives of Pilsen – Pilsen Municipal Office (D registry and municipal authorities) / NAD 1258/18</p>
+        </odd>
+        <custodhist>
+            <p>The documents were taken over from the file office of the Pilsen Municipal National Committee by the Archives of the City of Pilsen in 1960 without further details. In 1975, most of the fonds was processed.</p>
+        </custodhist>
+        <bioghist>
+            <p>After the abolition of the regulated municipality and the creation of the self-governing municipal office in 1850, a new six-level system of material sorting of files was introduced into the municipal registry, each group being marked with abbreviations from German terms (Oecon, Pol-Jud-Poliz, Bau, Kontr, Mil, Kirch). This method of marking was replaced in 1880 by Roman numeral numbering. In 1942 it was replaced by a decimal system, and in 1949 a new decimal system was introduced. In 1864, departments were created within the municipal office, which were managed by individual members of the municipal council. In 1890, the agenda was divided into the mayor's office, an accounting department, and individual authorities. In addition, the city also had a number of institutes and companies, each larger company having its own administration. From the 1920s, the city agenda was gradually divided into three departments, which in 1938 included: 1. Central Directorate of the Administrative and Financial Services, 2. Central Directorate of the Technical Service and 3. Central Directorate of the Financial Service. In addition, there were city companies. In 1942, Pilsen became the fifth statutory city in Bohemia and Moravia. The year of 1945, when the National Committees were established, brought about a fundamental change in the city administration.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Municipal Office of Pilsen and municipal authorities and organizations. The fonds contains religious matters or Judaica: Documents and announcements of the Union of Czech Progressive Jews, the Makkabi Jewish physical education association, the Czech-Jewish National Association Pilsen, the Israeli Community Pilsen; collection of religious taxes, Jewish issues (securities, designation of non-Aryan shops, a list of Jewish merchants in Pilsen, 2%-fee from the Aryanization of companies, forced custody of the non-Aryan accounts, prohibitions - e.g. changes of residence, purchases in non-Aryan stores, accommodation in non-Aryan hotels), the statement of the Union of Czechs-Jews in the Czechoslovak Republic on the immigration of Germans-Jews, the construction of the Jewish cemetery in Doubravka, the occupation of the place of the gravedigger, the Charitable Association of the Israelites "Chevra Kadisha", a request of the Jewish Community in Pilsen to ensure the safety of the synagogue, the Central Cemetery - Jewish department (mainly construction affairs), Markus Salbat - head of the Jewish Community, advance payments to Jews, Mořic Schwarkopf, Zikmund and Marie Löwidt, Moritz Auer, Leopold Levit (tannery), David and Moric Eckstein, Moric Goldscheider, etc. Jewish residents of Pilsen can also be searched by surname or street in applications for residence in the files of the Descriptive Office of the Regional City of Pilsen, including the so-called residence certificates (circa 1850-1920), in the records of domicile right (residence certificates from circa 1900-1950), and also in the Protectorate Domicile Certificates according to streets and individual houses (circa 1939-1955).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains: I Matters of independent competence, II Matters of delegated competence, III Construction matters, IV Tax affairs, V Military affairs, VI Religious affairs.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Procházka V. – Bělohlávek M. – Gross M. – Šedivec V. – Zennerová M.– Dobrá H. – Novotná M.: Archiv města Plzeň, Registratura D a městské úřady 1880-1942. Inventář, 1975, ev. č. 571-578, sign. I/IV/D.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Makkabi Pilsen</corpname><corpname>Czech-Jewish National Association</corpname></controlaccess>
+        <controlaccess><subject>Jewish cemetery</subject><subject>Chevra Kadisha</subject><subject>Jewish question</subject><subject>The Union of Czech Progressive Jews</subject></controlaccess>
+    </archdesc>
+</ead>    

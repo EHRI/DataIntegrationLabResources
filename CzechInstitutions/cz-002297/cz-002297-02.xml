@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>419</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Blatná</titleproper>
+            <subtitle>District Office of Blatná / NAD 419</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>419</unitid>
+            <unittitle>Okresní úřad Blatná</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>85,38 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1850/1942</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Blatná</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Blatná / NAD 419</p>
+        </odd>
+        <custodhist>
+            <p>Originally, the fonds was probably stored in the building of the Blatná District Office, and in 1953 it was handed over to the State Regional Archives in Pilsen. The roughly organized fonds was handed over to the Strakonice District Archives in 1959. The census sheets of 1921 were handed over as late as 1998. In 2008, the entire fonds was processed and inventoried. However, due to an unsatisfactory archival finding aid, it was again included in the unprocessed materials and the finding aid was canceled.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1848, the Blatná District Governor's Office was established within the competence of the Regional Office in Písek and included the Blatná judicial district and, since 1868, the Březnice judicial district. The Blatná District Office was established as a mixed district office in 1855 and dealt with the political and judicial agendas. In 1868, the Blatná District Governor's Office was restored. In 1919, it was renamed the District Political Administration Blatná and in 1928 the District Office Blatná. Its competence lasted until 1942, when it was abolished by the Ministry of the Interior, and its municipalities were incorporated into the district of the Strakonice District Office.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the regional political state administration and the judicial administration, dealing with the economic, political, social and cultural conditions of the former judicial district of Blatná and Březnice. Information on Jews can be found in the following areas: presidium files - threatening Jewish traders in Březnice and Rožmitál Blatné, an anti-Jewish campaign in Blatná, a dispute between the Sokol association and the Jewish religious community 1870-1899, E. Kohn's funeral, a list of Jewish shops, associations, organizations and companies, search for Polish Jews and their list, measures to limit contact with the Jewish population, lists of Jews and their property, property of Jewish religious communities, Jewish shops, anti-Jewish actions, arresting A. Herrmann, a list of Jewish property in the Blatná district, confiscation of Jewish property 1939-1942, permission of a soup kitchen for the Jewish population 1857-1867, affairs of the Jewish religious community of Blatná, Březnice, Enisovy Lažany, Lažany, Kasejovice, Rožmitál (debt recovery - the regional rabbi's salary, the inheritance of the Popper Foundation House in Březnice, a deed of donation of the Solomon Neumann Foundation, the activities of the Chevra Kadisha Association, an extract from the land register - cemetery, statutes, duplicates of registry records, documents for the declaration of Aryan origin) 1855-1942, Jewish school (due tuition fees) 1869-1878, police affairs (the general meeting notice and the statutes of the Chevra Kadisha Association) 1890-1912, security (restaurants reserved for the Jewish population) 1937-1942.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The handling of the fonds is divided into seven periods, which are further divided thematically. The following material groups are of decisive importance: the handling period 1855-1867: 5. Church affairs, 11. Agriculture, industry, forestry; the handling period 1868-1879: 4. Registry matters, 5. Church affairs; the handling period 1880-1886: 5. Church affairs; the handling period 1887-1900: 5. Church affairs, 8. Police affairs; the handling period 1901-1929: 5. Church affairs, 8. Police affairs; the handling period 1930-1936: 5. Religious affairs; the handling period 1937-1942: 2. Economic and financial affairs, 3. Security, 7. Education, religion registry and foundation matters.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>not accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Popper Foundation</corpname><corpname>Solomon Neumann Foundation</corpname><corpname>Chevra Kadisha</corpname></controlaccess>
+        <controlaccess><subject>Jewish traders</subject><subject>Polish Jews</subject><subject>lists of Jews</subject><subject>soup kitchen</subject><subject>confiscation of Jewish property</subject><subject>Jewish school</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,228 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>6</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv města Kaňk</titleproper>
+            <subtitle>Archives of the Town of Kaňk / NAD 6</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kutná Hora</publisher>
+            <address>
+                <addressline>Benešova 257/33, Kutná Hora, PSČ 284 80</addressline>
+                <addressline>+420 321 024 353, + 420 737 277 820 (mobile phone), +420 321 024 360 (research room)</addressline>
+                <addressline>http://www.soapraha.cz/kutnahora/</addressline>
+                <addressline>soka-kutna.hora@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1487/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>6</unitid>
+            <unittitle>Archiv města Kaňk</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Cartographic material</genreform> 
+                <physfacet type="condition">Good</physfacet>
+                <extent>17,59 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kutná Hora</corpname>
+            </repository>
+            <unitdate>1487/1945</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Kaňk Municipality; Municipal Office of Kaňk, Magistrat of the Town of Kaňk 1793-1850</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archives of the Town of Kaňk / NAD 6</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was probably always kept at the town hall. In 1960, the Kaňk Town Archives became part of the District Archives in Kutná Hora. In 1982, a group inventory was developed. The fonds was organized and an inventory made in 2012 - 2013.</p>
+        </custodhist>
+        <bioghist>
+            <p>The first record appeared in a deed from 1369. Municipal affairs were administered by several councilors headed by the mayor, who were appointed by the Kutná Hora town council. The period 1848 - 1850 was a time of transition towards the municipal self-government. In the self-governing period, Kaňk was an independent local municipality until the Nazi occupation. The reorganization of the town administration, especially the establishment of a system of representation based on political parties, took place after the municipal elections in 1919. From 1939, the village was administered by a government commissioner. Kaňk became a part of Kutná Hora in 1950.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds is the basic source for understanding the political, economic, social and cultural development of the town from the 15th century to 1945. It contains deeds, official books, file material, and accounting material. Information on Jews can also be found in the agenda from the pre-municipal office period of the 18th century. In general, church affairs (1850-1944), in particular, are relevant, specifically inv. no. 1195, the period 1850-1944 Church affairs - priests, cooperator, visitations, festivities, choir, fields, registry affairs, Jews. Explicit mentions of Jews can then be found in the following: inv. no. 1070 Salt trade (salt from a Jew from Ovčáry) 1827-1830; inv. no. 1106 Jews (permits of residence in mining towns) 1801-1848; inv. no. 1141 Proclamation of laws and regulations (regulations against Jews) 1850-1944.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds consists of: I. Deeds until 1850, II. Official books (Books until 1850 and Books after 1850), III. File material (Registry finding aids and files), IV. Accounting material, V. Other (maps, plans, seal matrixes).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Vaněčková J.: Archiv města Kaňk 1487-1945 (1948). Inventář, 2013, 170 s., ev. č. 220.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28311744%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>trade</subject><subject>mining towns</subject><subject>anti-Jewish regulations</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>8</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Čáslav</titleproper>
+            <subtitle>District Office of Čáslav / NAD 8</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kutná Hora</publisher>
+            <address>
+                <addressline>Benešova 257/33, Kutná Hora, PSČ 284 81</addressline>
+                <addressline> +420 321 024 353, 737 277 820 (mobile phone), 321 024 360 (research room)</addressline>
+                <addressline>http://www.soapraha.cz/kutnahora/</addressline>
+                <addressline>soka-kutna.hora@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>8</unitid>
+            <unittitle>Okresní úřad Čáslav</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>197,41 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kutná Hora</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office Čáslav; District Governor's Office Čáslav (1868 – 1918); District Political Administration Čáslav (1918 - 1927)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Čáslav / NAD 8</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the Čáslav District 0ffice were handed over to the district archives in Kutná Hora in 1961 from the state archives in Zámrsk. In the 1960s, the documents were organized, and an inventory list was made for them. Another part of the fonds was handed over from Zámrsk in the 1970s and was also organized and provided with an inventory list. The common registry included in the handling period has been completely preserved for the period after 1900, until then only in fragments. After all amendments had been added to the fonds, a new inventory was made in 2004.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Office of Čáslav worked in the years of 1855-1945. In the years of 1868-1945, it included the territories of two judicial districts: Čáslav and Bamberg. In the years of 1855-68, there was a separate mixed district office in Habry. Until 1855, Čáslav was part of the district governor's office in Kutná Hora. Until 1868, the office dealt with the mixed political and judicial agenda. After 1868, the district governor's office was established in Čáslav, renamed the district political administration in 1919. The office was abolished in 1945.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arising from the activities of the Čáslav District Office: official books, file material, accounting material, the associated agenda, and official documents. In individual handling periods, the following is relevant: citizenship, domicile, marital and registry matters, and religious matters. The trade agenda may also be relevant as trade issues from 1912-35 have been well preserved. In presidium files, situation reports are relevant. Information about Jews can also be found in the census sheets preserved for the years of 1868, 1880, 1890, 1910 and 1921. The handling period 1911-1936/1868-1911/: Group 4 - census (fragment) and citizenship; Group 5 - agenda of the Jewish religious community; Group 6 (Education) - 6/9 Evangelical and Jewish religions, mainly teaching materials and rewards for teaching; Group 9 - Jewish construction affairs, inv. no. 9/11-19 Lustig and Pick Sawmill in Golčův Jeníkov; Group 15 - inv. no. 15/2 Trades and inns; inv. no. 5 4/41 Construction of a Jewish synagogue with plans 1849-1899. The handling period 1936-48: inv. no. I. 7/12 Jews - confiscation of radio sets 1939, lists of Jews in the district, exclusion of Jews from the economy of the Protectorate, Jewish property Kosmos-Pick; Group 3 - inv. no. III. 21-b / K-2607 Karel Kozák punished with a fine of 300 CZK for saying goodbye to Jews who were transported to a concentration camp, 1942, also III. 21-B/M-1163 R. Malá; inv. no. III. 2 Persecution of Jews; inv. no. III. 2/26 Anti-Jewish inscriptions in Čáslav; inv. no. III. 2/27 Requests for support for former prisoners in concentration camps; inv. no. III. 18/162 Opening of the Secretariat of the Anti-Jewish League in Čáslav; Group 6 - inv. no. 1/253 List of Jewish trades 1843; inv. no. IV. 2 Lists of trades, enterprises, and Jewish shops; Group 7 - inv. no. VIII. 7e/1 Exclusion of certain persons from the performance of public functions in the judiciary - Jews 1939; inv. no. VIII. 20/153 Liquidation of Jewish shops 1941; inv. no. VII. 25 Jewish religious community - statutes, their changes, elections of the board of directors, appointment of the rabbi and the registrar; inv. no. IX 2-F/76 Reasoning of doctors for the treatment of Jews 1942; inv. no. X. 7/17 Inventory of Jewish property 1940. Presidium files: inv. no. 82/1882 Disagreements between Jewish and Christian recruits, inv. no.1775/1915 Telegram to the Jewish National Association; inv. no. 944/1916 Zionist associations; inv. no. 1373/1938 Jewish factory owners; inv. no. 1656/1938, inv. no.1686/1938, inv. no. 1702/1938 also inv. no.1817/1938 Anti-Jewish leaflets; inv. no.1688/1938 Anti-Jewish inscriptions; inv. no. 208/1934 Polish Jews - some of them Zionists, illegal stay in Czechoslovakia; inv. no. 534/1936 Migration of Jews - foreigners - to the Czechoslovak Republic; inv. no.1528/1938 V. Bernt's factory in Ronov n.D.; inv. no. 1720/1938 Anti-Jewish event in Čáslav; inv. no. 343/1939 Jewish members in the civil service; inv. no. 370/1939 Arrest of J. Guttmann in Germany, born in Čáslav; inv. no. 509/1939 List of Jewish tenants and estates.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is organized as follows: I. Books; II. File material (A Registry finding aids, B Files, C Census sheets); III. Accounting material (Books, Accounting documents); IV. Associated agendas of the District Office; V. Official documents (Bulletins) of the District Office</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bisingerová M. – Lebedová J.: Okresní úřad Čáslav 1855-1945 (1948). Inventář, 2004, 163 s., ev. č. 8.</p></otherfindaid><otherfindaid><p>Kapavíková M. – Tovara L.: Okresní úřad Čáslav – Katalog presidiálních spisů, Sv. 1., 1877-27. 10. 1918. Katalog, 1973, 94 s., ev. č. 9.</p></otherfindaid><otherfindaid><p>Moravová L. – Vlčková M.: Okresní úřad Čáslav – Katalog presidiálních spisů, Sv. 2., 28. 10. 1918-14. 3. 1939. Katalog, 1968, 97 s., ev. č. 10.</p></otherfindaid><otherfindaid><p>Moravová L. – Vlčková M.: Okresní úřad Čáslav – Katalog presidiálních spisů, Sv. 3. 15. 3. 1939-9. 5. 1945. Katalog, 1967, 56 s., ev. č. 11.</p></otherfindaid><otherfindaid><p>Frydová V. – Kapavíková M. – Moravová L. – Vlčková M.: Okresní úřad Čáslav - Rejstříky ke katalogům presidiálních spisů, Sv. I. - III., 1877-1945. Register, 1974, 75 s., ev. č. 12.</p></otherfindaid><otherfindaid><p>Moravová L.: Okresní úřad Čáslav – Konkréta, 1868-1935. Katalog, 1977, 23 s., ev. č. 16.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Lustig and Pick Sawmill</corpname><corpname>Anti-Jewish League</corpname><corpname>TheJewish National Association</corpname><corpname>V. Bernt's factory</corpname></controlaccess>
+        <controlaccess><subject>Citizenship</subject><subject>domicile right</subject><subject>trade matters</subject><subject>Jewish religious community</subject><subject>Jewish synagogue</subject><subject>concentration camp</subject><subject>Anti-Semitism</subject><subject>Jewish property</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>7</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Kutná Hora</titleproper>
+            <subtitle>District Office of Kutná Hora / NAD 7</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kutná Hora</publisher>
+            <address>
+                <addressline>Benešova 257/33, Kutná Hora, PSČ 284 81</addressline>
+                <addressline> +420 321 024 353, +420 737 277 820 (mobile phone), +420 321 024 360 (research room)</addressline>
+                <addressline>http://www.soapraha.cz/kutnahora/</addressline>
+                <addressline>soka-kutna.hora@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>7</unitid>
+            <unittitle>Okresní úřad Kutná Hora</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>131,48 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kutná Hora</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Kutná Hora; District Office of Kutná Hora (1855-1868, 1928-1945); District Political Administration Kutná Hora (1918-1927)</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Kutná Hora / NAD 7</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was transferred to the archives from the District National Committee building, where the documents had been stored. In 1964 - 1965, the material was arranged and an inventory list was made for it, the additions being made in 1972. In 1967 - 1972, catalogs of the presidium files from 1850-1945 were made. The fonds contains administrative and registration books from the years of (1794) 1850-1945 (1957) and presidium files from the years of 1850 -1945. The common registry included in the handling periods has been fully preserved from the period after 1900 (until 1900 only fragments have been preserved). Filing protocols and registry finding aids have been preserved from the entire period of the district office.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district office was in operation in the years of 1850 - 1945. In 1850, the district governor's office was established in Kutná Hora with jurisdiction over the Kutná Hora and Čáslav judicial districts. From 1855 to 1868, there was the so-called mixed district office (judicial and political administration) there, the administration being carried out in that period only in the judicial district of Kutná Hora. In 1868, the Uhlířské Janovice judicial district was added to it. After 1868, the district governor's office was restored, and the judiciary was separated from the administration. In 1919, the district governor's office was renamed the district political administration. In 1927, the name was again changed to the district office. Its activities ended with the establishment of the District National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds originated from the activities of the political administrative office of first instance. It contains official books, file material, and accounting material. The fonds contains the census of 1921 from the judicial districts of Kutná Hora and Uhlířské Janovice.Documents on the history of Jews can mainly be found in the following documents: religious, federal and assembly matters, domicile especially in the 5th handling period (1936-1946), Groups III Security and VII Education; religion, marriage, registry and endowment matters, and matters; specifically, inv. no. 1381 VIII/19 Jewish flats; inv. no. 1350 VIII/8 Domicile applications (Jews, Germans) 1941-45; inv. no. 1302 VII/25 Jewish religious events 1936-46; inv. no. 5 5/7 Statutes of the Jewish religious community from 1892; inv. no. III. 21b/P 628 - Investigation of Jews from Chrastá 1940; inv. no. 21b/Š 517 Breaking windows of Jewish homes; inv. no. Group VI 1/168 Jewish enterprises, their property, the number of employees 1939, inv. no. 1/282 Expulsion of Jews from the economy of the Protectorate 1940; inv. no. VII 25 Jewish religious community; inv. no. VII 25a/7 Permission for the journeys of Jews, movement of the Jewish population, lists of Jews, marking of Jews, actions against Czechs showing sympathy to Jews, Jewish half-breeds, use of public transport by Jews, measures to place Jews in closed settlements 1941-44. For the older period, we can find in the presidium files the following: inv. no. 11/1866 Riots and Jews; inv. no. 19/1866 Breaking windows of Jewish homes; inv. no. 24/1866 Anti-Jewish riots; inv.no. 44/1866 Breaking windows, Červené Janovice; inv. no. 31/1854 Anti-Jewish letter; inv. no. 29/1853 Price fixing done by Jews; inv. no. 290/1911 Promotion of military service included in the teaching of Jewish religion; inv. no. 8/1917 Condolence telegram of the Jewish National Association of Kutná Hora; inv. no. 2472/1915 Investigation of persons posing as candidates for the rabbi - false news; inv. no. 40/1915 Jews - refugees from Galicia; Concerning the accusation of ritual murder in the so-called Hilsner Affair, the following items are relevant: inv. no. 226, 359; 1899; then inv. no. 402/1900 and inv. no. 108/1901. From the period before the Second World War and the war period, the following items are relevant: inv. no.970/1936 Migration of Jews, foreign nationals to Czechoslovakia; inv. no. 1444/1936 Suicide attempt by A. Guth, a German Jew; inv. no. 995/1938 Punishment of Prof. Dr. E. Stein; inv. no. 1340/1938 and inv. no. 716/1939 Anti-Jewish leaflets; inv. no. 713/1939 Situation report from February 2, 1939 - anti-Jewish leaflets, confiscation of Jewish property; inv. no. 717/1939 Derogatory inscriptions on a Jewish doctor's office and shops; inv. no. 190/1939 Jews in the civil service; inv. no. 353/1939 and also inv. no. 646/1939 Jewish property, inv. no. 380/1939 Jewish firm Respo Reininger; inv. no. 570/1939 Jewish question; inv. no. 747/1939 List of Polish Jews; inv. no. 833/1939 Seizure of radio sets from Jews; inv. no. 812/1939 Searches of Jewish homes; inv. no. 387/1941 Contact between the Jewish and non-Jewish populations; inv. no. 421/1941 Payments made by Jews; inv. no. 836/1942 Anti-Jewish regulations; from 1940, inv. no. 841, 906, 949; from 1941 inv. no. 671, 718, 965, and 354/1942.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into Books (Administration and Registry), Files (including auxiliary books) and Accounting material. The files are further divided into presidium files and 5 common file handling periods. Earlier handling periods have only been preserved in fragments. The fonds also contains a census of 1921 from the judicial districts of Kutná Hora and Uhlířské Janovice.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Kolektiv: Okresní úřad Kutná Hora 1850-1945 (1951). Inventář, 1972, 119 s., ev. č. 3.</p></otherfindaid><otherfindaid><p>Kapavíková M. – Vlček Z. – Vlčková M.: Okresní úřad Kutná Hora – Katalog presidiálních spisů, Sv. 1., 1. 1. 1850-27. 10. 1918. Katalog, 1973, 340 s., ev. č. 4.</p></otherfindaid><otherfindaid><p>Moravová L. – Vlčková M.: Okresní úřad Kutná Hora – Katalog presidiálních spisů, Sv.2., 28. 10. 1918-14. 3. 1939. Katalog, 1968, 96 s., ev. č. 5.</p></otherfindaid><otherfindaid><p>Moravová L. – Vlčková M.: Okresní úřad Kutná Hora – Katalog presidiálních spisů, Sv.3., 15. 3. 1939-9. 5. 1945. Katalog, 1967, s. 53, ev. č. 6.</p></otherfindaid><otherfindaid><p>Frydová V. – Kapavíková M. – Moravová L. – Vlčková M.: Okresní úřad Kutná Hora – Rejstříky ke katalogům presidiálních spisů, I. - III. Díl, 1850-1945. Register, 1973, 99 s., ev. č. 7.</p></otherfindaid><otherfindaid><p>Moravová L.: Okresní úřad Kutná Hora – Konkréta 1850-1946. Katalog, 1972, 30 s., ev. č. 15.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Census records</subject><subject>anti-Jewish leaflets</subject><subject>Jewish property</subject><subject>Polish Jews</subject><subject>Anti-Jewish regulations</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1981</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Kaufmannová, Heda</titleproper>
+            <subtitle>Heda Kaufmannová / NAD 1981</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1905/1981</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1981</unitid>
+            <unittitle>Kaufmannová, Heda</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">Good</physfacet>
+                <extent>2,50 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1905/1981</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Kaufmannová, Heda</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Heda Kaufmannová / NAD 1981</p>
+        </odd>
+        <custodhist>
+            <p>The personal archive of Heda Kaufmannová was handed over to the National Archives in July 2013 by MUDr. Ivana Reneltová, a close friend of Heda Kaufmannová, who together with Jana Pfeifferová took care of her legacy. </p>
+        </custodhist>
+        <bioghist>
+            <p>Heda Kaufmannová (24 April 1905 Prague - 7 August 1981 Prague), writer, translator and participant in the anti-Nazi domestic resistance, was born into a Jewish family in Prague, where she was brought up to belong to the Czech nation. She graduated from a girls' lyceum in Vinohrady, then completed a bookbinding course at the State Graphic School. In 1929, she had to leave her job as a bookbinder and then worked at the State Health Institute. In the interwar period she was an active member of the Scout movement. In March 1939 she applied for retirement to avoid dismissal on racial grounds. After the Nazi occupation, she became involved in resistance activities, where she was brought by her brother, MUDr. Viktor Kaufmann, who was one of the co-founders and leading figures of the resistance organization Petition Committee We Shall Remain Faithful. When she was summoned for the transport to the concentration camp in September 1942, she went underground. From June 1943, she took refuge with Hana and Eva Málková in Prague. After the end of the war, she learned of the execution of her brother, who had been arrested by the Gestapo in October 1941. After the war she worked in the State Planning Office. She voluntarily ended her life on 7 August 1981.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The personal archive of the Czech writer, translator and participant in the anti-Nazi domestic resistance, Heda Kaufmann, is an important source for understanding her literary work and resistance activities during the years of the Nazi occupation. However, the documents in the fonds can also contribute to the understanding of the life of the Jewish community in the interwar Czechoslovakia. The fonds contains mainly personal documents, manuscripts of Heda Kaufmannová's works, documentation of her resistance activities, correspondence and photographs. Among the documents in Heda Kaufmannová's personal fonds that relate to the life of the Jewish community before 1939, we can highlight in particular the manuscript Letters from the Family Chronicle, Heindorf. In it, the author recorded her memories of her family's summer stays in the German-populated town of Heindorf (Hejnice) in the Frýdlant region, where the brother of Karl Kaufmann, Heda Kaufmannová's father, the physician MUDr. Julius Kaufmann, settled. In her memoirs, Heda Kaufmannová recounts life in this region, but she pays particular attention to the fate of her extended family, especially the German branch of the Kaufmann family. The main focus of the memoirs is the years of 1914-1939. The author completed her memoirs in 1972, but they were not published until 2002. The fonds also contains a larger, unpublished version of the memoirs, which contains the genealogy of the Kaufmann and Freund family, from which Heda Kaufmannová's mother, Helena Kaufmannová, née Freundová, came. The fonds also contains a manuscript of Heda Kaufmannová's war memoirs (1938-1945. War Memories.), in which she described her resistance activities and wartime fate, and which was published in 1999. Family photographs from the years of 1891-1939, which show Heda Kaufmannová's ancestors and her family members, are also a valuable source. The fonds also contains photographs of the Kaufmann family's stays in Heindorf, as well as photographic documentation on the personality of Heda Kaufmannová's older brother, MUDr. Viktor Kaufmann, an important figure of the Czechoslovak domestic anti-Nazi resistance.</p>
+        </scopecontent>
+        <arrangement>
+            <p>Roughly arranged are: personal documents (school reports, medical records); biographical material (a genealogy of the Kaufmann and Freund families); manuscripts of Heda Kaufmannová's prose, poetry and translation work (War Memories, Letters from the Family Chronicle - Heindorf, The Laurel of the Just; Sayings and scribbles, A Treatise for John, the translation of the biography of Klára Haskilová); notes on her own literary work; documentation on the resistance activities of the Petition Committee We Shall Remain Faithfull and on the activities of the Scout organization in the resistance; correspondence; photographs.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish resistance</subject><subject>anti-Nazi resistance</subject><subject>anti-Jewish persecution</subject><subject>memoirs</subject><subject>Second World War</subject></controlaccess>
+    </archdesc>
+</ead>    
+

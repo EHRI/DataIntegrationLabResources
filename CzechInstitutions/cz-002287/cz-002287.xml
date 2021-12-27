@@ -1,0 +1,228 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>140</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Praha-venkov-sever</titleproper>
+            <subtitle>District Office of Praha-venkov-sever / NAD 140</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Prague-East in Přemyšlení</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 284 890 487</addressline>
+                <addressline>http://www.soapraha.cz/praha-vychod/</addressline>
+                <addressline>Email: soka-praha.vychod@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1942/1949</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>140</unitid>
+            <unittitle>Okresní úřad Praha-venkov-sever</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>82,69 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Prague-East in Přemyšlení</corpname>
+            </repository>
+            <unitdate>1942/1949</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Praha-venkov; District Office of Praha-venkov-jih; District National Committee of Praha-jih</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Praha-venkov-sever / NAD 140</p>
+        </odd>
+        <custodhist>
+            <p>Presidium files arose from the activities of political administration. This agenda was dealt with in principle by the senior officials of the offices. At the district offices, it was always the district governor. Originally, the documents were stored in the office of Praha I, later in the District National Committee Praha-venkov-sever. A catalog of presidium files was made in the 1970s. In 1960, the files were transferred to the Archives of Praha-východ in Říčany. The archive material was damaged by floods.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district office of Praha-venkov-sever was a body of political administration in the Protectorate of Bohemia and Moravia in the period of the Second World War. It was established on June 1, 1942, its predecessor being the district office of Praha-venkov. It was seated in Prague. It existed until May 9, 1945. Then it was replaced by the national committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the district office. The documents mainly relate to the period of the Second World War. Information on Jews can be found in the presidium files: inv. no. 85, box 21 - discounted railway tickets for persons who were punished for political reasons after 15 March 1939, then Jews or civil servants who lived in a marriage with a Jew or a Jewish half-breed; inv. no. 426 Order of Oberlandrat from 12 March that the mandatory marking of Jews be extended to Jews of Slovak, Croatian and Romanian nationalities. Jews were obliged to wear the obligatory emblem wherever they could meet a person who did not belong to their household. OH circular, issued on the basis of this order (box 84); inv. no. 727 Report of the gendarmerie station of Zbraslav to the District Court from 19 May 1942 informing about the result of the investigation caused by an article in the Vlajka journal criticizing insufficient measures against Jews in the city (box 145); inv. no. 729 - Order of the Ministry of the Interior of 15 May 1942, according to which it is necessary to write the word Jew in the future only with a capital initial letter (box 147); inv. no. 1286 - PZU points out on December 11 that it was found that Jews use horse-drawn carriages to transport; as this is not allowed, the subordinate authorities are to take appropriate measures (box 229); inv. no. 967 - A set of reports of individual gendarmerie stations for the month of April - among others; a number of apartments in the district remained empty after the expulsion of Jews; these apartments belong to the Central Office for the Solution of the Jewish Question, but these apartments often remain empty. box 188); inv. no. 325 Given that Jewish companies no longer exist in Bohemia, it is not necessary to require from suppliers a confirmation that they are not Jewish companies; inv. no. 790 - Implementing regulations of the Ministry of the Interior of 29 May on the prohibition of employing Jewish half-breeds or husbands of Jewish half-breeds in public services. (box 162).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into official books, registry finding aids, and files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Indra B. – Ježková J. – Sedlák M. – Šuchma F.: Okresní úřad Praha-venkov-sever – Katalog presidiálních a tajných spisů 1942-1945. Katalog, 1977, 110 s., ev. č. 91.</p></otherfindaid><otherfindaid><p>Indra B. – Ježková J. – Sedlák M. – Šuchma F.: Okresní národní výbor Praha-sever – Katalog presidiálních spisů 1945-1948. Katalog, 1977, 82 s., ev. č. 92.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>The Central Office for the Solution of the Jewish Question</corpname></controlaccess>
+        <controlaccess><subject>Anti-Jewish restrictions</subject><subject>Jewish apartments</subject><subject>Jews of the mixed race</subject><subject>Mixed marriages</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>144</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Archiv městečka Úvaly</titleproper>
+            <subtitle>Archive of the Town of Úvaly / NAD 144</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Prague-East in Přemyšlení</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 284 890 487</addressline>
+                <addressline>http://www.soapraha.cz/praha-vychod/</addressline>
+                <addressline>soka-praha.vychod@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1509/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>144</unitid>
+            <unittitle>Archiv městečka Úvaly</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Unknown</physfacet>
+                <extent>11,18 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Prague-East in Přemyšlení</corpname>
+            </repository>
+            <unitdate>1509/1945</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Municipal Office of Úvaly</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Archive of the Town of Úvaly / NAD 144</p>
+        </odd>
+        <custodhist>
+            <p>The fonds is only a fragment. Documents from an older period burned down during repeated fires, and only those from the period until 1890s have been preserved in some numbers. Úvaly belonged to the Český Brod district until 1960. After being joined with the district of Praha-východ, the fonds was transferred to the District Archives of Praha-východ. It was handed over in 1964, later in 1994. The fonds was organized and inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>It is not possible to describe the development of the originator of the fonds in detail, because with the exception of a single deed and a ledger, nothing until 1850 has survived. In 1848, the foundations of municipal self-government were laid. The municipality was headed by the municipal council and its board elected the mayor. In 1943, the municipal council was dissolved, and a 5-member commission was appointed, which administered the town until the end of the war. In 1945, it was replaced by the Revolutionary National Committee.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the Úvaly town administration, deeds, official books, and file material. In general, the relevant information can be found in documents concerning education, culture, church associations, religion, and trade agenda. Jews are also explicitly mentioned in the following documents: inv. no. 195 Population of the municipality - general affairs (Jews) 1940-1941; inv. no. 198 Population of the municipality - records and reports (census, lists of inhabitants and houses, Jews) 1865-1941; inv. no. 267 Housing administration (e.g. forced eviction of Jews) 1867-1943.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds was primarily divided into I. Deeds, II. Books, III. File material, IV. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Herian T.: Archiv městečka Úvaly (1489) 1850-1945 (1956). Inventář, 2012, 20 s., ev. č. 397.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%2844704%29%29</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Housing</subject><subject>Forced eviction of Jews</subject></controlaccess>
+    </archdesc>
+</ead>    
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>141</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Říčany</titleproper>
+            <subtitle>District Office of Říčany  / NAD 141</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Prague-East in Přemyšlení</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 284 890 487</addressline>
+                <addressline>http://www.soapraha.cz/praha-vychod/</addressline>
+                <addressline>soka-praha.vychod@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1855/1942</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>141</unitid>
+            <unittitle>Okresní úřad Říčany</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Good</physfacet>
+                <extent>54,54 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Prague-East in Přemyšlení</corpname>
+            </repository>
+            <unitdate>1855/1942</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Říčany; District Office of Praha-venkov-jih, Říčany Branch (1928-); Okresní správa politická Říčany; District Political Administration Žižkov, Říčany Branch</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office of Říčany  / NAD 141</p>
+        </odd>
+        <custodhist>
+            <p>The fonds arose from the activities of the District Office in Říčany. It includes materials from the period of the mixed political-judicial district in 1855-68. Most of the other material comes from 1923-42. The material is divided into 2 handling periods,1923-30 and 1931-42. The material is in fragments, especially in the first handling period. It was caused by losses during moving. The fonds began to be taken over by the District Archives of Říčany in 1952. Later it was taken over by the District Archives of Praha-východ. The fonds was organized and inventoried.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1848, a municipal administration was established. The town was headed by the municipal council with the mayor. A new judicial district was established in Říčany in 1850, and a political district was established in 1855, with the exception of the period of 1855-68, when there was a mixed political-judicial district office. It was part of the district governor's office in Jílové, later in Český Brod, Žižkov, and Praha-Okolí. The district governor's office was renamed in 1918 the district political administration. The district governors were at the head of the district political administrations. In 1942, the District Office was abolished, only the judicial district remained, being annexed to the District Office of Praha-venkov-jih.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arisen from the activities of the district office: official books, file material, accounting material, and others. Explicit mentions of Jews can be found in the following documents: inv. no. 411 Abolition of the Jewish religious community (Strančice) 1934-1939; inv. no. 420 Records of foreigners, permitting travel to Jews, dissolution of summer camps 1939-1942; inv. no. 454 Reports on Jewish property [567] 1940; inv. no. 454 Reports on of Jewish property [567] 1940; inv. no. 454 Trade establishments, trade associations, fire inspections of enterprises, Jewish trades 1940-1942; religious matters - inv. no. 408 Religious and ecclesiastical matters, cemetery regulations - persons of Jewish origin baptized before 1875, cemetery fees, cemetery list; 1873-1942 (box 233); inv. no. 410 Religious conversion (box 235); Jews are also explicitly mentioned in presidium files (1923-1942), specifically, Forced labor; Jewish shops and businesses; restrictions on free movement; Jews of Polish nationality; regulation of the contact between the Jews and other populations; ban on entry to the museum and other cultural and scientific institutions.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into: I. Official books, II. File material (containing census sheets), III. Accounting books, IV. Other material (maps, plans, stamps, seal matrixes), V. Associated agenda of the district office.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Michálek I.: Okresní úřad Říčany (1853) 1855-1942 (1958). Inventář, 2016, 98 s., ev. č. 412.</p></otherfindaid><otherfindaid><p>Bilkovský M.: Okresní úřad Říčany – Katalog presidiálních spisů. Sv. II, 1. 1. 1923-14. 3. 1939. Katalog, 1972, 142 s., ev. č. 47.</p></otherfindaid><otherfindaid><p>Bilkovský M.: Okresní úřad Říčany  – Katalog presidiálních spisů. Sv. 3., 1939-1942. Katalog, 1973, 22 s., ev. č. 48</p></otherfindaid><otherfindaid><p>Kolektiv: Okresní úřad Říčany – Presidiální spisy. Sv.3., (Rejstřík) 15. 3. 1939-1. 6. 1942 (15. 8. 1942). Katalog, 1970, 121 s., ev. č. 44.</p></otherfindaid>
+        <otherfindaid><p>http://soapraha.bach.cz/soapraha/NavigBean.action?entity=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%2843441%29%29</p></otherfindaid>
+        
+        
+        
+        <controlaccess><corpname>The Jewish religious community Strančice</corpname></controlaccess>
+        <controlaccess><subject>Jewish property</subject><subject>Anti-Jewish restrictions</subject><subject>religious matters</subject><subject>baptizm of the Jews</subject><subject>forced labour</subject><subject>Polish Jews</subject></controlaccess>
+    </archdesc>
+</ead>    

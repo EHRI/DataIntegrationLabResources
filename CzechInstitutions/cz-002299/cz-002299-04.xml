@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>65</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Tábor</titleproper>
+            <subtitle>District National Committee of Tábor / NAD 65</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Tábor</publisher>
+            <address>
+                <addressline>Na Parkánech 1623, 390 01 Tábor</addressline>
+                <addressline> +420 381 765 102</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/tabor/soka-tabor-uvod</addressline>
+                <addressline>posta-ta@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1990</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>65</unitid>
+            <unittitle>Okresní národní výbor Tábor</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>243,17 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Tábor</corpname>
+            </repository>
+            <unitdate>1945/1990</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee of Tábor</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Tábor / NAD 65</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the fonds began to be accepted into the District Archives in Tábor as early as 1961. The fonds was not stored in one place. A relatively large number of documents got in the archives after the abolition of the District Office in 2002. In 2003, after the Tábor State District Archives moved to a new building, the entire fonds was consolidated, processed and made available by a temporary inventory list.</p>
+        </custodhist>
+        <bioghist>
+            <p>The Tábor District National Committee administered the Tábor District in 1945-1990. From 1949, it dealt with, among other things, the agenda of confiscation of agricultural property, technical and economic modifications of land, hunting and permitting of agricultural credit, and carried out a new land reform. Commissions became the executive component of the district national committee. It also had its elected bodies, a council and a plenum. In 1990, the Tábor District National Committee was transformed into the Tábor District Office.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds is linked to the Tábor District Office. It contains documents concerning municipal affairs, population movements, emigration, domicile right, education, health, police, construction, poverty, charity, agriculture, trades, finance and the military. Jews are explicitly mentioned in the following documents: persecution of Jews during the Nazi occupation (lists made in 1947); Jewish religious community - members of the leadership in Tábor 1948; territorial organization of churches - Jewish religious community 1949-1989.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: Official books; File material (registry finding aids, files). The files are divided into the handling units: 1945-1948, 1949-1950, 1951-1954, 1955-1976, 1977-1990; People's Control Committee; Personal use of land; Transfer of ownership (cancellation of rents); Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Mácová L.: Lesní dohlédací služba Okresního úřadu a Okresního národního výboru Tábor 1899-1960. Prozatímní inventární seznam, 1975, 25 s., ev. č. 473.</p></otherfindaid><otherfindaid><p>Mácová L.: Technické oddělení Okresní národní výbor Tábor 1939-1949. Prozatímní inventární seznam, 1976, 6 s., ev. č. 485.</p></otherfindaid><otherfindaid><p>Vančata, V.: Lesní dohlédací služba Okresního úřadu a Okresního národního výboru Tábor – mapy 1927-1954. Prozatímní inventární seznam, 1991, 12 s., ev. č. 670.</p></otherfindaid><otherfindaid><p>Vančata V.: Okresní národní výbor Tábor (1904) 1945-1990 (2001). Prozatímní inventární seznam, 2007, 248 s., ev. č. 1060.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>emigration</subject><subject>persecution</subject><subject>Jewish religious community</subject><subject></subject></controlaccess>
+    </archdesc>
+</ead>    
+

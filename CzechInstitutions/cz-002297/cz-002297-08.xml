@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>443</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Vodňany </titleproper>
+            <subtitle>District National Committee of Vodňany / NAD 443</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>443</unitid>
+            <unittitle>Okresní národní výbor Vodňany </unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>49,64 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1945/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District National Committee of Vodňany</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Vodňany / NAD 443</p>
+        </odd>
+        <custodhist>
+            <p>The fonds has been preserved almost untouched. The first transfer of files from the district national committees to the Strakonice District Archives took place in 1963. Gradually, further transfers took place, the last of which in 2014 from the Písek State District Archives. The processing and inventory of the District National Committee of Vodňany was completed in 2016.</p>
+        </custodhist>
+        <bioghist>
+            <p>The origin, organization and competence of district national committees as new state bodies was established by the Constitutional Decree No. 18 of the President of the Republic of 1945. First, a branch of the District National Committee of Písek was established in Vodňany, and then in 1949, the District National Committee of Vodňany. It ceased to exist on June 30, 1960 due to a territorial re-organization.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the district people's administration and delegated state administration: official books, files, and accounting material. It documents the economic, political, social and cultural conditions of the former district of Vodňany. Information on Jews can be found in the following areas: confiscated Jewish property (1935) 1945-1952 (sorted alphabetically by name), Jewish religious community 1950, the use of the former Jewish synagogue 1950-1958.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I Official books: a) administrative books, b) records; II File material: a) registry finding aids; b) files - the handling periods 1945-1948, 1949-1950, 1951-1954, 1955-1958, 1959-1960; III Accounting material; IV Other material; V Associated agenda of the District National Committee.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koštová J.: Okresní národní výbor Vodňany (1779) 1945-1960 (1966). Inventář, 2017, 162 s., ev. č. 1071.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/336522</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>confiscated Jewish property</subject><subject>Jewish religious community</subject><subject>synagogue</subject></controlaccess>
+    </archdesc>
+</ead>    

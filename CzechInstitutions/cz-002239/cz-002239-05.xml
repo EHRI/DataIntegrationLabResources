@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1199</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Sbírka soudobé dokumentace</titleproper>
+            <subtitle>Collection of the Contemporary Documentation / NAD 1199</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1602/2015</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1199</unitid>
+            <unittitle>Sbírka soudobé dokumentace</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>40,57 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1602/2015</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Town museum of Německý Brod; District Regional Museum Havlíčkův Brod; The Havlíčkůvr Brod District Archives</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Collection of the Contemporary Documentation / NAD 1199</p>
+        </odd>
+        <custodhist>
+            <p>The fonds was created gradually, through collecting activities of the staff of the museum and the district archives, focusing on the documentation of important events in the town at given times.</p>
+        </custodhist>
+        <bioghist>
+            <p>The beginning of the town museum is considered to be the year 1874, when a museum association was established. A collection-building activity was started, which was deepened during an ethnographic exhibition. At the turn of the 20th century, the museum focused on collecting regional monuments and monuments associated with the name of Karel Havlíček Borovský. At the same time, it developed research activities concerning the history of the town and documentation of events in the town and its surroundings. After 1945, its efforts were followed by the district archives in Havlíčkův Brod, which took over part of the museum material.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds originated due to the collecting activities of the Municipal Museum in Německý Brod, and later due to the activities of the district archives. These parts are followed by the documentation from the period after 1945. The fonds contains documents concerning: elections to the town council, the Chamber of Deputies, the Senate, and the National Assembly, the war of 1866, World War I and II, revolutions, celebrations and various events, the workers' movement, the Communist Party and other political parties, cultural activities, sports, economy and industry, social life, Haškova Lipnice festival, documentation of rural municipalities, decrees of the town, the district national committee, the district and regional offices, newspaper clippings and various prints. The fonds also contains documentation of important personalities connected with Havlíčkův Brod. Information on the history of Jews can be found in documents from World War I - slum colony, refugees - and in documents from World War II - decrees against Jews. The fonds contains small materials on other historical topics, such as obituaries (ing. Kraus, Josef Pachner) or records of exhibitions with Jewish themes.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided thematically and according to the nature of the documents into several sections (see the thematic description of the fonds).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Vencová E.: Soudobá dokumentace – Sbírka plakátů 1731-2000. Prozatímní inventární seznam, 2004, 0 s., ev. č. 237.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>elections</subject><subject>political parties</subject><subject>World War I</subject><subject>slum colony</subject><subject>refugees</subject><subject>World War II</subject><subject>decrees against Jews</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>318</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Berní úřad Jihlava</titleproper>
+            <subtitle>Tax Office of Jihlava / NAD 318</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1853/1948</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>318</unitid>
+            <unittitle>Berní úřad Jihlava</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>28,69 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1853/1948</unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Tax Office of Jihlava; Tax Office of Třešť; Assay Office of Jihlava; District National Committee of Jihlava</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Tax Office of Jihlava / NAD 318</p>
+        </odd>
+        <custodhist>
+            <p>After the abolition of the office, its documents were handed over to the district archives by the successor by the District National Committee in Jihlava, where the fonds was organized and inventoried in 1960.</p>
+        </custodhist>
+        <bioghist>
+            <p>In 1848, tax authorities became executive financial authorities in the field of direct and indirect taxes, depository authorities and the lowest state treasuries. In the field of direct taxation, the authorities were subordinated to the political authorities of first instance, in matters of fees, excise duties and all treasury and financial activities, and in matters of state property and management, they were subordinated to the district financial directorates. In matters of court deposits and orphan funds, they were subordinated to district courts. From 1919, they were subject to new tax administrations - tax departments of district governor's offices. The district of the Jihlava tax office had the same area as the district court. In 1930, the tax office in Třešť was abolished and its scope was transferred to the tax office in Jihlava. From 1 January 1922, the agenda of collecting and enforcing direct taxes passed to the office. It was abolished during the reorganization of the financial administration in 1948.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains the agenda of collecting taxes of the judicial district of Jihlava and later of the judicial district of Třešť. Jewish issues can be found in the files from the Holocaust period about the ancestry of 1940-1944, and the estate of K. Löw from Helenín 1930-1945.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains official books and files. 14,99 linear meters are not processed yet.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Štarha I.: Berní úřad Jihlava 1853-1953. Inventář, 1960, 18 s., ev. č. 365.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>taxation</subject></controlaccess>
+    </archdesc>
+</ead>    

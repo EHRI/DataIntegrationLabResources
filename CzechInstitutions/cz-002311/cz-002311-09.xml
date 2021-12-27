@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>153</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Zlín I.</titleproper>
+            <subtitle>District Office Zlín I / NAD 153</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Zlín</publisher>
+            <address>
+                <addressline>Klečůvka-zámek, 763 11 Želechovice nad Dřevnicí</addressline>
+                <addressline> +420 577 901 132</addressline>
+                <addressline>www.mza.cz/zlin</addressline>
+                <addressline>soka_zlin@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1935/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>153</unitid>
+            <unittitle>Okresní úřad Zlín I.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>90,33 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Zlín</corpname>
+            </repository>
+            <unitdate>1935/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Office Zlín </name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Office Zlín I / NAD 153</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the district office were inappropriately stored in various cellars and attics of Zlín buildings such as the town hall, the chateau, and the Study Institute, and in the post-war years also in Uherské Hradiště, Štípa and Bojkovice. Improper storage has damaged and destroyed many materials. The fonds was inventoried in 1975. In 2012, it was administratively divided according to chronological criteria into separate fonds of the Zlín District Office I and the Zlín District National Committee.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Office in Zlín was established in 1935. A district governor was appointed head, who chaired the advisory boards - the district council and its adjacent body - the district committee. During the Nazi occupation (1939–1945), Zlín was the seat of the Oberlandrat (1939–1942), and the district office was subject to its control. In 1942, the so-called Reichsauftragsverwaltung were established. They took over an important part of the security-administrative agenda from the district authorities.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of public administration, official books, files, accounting material and associated agenda. Jews are mentioned in the presidium files of the Zlín District Office, these often being measures, circulars, instructions and orders of higher instances such as: an investigation into anti-Jewish leaflets distributed in the Zlín region in 1936 and 1938; trips of retired German officers of the Jewish faith to the Czechoslovak Republic; measures in the district of Zlín in 1937; the number of Jewish refugees moving into the district of the Zlín political district in 1937; measures against the influx of emigrants from Romania - a warning against a Romanian Jew, Mikuláš Solomon, in 1938; information on the dismissal of Jewish employees in companies in the Czechoslovak Republic controlled by the German capital from 1938; the danger of the so-called "Jewish" invasion of Czechoslovakia due to the persecution of Jews in Germany on Crystal Night 1938; compilation of lists of civil servants of Jewish origin 1939.From the period of Nazi occupation and the Holocaust, there are presidium files including the following: an instruction of Generalkommando XVII-Ic on the issuance of passports to Jews emigrating to Britain, 1939; a ban on filling vacancies in the city and town councils after Jews in 1939; requesting an overview of Jewish property, including farms, by the Oberlandrat in Zlín on 18 and 22 April 1939; property situation and personal data of private German teacher Otto Beck 1939; a ban on carrying hunting weapons for Jews 1939; issues of banning ritual slaughter of animals 1939; lists of the education staff living in marriage to Jews 1940; confiscating Jewish property: statements by employees about their Aryan origins and the origin of their family members 1940; removal of Jewish companies, designation of Jewish warehouses, shops and businesses 1939–1941; confiscation of books by Jewish authors 1941; adjustment of shopping hours for Jews, attendance of Jewish children in schools 1941; removal of inscriptions and drawings of anti-German character by organized Jewish groups: lists of Jews included in the groups from Malenovice, Vizovice and Otrokovice 1941; a request for a list of public employees designated as Jews and mixed races or living in mixed marriage with a Jew in 1941; an investigation into the ancestry of employees and their wives: lists, statements 1941. The remaining files of the Zlín District Office I contain materials from the period of the Second Republic and the Nazi occupation, these being complete files of information on the introduced restrictive measured: the legal status of Jews in public life, the ancestry of Jews 1939-1944; records of the assessment of Jews 1939; records of Jews and Jewish property 1939–1942; Jews and mixed races: a survey of nationality 1939–1940; records of foreigners: residence permit, deportations, reports of Jewish residence 1941–1943. A part of the fonds: The Zlín Administration, on behalf of the Reich (Reichsauftragsverwaltung), keeps particularly valuable daily and weekly reports of individual gendarmerie stations and the District Gendarmerie Headquarters in Zlín for the years 1942–1945. Jews are explicitly mentioned individually: the discovery of the corpse of Terezia Friemlová, a half-Jew, who committed suicide in her apartment in Kyjov on January 8, 1945.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided as follows: I. Official books, II. File material: A) Registry finding aids, B) Files, III. Accounting material; IV. Other material; V. Associated agenda: A) Water management book, B) Grazing land management inspectorate 1940–1943, C) Administration on behalf of the German Reich (RAV) 1942–1945.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koželuhová L.: Okresní úřad – okresní národní výbor Zlín (1701) 1935-1949 (1953). Inventář, 1975, 250 s., ev. č. 218.</p></otherfindaid><otherfindaid><p>Koželuhová L.: Okresní úřad Zlín – Presidiální spisy 1935-1944. Katalog, 1972, 203 s., ev. č. 394.</p></otherfindaid><otherfindaid><p>Koželuhová L.: Okresní úřad Zlín – Správa z pověření Říše (Reichsauftragsverwaltung) 1942-1945. Katalog, 1973,265 s., ev. č. 395.</p></otherfindaid><otherfindaid><p>Koželuhová L.: Vodní kniha Okresního úřadu Zlín a Okresního národního výboru Zlín-Gottwaldov (1869) 1939-1947 (1970). Dílčí inventář, 1972, 20 s., ev. č. 405.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>anti-Jewish leaflets</subject><subject>German officers of the Jewish faith</subject><subject>Jewish refugees</subject><subject>Holocaust</subject><subject>Jewish emigration</subject><subject>Jewish property</subject><subject>anti-Jewish restrictions</subject></controlaccess>
+    </archdesc>
+</ead>    
+

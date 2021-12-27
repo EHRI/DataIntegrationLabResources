@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>325</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní soud Jihlava</titleproper>
+            <subtitle>District Court of Jihlava / NAD 325</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Jihlava</publisher>
+            <address>
+                <addressline>Fritzova 19, 586 01 Jihlava </addressline>
+                <addressline> +420 567 301 963</addressline>
+                <addressline>https://www.mza.cz/jihlava/</addressline>
+                <addressline>soka_jihlava@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/2004 </date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>325</unitid>
+            <unittitle>Okresní soud Jihlava</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>632,60 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Jihlava</corpname>
+            </repository>
+            <unitdate>1850/2004 </unitdate>
+            <langmaterial>
+                <language langcode="ger">ger</language><language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Court of Jihlava</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District Court of Jihlava / NAD 325</p>
+        </odd>
+        <custodhist>
+            <p>A major part of the fonds from 1850–1897 was taken over by the State Archives in Telč in 1951 from the former Regional Court in Brno, later material was taken over from the People's Court in Jihlava in 1954. Other documents were handed over in 1961 and 1963 after the reorganization of the judiciary in 1960. In 2000-2015, there were 6 major acquisitions and several small ones.</p>
+        </custodhist>
+        <bioghist>
+            <p>The District Court in Jihlava was established in 1850 for the judicial districts of Jihlava, Třebíč and Velké Meziříčí. After the reform in 1855, the jurisdiction of the court was limited to the judicial district of Jihlava. However, a mixed political office was not established in Jihlava as elsewhere, but the judicial administration of the first instance remained independent as the so-called municipal delegated district court, whose staff belonged to the Jihlava Regional Court. It operated under this name until 1897. In 1911, 11 municipalities from the Jihlava judicial district were connected to the newly created judicial district in Třešť. The judicial districts were abolished in 1949.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains files of the Jihlava District Court. The judicial agenda is divided into civil and criminal. The civil agenda includes disputes, estates and wills, and the criminal agenda mainly misdemeanors. Registry books and name indexes enable orientation in the files. Jewish issues can be found in all groups of documents, especially the estate files (mark D) from 1946–1949, which often concern persons who did not survive the German occupation and for whom inheritance proceedings took place only after the end of the war. Registers of estates and lists of names can be used for orientation in the files. Restitution files from 1949–1950 are also important, and from the department of OS Jihlava V (Land Book Agenda) also the Book of seats in the Jewish synagogue in Puklice from 1855.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The documents from 1850–1949 are inventoried, having three inventories according to the handling periods (1850–1897, 1898–1923, 1924–1949) and one including the land book agenda from 1850–1949. The earliest part of the fonds from 1850–1897 was inventoried in the State Archives in Telč in 1957, the remaining handling periods until 1949 were organized in the District Archives in Jihlava in 1965. The archive material from 1949–2004 has not been organized yet.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Cvek V. – Papíková M.: Okresní soud Jihlava, Inventář I, 1850-1897, 1957, 27 s., ev. č. 371.</p></otherfindaid><otherfindaid><p>Svoboda J. – Hoffmann F. – Krpálková J.: Okresní soud Jihlava, Inventář II, 1898-1923 (1929), 1965, 28 s., ev. č. 372.</p></otherfindaid><otherfindaid><p>Hoffmannová J. – Krpálková J.: Okresní soud Jihlava, Inventář III, (1919) 1924-1948 (1949), 1965, 49 s., ev. č. 373.</p></otherfindaid><otherfindaid><p>Hoffmann F. – Krpálková J.: Okresní soud Jihlava, Pozemkově knižní agenda, Inventář V, 1850-1949, 1965, 41 s., ev. č. 374.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Restitutions</subject><subject>inheritance</subject><subject>synagogue seats</subject></controlaccess>
+    </archdesc>
+</ead>    

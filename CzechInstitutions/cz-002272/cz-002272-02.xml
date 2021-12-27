@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní úřad Pardubice</titleproper>
+            <subtitle>Pardubice District Office  / NAD 1</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Pardubice</publisher>
+            <address>
+                <addressline>Bělobranské nám. 1, 530 02 Pardubice</addressline>
+                <addressline> +420 466 009 611</addressline>
+                <addressline>https://vychodoceskearchivy.cz/home/kontakty/statni-okresni-archiv-pardubice/</addressline>
+                <addressline>podatelna.pu@ahapa.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1850/1945</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1</unitid>
+            <unittitle>Okresní úřad Pardubice</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>236,32 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Pardubice</corpname>
+            </repository>
+            <unitdate>1850/1945</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>District Governor's Office Pardubice; Mixed District Office Pardubice; District Political Administration of Pardubice; The Pardubice District Office </name>
+            </origination>
+        </did>
+        <odd>
+            <p>Pardubice District Office  / NAD 1</p>
+        </odd>
+        <custodhist>
+            <p>The appraisal proceedings, archival revisions and transfer of documents from the Pardubice District National Committee to the state archives took place in the years 1955-1957. The files were arranged according to the registration plans valid for the district authorities in the years 1850-1945 (1948). An inventory of the organized fonds was made in 1957. In 1983, the fonds was transferred to the district archives. In the district archives, the fonds was re-organized, supplemented with additions and inventoried in 1989. In 2013, a handling list was made for the census agenda and the so-called water book.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district governor's office in Pardubice began its activities on February 1, 1850. On May 26, 1855, it was transformed into a mixed district office, which was subordinated to the regional office in Chrudim as the second administrative instance. From 31 August 1868, the district governor's office was restored. In 1919, its name was changed to district political administration, which lasted until 1928. The Act on the New Organization of Political Administration No. 125/1927 changed the structure of the state apparatus, in which district authorities became the first instance of political administration.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the political administration of the Pardubice District, official books, files, and the associated agenda. Jews are explicitly mentioned in the following documents: a list of administrators of the Jewish property 1940, church affairs 1906-1945, association affairs 1850–1945, police affairs - passport agenda 1906-1945, trade licensing affairs 1850-1945, census 1921, police agenda and security - Jews and Jewish property 1939–1945, social care - bans on the entry of Jews, support for prisoners 1940-1945 (1948).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into I. Books (the administrative, registration, and accounting ones), II. Files, III. Associated Agendas and Appendices. The file agenda is divided into presidium files and ordinary files (these are organized into four registry periods).</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Žandová E.: Okresní úřad Pardubice 1850-1945 (1952). Inventář, 1989, 104 s., ev. č. 491.</p></otherfindaid><otherfindaid><p>Žandová E.: Katalog Presidiálních spisů Okresního úřadu Pardubice 1885-1918. Katalog 1971, 66 s., ev. č. 993.</p></otherfindaid><otherfindaid><p>Žandová E.: Katalog Presidiálních spisů Okresního úřadu Pardubice 1918-1939. Katalog 1970, 225 s., ev. č. 1031.</p></otherfindaid><otherfindaid><p>Žandová E.: Katalog Presidiálních spisů Okresního úřadu Pardubice 1939-1945. Katalog 1967, 82 s., ev. č. 1032.</p></otherfindaid><otherfindaid><p>Hloušek L. – Mücke P. – Novotný D. – Siglová T.: Okresní úřad Pardubice (1807) 1850-1949 (1953): Sčítaní lidu 1921. Vodní kniha. Manipulační seznam 2. typu, 2013, 31 s., ev. č. 1160.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>administrators of the Jewish property</subject><subject>census records</subject><subject>Jewish property</subject><subject>anti-Jewish restrictions</subject></controlaccess>
+    </archdesc>
+</ead>    

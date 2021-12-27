@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1155</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Farní úřad u Nejsvětějšího Srdce Páně Praha – Vinohrady</titleproper>
+            <subtitle>Parish Office at the Church of the Most Sacred Heart of Our Lord in Prague-Vinohrady / NAD 1155</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Prague City Archives</publisher>
+            <address>
+                <addressline>Archivní 6, 149 00 Praha 4, Czechia</addressline>
+                <addressline> +420 236 004 017</addressline>
+                <addressline>http://www.ahmp.cz/</addressline>
+                <addressline>ahmp@praha.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1884/1950</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1155</unitid>
+            <unittitle>Farní úřad u Nejsvětějšího Srdce Páně Praha – Vinohrady</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>4,98 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Prague City Archives</corpname>
+            </repository>
+            <unitdate>1884/1950</unitdate>
+            <langmaterial>
+                <language langcode="lat">lat</language><language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Parish Office at the Church of the Most Sacred Heart of Our Lord in Prague-Vinohrady</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Parish Office at the Church of the Most Sacred Heart of Our Lord in Prague-Vinohrady / NAD 1155</p>
+        </odd>
+        <custodhist>
+            <p>The archival materials were obtained from its originator in 1960. The fonds was inventoried in 2011. 0,28 linear meters are not processed yet.</p>
+        </custodhist>
+        <bioghist>
+            <p>The single local parish of St. Ludmila did not meet the needs of the fast-growing neighborhood of Vinohrady already at the beginning of the 20th century, so a new rectory was founded in 1910 which was dedicated to the Sacred Heart of the Lord in 1921.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains archival material concerning mainly Prague's religious history in 1884-1950. It also includes records of baptisms of adult Jews from 1933-1942 (Inv. No. 168) and sets of rules for Jews during World War II.(Inv. No. 186)</p>
+        </scopecontent>
+        <arrangement>
+            <p>The archival materials are organized in the fonds as follows: A. Books, B. Files.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Brátková, Z.: Farní úřad u Nejsvětějšího Srdce Páne na Vinohradech 1884-1950. Inventář, 2011, 43 s., ev. č. 522.</p></otherfindaid>
+        <otherfindaid><p>http://www.ahmp.cz/page/docs/AP-522-fara-NSP-Vinohrady.pdf</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>Religious history</subject><subject>Jewish baptisms</subject><subject>registry matters</subject><subject>Second World War</subject></controlaccess>
+    </archdesc>
+</ead>    

@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1226</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Hájková, Alena, PhDr.</titleproper>
+            <subtitle>PhDr. Alena Hájková / NAD 1226</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>The National Archives</publisher>
+            <address>
+                <addressline>Archivní 2257/4, 149 00 Praha 4</addressline>
+                <addressline> +420 974 847 847 247</addressline>
+                <addressline>https://www.nacr.cz</addressline>
+                <addressline>posta@nacr.cz </addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1929/1997</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1226</unitid>
+            <unittitle>Hájková, Alena, PhDr.</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">Good</physfacet>
+                <extent> 6,75 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>The National Archives</corpname>
+            </repository>
+            <unitdate>1929/1997</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language><language langcode="eng">eng</language>
+            </langmaterial>
+            <origination>
+                <name>Hájková, Alena, PhDr.</name>
+            </origination>
+        </did>
+        <odd>
+            <p>PhDr. Alena Hájková / NAD 1226</p>
+        </odd>
+        <custodhist>
+            <p>The first part of the personal archive of PhDr. Alena Hájek was taken over by the State Central Archives (now the National Archives) in 1998 from Alena Hájek. It consisted mainly of manuscripts of scientific studies and articles, related correspondence, and auxiliary study material, including photographic documentation. In 2013, the family handed over to the National Archives the estate of Dr. Hájková, a substantial part of which consisted of her biographical materials and memories of participants in the anti-fascist resistance.</p>
+        </custodhist>
+        <bioghist>
+            <p>Historian Alena Hájková, PhDr., an author of works on the anti-fascist resistance, a participant in the anti-Nazi domestic resistance, a holder of the title "Righteous Among the Nations", was born on 11 October 1924 in Prague. In 1939, she began to train as a ladies' dressmaker. She took a job with Felix Just, a German goldsmith firm in Prague, which also employed a number of Jews who were already persecuted at that time. Hájková began to help disabled Jewish friends, and established cooperation with the leftist Zionist organization Hashomer Hatzair. The organization set up the resistance group Přehledy in 1943, whose members included Alena Hájek's friend, Jany Lebovič, and her future husband, Miloš Hájek. She was arrested by the Gestapo in March 1944 and was imprisoned in the Ravensbrück and Buchenwald concentration camps until the end of the war. Jany Lebovič, along with most of the members of the resistance group Přehledy, was murdered in Auschwitz. After the end of the Second World War, she married Miloš Hájek, began to study history at the Faculty of Arts of Charles University and then she worked in that field. She was an assistant professor at the Department of Social Sciences at the Czech Technical University in Prague, a researcher at the Czechoslovak Committee for the History of the Anti-Fascist Resistance, and a specialist officer at the Ministry of National Defence. She died in Prague on 2 August 2012.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The personal fonds of historian Alena Hájková is a valuable source of information relating to the issue of racial discrimination against the Jewish population and the beginnings of Jewish resistance in the Protectorate of Bohemia and Moravia. The fonds contains mainly her manuscripts of scientific works related to the anti-Nazi resistance with a focus on the Jewish resistance. The fonds contains manuscripts of works such as The List of Jews in 1939-1941, Participation of Jews in the Czech Resistance Movement, The Disappeared Ones in the First Months of the Occupation, and Administration in 1939-1941, and The Jews. The fonds also contains memories of resistance fighters of Jewish origin, which Alena Hájková herself recorded. These include the memories of Moritz Mittelmann, Pavel Kraus and Alexander Mahler of resistance activities during the Nazi occupation. In her works, she also traces the fate of resistance fighters before 1939 and maps their contribution to the anti-fascist movement after 1933, e.g. their participation in the Spanish Civil War of 1936-1939. The collection also contains Alena Hájková's manuscript notes on the transport of Jews from the Protectorate of Bohemia and Moravia to concentration camps and on the persecution of the Jewish population. The fonds also contains background materials for the examination of the resistance activities of individual underground groups operating in the Protectorate of Bohemia and Moravia and applications of the participants in the anti-Nazi domestic resistance for certificates of resistance activities under Act No. 255/1946 Sb., which PhDr. Alena Hájková prepared on the basis of testimonies and archival sources. The fonds also contains Alena Hájková's biographical materials relating to her resistance activities - e.g. her own biography, memories of relatives (among others, the memory of Margit Steinerová-Karpelesová), documents about the cooperation of Alena Hájková and Miloš Hájek with members of the left-wing Zionist organisation Hashomer Hacair, the diary of Jany Lebovič, etc.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The roughly arranged files are: biographical materials of PhDr. Alena Hájek and her family members; correspondence; her manuscripts of scientific works; manuscripts of scientific studies and articles; memoirs of participants in the anti-Nazi resistance; supporting study material; photocopies of archival materials, a card file of patriots executed during the second martial law; statements on applications of participants in the anti-Nazi domestic resistance for certificates of resistance activity under Act No. 255/1946 Sb.; supporting materials for verification of resistance activities of individual illegal groups operating in the Protectorate of Bohemia and Moravia; photographs.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>Accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>There are no finding aids.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Hašomer Hacair</corpname></controlaccess>
+        <controlaccess><subject>Racial persecution</subject><subject>Jewish resistance</subject><subject>anti-fascist resistance</subject><subject>Holocaust</subject><subject>persecution of the Jews</subject><subject>concentration camps</subject><subject>Second World War</subject><subject>ghetto</subject></controlaccess>
+    </archdesc>
+</ead>    
+

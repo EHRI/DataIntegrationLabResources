@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>837</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Židovská náboženská obec Kolín</titleproper>
+            <subtitle>Jewish Religious Community in Kolín / NAD 837</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Kolin</publisher>
+            <address>
+                <addressline>Zahradní 278, Kolín IV, 280 02</addressline>
+                <addressline> +420 321 724 273</addressline>
+                <addressline>http://www.soapraha.cz/kolin/</addressline>
+                <addressline>soka-kolin@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1899/1967</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>837</unitid>
+            <unittitle>Židovská náboženská obec Kolín</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Photographic images</genreform> 
+                <physfacet type="condition">good</physfacet>
+                <extent>0,21 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Kolin</corpname>
+            </repository>
+            <unitdate>1899/1967</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Jewish Religious Community in Kolín</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Jewish Religious Community in Kolín / NAD 837</p>
+        </odd>
+        <custodhist>
+            <p>After the death of Karel Poláček, the representative of the Jewish Religious Community, the archive material was taken over by the regional museum in Kolín in 1979. In 1980, the documents were sorted, arranged and inventoried and handed over to the district archives.</p>
+        </custodhist>
+        <bioghist>
+            <p>The beginnings of the Jewish community in Kolin date back to the 14th century. The Jewish community is one of the oldest in Bohemia. In the 16th -17th, its number grew. In 1854 it included 1,700 people. The synagogue was built in the 17th century on the site of an older synagogue from the 16th century. There were two cemeteries in the municipality, from the 15th and 19th centuries. In the 19th century, Jews were members of the town administration, speaking mostly Czech. In 1942, the Jewish population was deported to concentration camps. After the war, the community was restored, but in the 1950s it was dissolved.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains 4 filing protocols from 1947, 1948, 1949, and 1951–1952. The files related to the congress of Jewish religious communities - Prague, Brno 1945, circulars of the Community (Council) of the Jewish Religious Community in the Czech and Moravian-Silesian lands 1945-1947, circulars of the Jewish Religious Community in Prague 1945, documents concerning the election in Kolín in 1947, and minutes of the Jewish Religious Community meetings in Kolín 1947–1953. A part concerns the memorial to the victims of Nazism in a new Jewish cemetery in Kolín (1948-1953) and to the planned abolition of the old cemetery (1949, 1961). A part concerns monument to the victims of racial persecution in other cities (1950) and war graves (1951). There are also topics such as social assistance (1945–1951), church property (1945–1955) and Jewish registries from 1945–1948, 1956. There is also information about Jewish associations, which, however, have their own fonds (Derech Yeshoroh (1945–1951), Ewjonim (1946–1951), Chevra Kadisha (1945–1952), and Love to Neighbors (1945 -1951) The fonds also contains photographs of Jewish objects (8 pcs).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds contains 4 filing registers, 18 folders, and 8 photographic archives.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Bisinger Z. – Pavlátová L.: Židovská náboženská obec Kolín 1899-1967. Sdružený a skupinový inventář (část), 1980, 13 s., ev. č. 108/1.</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><corpname>Association Derech Yeshoroh</corpname><corpname>Association Ewjonim</corpname><corpname>Chevra Kadisha Association</corpname><corpname>Association- Love to Neighbors</corpname></controlaccess>
+        <controlaccess><subject>Congress of Jewish religious Communities</subject><subject>Jewish Religious Community</subject><subject>Holocaust victimes</subject><subject>cemetery</subject></controlaccess>
+    </archdesc>
+</ead>    

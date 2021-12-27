@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>16</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Městský národní výbor Blatná</titleproper>
+            <subtitle>Town National Committee of Blatná / NAD 16</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Strakonice</publisher>
+            <address>
+                <addressline>Smetanova 351, 386 01 Strakonice</addressline>
+                <addressline> +420 386 321 062</addressline>
+                <addressline>https://www.ceskearchivy.cz/statni-okresni-archivy/strakonice/soka-strakonice-uvod/69-statni-okresni-archiv-strakonice</addressline>
+                <addressline>posta-st@ceskearchivy.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1990</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>16</unitid>
+            <unittitle>Městský národní výbor Blatná</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">good</physfacet>
+                <extent>13,9 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Strakonice</corpname>
+            </repository>
+            <unitdate>1945/1990</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>Town National Committee of Blatná</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Town National Committee of Blatná / NAD 16</p>
+        </odd>
+        <custodhist>
+            <p>The materials from the Blatná Municipal Office were first handed over to the Strakonice District Archives in 1972. Other archival materials were regularly handed over in the following years within the appraisal procedure. The last addition transferred to the State District Archives of Strakonice was appendices to the chronicles in 2019. The fonds was processed and inventoried in 2019.</p>
+        </custodhist>
+        <bioghist>
+            <p>The origin, organization and competence of district national committees as new state bodies were first established in Constitutional Decree No. 18 of the President of the Republic of 1945. Their powers were based on government regulations from 1945. The Blatná Municipal National Committee was established in 1945 and was the successor of the abolished Blatná Municipal Office. The municipal national committee was abolished in 1989.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the town administration and delegated state administration. Jewish issues can be found in the following areas: imposing national administration on Jewish property 1945-1951, property of the Jewish religious community - applications 1951, searching for those released from concentration camps (Drucker, E. Kohn) 1945-1957.</p>
+        </scopecontent>
+        <arrangement>
+            <p>During the organization process, the organization scheme was used according to the original registry system and the fonds is divided thematically into 22 groups.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Koštová J.: Městský národní výbor Blatná (1923) 1945-1990 (1992). Inventář, 2019, 55 s., ev. č. 1132.</p></otherfindaid>
+        <otherfindaid><p>https://digi.ceskearchivy.cz/122726</p></otherfindaid>
+        
+        
+        
+        
+        <controlaccess><subject>national administration of Jewish property</subject><subject>property of the Jewish religious community</subject><subject>Holocaust</subject></controlaccess>
+    </archdesc>
+</ead>    

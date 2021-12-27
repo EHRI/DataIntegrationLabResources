@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>20</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Okresní národní výbor Jílové; District Office of Praha-venkov-jih (1942 - 1945); The tax office Jílové; District National Committee Jílové; District National Committee Praha-venkov (1945 - 1960)</titleproper>
+            <subtitle>District National Committee of Jílové / NAD 20</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive of Prague-West in Prague</publisher>
+            <address>
+                <addressline>Pražská 728, Dobřichovice, PSČ 252 29</addressline>
+                <addressline> +420 257 710 492</addressline>
+                <addressline>http://www.soapraha.cz/praha-zapad/</addressline>
+                <addressline>soka-praha.zapad@soapraha.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1945/1960</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>20</unitid>
+            <unittitle>Okresní národní výbor Jílové; District Office of Praha-venkov-jih (1942 - 1945); The tax office Jílové; District National Committee Jílové; District National Committee Praha-venkov (1945 - 1960)</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">Poor</physfacet>
+                <extent>134,44 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive of Prague-West in Prague</corpname>
+            </repository>
+            <unitdate>1945/1960</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language>
+            </langmaterial>
+            <origination>
+                <name>District Office of Jílové</name>
+            </origination>
+        </did>
+        <odd>
+            <p>District National Committee of Jílové / NAD 20</p>
+        </odd>
+        <custodhist>
+            <p>The fonds originated from activities of the District National Committee of Jílové and Praha-východ in 1945-60. Most of the files were concentrated in the office registry, from where a part was transferred in 1952 to the district archives. After the abolition of the office in 1960, the written material of the District National Committee of Jílové was moved to the loft, where it was considerably damaged and part of it was lost. Subsequently, another part of the documents was transferred to the district archives. The remainder was moved there in 1970-73. The material was arranged and an inventory was created to it.</p>
+        </custodhist>
+        <bioghist>
+            <p>The district of Jílové was had been part of the Praha-venkov-jih district since 1942. It became independent in 1945. In 1958, the name of the district was changed from Praha-východ to the Jílové district, and the District National Committe was also moved there from Prague. In 1960, the majority of the district was incorporated into the district of Praha-západ, several municipalities being attached to other districts.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents arising from activities of the District Office, and later of the National Committee of Jílové. It contains official books, file material and accounting material. Information on Jews can be found in the following documents: inv. no. 242 Evictions of German persons of Jewish origin and religion, call no. III/26-60 (1946); inv. no. 284 Abandoned mortgage claims of Jewish members - handover of written materials, call no. VII/25-4 (1947); inv. no. 307 Redressing wrongs pursuant to Decree No. 53/1945 Sb.: payment of salaries of Jewish recipients to the former center for Jewish eviction, call no. VIII/9 (1947); inv. no. 320 Jewish property confiscated by the German Empire, call no. VIII/23 (1946); inv. no. 771 Jewish associations - a negative message, call no. 262 (1952).</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into I. Books, II. File material (registry finding aids and files) III. Accounting material.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Šmilauerová E.: Okresní národní výbor Jílové 1945-1960. Inventář, 1974, 210 s., ev. č. 85.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>German Jews</subject><subject>Jewish property</subject><subject>confication of the property</subject><subject>Jewish associations</subject></controlaccess>
+    </archdesc>
+</ead>    

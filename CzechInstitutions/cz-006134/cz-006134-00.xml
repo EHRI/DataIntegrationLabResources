@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>569</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Správa hřbitovů a krematoria města Plzně</titleproper>
+            <subtitle>Administration of the Cemeteries and Crematorium, Pilsen / NAD 569</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>Pilsen City Archives</publisher>
+            <address>
+                <addressline>Veleslavínova 19, Plzeň, 306 32, Czechia</addressline>
+                <addressline> +420 378 032 609</addressline>
+                <addressline>https://amp.plzen.eu/</addressline>
+                <addressline>maglic@plzen.eu</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1806/2007</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>569</unitid>
+            <unittitle>Správa hřbitovů a krematoria města Plzně</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                <genreform>Moving Images</genreform> 
+                <physfacet type="condition">Good</physfacet>
+                <extent>19,91 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>Pilsen City Archives</corpname>
+            </repository>
+            <unitdate>1806/2007</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Administration of the Cemeteries and Crematorium, Pilsen; The Funeral Service of the City of Pilsen; Technical services of the City of Pilsen </name>
+            </origination>
+        </did>
+        <odd>
+            <p>Administration of the Cemeteries and Crematorium, Pilsen / NAD 569</p>
+        </odd>
+        <custodhist>
+            <p>The documents of the Funeral Service of the City of Pilsen were stored in the originator's place and partly in the file office of the Municipal Office of Pilsen. A large part of these documents was taken over by the Archives of the City of Pilsen in 1977, 1988 and in 1989. The last unprocessed acquisition was taken over by the Archives in 2013.</p>
+        </custodhist>
+        <bioghist>
+            <p>The funeral service of the city of Pilsen was established on 1 January 1913, taking over most of the agenda of funerals and cemetery administration. (The cremation agenda was included in 1926.) The Israeli department of the Central Cemetery was opened in 1898, was owned by the city, and was administered by the Jewish Religious Community in Pilsen for a flat fee to the city. Later, the organization was renamed the Administration of the Cemeteries and Crematorium of the City of Pilsen, and in 1960 this institute was incorporated into the Technical Services of the City of Pilsen. In 1992, it became independent again as the Administration of the Cemeteries and Crematorium of the City of Pilsen.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains documents of the Funeral Service of the City of Pilsen and the Administration of the Cemeteries and Crematorium, namely official books, files and plans of Pilsen cemeteries. Judaica: The plan of the Christian and Jewish cemetery in Pilsen 1907 (Inv. No. 245), A list of buried Jews in the Israeli department of the Central Cemetery Pilsen 1940-1942 (Inv. No. 400.A/1), the establishment of the Israeli department of the cemetery from 1899 (Inv. No. 400.A/2), the correspondence with the Jewish Religious Community in Pilsen from 1896-1956, an attack against the Jewish prayer house on March 7, 1939, the Jewish gravedigger 1922-1950, a plan of the Jewish department in the Central cemetery [1890], a project of a new cemetery from 1896 (Inv. No. 400-401), a plan of the ceremonial hall in the new Jewish cemetery 1897 (Inv. No. 402-403) and other partial plans. Other Judaica will probably be part of the files of the Central Cemetery (Holocaust trains (Inv. No. 223), The records of the processing of stolen Jewish tombstones.)</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds was organized and the inventory created in 1983. The fonds is divided according to individual cemeteries, within them into official books, files, and plans. In the case of the cemetery of St. Nicholas film recordings have also been preserved. The inventory also includes an overview of the cemetery agenda of municipalities that had joined Pilsen over the years.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>partly accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Douša J.: Pohřební služba města Plzně 1806-1970. Inventář, 1983, 78 s., ev. č. 58, sign. VII/2.</p></otherfindaid><otherfindaid><p>Prunerová, J.: Pohřební služba města Plzně 1920-1984. Prozatímní inventární seznam, 6 s., ev. č. 587, sign. VII/2A.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Jewish Cemetery</subject><subject>The List of buried Jews</subject><subject>Jewish Religious Community</subject><subject>Attack against the Jewish prayer house</subject><subject>Transports of the Jews</subject></controlaccess>
+    </archdesc>
+</ead>    

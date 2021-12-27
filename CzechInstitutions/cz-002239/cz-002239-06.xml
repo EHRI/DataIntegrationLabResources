@@ -1,0 +1,76 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1340</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Tichý, Jaroslav</titleproper>
+            <subtitle>Tichý, Jaroslav / NAD 1340</subtitle>
+            <author>This archival description was created by the Jewish Museum in Prague in the framework of the cooperation between EHRI and the Yerusha project.</author>
+        </titlestmt>
+        <publicationstmt>
+            <publisher>State District Archive Havlíčkův Brod</publisher>
+            <address>
+                <addressline>Kyjovská 1125, 580 01 Havlíčkův Brod</addressline>
+                <addressline> +420 569 429 742</addressline>
+                <addressline>https://www.mza.cz/havlickuv-brod/</addressline>
+                <addressline>soka_havlickuvbrod@mza.cz</addressline>
+            </address>
+        </publicationstmt>
+    </filedesc>
+    <profiledesc>
+    <creation>
+        <date>1912/1996</date>
+    </creation>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid>1340</unitid>
+            <unittitle>Tichý, Jaroslav</unittitle>
+            <physdesc>
+                <genreform>Textual material</genreform>
+                 
+                <physfacet type="condition">unknown</physfacet>
+                <extent>5,1 linear meters</extent>
+            </physdesc>
+            <repository>
+                <corpname>State District Archive Havlíčkův Brod</corpname>
+            </repository>
+            <unitdate>1912/1996</unitdate>
+            <langmaterial>
+                <language langcode="cze">cze</language><language langcode="ger">ger</language>
+            </langmaterial>
+            <origination>
+                <name>Jaroslav Tichý</name>
+            </origination>
+        </did>
+        <odd>
+            <p>Tichý, Jaroslav / NAD 1340</p>
+        </odd>
+        <custodhist>
+            <p>Officially, this personal estate was transferred to the administration of the State District Archives in Havlíčkův Brod by a donation agreement dated 27 August 1997, i.e. less than a year after the originator's death. The documents were donated by his son Jaroslav Tichý.</p>
+        </custodhist>
+        <bioghist>
+            <p>Tichý, Jaroslav (1912 Chotěboř - 1996 Chotěboř), educator, Sokol member and cultural activist. During the war, a member of the illegal organization Defense of the Nation. He was arrested and imprisoned by the Nazis in Dresden and in the Pölitz concentration camp. He collaborated with the partisans and took part in the liberation fights in 1945 in the Chotěboř region. After the war he was a teacher again and a researcher in regional history, especially during WW II. He was a volunteer administrator of the Museum of National History in Chotěboř and organized the local town archives. He was a member of the Czech Union of Anti-Fascist Fighters and after 1990 in the Union of Freedom Fighters. He published his literary works in the press. Some of them were published as separate publications - Defense of the Nation in the Chotěboř Region, In Resistance and Suffering, etc. His mother was of Jewish origin.</p>
+        </bioghist>
+        <scopecontent>
+            <p>The fonds contains personal documents, the biography of the originator, documents on his professional activities (teacher), documents on his resistance activities (World War II), correspondence, documents on social activities (museum, resistance organizations), art works, ethnographic and historical works, study materials on the resistance in the region during WW II, photographs, decorations, diplomas, and other. Jaroslav Tichý was interested in the history of Jews in Chotěboř and its surroundings and in the fate of Jewish families during World War II. In his estate there is a lot of information about the imprisonment of Jews during the war, transports - victims of the Holocaust from Chotěboř, Golčův Jeníkov, Habry and villages in the area (Dobrnice, Venice, Horní Studenec, Leština, Nasavrky, Proseč, Sázavka, Uhelní Příbram, Vilémov, and other). Some families are given more attention - for example, the Beck family from Chotěboř. Correspondence with survivors - memories. Mixed marriages and their fates during the war. Correspondence with the Jewish Museum in Prague. Restrictions on Jews in Chotěboř during the war.</p>
+        </scopecontent>
+        <arrangement>
+            <p>The fonds is divided into a part related to the life of Jaroslav Tichý and a part which was created on the basis of the work of Jaroslav Tichý. Studies on the regional history are divided into three units - the history of Chotěboř and the Chotěboř region, World War II, Nazi persecution and resistance, and the history of the Communist Party in the Chotěboř region.</p>
+        </arrangement>
+        <accessrestrict>
+            <p>accessible</p>
+        </accessrestrict>
+        <otherfindaid><p>Tajovský M.: Tichý Jaroslav Chotěboř 1912-1996, Osobní písemná pozůstalost. Inventář, 2008, 0 s., ev. č. 450.</p></otherfindaid>
+        
+        
+        
+        
+        
+        <controlaccess><subject>Memoirs</subject><subject>personal documents</subject><subject>holocaust</subject><subject>Jewish history in Chotěboř</subject><subject>anti-Jewish restrictions</subject></controlaccess>
+    </archdesc>
+</ead>    
