@@ -1,0 +1,27 @@
+target-path	target-node	source-node	value
+/	ead	.	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	//c[@level="file"]/did/unitid	text()
+/ead/eadheader/eadid/	@countrycode	.	"DE"
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	//c[@level="file"]/did/unittitle	text()
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	"German"
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	"deu"
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	"collection"
+/ead/archdesc/	did	.	
+/ead/archdesc/did/	unitid	//c[@level="file"]/did/unitid	text()
+/ead/archdesc/did/	unitdate	//c[@level="file"]/did/unitdate	text()
+/ead/archdesc/did/unitdate/	@normal	//c[@level="file"]/did/unitdate/@normal	.
+/ead/archdesc/did/	unittitle	//c[@level="file"]/did/unittitle	text()
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/physdesc/	@label	.	"Extent"
+/ead/archdesc/did/physdesc/	extent	//c[@level="file"]/did/physdesc/extent	text()
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	//c[@level="file"]/did/abstract	replace(text(), "&lt;[^/]*&gt;|&lt;[^/]*[/]&gt;", "")
+/ead/archdesc/	controlaccess	.	
+/ead/archdesc/controlaccess/	geogname	fn:tokenize(//c[@level="file"]/index/indexentry/geogname/text(), "; ")	.
+/ead/archdesc/controlaccess/	subject	fn:tokenize(//c[@level="file"]/index/indexentry/subject/text(), "; ")	.
