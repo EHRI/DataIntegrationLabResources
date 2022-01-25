@@ -11,22 +11,15 @@
         </xsl:copy>
     </xsl:template>
   
-    <xsl:template match="c01[not(descendant::unittitle[normalize-space()])]">
+  	<xsl:template match="//accessrestrict">
       	<xsl:copy>
           	<xsl:apply-templates select="node()|@*" />
-         <accessrestrict>
-           	<p>
-           		<xsl:value-of select="dsc/p" />
-           	</p>
-         </accessrestrict>
+          	<xsl:if test="exists(//dsc/c01[not(descendant::unittitle[normalize-space()])])">
+              <p><xsl:value-of select="//dsc/c01[not(descendant::unittitle[normalize-space()])]/dsc/p" /></p>
+            </xsl:if>
         </xsl:copy>
     </xsl:template>
   
-  	<xsl:template match="c01[not(descendant::unittitle[normalize-space()])]/did">
-      	<xsl:copy>
-          	<xsl:apply-templates select="node()|@*" />
-          	<unittitle>Aanvraaginstructie</unittitle>
-        </xsl:copy>
-    </xsl:template>
+  <xsl:template match="c01[not(descendant::unittitle[normalize-space()])]" />
   
 </xsl:stylesheet>
