@@ -15,16 +15,18 @@
   	<xsl:template match="//dsc/*/did">
       	<xsl:copy>          	
           	<xsl:apply-templates select="node()|@*" />
-          	<note>
-              <p>http://www.archieven.nl/nl/search-modonly?mivast=298&amp;mizig=210&amp;miadt=298&amp;miaet=1&amp;micode=<xsl:value-of select="//eadid" />&amp;minr=<xsl:value-of select="replace(@id, 'MF', '')" />&amp;miview=inv2</p>
-              <xsl:if test="exists(../daogrp/daoloc[@xlink:label='reference']/@xlink:href)">
-                <p><xsl:value-of select="../daogrp/daoloc[@xlink:label='reference']/@xlink:href" /></p>
-              </xsl:if>
-              <!--<extptr>
+          	<materialspec>
+              <extptr>
                   <xsl:attribute name="xlink:type">simple</xsl:attribute>
                   <xsl:attribute name="xlink:href">http://www.archieven.nl/nl/search-modonly?mivast=298&amp;mizig=210&amp;miadt=298&amp;miaet=1&amp;micode=<xsl:value-of select="//eadid" />&amp;minr=<xsl:value-of select="replace(@id, 'MF', '')" />&amp;miview=inv2</xsl:attribute>
-              </extptr>-->
-            </note>
+              </extptr>
+              <xsl:if test="exists(../daogrp/daoloc[@xlink:label='reference']/@xlink:href)">
+                <extptr>
+                  <xsl:attribute name="xlink:type">simple</xsl:attribute>
+                  <xsl:attribute name="xlink:href"><xsl:value-of select="../daogrp/daoloc[@xlink:label='reference']/@xlink:href" /></xsl:attribute>
+              	</extptr>
+              </xsl:if>
+            </materialspec>
         </xsl:copy>
     </xsl:template>
   
