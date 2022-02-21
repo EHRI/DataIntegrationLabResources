@@ -1,0 +1,51 @@
+target-path	target-node	source-node	value
+/	ead	.	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	.	"easy-collection:2"
+/ead/eadheader/eadid/	@countrycode	.	"NL"
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	.	"World War II"
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	"Dutch"
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	"nld"
+/ead/eadheader/profiledesc/	descrules	.	"DANS collecties bestaan uit op trefwoord geselecteerde datasets. Voor het EHRI project zijn door EHRI uit de easy-collection:2 alle datasets geselecteerd die een van de volgende subjects bevatten: The description of this collection has been created by EHRI in 2014. Keywords provided by the data depositors have been used by EHRI to create a subset from the thematic collection of DANS with material related to the Holocaust"
+/ead/archdesc/	@level	.	"collection"
+/ead/	archdesc	.	
+/ead/archdesc/	did	.	
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	.	'The collection World War II has been created by DANS. The collection consists of datasets that have been deposited by researchers. Keywords provided by the data depositors have been used to create this thematic collection. Most of the datasets contain oral history materials. Many of these datasets are the result of the national program "Heritage of the War" (2005-2009) that improved access to the large variety of WOII collections and thereby contributed to the advance of knowledge of WOII'
+/ead/archdesc/did/	unitid	.	"easy-collection:2"
+/ead/archdesc/did/	unittitle	.	"World War II"
+/ead/archdesc/	dsc	.	
+/ead/archdesc/dsc/	c01	.	
+/ead/archdesc/dsc/c01/	@level	.	"item"
+/ead/archdesc/dsc/c01/	did	.	
+/ead/archdesc/dsc/c01/did/	unitid	//dc:identifier[contains(., "urn")]	text()
+/ead/archdesc/dsc/c01/did/	unittitle	//dc:title	text()
+/ead/archdesc/dsc/c01/did/	unitdate	//dc:date	text()
+/ead/archdesc/dsc/c01/did/	unitdate	//dc:coverage[matches(., "(^\d)|(\d$)")]	text()
+/ead/archdesc/dsc/c01/did/	origination	.	
+/ead/archdesc/dsc/c01/did/origination/	name	//dc:creator	text()
+/ead/archdesc/dsc/c01/did/	langmaterial	.	
+/ead/archdesc/dsc/c01/did/langmaterial/	language	//dc:language[string-length(.) <= 3]	text()
+/ead/archdesc/dsc/c01/did/langmaterial/language/	@langcode	.	text()
+/ead/archdesc/dsc/c01/did/	materialspec	.	
+/ead/archdesc/dsc/c01/did/materialspec/	extptr	//dc:relation	
+/ead/archdesc/dsc/c01/did/materialspec/extptr/	@xlink:title	.	replace(tokenize(text(), ";\s+")[1], "title=", "")
+/ead/archdesc/dsc/c01/did/materialspec/extptr/	@xlink:href	.	replace(tokenize(text(), ";\s+")[2], "URI=", "")
+/ead/archdesc/dsc/c01/did/materialspec/extptr/	@xlink:type	.	"simple"
+/ead/archdesc/dsc/c01/	scopecontent	.	
+/ead/archdesc/dsc/c01/scopecontent/	p	//dc:description	text()
+/ead/archdesc/dsc/c01/	userestrict	.	
+/ead/archdesc/dsc/c01/userrestrict/	p	//dc:rights	text()
+/ead/archdesc/dsc/c01/	otherfindaid	.	
+/ead/archdesc/dsc/c01/otherfindaid/	p	//dc:identifier[contains(., "urn")]	concat("http://www.persistent-identifier.nl/?identifier=", text())
+/ead/archdesc/dsc/c01/	phystech	.	
+/ead/archdesc/dsc/c01/phystech/	p	//dc:format	text()
+/ead/archdesc/dsc/c01/	controlaccess	.	
+/ead/archdesc/dsc/c01/controlaccess/	subject	//dc:subject[not(contains(., "EASY"))]	text()
+/ead/archdesc/dsc/c01/controlaccess/	geogname	//dc:coverage[not(matches(., "(^\d)|(\d$)"))]	text()
+/ead/archdesc/dsc/c01/	accessrestrict	.	
+/ead/archdesc/dsc/c01/accessrestrict/	p	//dc:rights	text()
