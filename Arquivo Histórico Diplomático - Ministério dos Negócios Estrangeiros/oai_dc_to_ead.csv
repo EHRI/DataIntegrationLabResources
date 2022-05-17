@@ -1,0 +1,29 @@
+target-path	target-node	source-node	value
+/	ead	.	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	//dc:identifier[matches(., '^[0-9]+$')]	text()
+/ead/eadheader/eadid/	@countrycode	.	'PT'
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	.	if(exists(.//dc:title)) then .//dc:title/text() else ' '
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	'Portuguese'
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	'por'
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	'item'
+/ead/archdesc/	did	.	
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	//dc:description	text()
+/ead/archdesc/	accessrestrict	.	
+/ead/archdesc/accessrestrict/	p	//dc:rights	text()
+/ead/archdesc/did/	unitid	.	if(exists(.//dc:identifier[matches(., '^PT/.+')])) then .//dc:identifier[matches(., '^PT/.+')]/text() else .//dc:identifier[matches(., '^[0-9]+$')]/text()
+/ead/archdesc/did/	unittitle	.	if(exists(.//dc:title)) then .//dc:title/text() else ' '
+/ead/archdesc/did/	unitdate	//dc:date	text()
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/physdesc/	physfacet	//dc:type	text()
+/ead/archdesc/did/physdesc/	physfacet	//dc:format	text()
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	extptr	.	
+/ead/archdesc/did/materialspec/extptr/	@xlink:href	//dc:identifier[matches(., '^http+')]	text()
+/ead/archdesc/did/materialspec/extptr/	@xlink:type	.	'simple'
