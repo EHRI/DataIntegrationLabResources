@@ -1,0 +1,150 @@
+target-path	target-node	source-node	value
+/	ead	//doc[not(exists(arr[@name="assoc_parent_irn"]))]	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	if (exists(./arr[@name="assoc_parent_irn"])) then () else ./str[@name="id"]	text()
+/ead/eadheader/	eadid	if (exists(./arr[@name="assoc_parent_irn"])) then ./arr[@name="assoc_parent_irn"]/str else ()	concat("irn", text())
+/ead/eadheader/eadid/	@mainagencycode	.	"US-USHMM"
+/ead/eadheader/eadid/	@countrycode	.	"US"
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	./arr[@name="assoc_parent_title"]/str	text()
+/ead/eadheader/filedesc/titlestmt/	titleproper	if (concat("irn", ./str[@name="title_display"]) = ./str[@name="id"]) then ./arr[@name="record_type"]/str else ./str[@name="title_display"]	text()
+/ead/eadheader/filedesc/titlestmt/	titleproper	/arr[@name="unitdate"]/str	text()
+/ead/eadheader/filedesc/titlestmt/	titleproper	if(exists(./arr[@name="title_display"])) then () else ./arr[@name="collection_summary"]/str	text()
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	creation	./str[@name="datetimemodified"]	"This EAD is created by EHRI on ", <date xmlns="urn:isbn:1-931666-22-9">{current-date()}</date>, " based on XML provided by USHMM. This XML file is constructed from a Catalog Record that was last modified on ", <date xmlns="urn:isbn:1-931666-22-9">{text()}</date>, "."
+/ead/	archdesc	.	
+/ead/archdesc/	@level	function ($id as xs:string, $context as item()) {if (exists($context/../doc[arr[@name="assoc_parent_irn"]/str/text() = $id])) then <test>collection</test> else <test>item</test> }(./str[@name="irn"]/text(), .)	if (matches(text(), "folder")) then "collection" else text()
+/ead/archdesc/	did	.	
+/ead/archdesc/	dsc	.	
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	./arr[@name="collection_summary"]/str	text()
+/ead/archdesc/scopecontent/	p	./arr[@name="scope_content"]/str	text()
+/ead/archdesc/scopecontent/	p	./arr[@name="brief_desc"]/str	text()
+/ead/archdesc/	acqinfo	.	
+/ead/archdesc/acqinfo/	p	./arr[@name="collection_provenance"]/str	text()
+/ead/archdesc/did/	unitid	./str[@name="irn"]	concat("irn", text())
+/ead/archdesc/did/	unitid	./str[@name="accession_number"]	attribute label {"accession_number"}, text()
+/ead/archdesc/did/	unitid	./arr[@name="accession_number_addl"]/str	attribute label {"former_accession_number"}, text()
+/ead/archdesc/did/	unitid	./str[@name="rg_number"]	attribute label {"recordgroup_number"}, text()
+/ead/archdesc/did/	unittitle	./arr[@name="assoc_parent_title"]/str[ text() != ./arr[@name="collection_name"]/str/text() ]	attribute label {"alternative"}, text()
+/ead/archdesc/did/	unittitle	./arr[@name="assoc_parent_title"]/str	text()
+/ead/archdesc/did/	unittitle	./arr[@name="subtitle"]/str	attribute label {"subtitle"}, text()
+/ead/archdesc/did/	unittitle	./arr[@name="title_alternate"]/str	attribute label {"alternative"}, text()
+/ead/archdesc/did/	unittitle	if (concat("irn", ./str[@name="title_display"]) = ./str[@name="id"]) then ./arr[@name="record_type"]/str else ./str[@name="title_display"]	text()
+/ead/archdesc/did/	unittitle	./arr[@name="title_sub"]/str	attribute label {"subtitle"}, text()
+/ead/archdesc/did/	unittitle	./arr[@name="collection_name"]/str	attribute label {"alternative"}, text()
+/ead/archdesc/did/	unitdate	for $date at $pos in ./arr[@name="display_date"]/str return [$date, ./arr[@name="date_type"]/str[$pos]]	if (matches(.(2), "bulk|inclusive")) then attribute type {.(2)} else if (matches(.(2), "creation")) then attribute datechar {"creation"} else attribute label {.(2)}, if (matches(.(1), "approximately")) then attribute certainty {"approximate"} else (), if (.(1)/text()) then let $normalized := xtra:normalize-date-interval(.(1)/text()) return if ($normalized) then attribute normal {$normalized} else () else (), .(1)/text()
+/ead/archdesc/did/	unitdate	/arr[@name="unitdate"]/str	text()
+/ead/archdesc/did/	unittitle	/arr[@name="unitdate"]/str	text()
+/ead/archdesc/did/	origination	.	
+/ead/archdesc/did/	origination	./arr[@name="document_creator"]/str	attribute label {"creator"}, text()
+/ead/archdesc/did/	origination	(for $n in distinct-values(./arr[@name="interviewer"]/str) return <str>{$n}</str>)	attribute label {"creator"}, text()
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/physdesc/	dimensions	./arr[@name="dimensions"]/str	text()
+/ead/archdesc/did/physdesc/	extent	./arr[@name="document_container"]/str	text()
+/ead/archdesc/did/physdesc/	extent	./arr[@name="document_quantity"]/str	text()
+/ead/archdesc/did/physdesc/	extent	(for $unit at $pos in ./arr[@name="extent_unit"]/str return [$unit, ./arr[@name="extent_quantity"]/str[$pos], ./arr[@name="extent_format"]/str[$pos]])	attribute type {.(1)}, concat(.(2), " ", .(1), ", ", .(3))
+/ead/archdesc/did/physdesc/	physfacet	./arr[@name="material_composition"]/str	text()
+/ead/archdesc/did/physdesc/	physfacet	./arr[@name="inscription"]/str	text()
+/ead/archdesc/did/	langmaterial	.	
+/ead/archdesc/did/langmaterial/	language	./arr[@name="language"]/str	attribute langcode {xtra:language-name-to-code(text())}, text()
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	@label	.	"Web Source"
+/ead/archdesc/did/materialspec/	extptr	./str[@name="irn"]	attribute xlink:type {"simple"}, attribute xlink:href {concat("https://collections.ushmm.org/search/catalog/irn", text())}
+/ead/archdesc/	otherfindaid	.	
+/ead/archdesc/otherfindaid/	p	if (./arr[@name="fnd_pub_web"]/str[1]/text() = "Yes" and ./arr[@name="record_type"]/str[1]/text()="Document") then ./arr[@name="fnd_doc_filename"]/str else ()	concat("https://collections.ushmm.org/findingaids/", encode-for-uri(text()))
+/ead/archdesc/otherfindaid/	p	if (./arr[@name="fnd_pub_web"]/str[1]/text() = "Yes" and ./arr[@name="record_type"]/str[1]/text()="Oral History") then ./arr[@name="fnd_doc_filename"]/str else ()	concat("https://collections.ushmm.org/oh_findingaids/", encode-for-uri(text()))
+/ead/archdesc/	accessrestrict	.	
+/ead/archdesc/accessrestrict/	p	./arr[@name="conditions_access"]/str	text()
+/ead/archdesc/acqinfo/	p	./arr[@name="acq_credit"]/str	text()
+/ead/archdesc/acqinfo/	p	./arr[@name="funding_note"]/str	concat("Funding Note: ", text())
+/ead/archdesc/acqinfo/	p	./arr[@name="provenance"]/str	text()
+/ead/archdesc/	arrangement	.	
+/ead/archdesc/arrangement/	p	./arr[@name="arrangement"]/str	text()
+/ead/archdesc/	bioghist	.	
+/ead/archdesc/bioghist/	p	./arr[@name="creator_bio"]/str	text()
+/ead/archdesc/bioghist/	p	./arr[@name="historical_provenance"]/str	text()
+/ead/archdesc/	custodhist	.	
+/ead/archdesc/custodhist/	p	./arr[@name="original_holder"]/str	text()
+/ead/archdesc/custodhist/	p	./arr[@name="object_provenance"]/str	text()
+/ead/archdesc/	userestrict	.	
+/ead/archdesc/userestrict/	p	./arr[@name="copyright_holder"]/str	attribute type {"copyright"}, concat("Copyright Holder: ", text())
+/ead/archdesc/	controlaccess	.	
+/ead/archdesc/controlaccess/	corpname	./arr[@name="subject_corporate"]/str	text()
+/ead/archdesc/controlaccess/	genreform	./arr[@name="classification"]/str	text()
+/ead/archdesc/controlaccess/	genreform	./arr[@name="record_type"]/str	text()
+/ead/archdesc/controlaccess/	genreform	./arr[@name="subject_genre_form"]/str	text()
+/ead/archdesc/controlaccess/	persname	./arr[@name="interviewee"]/str	text()
+/ead/archdesc/controlaccess/	persname	./arr[@name="interviewer"]/str	text()
+/ead/archdesc/controlaccess/	persname	./arr[@name="subject_person"]/str	text()
+/ead/archdesc/controlaccess/	subject	./arr[@name="subject_geography"]/str	text()
+/ead/archdesc/controlaccess/	subject	./arr[@name="subject_meeting_name"]/str	text()
+/ead/archdesc/controlaccess/	subject	./arr[@name="subject_topical"]/str	text()
+/ead/archdesc/dsc/	c01	function ($id as xs:string, $context as item()) {$context/../doc[arr[@name="assoc_parent_irn"]/str/text() = $id]}(./str[@name="irn"]/text(), .)	
+/ead/archdesc/dsc/c01/	@level	.	"item"
+/ead/archdesc/dsc/c01/	did	.	
+/ead/archdesc/dsc/c01/did/	unitid	./str[@name="irn"]	concat("irn", text())
+/ead/archdesc/dsc/c01/did/	unitid	./str[@name="accession_number"]	attribute label {"accession_number"}, text()
+/ead/archdesc/dsc/c01/did/	unitid	./arr[@name="accession_number_addl"]/str	attribute label {"former_accession_number"}, text()
+/ead/archdesc/dsc/c01/did/	unitid	./str[@name="rg_number"]	attribute label {"recordgroup_number"}, text()
+/ead/archdesc/dsc/c01/did/	unittitle	./arr[@name="subtitle"]/str	attribute label {"subtitle"}, text()
+/ead/archdesc/dsc/c01/did/	unittitle	./arr[@name="title_alternate"]/str	attribute label {"alternative"}, text()
+/ead/archdesc/dsc/c01/did/	unittitle	if (concat("irn", ./str[@name="title_display"]) = ./str[@name="id"]) then ./arr[@name="record_type"]/str else ./str[@name="title_display"]	text()
+/ead/archdesc/dsc/c01/did/	unittitle	./arr[@name="title_sub"]/str	attribute label {"subtitle"}, text()
+/ead/archdesc/dsc/c01/did/	unittitle	./arr[@name="collection_name"]/str	attribute label {"alternative"}, text()
+/ead/archdesc/dsc/c01/did/	unitdate	for $date at $pos in ./arr[@name="display_date"]/str return [$date, ./arr[@name="date_type"]/str[$pos]]	if (matches(.(2), "bulk|inclusive")) then attribute type {.(2)} else if (matches(.(2), "creation")) then attribute datechar {"creation"} else attribute label {.(2)}, if (matches(.(1), "approximately")) then attribute certainty {"approximate"} else (), if (.(1)/text()) then let $normalized := xtra:normalize-date-interval(.(1)/text()) return if ($normalized) then attribute normal {$normalized} else () else (), .(1)/text()
+/ead/archdesc/dsc/c01/did/	origination	.	
+/ead/archdesc/dsc/c01/did/	origination	./arr[@name="document_creator"]/str	attribute label {"creator"}, text()
+/ead/archdesc/dsc/c01/did/	origination	(for $n in distinct-values(./arr[@name="interviewer"]/str) return <str>{$n}</str>)	attribute label {"creator"}, text()
+/ead/archdesc/dsc/c01/did/	physdesc	.	
+/ead/archdesc/dsc/c01/did/physdesc/	dimensions	./arr[@name="dimensions"]/str	text()
+/ead/archdesc/dsc/c01/did/physdesc/	extent	./arr[@name="document_container"]/str	text()
+/ead/archdesc/dsc/c01/did/physdesc/	extent	./arr[@name="document_quantity"]/str	text()
+/ead/archdesc/dsc/c01/did/physdesc/	extent	(for $unit at $pos in ./arr[@name="extent_unit"]/str return [$unit, ./arr[@name="extent_quantity"]/str[$pos], ./arr[@name="extent_format"]/str[$pos]])	attribute type {.(1)}, concat(.(2), " ", .(1), ", ", .(3))
+/ead/archdesc/dsc/c01/did/physdesc/	physfacet	./arr[@name="material_composition"]/str	text()
+/ead/archdesc/dsc/c01/did/physdesc/	physfacet	./arr[@name="inscription"]/str	text()
+/ead/archdesc/dsc/c01/did/	langmaterial	.	
+/ead/archdesc/dsc/c01/did/langmaterial/	language	./arr[@name="language"]/str	attribute langcode {xtra:language-name-to-code(text())}, text()
+/ead/archdesc/dsc/c01/did/	materialspec	.	
+/ead/archdesc/dsc/c01/did/materialspec/	@label	.	"Web Source"
+/ead/archdesc/dsc/c01/did/materialspec/	extptr	./str[@name="irn"]	attribute xlink:type {"simple"}, attribute xlink:href {concat("https://collections.ushmm.org/search/catalog/irn", text())}
+/ead/archdesc/dsc/c01/	otherfindaid	.	
+/ead/archdesc/dsc/c01/otherfindaid/	p	if (./arr[@name="fnd_pub_web"]/str[1]/text() = "Yes" and ./arr[@name="record_type"]/str[1]/text()="Document") then ./arr[@name="fnd_doc_filename"]/str else ()	concat("https://collections.ushmm.org/findingaids/", encode-for-uri(text()))
+/ead/archdesc/dsc/c01/otherfindaid/	p	if (./arr[@name="fnd_pub_web"]/str[1]/text() = "Yes" and ./arr[@name="record_type"]/str[1]/text()="Oral History") then ./arr[@name="fnd_doc_filename"]/str else ()	concat("https://collections.ushmm.org/oh_findingaids/", encode-for-uri(text()))
+/ead/archdesc/dsc/c01/	accessrestrict	.	
+/ead/archdesc/dsc/c01/accessrestrict/	p	./arr[@name="conditions_access"]/str	text()
+/ead/archdesc/dsc/c01/	acqinfo	.	
+/ead/archdesc/dsc/c01/acqinfo/	p	./arr[@name="acq_credit"]/str	text()
+/ead/archdesc/dsc/c01/acqinfo/	p	./arr[@name="funding_note"]/str	concat("Funding Note: ", text())
+/ead/archdesc/dsc/c01/acqinfo/	p	./arr[@name="provenance"]/str	text()
+/ead/archdesc/dsc/c01/	arrangement	.	
+/ead/archdesc/dsc/c01/arrangement/	p	./arr[@name="arrangement"]/str	text()
+/ead/archdesc/dsc/c01/	bioghist	.	
+/ead/archdesc/dsc/c01/bioghist/	p	./arr[@name="creator_bio"]/str	text()
+/ead/archdesc/dsc/c01/bioghist/	p	./arr[@name="historical_provenance"]/str	text()
+/ead/archdesc/dsc/c01/	custodhist	.	
+/ead/archdesc/dsc/c01/custodhist/	p	./arr[@name="original_holder"]/str	text()
+/ead/archdesc/dsc/c01/custodhist/	p	./arr[@name="object_provenance"]/str	text()
+/ead/archdesc/dsc/c01/	scopecontent	.	
+/ead/archdesc/dsc/c01/scopecontent/	p	./arr[@name="collection_summary"]/str	text()
+/ead/archdesc/dsc/c01/scopecontent/	p	./arr[@name="scope_content"]/str	text()
+/ead/archdesc/dsc/c01/scopecontent/	p	./arr[@name="brief_desc"]/str	text()
+/ead/archdesc/dsc/c01/	userestrict	.	
+/ead/archdesc/dsc/c01/userestrict/	p	./arr[@name="conditions_use"]/str	text()
+/ead/archdesc/dsc/c01/userestrict/	p	./arr[@name="copyright_holder"]/str	attribute type {"copyright"}, concat("Copyright Holder: ", text())
+/ead/archdesc/dsc/c01/	controlaccess	.	
+/ead/archdesc/dsc/c01/controlaccess/	corpname	./arr[@name="subject_corporate"]/str	text()
+/ead/archdesc/dsc/c01/controlaccess/	genreform	./arr[@name="classification"]/str	text()
+/ead/archdesc/dsc/c01/controlaccess/	genreform	./arr[@name="record_type"]/str	text()
+/ead/archdesc/dsc/c01/controlaccess/	genreform	./arr[@name="subject_genre_form"]/str	text()
+/ead/archdesc/dsc/c01/controlaccess/	persname	./arr[@name="interviewee"]/str	text()
+/ead/archdesc/dsc/c01/controlaccess/	persname	(for $n in distinct-values(./arr[@name="interviewer"]/str) return <str>{$n}</str>)	text()
+/ead/archdesc/dsc/c01/controlaccess/	persname	./arr[@name="subject_person"]/str	text()
+/ead/archdesc/dsc/c01/controlaccess/	persname	./arr[@name="document_creator"]/str	attribute role {"creator"}, text()
+/ead/archdesc/dsc/c01/controlaccess/	subject	./arr[@name="subject_geography"]/str	text()
+/ead/archdesc/dsc/c01/controlaccess/	subject	./arr[@name="subject_meeting_name"]/str	text()
+/ead/archdesc/dsc/c01/controlaccess/	subject	./arr[@name="subject_topical"]/str	text()
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	"English"
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	"eng"
