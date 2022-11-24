@@ -1,0 +1,43 @@
+target-path	target-node	source-node	value
+/	ead	/record	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	./controlfield[@tag = '001']	text()
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	./datafield[@tag = '245']	concat(subfield[@code='a']/text(), subfield[@code='c']/text())
+/ead/eadheader/filedesc/titlestmt/	subtitle	./datafield[@tag = '245']/subfield[@code='c']	text()
+/ead/eadheader/filedesc/	editionstmt	.	
+/ead/eadheader/filedesc/editionstmt/	edition	./datafield[@tag = '250']/subfield[@code='a']	text()
+/ead/eadheader/filedesc/	publicationstmt	.	
+/ead/eadheader/filedesc/publicationstmt/	publisher	./datafield[@tag = '264']/subfield[@code='b']	text()
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	'deu'
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	'collection'
+/ead/archdesc/	odd	./datafield[@tag = '700']/subfield[@code='t']	text()
+/ead/archdesc/	did	.	
+/ead/archdesc/did/	unitid	./controlfield[@tag = '001']	text()
+/ead/archdesc/did/	unittitle	./datafield[@tag = '245']/subfield[@code='a']	text()
+/ead/archdesc/did/	unitdate	./datafield[@tag = '264']/subfield[@code='c']	text()
+/ead/archdesc/did/	origination	./datafield[@tag = '100']/subfield[@code='a']	text()
+/ead/archdesc/did/origination/	@label	.	'creator'
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/physdesc/	extent	./datafield[@tag = '300']/subfield	text()
+/ead/archdesc/did/	langmaterial	.	
+/ead/archdesc/did/langmaterial/	language	./datafield[@tag = '041']/subfield	
+/ead/archdesc/did/langmaterial/language/	@langcode	.	text()
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	@label	.	'Web Source'
+/ead/archdesc/did/materialspec/	extptr	./controlfield[@tag = '001']	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://d-nb.info/', text())}
+/ead/archdesc/did/materialspec/	extptr	./datafield[@tag='100']/subfield[@code='0'][2]	attribute xlink:type {'simple'}, attribute xlink:href {text()}
+/ead/archdesc/did/materialspec/	extptr	./datafield[@tag='655']/subfield[@code='0'][2]	attribute xlink:type {'simple'}, attribute xlink:href {text()}
+/ead/archdesc/did/materialspec/	extptr	./datafield[@tag='700']/subfield[@code='0'][2]	attribute xlink:type {'simple'}, attribute xlink:href {text()}
+/ead/archdesc/did/	note	.	
+/ead/archdesc/did/note/	p	./datafield[@tag = '856']	concat(subfield[@code='3']/text(), ': ', subfield[@code='u']/text())
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	./datafield[@tag='520']/subfield[@code='a']	text()
+/ead/archdesc/	controlaccess	.	
+/ead/archdesc/controlaccess/	persname	./datafield[@tag = '700']/subfield[@code='a']	text()
+/ead/archdesc/controlaccess/	geogname	./datafield[@tag = '264']/subfield[@code='a']	text()
