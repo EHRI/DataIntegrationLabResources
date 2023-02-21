@@ -1,0 +1,79 @@
+target-path	target-node	source-node	value
+/	ead	//tous-les-fonds/fonds	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	./cote	text()
+/ead/eadheader/eadid/	@countrycode	.	CA
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	./titre	text()
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	English
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	eng
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	'fonds'
+/ead/archdesc/	did	.	
+/ead/archdesc/did/	unitid	./cote	text()
+/ead/archdesc/did/	unitdate	[./date_debut, ./date_fin]	concat(replace(.(1), '/', '-'), ' - ', replace(.(2), '/', '-'))
+/ead/archdesc/did/	unitdate	./date	text()
+/ead/archdesc/did/	unittitle	./titre	text()
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/physdesc/	@label	.	Extent
+/ead/archdesc/did/physdesc/	extent	./etendue	text()
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	@label	.	'Web Source'
+/ead/archdesc/did/materialspec/	extptr	./cote	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://www.cjhn.ca/list?q=', text(), '&amp;repository_facet=Canadian+Jewish+Archives&amp;level_facet=Fonds&amp;level_facet=Series&amp;level_facet=SubSeries&amp;level_facet=SubSubSeries&amp;sort=fondsno+asc%2cseriesno+asc%2cfileno+asc%2citemno+asc')}
+/ead/archdesc/did/	note	.	
+/ead/archdesc/did/note/	p	./notes	text()
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	./portee	text()
+/ead/archdesc/	bioghist	.	
+/ead/archdesc/bioghist/	p	./histoire-administrative	text()
+/ead/archdesc/bioghist/	p	./notice	text()
+/ead/archdesc/	acqinfo	.	
+/ead/archdesc/acqinfo/	p	./histoire-conservation	text()
+/ead/archdesc/	dsc	.	
+/ead/archdesc/dsc/	c01	./serie	
+/ead/archdesc/dsc/c01/	@level	.	'series'
+/ead/archdesc/dsc/c01/	did	.	
+/ead/archdesc/dsc/c01/did/	unitid	./cote	text()
+/ead/archdesc/dsc/c01/did/	unitdate	[./date_debut, ./date_fin]	concat(replace(.(1), '/', '-'), ' - ', replace(.(2), '/', '-'))
+/ead/archdesc/dsc/c01/did/	unitdate	./date	text()
+/ead/archdesc/dsc/c01/did/	unittitle	./titre	text()
+/ead/archdesc/dsc/c01/did/	physdesc	.	
+/ead/archdesc/dsc/c01/did/physdesc/	@label	.	Extent
+/ead/archdesc/dsc/c01/did/physdesc/	extent	./etendue	text()
+/ead/archdesc/dsc/c01/did/	materialspec	.	
+/ead/archdesc/dsc/c01/did/materialspec/	@label	.	'Web Source'
+/ead/archdesc/dsc/c01/did/materialspec/	extptr	[./cote, //tous-les-fonds/fonds/cote]	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://www.cjhn.ca/list?q=', 'identifier_free:(+', .(1),')%20AND%20identifier_free:(+', .(2),')&amp;repository_facet=Canadian+Jewish+Archives&amp;level_facet=Series&amp;level_facet=SubSeries&amp;level_facet=SubSubSeries&amp;sort=fondsno+asc%2cseriesno+asc%2cfileno+asc%2citemno+asc')}
+/ead/archdesc/dsc/c01/did/	note	.	
+/ead/archdesc/dsc/c01/did/note/	p	./notes	text()
+/ead/archdesc/dsc/c01/	scopecontent	.	
+/ead/archdesc/dsc/c01/scopecontent/	p	./portee	text()
+/ead/archdesc/dsc/c01/	bioghist	.	
+/ead/archdesc/dsc/c01/bioghist/	p	./histoire-administrative	text()
+/ead/archdesc/dsc/c01/bioghist/	p	./notice	text()
+/ead/archdesc/dsc/c01/	acqinfo	.	
+/ead/archdesc/dsc/c01/acqinfo/	p	./histoire-conservation	text()
+/ead/archdesc/dsc/c01/	c02	./serie	
+/ead/archdesc/dsc/c01/c02/	@level	.	'subseries'
+/ead/archdesc/dsc/c01/c02/	did	.	
+/ead/archdesc/dsc/c01/c02/did/	unitid	./cote	text()
+/ead/archdesc/dsc/c01/c02/did/	unitdate	[./date_debut, ./date_fin]	concat(replace(.(1), '/', '-'), ' - ', replace(.(2), '/', '-'))
+/ead/archdesc/dsc/c01/c02/did/	unitdate	./date	text()
+/ead/archdesc/dsc/c01/c02/did/	unittitle	./titre	text()
+/ead/archdesc/dsc/c01/c02/did/	physdesc	.	
+/ead/archdesc/dsc/c01/c02/did/physdesc/	@label	.	Extent
+/ead/archdesc/dsc/c01/c02/did/physdesc/	extent	./etendue	text()
+/ead/archdesc/dsc/c01/c02/did/	materialspec	.	
+/ead/archdesc/dsc/c01/c02/did/materialspec/	@label	.	'Web Source'
+/ead/archdesc/dsc/c01/c02/did/materialspec/	extptr	[./cote, ./../cote, //tous-les-fonds/fonds/cote]	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://www.cjhn.ca/list?q=', 'identifier_free:(+',concat(.(2),  .(1)),')%20AND%20identifier_free:(+', .(3),')&amp;repository_facet=Canadian+Jewish+Archives&amp;level_facet=SubSeries&amp;level_facet=SubSubSeries&amp;sort=fondsno+asc%2cseriesno+asc%2cfileno+asc%2citemno+asc')}
+/ead/archdesc/dsc/c01/c02/did/	note	.	
+/ead/archdesc/dsc/c01/c02/did/note/	p	./notes	text()
+/ead/archdesc/dsc/c01/c02/	scopecontent	.	
+/ead/archdesc/dsc/c01/c02/scopecontent/	p	./portee	text()
+/ead/archdesc/dsc/c01/c02/	bioghist	.	
+/ead/archdesc/dsc/c01/c02/bioghist/	p	./histoire-administrative	text()
+/ead/archdesc/dsc/c01/c02/bioghist/	p	./notice	text()
+/ead/archdesc/dsc/c01/c02/	acqinfo	.	
+/ead/archdesc/dsc/c01/c02/acqinfo/	p	./histoire-conservation	text()
