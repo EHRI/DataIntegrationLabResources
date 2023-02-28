@@ -1,0 +1,74 @@
+target-path	target-node	source-node	value
+/	ead	/response/records/record	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	.	string(@id)
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/notestmt/	note	./fs/f[@caption='Notes']/vs/v	
+/ead/eadheader/filedesc/notestmt/note/	p	.	text()
+/ead/eadheader/profiledesc/	creation	.	'This EAD is created by EHRI on ', <date xmlns='urn:isbn:1-931666-22-9'>{current-date()}</date>, ' based on material accessed via the Wiener Library Soutron API on 01/02/2023'
+/ead/eadheader/filedesc/titlestmt/	titleproper	./fs/f[@caption='Title']/vs/v	text()
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	'collection'
+/ead/archdesc/	did	.	
+/ead/archdesc/did/	unitid	./fs/f[@caption='CID']/vs/v	text()
+/ead/archdesc/did/	unitid	./fs/f[@caption='Accession Number']/vs/v	attribute label {'accession_number'}, replace(replace(concat('WL', text()), ' ', ''),'Doc', '')
+/ead/archdesc/did/	unitid	./fs/f[@caption='Reference Number']/vs/v	attribute label {'reference_number'}, replace(replace(concat('WL', text()), ' ', ''),'Doc', '')
+/ead/archdesc/did/	unittitle	./fs/f[@caption='Title']/vs/v	text()
+/ead/archdesc/did/	unitdate	./fs/f[@caption='Coverage Dates']/vs/v	concat(@startYear , if(@startMonth) then concat('-', @startMonth) else '-1', if(@startDay) then concat('-', @startDay) else '-1', if(@endYear) then concat(' - ', @endYear, if(@endMonth) then concat('-', @endMonth) else '-1', if(@endDay) then concat('-', @endDay) else '-1') else '')
+/ead/archdesc/did/	unitdate	./fs/f[@caption='Time Period']/vs/v	text()
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/	origination	./fs/f[@caption='Institution']/vs/v	attribute label {'creator'}, text()
+/ead/archdesc/did/	origination	./fs/f[@caption='Creator - Institution']/vs/v	attribute label {'creator'}, text()
+/ead/archdesc/did/	origination	./fs/f[@caption='Creator - Person']/vs/v	attribute label {'creator'}, text()
+/ead/archdesc/did/physdesc/	dimensions	.	text()
+/ead/archdesc/did/physdesc/	extent	./fs/f[@caption='Extent']/vs/v	text()
+/ead/archdesc/did/	langmaterial	.	
+/ead/archdesc/did/langmaterial/	language	./fs/f[@caption='Language']/vs/v	text()
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	@label	.	'Web Source'
+/ead/archdesc/did/materialspec/	extptr	.	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://wiener.soutron.net/Portal/Default/en-GB/RecordView/Index/', string(@id))}
+/ead/archdesc/	accessrestrict	.	
+/ead/archdesc/accessrestrict/	p	./fs/f[@caption='Access']/vs/v	text()
+/ead/archdesc/	acqinfo	.	
+/ead/archdesc/acqinfo/	p	./fs/f[@caption='Acquisitions Information']/vs/v	text()
+/ead/archdesc/acqinfo/	p	./fs/f[@caption='Date of Donation']/vs/v	'Donated ', text()
+/ead/archdesc/acqinfo/	p	./fs/f[@caption='Donor']/vs/v	'Donor: ', text()
+/ead/archdesc/	appraisal	.	
+/ead/archdesc/appraisal/	p	./fs/f[@caption='Appraisal']/vs/v	text()
+/ead/archdesc/	accruals	.	
+/ead/archdesc/accruals/	p	./fs/f[@caption='Accruals']/vs/v	text()
+/ead/archdesc/	arrangement	.	
+/ead/archdesc/arrangement/	p	./fs/f[@caption='System of Arrangement']/vs/v	text()
+/ead/archdesc/	custodhist	.	
+/ead/archdesc/custodhist/	p	./fs/f[@caption='Custodial History']/vs/v	text()
+/ead/archdesc/	originalsloc	.	
+/ead/archdesc/originalsloc/	p	./fs/f[@caption='Location of Originals']/vs/v	text()
+/ead/archdesc/	phystech	.	
+/ead/archdesc/phystech/	p	./fs/f[@caption='Format']/vs/v	text()
+/ead/archdesc/	bioghist	.	
+/ead/archdesc/bioghist/	p	./fs/f[@caption='Biographical History']/vs/v	text()
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	./fs/f[@caption='Scope/Content']/vs/v	text()
+/ead/archdesc/	otherfindaid	.	
+/ead/archdesc/otherfindaid/	p	./fs/f[@caption='Other Find Aid']/vs/v	text()
+/ead/archdesc/otherfindaid/	p	./fs/f[@caption='Other Webpage(s)']/vs/v	text()
+/ead/archdesc/	relatedmaterial	.	
+/ead/archdesc/relatedmaterial/	p	./fs/f[@caption='Related Material']/vs/v	text()
+/ead/archdesc/relatedmaterial/	p	./fs/f[@caption='Description of Website(s)']/vs/v	text()
+/ead/archdesc/	userestrict	.	
+/ead/archdesc/userestrict/	p	./fs/f[@caption='Conditions Governing Reproduction']/vs/v	text()
+/ead/archdesc/userestrict/	p	./fs/f[@caption='Conditions Governing Use']/vs/v	text()
+/ead/archdesc/	processinfo	.	
+/ead/archdesc/processinfo/	p	[./fs/f[@caption='Last Edited By']/vs/v, ./fs/f[@caption='Last Edited Date']/vs/v]	if (count(.) >= 2) then concat('Last edited by ', .(1), ' on ', .(2)) else ''
+/ead/archdesc/	odd	.	
+/ead/archdesc/odd/	p	./fs/f[@caption='Notes']/vs/v	text()
+/ead/archdesc/	controlaccess	.	
+/ead/archdesc/controlaccess/	subject	./fs/f[@caption='Subject Keyword']/vs/v	text()
+/ead/archdesc/controlaccess/	persname	./fs/f[@caption='Personal Name Keyword']/vs/v	text()
+/ead/archdesc/controlaccess/	geogname	./fs/f[@caption='Geographical Keyword']/vs/v	text()
+/ead/archdesc/controlaccess/	famname	./fs/f[@caption='Family Name']/vs/v	text()
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	English
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	eng
