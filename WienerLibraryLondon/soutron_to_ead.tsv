@@ -15,17 +15,28 @@ target-path	target-node	source-node	value
 /ead/archdesc/did/	unitid	./fs/f[@caption='CID']/vs/v	text()
 /ead/archdesc/did/	unitid	./fs/f[@caption='Accession Number']/vs/v	attribute label {'accession_number'}, replace(replace(concat('WL', text()), ' ', ''),'Doc', '')
 /ead/archdesc/did/	unitid	./fs/f[@caption='Reference Number']/vs/v	attribute label {'reference_number'}, replace(replace(concat('WL', text()), ' ', ''),'Doc', '')
+/ead/archdesc/did/	unitid	.	string(@id)
 /ead/archdesc/did/	unittitle	./fs/f[@caption='Title']/vs/v	text()
 /ead/archdesc/did/	unitdate	./fs/f[@caption='Coverage Dates']/vs/v	concat(@startYear , if(@startMonth) then concat('-', @startMonth) else '-1', if(@startDay) then concat('-', @startDay) else '-1', if(@endYear) then concat(' - ', @endYear, if(@endMonth) then concat('-', @endMonth) else '-1', if(@endDay) then concat('-', @endDay) else '-1') else '')
+/ead/archdesc/did/	unitdate	./fs/f[@caption='Broadcast Date']/vs/v	concat(@startYear , if(@startMonth) then concat('-', @startMonth) else '-1', if(@startDay) then concat('-', @startDay) else '-1', if(@endYear) then concat(' - ', @endYear, if(@endMonth) then concat('-', @endMonth) else '-1', if(@endDay) then concat('-', @endDay) else '-1') else '')
+/ead/archdesc/did/	unitdate	./fs/f[@caption='Sort Year']/vs/v	concat(@startYear , if(@startMonth) then concat('-', @startMonth) else '-1', if(@startDay) then concat('-', @startDay) else '-1', if(@endYear) then concat(' - ', @endYear, if(@endMonth) then concat('-', @endMonth) else '-1', if(@endDay) then concat('-', @endDay) else '-1') else '')
 /ead/archdesc/did/	unitdate	./fs/f[@caption='Time Period']/vs/v	text()
+/ead/archdesc/did/	unitdate	./fs/f[@caption='Date of Publication']/vs/v	text()
 /ead/archdesc/did/	physdesc	.	
-/ead/archdesc/did/	origination	./fs/f[@caption='Institution']/vs/v	attribute label {'creator'}, text()
-/ead/archdesc/did/	origination	./fs/f[@caption='Creator - Institution']/vs/v	attribute label {'creator'}, text()
-/ead/archdesc/did/	origination	./fs/f[@caption='Creator - Person']/vs/v	attribute label {'creator'}, text()
+/ead/archdesc/did/	origination	.	
+/ead/archdesc/did/origination/	name	./fs/f[@caption='Institution']/vs/v	text()
+/ead/archdesc/did/origination/	name	./fs/f[@caption='Creator - Institution']/vs/v	text()
+/ead/archdesc/did/origination/	name	./fs/f[@caption='Creator - Person']/vs/v	text()
+/ead/archdesc/did/origination/	name	./fs/f[@caption='Publisher']/vs/v	text()
+/ead/archdesc/did/origination/	name	./fs/f[@caption='Author']/vs/v	text()
+/ead/archdesc/did/origination/	name	./fs/f[@caption='Joint Author']/vs/v	text()
+/ead/archdesc/did/origination/	name	./fs/f[@caption='Production Company']/vs/v	text()
+/ead/archdesc/did/origination/	name	./fs/f[@caption='Producer']/vs/v	text()
 /ead/archdesc/did/physdesc/	dimensions	.	text()
 /ead/archdesc/did/physdesc/	extent	./fs/f[@caption='Extent']/vs/v	text()
 /ead/archdesc/did/	langmaterial	.	
 /ead/archdesc/did/langmaterial/	language	./fs/f[@caption='Language']/vs/v	text()
+/ead/archdesc/did/langmaterial/language/	@langcode	.	text()
 /ead/archdesc/did/	materialspec	.	
 /ead/archdesc/did/materialspec/	@label	.	'Web Source'
 /ead/archdesc/did/materialspec/	extptr	.	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://wiener.soutron.net/Portal/Default/en-GB/RecordView/Index/', string(@id))}
