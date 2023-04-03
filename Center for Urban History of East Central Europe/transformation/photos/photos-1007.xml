@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1791</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Kniazia Romana Street</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>3_pict</unitid>
+                    
+                    <unittitle>Lviv Historical Museum</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1791</unitid>
+                        <unittitle>Kniazia Romana Street</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/1791"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Publishing House "Centr Europy", Lviv;Lviv Historical Museum</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Publishing House Centr Europy, Lviv</name></origination>
+<origination label="creator"><name>Lviv Historical Museum</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Street</subject>
+<subject> buildings</subject>
+<subject> construction</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

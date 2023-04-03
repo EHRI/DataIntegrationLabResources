@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>965</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Group of soldiers and sisters of the Our Lady's Family in a Red Cross Hospital</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>28_pict</unitid>
+                    <unitid>17</unitid>
+                    <unittitle>Yuriy Zaverbnyj</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/17/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>965</unitid>
+                        <unittitle>Group of soldiers and sisters of the Our Lady's Family in a Red Cross Hospital</unittitle>
+                        <unitdate>1915</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/965"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Iwasko, Schreiber;Unpublished resources;Juriy Zaverbnyj</p></note>
+                        <origination label="creator"><name>Iwasko, Schreiber</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Juriy Zaverbnyj</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Red Cross Hospital</subject>
+<subject> soldiers</subject>
+<subject> sisters of the Our Lady's Family</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

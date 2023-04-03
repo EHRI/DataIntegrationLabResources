@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5111</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Учні Київської першої гімназії під час екскурсії</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>6_pict</unitid>
+                    
+                    <unittitle>Центральний державний кінофотофоноархів України імені Г.С. Пшеничного</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5111</unitid>
+                        <unittitle>Учні Київської першої гімназії під час екскурсії</unittitle>
+                        <unitdate>1875-1900</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/5111"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Неопубліковані ресурси;Центральний державний кінофотофоноархів України імені Г.С. Пшеничного</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Неопубліковані ресурси</name></origination>
+<origination label="creator"><name>Центральний державний кінофотофоноархів України імені Г.С. Пшеничного</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Київ</geogname>
+                        <subject>екскурсія</subject>
+<subject> учні</subject>
+<subject> річка</subject>
+<subject> корабель</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>204</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Успенська церква та вежа Корнякта</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>19_pict</unitid>
+                    <unitid>11</unitid>
+                    <unittitle>Тарас Піняжко</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/11/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>204</unitid>
+                        <unittitle>Успенська церква та вежа Корнякта</unittitle>
+                        <unitdate>1931-1933</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/204"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Адам Ленкевич;"Рух", Львів;Тарас Піняжко</p></note>
+                        <origination label="creator"><name>Адам Ленкевич</name></origination>
+<origination label="creator"><name>Рух, Львів</name></origination>
+<origination label="creator"><name>Тарас Піняжко</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Вулиця</subject>
+<subject> архітектура</subject>
+<subject> церква</subject>
+<subject> вежа</subject>
+<subject> сквер</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

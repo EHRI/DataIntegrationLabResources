@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1797</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Кам’яниця на пл. Ринок, 32 перед демонтажем</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>3_pict</unitid>
+                    
+                    <unittitle>Львівський історичний музей</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1797</unitid>
+                        <unittitle>Кам’яниця на пл. Ринок, 32 перед демонтажем</unittitle>
+                        <unitdate>1910-1911</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/1797"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Видавництво "Центр Європи", Львів;Львівський історичний музей</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Видавництво Центр Європи, Львів</name></origination>
+<origination label="creator"><name>Львівський історичний музей</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Ринок</subject>
+<subject> кам'яниця</subject>
+<subject> торгівля</subject>
+<subject> транспорт</subject>
+<subject> електричний ліхтар</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

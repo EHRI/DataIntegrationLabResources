@@ -1,0 +1,49 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34436</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Map of Czernowitz with New Street Names, Numbers of Buildings and Designation of Heights</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Austrian_War_Archive</unitid>
+                    <unitid>133</unitid>
+                    <unittitle>Austrian War Archive</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/133/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34436</unitid>
+                        <unittitle>Map of Czernowitz with New Street Names, Numbers of Buildings and Designation of Heights</unittitle>
+                        <unitdate>с. 1911</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34436"/>
+                        </materialspec>
+                        <note><p>Copyright: Austrian War Archive, Vienna</p></note>
+                        <origination label="creator"><name>Leon König. Chernivtsi</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Chernivtsi</geogname>
+                        <subject>Chernivtsi</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

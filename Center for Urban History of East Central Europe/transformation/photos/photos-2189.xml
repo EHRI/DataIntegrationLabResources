@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>3798</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Lviv skiers on Carpathian ski trail</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>51_pict</unitid>
+                    
+                    <unittitle>Maryna Kursanova</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>3798</unitid>
+                        <unittitle>Lviv skiers on Carpathian ski trail</unittitle>
+                        <unitdate>1932-1939</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/3798"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Adam Lenkiewicz;Unpublished resources;Марина Курсанова</p></note>
+                        <origination label="creator"><name>Adam Lenkiewicz</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Марина Курсанова</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Carpathians</geogname>
+                        <subject>Mountains</subject>
+<subject> winter</subject>
+<subject> ski</subject>
+<subject> skiers</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

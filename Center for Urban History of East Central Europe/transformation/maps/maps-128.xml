@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34560</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Plan of Lemberg</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Science_Library_of_LNU</unitid>
+                    <unitid>135</unitid>
+                    <unittitle>Science Library of the Ivan Franko National University of Lviv</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/135/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34560</unitid>
+                        <unittitle>Plan of Lemberg</unittitle>
+                        <unitdate>1878</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34560"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>Artaria </name></origination>
+<origination label="creator"><name> Cо. Vienna</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Lviv</subject>
+<subject> Lwow</subject>
+<subject> Lemberg</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

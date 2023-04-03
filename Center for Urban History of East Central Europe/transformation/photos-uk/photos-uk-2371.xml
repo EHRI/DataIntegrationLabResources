@@ -1,0 +1,58 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>4776</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Депортація поляків м. Підгайці</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>84_pict</unitid>
+                    
+                    <unittitle>Степан Колодницький</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>4776</unitid>
+                        <unittitle>Депортація поляків м. Підгайці</unittitle>
+                        <unitdate>1942</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/4776"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Неопубліковані ресурси;Єва Чайковська;Степан Колодницький;Степан Колодницький</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Неопубліковані ресурси</name></origination>
+<origination label="creator"><name>Єва Чайковська</name></origination>
+<origination label="creator"><name>Степан Колодницький</name></origination>
+<origination label="creator"><name>Степан Колодницький</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Підгайці;Підгайці</geogname>
+                        <subject>депортація</subject>
+<subject> поляки-офіцери</subject>
+<subject> Сибір</subject>
+<subject> Казахстан</subject>
+<subject> родина Чайковських</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

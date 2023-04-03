@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1020</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Інтер'єр синагоги "Золота Роза"</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>10_pict</unitid>
+                    <unitid>67</unitid>
+                    <unittitle>Ігор Котлобулатов</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/67/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1020</unitid>
+                        <unittitle>Інтер'єр синагоги "Золота Роза"</unittitle>
+                        <unitdate>1925</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/1020"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Юзеф Косьчєша Яворскі;Богдан Януш, Львів;Ігор Котлобулатов</p></note>
+                        <origination label="creator"><name>Юзеф Косьчєша Яворскі</name></origination>
+<origination label="creator"><name>Богдан Януш, Львів</name></origination>
+<origination label="creator"><name>Ігор Котлобулатов</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Синагога</subject>
+<subject> інтер'єр</subject>
+<subject> декор</subject>
+<subject> скульптура</subject>
+<subject> ритуал</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

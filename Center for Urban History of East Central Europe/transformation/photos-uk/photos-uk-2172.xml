@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>3747</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Кінники на вулиці Львова</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>10_pict</unitid>
+                    
+                    <unittitle>Ігор Котлобулатов</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>3747</unitid>
+                        <unittitle>Кінники на вулиці Львова</unittitle>
+                        <unitdate>1900-1905</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/3747"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Неопубліковані ресурси;Ігор Котлобулатов</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Неопубліковані ресурси</name></origination>
+<origination label="creator"><name>Ігор Котлобулатов</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Вулиця</subject>
+<subject> перегони</subject>
+<subject> кінники</subject>
+<subject> будівля</subject>
+<subject> ліхтар</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

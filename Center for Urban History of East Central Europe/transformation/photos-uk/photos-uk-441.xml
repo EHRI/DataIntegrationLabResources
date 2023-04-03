@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>949</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Колишня в'язниця концттабору на Цитаделі</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>27_pict;26_pict</unitid>
+                    <unitid>94</unitid>
+                    <unittitle>Партійний архів, філія ДАЛО;Державний архів Львівської області</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/94/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>949</unitid>
+                        <unittitle>Колишня в'язниця концттабору на Цитаделі</unittitle>
+                        <unitdate>1941-1944</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/949"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Альбом "Немцы во Львове...";Партархів, філія ДАЛО</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Альбом Немцы во Львове...</name></origination>
+<origination label="creator"><name>Партархів, філія ДАЛО</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>казарми</subject>
+<subject> Цитадель</subject>
+<subject> колючий дріт</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

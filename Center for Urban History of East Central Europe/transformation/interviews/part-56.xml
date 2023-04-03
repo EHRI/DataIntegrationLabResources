@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>33613</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Male, born 1932</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Interviews</unitid>
+            <unittitle>Interviews</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>pustka</unitid>
+                    <unitid>142</unitid>
+                    <unittitle>Social Anthropology of filling the Void: Poland and Ukraine after World War II</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/142/interviews"/>
+                    </materialspec>
+                </did>
+                <scopecontent>
+                    <p>The central concept of the research project is «social void», a phenomenon that was characteristic of Central and Eastern Europe during and immediately after World War II as a result of mass ethnic cleansing, political revolutions, forced displacement and migration. The project focuses both on the material dimension of post-war social change (e.g. acquisition of property) and the subjective sphere of social practices and relationships. His goal was to examine the processes of replacing the missing elements of social life with local communities of Poland and Ukraine. The interviews conducted as part of the project show how the void was filled after the social groups (e.g. landowners, wealthy peasants), representatives of ethnic communities (Jews, Poles, Ukrainians) and professional groups (e.g. shoemakers, pharmacists, doctors, or more broadly – craftsmen, intelligence) were evicted by the war and post-war changes. The analysis concerns changes in the ownership structure, economic dysfunction, transformations of social and cultural practices, as well as changes in relations and social norms. The conversations archived at the Center were recorded in a dozen of locations in Lviv, Ivano-Frankivsk and Ternopil regions by an interdisciplinary team of Polish-Ukrainian researchers. The research was carried out in small towns and villages, combining the methodology of microhistory and biographic interview as part of oral history. In total, almost 150 interviews were collected in Ukraine, of which 40 are currently available in UStories collection. The conversations recorded in Poland as part of this bilateral study are preserved in Warsaw at Archiwum Historii Mówionej. The project coordinator is Anna Wylegała, a researcher at the Institute of Philosophy and Sociology of the Polish Academy of Sciences. Project is financed by the National Humanities Development Program, registration number 12H 13 0584 82. Galyna Bodnar worked with the materials before their publication.</p>
+                </scopecontent>
+                <c02 level="item">
+                    <did>
+                        <unitid>33613</unitid>
+                        <unittitle>Male, born 1932</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/interviews/33613"/>
+                        </materialspec>
+                        
+                        
+                    </did>
+                    <scopecontent>
+                        <p>An interview with a native and permanent resident of the village Koropets, now Monastyryskyi district of Ternopil oblast. He is interested in local history and has his publication, which he reads during the interview. The man started the conversation by telling the history of his family, his father’s work on the hop production in the local landlord in particular. He mentioned shortly the family of the landlord and his fate, pre-war interethnic and religious life of the local community, and education at school. The man witnessed the entrance of the Red army into the village in 1939, the escape of the landlord and looting in his manor, arrests and repressions. He describes in detail the retreat of the Soviet power and the entrance of the German army in the summer of 1941. A separate conversation thread was devoted to the pre-war cohabitation with the Jews, their occupation and places of residence, the Holocaust in Koropets, the Ukrainian auxiliary police, the fate of the Jews’ property. The leitmotif of the conversation was the history of the interviewee’s brother, the participant of the Ukrainian nationalist underground, who emigrated to the West in 1944, and the interviewee’s help to the underground and his arrest in 1953. The narrator tells about numerous underground opposers repressed by the Soviet government, their names and the terms of imprisonment, as well as about the massacres organized by the Ukrainian underground. He mentions the aggravation of a Ukrainian-Polish armed conflict during the war and the burning of the neighboring village Puzhnyky by the Ukrainian underground. Towards the end of the war, the houses of the exiled Polish people were occupied by the Ukrainians coming from Poland; the man tells about their arrangements, half-starving existence, and relationships with the local population, as well as the everyday life of the village citizens after the war.<br />
+Recorded in Koropets. The interviewer – Marta Havryshko.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,51 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34534</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Plan of Leopoliensis</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>TsDIAL_of_Ukraine</unitid>
+                    <unitid>134</unitid>
+                    <unittitle>Central State Historical Archives of Ukraine in Lviv. (TsDIAL of Ukraine)</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/134/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34534</unitid>
+                        <unittitle>Plan of Leopoliensis</unittitle>
+                        <unitdate>1635</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34534"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>Author Fridericum Getkant</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Lwow</subject>
+<subject> Lviv</subject>
+<subject> Lemberg</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

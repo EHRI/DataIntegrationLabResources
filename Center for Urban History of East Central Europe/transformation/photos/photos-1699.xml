@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2860</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Portrait of a young woman</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>10_pict</unitid>
+                    
+                    <unittitle>Ihor Kotlobulatov</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2860</unitid>
+                        <unittitle>Portrait of a young woman</unittitle>
+                        <unitdate>1905-1911</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/2860"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Dawid Mazur;Dawid Mazur, Lwow;Ihor Kotlobulatov</p></note>
+                        <origination label="creator"><name>Dawid Mazur</name></origination>
+<origination label="creator"><name>Dawid Mazur, Lwow</name></origination>
+<origination label="creator"><name>Ihor Kotlobulatov</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Photo studio</subject>
+<subject> portrait</subject>
+<subject> woman</subject>
+<subject> decoration</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

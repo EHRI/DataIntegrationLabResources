@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1007</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Залишки зовнішнього оборонного муру часів Владислава Ягайла</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>10_pict</unitid>
+                    <unitid>67</unitid>
+                    <unittitle>Ігор Котлобулатов</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/67/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1007</unitid>
+                        <unittitle>Залишки зовнішнього оборонного муру часів Владислава Ягайла</unittitle>
+                        <unitdate>1910</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/1007"/>
+                        </materialspec>
+                        <physdesc><physfacet>Other Fine Prints</physfacet></physdesc>
+                        <note><p>Copyright: Францішек Ковалишин;Францішек Яворскі, "Львів за Ягайла";Ігор Котлобулатов</p></note>
+                        <origination label="creator"><name>Францішек Ковалишин</name></origination>
+<origination label="creator"><name>Францішек Яворскі, Львів за Ягайла</name></origination>
+<origination label="creator"><name>Ігор Котлобулатов</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>міський арсенал</subject>
+<subject> велика міська синагога</subject>
+<subject> башта</subject>
+<subject> руїни муру</subject>
+<subject> вежа Корнякта</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

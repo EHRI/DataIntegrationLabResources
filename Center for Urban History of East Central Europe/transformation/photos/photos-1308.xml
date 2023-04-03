@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2272</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Rynok Square</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>46_pict</unitid>
+                    
+                    <unittitle>Brody Museum of History and Ethnography</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2272</unitid>
+                        <unittitle>Rynok Square</unittitle>
+                        <unitdate>1910</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/2272"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Feliks West, Brody;Brody Museum of History and Ethnography</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Feliks West, Brody</name></origination>
+<origination label="creator"><name>Brody Museum of History and Ethnography</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Brody</geogname>
+                        <subject>Rynok</subject>
+<subject> people</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

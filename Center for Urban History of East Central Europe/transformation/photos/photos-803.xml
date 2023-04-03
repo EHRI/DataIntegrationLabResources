@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1464</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Stepana Bandery Street</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>10_pict</unitid>
+                    <unitid>67</unitid>
+                    <unittitle>Ihor Kotlobulatov</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/67/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1464</unitid>
+                        <unittitle>Stepana Bandery Street</unittitle>
+                        <unitdate>1894</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/1464"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Ihor Kotlobulatov</p></note>
+                        <origination label="creator"><name>Ihor Kotlobulatov</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Leona Sapiehy St.</subject>
+<subject> tram tracks</subject>
+<subject> electric tram</subject>
+<subject> Polytechnic</subject>
+<subject> advertisement</subject>
+<subject> street water pump</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

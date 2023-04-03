@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5325</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Пудлінгове віддлення заводу</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>97_pict</unitid>
+                    
+                    <unittitle>Народний музей історії Національної металургійної академії України</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5325</unitid>
+                        <unittitle>Пудлінгове віддлення заводу</unittitle>
+                        <unitdate>1908</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/5325"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Н.А. Іванов;Неопубліковані ресурси;Народний музей історії Національної металургійної академії України</p></note>
+                        <origination label="creator"><name>Н.А. Іванов</name></origination>
+<origination label="creator"><name>Неопубліковані ресурси</name></origination>
+<origination label="creator"><name>Народний музей історії Національної металургійної академії України</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Дніпродзержинськ</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

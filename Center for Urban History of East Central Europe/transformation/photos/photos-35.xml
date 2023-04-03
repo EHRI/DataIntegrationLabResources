@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>106</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Broadcasting Station of the Lviv Radio</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>19_pict</unitid>
+                    <unitid>11</unitid>
+                    <unittitle>Taras Pinyazhko</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/11/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>106</unitid>
+                        <unittitle>Broadcasting Station of the Lviv Radio</unittitle>
+                        <unitdate>1930-1939</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/106"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Polish Radio, Lwow;Taras Pinyazhko</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Polish Radio, Lwow</name></origination>
+<origination label="creator"><name>Taras Pinyazhko</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Radio station</subject>
+<subject> Poninskoho Street</subject>
+<subject> broadcasting tower</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

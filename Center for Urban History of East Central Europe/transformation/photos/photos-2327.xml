@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>4573</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Portrait photofraphy of two women</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>81_pict</unitid>
+                    
+                    <unittitle>Oleksandr Moskalenko</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>4573</unitid>
+                        <unittitle>Portrait photofraphy of two women</unittitle>
+                        <unitdate>1900-1914</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/4573"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Unpublished resources;Oleksadr Moskalenko</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Oleksadr Moskalenko</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

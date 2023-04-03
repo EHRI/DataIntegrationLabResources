@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>30068</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Male, born 1927</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Interviews</unitid>
+            <unittitle>Interviews</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>pustka</unitid>
+                    <unitid>142</unitid>
+                    <unittitle>Social Anthropology of filling the Void: Poland and Ukraine after World War II</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/142/interviews"/>
+                    </materialspec>
+                </did>
+                <scopecontent>
+                    <p>The central concept of the research project is «social void», a phenomenon that was characteristic of Central and Eastern Europe during and immediately after World War II as a result of mass ethnic cleansing, political revolutions, forced displacement and migration. The project focuses both on the material dimension of post-war social change (e.g. acquisition of property) and the subjective sphere of social practices and relationships. His goal was to examine the processes of replacing the missing elements of social life with local communities of Poland and Ukraine. The interviews conducted as part of the project show how the void was filled after the social groups (e.g. landowners, wealthy peasants), representatives of ethnic communities (Jews, Poles, Ukrainians) and professional groups (e.g. shoemakers, pharmacists, doctors, or more broadly – craftsmen, intelligence) were evicted by the war and post-war changes. The analysis concerns changes in the ownership structure, economic dysfunction, transformations of social and cultural practices, as well as changes in relations and social norms. The conversations archived at the Center were recorded in a dozen of locations in Lviv, Ivano-Frankivsk and Ternopil regions by an interdisciplinary team of Polish-Ukrainian researchers. The research was carried out in small towns and villages, combining the methodology of microhistory and biographic interview as part of oral history. In total, almost 150 interviews were collected in Ukraine, of which 40 are currently available in UStories collection. The conversations recorded in Poland as part of this bilateral study are preserved in Warsaw at Archiwum Historii Mówionej. The project coordinator is Anna Wylegała, a researcher at the Institute of Philosophy and Sociology of the Polish Academy of Sciences. Project is financed by the National Humanities Development Program, registration number 12H 13 0584 82. Galyna Bodnar worked with the materials before their publication.</p>
+                </scopecontent>
+                <c02 level="item">
+                    <did>
+                        <unitid>30068</unitid>
+                        <unittitle>Male, born 1927</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/interviews/30068"/>
+                        </materialspec>
+                        
+                        
+                    </did>
+                    <scopecontent>
+                        <p>An interview with a native resident of the village Trudovych, Zolochiv district in Lviv oblast. The narrator describes in detail various aspects of pre-war and war life; the conversation is full of details and personalities at the background of well-known events of the past. The man witnessed the entrance of the German army into Zolochiv, the burial of Sheptychky in Lviv, the mobilization of Ukrainian youth to the Soviet Army in 1944-1945. In 1945, the man was mobilized to the Soviet Army and served in the far East for almost eight years; in 1952, he moved to Lviv, and in 1960 – to Zolochiv. The man shares much details of his work on various enterprises in Lviv, Krasne and Zolochiv, the life of his family, and the fate of the relatives. Vivid were the memories of the pre-war life of the village community, interethnic relationships, occupations of the villagers, the fate of the Polish and Jewish villagers. The narrator recalls a ghetto in Zolochiv and its liquidation, post-war deportation of Poles, Ukrainian nationalist underground, repressions of the Soviet regime in 1939-1941 and after the war, forced collectivization.<br />
+Recorded in Zolochiv. The interviewer – Natalia Otrishchenko.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

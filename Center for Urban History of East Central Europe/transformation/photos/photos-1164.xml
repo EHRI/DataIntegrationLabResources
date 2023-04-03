@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2057</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Караїмська божниця</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>58_pict</unitid>
+                    
+                    <unittitle>Library of the Institute of Ethnology Academy of Sciences of Ukraine, Lviv</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2057</unitid>
+                        <unittitle>Караїмська божниця</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/2057"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: М. Черкавський;Українська Накладня, Київ; Галицька Накладня, Коломия;Бібліотека Інституту народознавства Академії наук України</p></note>
+                        <origination label="creator"><name>М. Черкавський</name></origination>
+<origination label="creator"><name>Українська Накладня, Київ</name></origination>
+<origination label="creator"><name> Галицька Накладня, Коломия</name></origination>
+<origination label="creator"><name>Бібліотека Інституту народознавства Академії наук України</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lutsk</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

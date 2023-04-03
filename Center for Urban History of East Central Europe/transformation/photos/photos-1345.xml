@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2321</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Kornel Ujejski monument on Shevchenka avenue</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>40_pict</unitid>
+                    
+                    <unittitle>Ihor Melnyk</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2321</unitid>
+                        <unittitle>Kornel Ujejski monument on Shevchenka avenue</unittitle>
+                        <unitdate>1930-1946</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/2321"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Володимир Мельник;Unknown;Ihor Melnyk</p></note>
+                        <origination label="creator"><name>Володимир Мельник</name></origination>
+<origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Ihor Melnyk</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Kornel Ujejski monument in front of a house on Shevchenka avenue (Akademichna street)</subject>
+<subject> 13</subject>
+<subject> the monument is located in Szczecin now</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

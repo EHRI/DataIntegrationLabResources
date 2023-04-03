@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1453</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Hall of Z. Strzałkowska Institution at 22, Zelena St.</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>5_pict</unitid>
+                    <unitid>1</unitid>
+                    <unittitle>Museum of Ancient Ukrainian Book Art LAG</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/1/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1453</unitid>
+                        <unittitle>Hall of Z. Strzałkowska Institution at 22, Zelena St.</unittitle>
+                        <unitdate>1924-1926</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/1453"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;"Ruch", Lwow;Museum of Ancient Handwritten Ukrainian Book Art LAG</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Ruch, Lwow</name></origination>
+<origination label="creator"><name>Museum of Ancient Handwritten Ukrainian Book Art LAG</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Hall</subject>
+<subject> Z. Strzałkowska Institution</subject>
+<subject> murals</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

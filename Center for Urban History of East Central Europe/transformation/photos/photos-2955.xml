@@ -1,0 +1,59 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>6336</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>View on Dormition Church</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>110_pict</unitid>
+                    
+                    <unittitle>Dietrich Demmer</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>6336</unitid>
+                        <unittitle>View on Dormition Church</unittitle>
+                        <unitdate>1941</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/6336"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photography (film)</physfacet></physdesc>
+                        <note><p>Copyright: Wilhelm Demmer;Unpublished resources;Dietrich Demmer</p></note>
+                        <origination label="creator"><name>Wilhelm Demmer</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Dietrich Demmer</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>street</subject>
+<subject> people</subject>
+<subject> religious building</subject>
+<subject> architecture</subject>
+<subject> church</subject>
+<subject> tower</subject>
+<subject> street light</subject>
+<subject> tram</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

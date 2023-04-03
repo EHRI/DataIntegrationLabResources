@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>29269</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Female, born 1935 (p.2)</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Interviews</unitid>
+            <unittitle>Interviews</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>search-for-home-pidzamche</unitid>
+                    <unitid>125</unitid>
+                    <unittitle>Search for Home: Experience of Postwar Pidzamche</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/125/interviews"/>
+                    </materialspec>
+                </did>
+                <scopecontent>
+                    <p>The project “The Search for Home in Postwar Lviv: The Experience of Pidzamche, 1944-1960” aimed to illuminate one of the most complicated pages in the history of contemporary Lviv – its transformation from the frontier Polish city of Lwόw and German-occupied Lemberg into a Soviet and then Ukrainian city. This traumatic and controversial experience of the city’s radical transformation by the Soviets is presented through the stories of various people who began their new postwar life in Lviv’s district of Pidzamche. The project aspired to ‘capture’ the life pathways of Pidzamche’s inhabitants and the experience of the postwar transformation of one of Lviv’s oldest districts, the place of the Jewish ghetto during World War II, and a site for postwar industrialization. It turned into the crossroads of ideology and daily routines, the human and the political, the old and the new, remembrance and obliteration. The research was conducted under the program "Historical Workshop Europe", financed by the German Federal Fund "Memory, Responsibility, Future", and coordinated by the Institute for Applied History in Frankfurt (Oder) and the European University Viadrina. The field part of the project (collecting data by in-depth interviewing) was implemented in the summer of 2012. The methodology for conversations was elaborated by the Center for Urban History’s team. The project was coordinated by Andriy Bondarenko. The interviews were done by Halyna Bodnar, Natalia Otrishchenko, Anna Chebotariova, and Andriy Shuliar. The project collected a total of 25 interviews; for confidentiality reasons, there is open access to 23 of them. Interviews were conducted in Ukrainian or Russian. Reference to the collection: Based on the materials of the UStories project of the Center for Urban History of East Central Europe, collection “Search for Home: Experience of Postwar Pidzamche, 1944-1960”. Reference to the interview: Interview with sex, born in year of birth, recorded date of the interview. Interviewer: first name last name // Archive of the Center for Urban History of East Central Europe “UStories”, collection “Collection title”, p. page number. Example: Interview with a man, born in 1932, recorded on July 31, 2012. Interviewers: Andriy Bondarenko and Andriy Shuliar // Archive of the Center for Urban History of East Central Europe “UStories”, collection “Search for Home: Experience of Postwar Pidzamche, 1944-1960”, p. 7.</p>
+                </scopecontent>
+                <c02 level="item">
+                    <did>
+                        <unitid>29269</unitid>
+                        <unittitle>Female, born 1935 (p.2)</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/interviews/29269"/>
+                        </materialspec>
+                        
+                        
+                    </did>
+                    <scopecontent>
+                        <p>One more interview with the former nurse of Lviv Tuberculosis Hospital, born in Lviv, that expands on the topics the interviewee mentioned in the previous conversation.<br />
+Recorded on 19th July 2012 at the Center for Urban History. The interviewers – Andriy Bondarenko and Natalia Otrishchenko.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

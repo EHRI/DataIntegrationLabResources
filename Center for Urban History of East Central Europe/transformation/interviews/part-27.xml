@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>30070</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Female, born 1926</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Interviews</unitid>
+            <unittitle>Interviews</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>pustka</unitid>
+                    <unitid>142</unitid>
+                    <unittitle>Social Anthropology of filling the Void: Poland and Ukraine after World War II</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/142/interviews"/>
+                    </materialspec>
+                </did>
+                <scopecontent>
+                    <p>The central concept of the research project is «social void», a phenomenon that was characteristic of Central and Eastern Europe during and immediately after World War II as a result of mass ethnic cleansing, political revolutions, forced displacement and migration. The project focuses both on the material dimension of post-war social change (e.g. acquisition of property) and the subjective sphere of social practices and relationships. His goal was to examine the processes of replacing the missing elements of social life with local communities of Poland and Ukraine. The interviews conducted as part of the project show how the void was filled after the social groups (e.g. landowners, wealthy peasants), representatives of ethnic communities (Jews, Poles, Ukrainians) and professional groups (e.g. shoemakers, pharmacists, doctors, or more broadly – craftsmen, intelligence) were evicted by the war and post-war changes. The analysis concerns changes in the ownership structure, economic dysfunction, transformations of social and cultural practices, as well as changes in relations and social norms. The conversations archived at the Center were recorded in a dozen of locations in Lviv, Ivano-Frankivsk and Ternopil regions by an interdisciplinary team of Polish-Ukrainian researchers. The research was carried out in small towns and villages, combining the methodology of microhistory and biographic interview as part of oral history. In total, almost 150 interviews were collected in Ukraine, of which 40 are currently available in UStories collection. The conversations recorded in Poland as part of this bilateral study are preserved in Warsaw at Archiwum Historii Mówionej. The project coordinator is Anna Wylegała, a researcher at the Institute of Philosophy and Sociology of the Polish Academy of Sciences. Project is financed by the National Humanities Development Program, registration number 12H 13 0584 82. Galyna Bodnar worked with the materials before their publication.</p>
+                </scopecontent>
+                <c02 level="item">
+                    <did>
+                        <unitid>30070</unitid>
+                        <unittitle>Female, born 1926</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/interviews/30070"/>
+                        </materialspec>
+                        
+                        
+                    </did>
+                    <scopecontent>
+                        <p>An interview with a native resident of the village Osivtsi, now Buchach district, whose parents died during World War II. The woman lived as an orphan together with her older brother until to her marriage. The conversation is abrupt and non-structured; the woman often complained of the now poor memory and, as a rule, just answered the interviewer’s questions. The interviewee’s granddaughter was present and occasionally joined the conversation. The narrator shared her memories of the pre-war landowner of the village, his attitude to the hired labor and fellow villagers, and the cohabitation of the Polish, Jewish and Ukrainian population of the village before the war. The woman briefly talked about the years of war in the village, the front line near it, the Ukrainian nationalist underground. She said that there was a big fire in 1942 and the village was almost burnt to ashes; people survived on the minimal help provided by the government. A separate thread initiated towards the end of the conversation was devoted to the Holocaust of Jews in Buchach. The woman recalled the names and occupations of Jews that lived in Osivtsi and the shootings of Jews in Buchach, detailing various stories, the rescue of a Jewish girl from their village by the priest in particular. Vivid were the memories of post-war life. The woman talked about religious practices in the underground, in particular, her secret marriage, the eviction of Poles, and post-war hunger.<br />
+Recorded in Osivtsi. The interviewer – Wiktoria Kudela-Świątek.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

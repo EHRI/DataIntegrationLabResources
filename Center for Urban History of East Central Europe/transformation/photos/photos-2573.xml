@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5218</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>A panorama of the plant</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>95_pict</unitid>
+                    
+                    <unittitle>Museum of the History of Starokramatorsky Machine Building Plant</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5218</unitid>
+                        <unittitle>A panorama of the plant</unittitle>
+                        <unitdate>1917</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/5218"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Unknown;Museum of the History of Starokramatorsky Machine Building Plant</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Museum of the History of Starokramatorsky Machine Building Plant</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Kramatorsk</geogname>
+                        <subject>industrial landscape</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

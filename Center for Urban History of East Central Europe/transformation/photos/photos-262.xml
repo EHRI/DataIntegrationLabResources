@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>554</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Military Men by the Monument to Count Agenor Gołuchowski in Kościuszko Park</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>21_pict</unitid>
+                    <unitid>98</unitid>
+                    <unittitle>Volodymyr Rumyantsev</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/98/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>554</unitid>
+                        <unittitle>Military Men by the Monument to Count Agenor Gołuchowski in Kościuszko Park</unittitle>
+                        <unitdate>1947-1948</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/554"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Unpublished resources;Volodymyr Rumyantsev</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Volodymyr Rumyantsev</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Winter</subject>
+<subject> Kościuszko Park</subject>
+<subject> military men</subject>
+<subject> Gołuchowski monument</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

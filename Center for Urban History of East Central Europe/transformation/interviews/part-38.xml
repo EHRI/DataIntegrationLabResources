@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>30081</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Male, born 1927</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Interviews</unitid>
+            <unittitle>Interviews</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>pustka</unitid>
+                    <unitid>142</unitid>
+                    <unittitle>Social Anthropology of filling the Void: Poland and Ukraine after World War II</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/142/interviews"/>
+                    </materialspec>
+                </did>
+                <scopecontent>
+                    <p>The central concept of the research project is «social void», a phenomenon that was characteristic of Central and Eastern Europe during and immediately after World War II as a result of mass ethnic cleansing, political revolutions, forced displacement and migration. The project focuses both on the material dimension of post-war social change (e.g. acquisition of property) and the subjective sphere of social practices and relationships. His goal was to examine the processes of replacing the missing elements of social life with local communities of Poland and Ukraine. The interviews conducted as part of the project show how the void was filled after the social groups (e.g. landowners, wealthy peasants), representatives of ethnic communities (Jews, Poles, Ukrainians) and professional groups (e.g. shoemakers, pharmacists, doctors, or more broadly – craftsmen, intelligence) were evicted by the war and post-war changes. The analysis concerns changes in the ownership structure, economic dysfunction, transformations of social and cultural practices, as well as changes in relations and social norms. The conversations archived at the Center were recorded in a dozen of locations in Lviv, Ivano-Frankivsk and Ternopil regions by an interdisciplinary team of Polish-Ukrainian researchers. The research was carried out in small towns and villages, combining the methodology of microhistory and biographic interview as part of oral history. In total, almost 150 interviews were collected in Ukraine, of which 40 are currently available in UStories collection. The conversations recorded in Poland as part of this bilateral study are preserved in Warsaw at Archiwum Historii Mówionej. The project coordinator is Anna Wylegała, a researcher at the Institute of Philosophy and Sociology of the Polish Academy of Sciences. Project is financed by the National Humanities Development Program, registration number 12H 13 0584 82. Galyna Bodnar worked with the materials before their publication.</p>
+                </scopecontent>
+                <c02 level="item">
+                    <did>
+                        <unitid>30081</unitid>
+                        <unittitle>Male, born 1927</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/interviews/30081"/>
+                        </materialspec>
+                        
+                        
+                    </did>
+                    <scopecontent>
+                        <p>An interview with a native resident of the village Lytyachi (Letyache), now Zalishchyky district of Ternopil oblast. Keen on learning and motivated by his family, the man graduated from school in the neighbouring town Chernelytsi, studied in Buchach, in the pedagogical school in Kremenets, pedagogical institutes in Chernivtsi and Ternopil; thus, in 1949, he started teaching in Tovste and Letyache. The narration is informative, well-structured, and full of details. The narration starts with the history of the interviewee’s father who took part in the First World War and mobilization of volunteers for the Ukrainian-Polish war of 1918-1919; the father was arrested by the government but later released thanks to a chance. The man shares detailed memories of education of pupils of various nationalities at primary school in the pre-war period, interethnic cohabitation of the village community, religious life, and the changes that took place in the relationships between the fellow villagers between the 1930ies and 1940ies. The interviewee recalls in detail the Soviet government in 1939-1941 and, even more precisely, a German occupation, a ghetto, shootings of the Jews in Buchach, the activity of Ukrainian nationalist underground and the Home Army, pre-war landlord of the village and his fate. A separate conversation thread is the renovation of the Soviet power in the spring of 1944, the creation of the collective farm, teachers (local ones and those coming from the Eastern regions), everyday life, household arrangements and pastime in the post-war period.<br />
+Recorded in Tovste. The interviewer – Anna Chebotariova. </p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,49 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34585</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Київ. Картосхема</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Science_Library_of_LNU</unitid>
+                    <unitid>135</unitid>
+                    <unittitle>Наукова бібліотека Львівського національного університету імені Івана Франка</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/135/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34585</unitid>
+                        <unittitle>Київ. Картосхема</unittitle>
+                        <unitdate>1967</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/maps/34585"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>Політвидав України</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Київ</geogname>
+                        <subject>Київ</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>4986</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Opir river</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>89_pict</unitid>
+                    
+                    <unittitle>Ihor Chudijovych</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>4986</unitid>
+                        <unittitle>Opir river</unittitle>
+                        <unitdate>1920-1939</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/4986"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Unknown;Ihor Chudiyovych</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Ihor Chudiyovych</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Skole</geogname>
+                        <subject>River</subject>
+<subject> rest</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

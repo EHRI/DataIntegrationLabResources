@@ -1,0 +1,49 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34566</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Warsaw. City center</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>10_pict</unitid>
+                    <unitid>67</unitid>
+                    <unittitle>Ihor Kotlobulatov</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/67/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34566</unitid>
+                        <unittitle>Warsaw. City center</unittitle>
+                        <unitdate>1988</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34566"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>Eugeniusz Romer State Enterprise for Cartographic Publications. Warsaw-Wrocław</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Warsaw</geogname>
+                        <subject>Warsaw</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

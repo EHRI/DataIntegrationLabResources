@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>4616</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Poplar alley on Shevchenka avenue</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>28_pict</unitid>
+                    
+                    <unittitle>Yuriy Zaverbnyj</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>4616</unitid>
+                        <unittitle>Poplar alley on Shevchenka avenue</unittitle>
+                        <unitdate>1938-1939</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/4616"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;"Ruch", Lwow;Juriy Zaverbnyj</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Ruch, Lwow</name></origination>
+<origination label="creator"><name>Juriy Zaverbnyj</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Akademichna street</subject>
+<subject> boulevard</subject>
+<subject> poplars</subject>
+<subject> buildings</subject>
+<subject> architecture</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

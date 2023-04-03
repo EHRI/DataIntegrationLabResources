@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5244</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Construction of forging and pressing shop. Lower Dnieper Pipe Rolling Plant</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>96_pict</unitid>
+                    
+                    <unittitle>Interpipe NTRP History Museum</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5244</unitid>
+                        <unittitle>Construction of forging and pressing shop. Lower Dnieper Pipe Rolling Plant</unittitle>
+                        <unitdate>1934</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/5244"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Unpublished resources;Interpipe NTRP History Museum;Interpipe NTRP History Museum</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Interpipe NTRP History Museum</name></origination>
+<origination label="creator"><name>Interpipe NTRP History Museum</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Dnipro</geogname>
+                        <subject>industrialization</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

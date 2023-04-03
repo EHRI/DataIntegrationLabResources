@@ -1,0 +1,49 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34500</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Plan of the City of Drohobych</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Ryszard_Hubisz</unitid>
+                    <unitid>137</unitid>
+                    <unittitle>Ryszard Hubisz</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/137/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34500</unitid>
+                        <unittitle>Plan of the City of Drohobych</unittitle>
+                        <unitdate>с. 1935</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34500"/>
+                        </materialspec>
+                        <note><p>Copyright: Ryszard Hubisz</p></note>
+                        <origination label="creator"><name>Association of Polish Merchants and Industrialists of South East. Drohobych</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Drohobych</geogname>
+                        <subject>Drohobych</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

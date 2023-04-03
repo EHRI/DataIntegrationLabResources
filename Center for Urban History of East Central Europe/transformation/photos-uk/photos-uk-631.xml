@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1224</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Фігура Христа у південному подвір'ї Вірменської церкви</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>41_pict</unitid>
+                    <unitid>28</unitid>
+                    <unittitle>Андрій Отко</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/28/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1224</unitid>
+                        <unittitle>Фігура Христа у південному подвір'ї Вірменської церкви</unittitle>
+                        <unitdate>1932-1939</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/1224"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photography (film)</physfacet></physdesc>
+                        <note><p>Copyright: Ян Отко;Неопубліковані ресурси;Андрій Отко</p></note>
+                        <origination label="creator"><name>Ян Отко</name></origination>
+<origination label="creator"><name>Неопубліковані ресурси</name></origination>
+<origination label="creator"><name>Андрій Отко</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Вірменська церква</subject>
+<subject> подвір'я</subject>
+<subject> фігура Христа</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,51 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34462</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>План Лемберга</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Ryszard_Hubisz</unitid>
+                    <unitid>137</unitid>
+                    <unittitle>Ришард Хубіш</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/137/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34462</unitid>
+                        <unittitle>План Лемберга</unittitle>
+                        <unitdate>1941</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/maps/34462"/>
+                        </materialspec>
+                        <note><p>Copyright: Ришард Хубіш</p></note>
+                        <origination label="creator"><name>Друкарня № 1. Львів</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Львів</subject>
+<subject> Лемберг</subject>
+<subject> Львув</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5586</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Доменні печі заводу «Руский Провиданс»</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid> Mariupol_Museum</unitid>
+                    
+                    <unittitle>Маріупольський краєзнавчий музей</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5586</unitid>
+                        <unittitle>Доменні печі заводу «Руский Провиданс»</unittitle>
+                        <unitdate>1905-1909</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/5586"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Книгарня спадкоємців Приходько-Пихненко;Маріупольський краєзнавчий музей</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Книгарня спадкоємців Приходько-Пихненко</name></origination>
+<origination label="creator"><name>Маріупольський краєзнавчий музей</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Маріуполь</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

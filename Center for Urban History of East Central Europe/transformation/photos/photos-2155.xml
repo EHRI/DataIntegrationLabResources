@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>3609</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Area near the Opera and Ballet Theatre. Fortifications of the old town</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>2_pict</unitid>
+                    
+                    <unittitle>Center for Urban History of East Central Europe</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>3609</unitid>
+                        <unittitle>Area near the Opera and Ballet Theatre. Fortifications of the old town</unittitle>
+                        <unitdate>1940-1980</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/3609"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: R. Yakymenko;Publishing House "Mystectvo", Kyiv;Center for Urban History of East Central Europe</p></note>
+                        <origination label="creator"><name>R. Yakymenko</name></origination>
+<origination label="creator"><name>Publishing House Mystectvo, Kyiv</name></origination>
+<origination label="creator"><name>Center for Urban History of East Central Europe</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Area</subject>
+<subject> Opera and Ballet</subject>
+<subject> Theatre</subject>
+<subject> fortification</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

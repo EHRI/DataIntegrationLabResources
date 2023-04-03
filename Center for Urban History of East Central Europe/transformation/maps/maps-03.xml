@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34395</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Leopol City Plan the Capital of Red Russ with Neighbouring Towns</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Austrian_National_Library</unitid>
+                    <unitid>132</unitid>
+                    <unittitle>Austrian National Library</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/132/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34395</unitid>
+                        <unittitle>Leopol City Plan the Capital of Red Russ with Neighbouring Towns</unittitle>
+                        <unitdate>c. 1770</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34395"/>
+                        </materialspec>
+                        <note><p>Copyright: Austrian National Library, Vienna</p></note>
+                        <origination label="creator"><name>Author Charles De Scheffer</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Leopol</subject>
+<subject> Lviv</subject>
+<subject> Lemberg</subject>
+<subject> Lwow</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

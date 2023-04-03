@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2197</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Baroque tombstone with allegorical relief in old cemetery</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>73_pict</unitid>
+                    
+                    <unittitle>Claudia Erdheim</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2197</unitid>
+                        <unittitle>Baroque tombstone with allegorical relief in old cemetery</unittitle>
+                        <unitdate>1900-1914</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/2197"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Claudia Erdheim, Das Stetl. Galizien und Bukowina 1890–1918. Album Verlag, Wien 2008.;Claudia Erdheim</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Claudia Erdheim, Das Stetl. Galizien und Bukowina 1890–1918. Album Verlag, Wien 2008.</name></origination>
+<origination label="creator"><name>Claudia Erdheim</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Brody</geogname>
+                        <subject>Cemetery</subject>
+<subject> tombstone</subject>
+<subject> decor</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

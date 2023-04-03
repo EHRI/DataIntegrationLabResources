@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1708</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Давні руїни між пр. Шевченка та вул. Князя Романа</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>3_pict</unitid>
+                    <unitid>34</unitid>
+                    <unittitle>Львівський історичний музей</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/34/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1708</unitid>
+                        <unittitle>Давні руїни між пр. Шевченка та вул. Князя Романа</unittitle>
+                        <unitdate>1906</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/1708"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Марек Мюнц;Видавництво "Центр Європи", Львів;Львівський історичний музей</p></note>
+                        <origination label="creator"><name>Марек Мюнц</name></origination>
+<origination label="creator"><name>Видавництво Центр Європи, Львів</name></origination>
+<origination label="creator"><name>Львівський історичний музей</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Руїни</subject>
+<subject> гімназія ім. Франца Йосифа</subject>
+<subject> будівництво</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

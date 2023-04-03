@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>643</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Оперний театр</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>6_pict</unitid>
+                    <unitid>79</unitid>
+                    <unittitle>Центральний державний кінофотофоноархів України імені Г.С. Пшеничного</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/79/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>643</unitid>
+                        <unittitle>Оперний театр</unittitle>
+                        <unitdate>1945</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/643"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Б. А. Бабанова;невідомий;Центральний державний кінофотофоноархів України імені Г.С. Пшеничного</p></note>
+                        <origination label="creator"><name>Б. А. Бабанова</name></origination>
+<origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Центральний державний кінофотофоноархів України імені Г.С. Пшеничного</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>вулиця Гетьманська</subject>
+<subject> оперний театр</subject>
+<subject> Гетьманські вали</subject>
+<subject> двірник</subject>
+<subject> перехожі</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

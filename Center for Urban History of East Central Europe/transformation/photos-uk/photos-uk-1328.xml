@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2295</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Залізнична станція</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>46_pict</unitid>
+                    
+                    <unittitle>Бродівський історико-краєзнавчий музей</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2295</unitid>
+                        <unittitle>Залізнична станція</unittitle>
+                        <unitdate>1910</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/2295"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Фелікс Вест, Броди;Бродівський історико-краєзнавчий музей</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Фелікс Вест, Броди</name></origination>
+<origination label="creator"><name>Бродівський історико-краєзнавчий музей</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Броди</geogname>
+                        <subject>Вокзал</subject>
+<subject> вагони</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

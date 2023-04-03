@@ -1,0 +1,49 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34468</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>City Plan of Przemysl</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Austrian_War_Archive</unitid>
+                    <unitid>133</unitid>
+                    <unittitle>Austrian War Archive</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/133/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34468</unitid>
+                        <unittitle>City Plan of Przemysl</unittitle>
+                        <unitdate>1894</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34468"/>
+                        </materialspec>
+                        <note><p>Copyright: Austrian War Archive, Vienna</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Przemysl</geogname>
+                        <subject>Przemysl</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

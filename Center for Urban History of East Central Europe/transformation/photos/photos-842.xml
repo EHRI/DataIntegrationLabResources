@@ -1,0 +1,59 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1540</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Basilian Monastery</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>58_pict</unitid>
+                    <unitid>46</unitid>
+                    <unittitle>Library of the Institute of Ethnology Academy of Sciences of Ukraine, Lviv</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/46/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1540</unitid>
+                        <unittitle>Basilian Monastery</unittitle>
+                        <unitdate>1901</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/1540"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;S. Halberg, Buchach;Бібліотека Інституту Народознавства при НАНУ, Львів</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>S. Halberg, Buchach</name></origination>
+<origination label="creator"><name>Бібліотека Інституту Народознавства при НАНУ, Львів</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Buchach</geogname>
+                        <subject>Complex of Basilian Monastery</subject>
+<subject> the church</subject>
+<subject> monastery</subject>
+<subject> gymnasium</subject>
+<subject> bell tower</subject>
+<subject> stairs</subject>
+<subject> sculpture of Our Lady</subject>
+<subject> relief image of St. Onuphrius</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

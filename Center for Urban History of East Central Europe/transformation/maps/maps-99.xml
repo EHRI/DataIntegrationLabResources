@@ -1,0 +1,50 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34526</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Map of the City of Warsaw with Building Numbers</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Science_Library_of_LNU</unitid>
+                    <unitid>135</unitid>
+                    <unittitle>Science Library of the Ivan Franko National University of Lviv</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/135/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34526</unitid>
+                        <unittitle>Map of the City of Warsaw with Building Numbers</unittitle>
+                        <unitdate>1916</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34526"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>A. Holzmann. Lodz</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Warsaw</geogname>
+                        <subject>Warsaw</subject>
+<subject> Warszawa</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

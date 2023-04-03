@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1784</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Російські вояки на Краківському ринку</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>3_pict</unitid>
+                    
+                    <unittitle>Львівський історичний музей</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1784</unitid>
+                        <unittitle>Російські вояки на Краківському ринку</unittitle>
+                        <unitdate>1914-1915</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/1784"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: О. Набоков;Видавництво "Центр Європи", Львів;Львівський історичний музей</p></note>
+                        <origination label="creator"><name>О. Набоков</name></origination>
+<origination label="creator"><name>Видавництво Центр Європи, Львів</name></origination>
+<origination label="creator"><name>Львівський історичний музей</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Ринок</subject>
+<subject> військові</subject>
+<subject> торгівля</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2244</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Hasid in festive clothes</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>73_pict</unitid>
+                    
+                    <unittitle>Claudia Erdheim</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2244</unitid>
+                        <unittitle>Hasid in festive clothes</unittitle>
+                        <unitdate>1910</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/2244"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Claudia Erdheim, Das Stetl. Galizien und Bukowina 1890–1918. Album Verlag, Wien 2008.;Claudia Erdheim</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Claudia Erdheim, Das Stetl. Galizien und Bukowina 1890–1918. Album Verlag, Wien 2008.</name></origination>
+<origination label="creator"><name>Claudia Erdheim</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Unknown location</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

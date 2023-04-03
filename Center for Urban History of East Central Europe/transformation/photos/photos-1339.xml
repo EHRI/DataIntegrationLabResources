@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2309</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Monument to King Jan III Sobieski</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>40_pict</unitid>
+                    
+                    <unittitle>Ihor Melnyk</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2309</unitid>
+                        <unittitle>Monument to King Jan III Sobieski</unittitle>
+                        <unitdate>1946-1950</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/2309"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Володимир Мельник;Unknown;Ihor Melnyk</p></note>
+                        <origination label="creator"><name>Володимир Мельник</name></origination>
+<origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Ihor Melnyk</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Monument to King Jan III Sobieski</subject>
+<subject> 1 Travnia str.</subject>
+<subject> boulevard</subject>
+<subject> kiosks</subject>
+<subject> tramways</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

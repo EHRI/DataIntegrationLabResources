@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1961</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Поздоровча листівка (Школа ім. Гринченка)</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>10_pict</unitid>
+                    
+                    <unittitle>Ігор Котлобулатов</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1961</unitid>
+                        <unittitle>Поздоровча листівка (Школа ім. Гринченка)</unittitle>
+                        <unitdate>1913</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/1961"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Іван Косинін;Українське педагогічне товариство;Ігор Котлобулатов</p></note>
+                        <origination label="creator"><name>Іван Косинін</name></origination>
+<origination label="creator"><name>Українське педагогічне товариство</name></origination>
+<origination label="creator"><name>Ігор Котлобулатов</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Малюнок</subject>
+<subject> школа</subject>
+<subject> vignette</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2547</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Monument for Emperor Franz Joseph in the Public Garden</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>48_pict</unitid>
+                    
+                    <unittitle>Helmut Kusdat</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2547</unitid>
+                        <unittitle>Monument for Emperor Franz Joseph in the Public Garden</unittitle>
+                        <unitdate>1914-1925</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/2547"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        
+                        
+                    </did>
+                    <controlaccess>
+                        <geogname>Chernivtsi</geogname>
+                        <subject>Czernowitz</subject>
+<subject> Franz Josephs Denkmal</subject>
+<subject> Schützenhaus</subject>
+<subject> Volksgarten</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

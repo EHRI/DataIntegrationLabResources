@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2772</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Глинянська ратуша</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>58_pict</unitid>
+                    
+                    <unittitle>Бібліотека Інституту Народознавства при НАНУ, Львів</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2772</unitid>
+                        <unittitle>Глинянська ратуша</unittitle>
+                        <unitdate>1908</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/2772"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;С. Унгар, Глиняни;Бібліотека Інституту народознавства Академії наук України</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>С. Унгар, Глиняни</name></origination>
+<origination label="creator"><name>Бібліотека Інституту народознавства Академії наук України</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Глиняни</geogname>
+                        <subject>Ратуша</subject>
+<subject> вулиця</subject>
+<subject> люди</subject>
+<subject> гужовий транспорт</subject>
+<subject> ліхтарі</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

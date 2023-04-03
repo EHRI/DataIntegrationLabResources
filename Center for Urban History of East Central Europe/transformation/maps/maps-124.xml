@@ -1,0 +1,50 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34555</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Podil District of Kiev in 1695</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Science_Library_of_LNU</unitid>
+                    <unitid>135</unitid>
+                    <unittitle>Science Library of the Ivan Franko National University of Lviv</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/135/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34555</unitid>
+                        <unittitle>Podil District of Kiev in 1695</unittitle>
+                        <unitdate>1695</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34555"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>Commission for parsing of Ancient Documents. Kyiv</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Kyiv</geogname>
+                        <subject>Kyiv</subject>
+<subject> Kiev</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

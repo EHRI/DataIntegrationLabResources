@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>33604</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Female, born 1934</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Interviews</unitid>
+            <unittitle>Interviews</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>pustka</unitid>
+                    <unitid>142</unitid>
+                    <unittitle>Social Anthropology of filling the Void: Poland and Ukraine after World War II</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/142/interviews"/>
+                    </materialspec>
+                </did>
+                <scopecontent>
+                    <p>The central concept of the research project is «social void», a phenomenon that was characteristic of Central and Eastern Europe during and immediately after World War II as a result of mass ethnic cleansing, political revolutions, forced displacement and migration. The project focuses both on the material dimension of post-war social change (e.g. acquisition of property) and the subjective sphere of social practices and relationships. His goal was to examine the processes of replacing the missing elements of social life with local communities of Poland and Ukraine. The interviews conducted as part of the project show how the void was filled after the social groups (e.g. landowners, wealthy peasants), representatives of ethnic communities (Jews, Poles, Ukrainians) and professional groups (e.g. shoemakers, pharmacists, doctors, or more broadly – craftsmen, intelligence) were evicted by the war and post-war changes. The analysis concerns changes in the ownership structure, economic dysfunction, transformations of social and cultural practices, as well as changes in relations and social norms. The conversations archived at the Center were recorded in a dozen of locations in Lviv, Ivano-Frankivsk and Ternopil regions by an interdisciplinary team of Polish-Ukrainian researchers. The research was carried out in small towns and villages, combining the methodology of microhistory and biographic interview as part of oral history. In total, almost 150 interviews were collected in Ukraine, of which 40 are currently available in UStories collection. The conversations recorded in Poland as part of this bilateral study are preserved in Warsaw at Archiwum Historii Mówionej. The project coordinator is Anna Wylegała, a researcher at the Institute of Philosophy and Sociology of the Polish Academy of Sciences. Project is financed by the National Humanities Development Program, registration number 12H 13 0584 82. Galyna Bodnar worked with the materials before their publication.</p>
+                </scopecontent>
+                <c02 level="item">
+                    <did>
+                        <unitid>33604</unitid>
+                        <unittitle>Female, born 1934</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/interviews/33604"/>
+                        </materialspec>
+                        
+                        
+                    </did>
+                    <scopecontent>
+                        <p>An interview with the native and permanent resident of the town  Bibrka, now Peremyshlyany district of Lviv oblast. The woman was born to a multiethnic family of Ukrainians, Poles and Germans - her mother was Polish and grandmother was German. To avoid difficult work in agriculture, the narrator set a goal to gain an education, which she attained in 1953, graduating from the Faculty of Biology of Ivan Franko National University of Lviv. A bright childhood memory is the creation of a ghetto in the centre of Bibrka and shootings of Jews near a neighbouring village Strilky. As an eight-year-old girl, the narrator saw the dead bodies of shot Jews in the not yet buried common grave. The interviewee tells about where the Jews lived in Bibrka, their shops in the town’s centre, Jewish neighbours, what they did and how they helped her parents out by supplying products during the war. The woman also recalls her education in the Polish school and her Polish teachers. A separate conversation thread is the aggravation of the Ukrainian-Polish conflict during the war, mutual help in hiding the families of Ukrainians and Poles, repressions of the Soviet government. She told the story she heard from her relatives about the retreat of the Soviet government in June of 1941 and people murdered in prison. The more detailed recollections about life in the village after the war contained the description of the eviction of Poles to Poland, resettled from the East of Ukraine teachers, education and working at school during the Soviet times.<br />
+Recorded in Bibrka. The interviewer – Anna Wylegała.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

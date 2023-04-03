@@ -1,0 +1,57 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>504</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Former Kościuszki Street</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>10_pict</unitid>
+                    <unitid>67</unitid>
+                    <unittitle>Ihor Kotlobulatov</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/67/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>504</unitid>
+                        <unittitle>Former Kościuszki Street</unittitle>
+                        <unitdate>1920-1921</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/504"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;M.G.P.;Ihor Kotlobulatov</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>M.G.P.</name></origination>
+<origination label="creator"><name>Ihor Kotlobulatov</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Pinsk</geogname>
+                        <subject>City construction</subject>
+<subject> Kościuszki street</subject>
+<subject> church</subject>
+<subject> telegraph poles</subject>
+<subject> carts</subject>
+<subject> passersby</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

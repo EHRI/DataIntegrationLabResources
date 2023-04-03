@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>6345</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Портрет трьох жінок</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>110_pict</unitid>
+                    
+                    <unittitle>Дітріх Деммер</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>6345</unitid>
+                        <unittitle>Портрет трьох жінок</unittitle>
+                        <unitdate>1941</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/6345"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photography (film)</physfacet></physdesc>
+                        <note><p>Copyright: Вільгельм Деммер;Неопубліковані ресурси;Дітріх Деммер</p></note>
+                        <origination label="creator"><name>Вільгельм Деммер</name></origination>
+<origination label="creator"><name>Неопубліковані ресурси</name></origination>
+<origination label="creator"><name>Дітріх Деммер</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Невідомо</geogname>
+                        <subject>портрет</subject>
+<subject> люди</subject>
+<subject> жінка</subject>
+<subject> стілець</subject>
+<subject> стіна</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

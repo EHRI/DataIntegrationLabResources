@@ -1,0 +1,51 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2747</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>???</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>58_pict</unitid>
+                    
+                    <unittitle>Бібліотека Інституту Народознавства при НАНУ, Львів</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2747</unitid>
+                        <unittitle>???</unittitle>
+                        <unitdate>1903</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/2747"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: B. Loinger, Biala;Бібліотека Інституту народознавства Академії наук України</p></note>
+                        <origination label="creator"><name>B. Loinger, Biala</name></origination>
+<origination label="creator"><name>Бібліотека Інституту народознавства Академії наук України</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Бяла</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

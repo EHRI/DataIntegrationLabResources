@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5121</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Lower part of Bibikovsky (now Tarasa Shevchenka) boulevard</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>6_pict</unitid>
+                    
+                    <unittitle>H.S. Pshenychnyi Central State Cinema, Photo and Phono Archive of Ukraine</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5121</unitid>
+                        <unittitle>Lower part of Bibikovsky (now Tarasa Shevchenka) boulevard</unittitle>
+                        <unitdate>1910</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/5121"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: D.Markov;Unpublished resources;Central State Kinofotofono Archive after G.S. Pshenychny</p></note>
+                        <origination label="creator"><name>D.Markov</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Central State Kinofotofono Archive after G.S. Pshenychny</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Kyiv</geogname>
+                        <subject>street</subject>
+<subject> shop</subject>
+<subject> transport</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

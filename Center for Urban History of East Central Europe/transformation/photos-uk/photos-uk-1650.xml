@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2776</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Храм Св. Софії</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>51_pict</unitid>
+                    
+                    <unittitle>Mapина Курсанова</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2776</unitid>
+                        <unittitle>Храм Св. Софії</unittitle>
+                        <unitdate>1938</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/2776"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Адам Ленкевич;"Книжниця-Атлас", Львів;Марина Курсанова</p></note>
+                        <origination label="creator"><name>Адам Ленкевич</name></origination>
+<origination label="creator"><name>Книжниця-Атлас, Львів</name></origination>
+<origination label="creator"><name>Марина Курсанова</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Костел</subject>
+<subject> сквер</subject>
+<subject> міська зелень</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>126</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>The Road Accident</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>72_pict</unitid>
+                    <unitid>59</unitid>
+                    <unittitle>Oleksandr Korobov</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/59/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>126</unitid>
+                        <unittitle>The Road Accident</unittitle>
+                        <unitdate>Interwar years (1918-1939)</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/126"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photographic plate</physfacet></physdesc>
+                        <note><p>Copyright: Марек Мюнц;Unknown;Oleksandr Korobov</p></note>
+                        <origination label="creator"><name>Марек Мюнц</name></origination>
+<origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Oleksandr Korobov</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>accidents</subject>
+<subject> cars</subject>
+<subject> people</subject>
+<subject> people on streets</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

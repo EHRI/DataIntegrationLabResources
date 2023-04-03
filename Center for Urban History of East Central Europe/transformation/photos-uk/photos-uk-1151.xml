@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2039</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>"Танго смерті"</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>27_pict;26_pict</unitid>
+                    
+                    <unittitle>Партійний архів, філія ДАЛО;Державний архів Львівської області</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2039</unitid>
+                        <unittitle>"Танго смерті"</unittitle>
+                        <unitdate>1943</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/2039"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Штрайнберг/Штрайсберг;невідомий;Партархів, філія ДАЛО</p></note>
+                        <origination label="creator"><name>Штрайнберг/Штрайсберг</name></origination>
+<origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Партархів, філія ДАЛО</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Янівський табір</subject>
+<subject> в'язні</subject>
+<subject> музиканти</subject>
+<subject> гітлерівці</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

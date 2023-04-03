@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>29244</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Male, born 1967</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Interviews</unitid>
+            <unittitle>Interviews</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>history-of-one-street-boho</unitid>
+                    <unitid>126</unitid>
+                    <unittitle>History of One Street</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/126/interviews"/>
+                    </materialspec>
+                </did>
+                <scopecontent>
+                    <p>The ensemble of Bohomoltsia Street was built in 1904-1908 by Ivan Levynskyy’s architectural and construction bureau and is a great example of Secession in Lviv. This small and cozy street that was designed for the city’s middle class witnessed the turbulence of the 20th century and can be used as a case study for tracking down Lviv’s past. The project “Lviv in the 20th Century: The History of One Street” was one of the first oral history studies implemented by the Center for Urban History. It was initially entitled “The Oral History of Bohomoltsia Street” and aimed to document the stories of the street’s current residents – their experience of settling in, living conditions, awareness of the history of their building/ street/ district, communication with other parts of the city. The conversations revolved around their everyday life, their contacts with the neighbors, and the degree to which their daily routines were linked to their building/ street/ district. In this context, the experience of each individual resident is an important piece of a broader historical picture as the interviewees talked about resettlement, turbulent postwar times, and interethnic relationships. These individual stories give buildings and streets a human face and attribute a more personal meaning to remote historical notions and hard statistical data. The development of methodology and fieldwork within the frame of this research project was implemented by Halyna Bodnar. Alina Zhurbenko has prepared these materials for their presentation on the web.</p>
+                </scopecontent>
+                <c02 level="item">
+                    <did>
+                        <unitid>29244</unitid>
+                        <unittitle>Male, born 1967</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/interviews/29244"/>
+                        </materialspec>
+                        
+                        
+                    </did>
+                    <scopecontent>
+                        <p>Interview with the narrator consists from two thematical parts. First one provides context to lifestyle of youngsters in Soviet Lviv. The narrator tells about books, clothes and free time he used to have in those times, shares his own experience. He collects old books and photographs of Lviv in different times, interests in city history in general and Bohomoltsia Street particularly. This can be heard in second thematical part of the interview, when the narrator demonstrates his collection of old digitized images of Lviv streets. This part is full of old names of the streets and incoherent details about city's past. There are prolonged pauses indicated in the scriptogram (for example, (.5), where the pause length is estimated (in seconds) after the dot).<br />
+The recording was performed on August 29, 2008. Interviewer – Halyna Bodnar.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

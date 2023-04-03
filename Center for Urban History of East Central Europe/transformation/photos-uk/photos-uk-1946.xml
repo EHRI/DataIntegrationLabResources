@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>3192</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Зруйновані будинки в Тернополі</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>58_pict</unitid>
+                    
+                    <unittitle>Бібліотека Інституту Народознавства при НАНУ, Львів</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>3192</unitid>
+                        <unittitle>Зруйновані будинки в Тернополі</unittitle>
+                        <unitdate>1914-1918</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/3192"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Книгарня Подольська, Тернопіль;Бібліотека Інституту народознавства Академії наук України</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Книгарня Подольська, Тернопіль</name></origination>
+<origination label="creator"><name>Бібліотека Інституту народознавства Академії наук України</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Тернопіль</geogname>
+                        <subject>Місто</subject>
+<subject> забудова</subject>
+<subject> руїни</subject>
+<subject> війна</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

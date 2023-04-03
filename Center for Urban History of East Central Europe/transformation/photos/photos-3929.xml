@@ -1,0 +1,51 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>49298</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Портрет Василія Жидачека</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Bozhena_Pelens'ka</unitid>
+                    
+                    <unittitle>Bozhena Pelens'ka</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>49298</unitid>
+                        <unittitle>Портрет Василія Жидачека</unittitle>
+                        <unitdate>1890-1940</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/49298"/>
+                        </materialspec>
+                        
+                        <note><p>Copyright: Rivoli;Bozhena Pelens'ka</p></note>
+                        <origination label="creator"><name>Rivoli</name></origination>
+<origination label="creator"><name>Bozhena Pelens'ka</name></origination>
+                    </did>
+                    <controlaccess>
+                        
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,51 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34394</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>План міста Лемберга з його передмістями і зовнішніми кордонами</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Austrian_National_Library</unitid>
+                    <unitid>132</unitid>
+                    <unittitle>Австрійська національна бібліотека</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/132/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34394</unitid>
+                        <unittitle>План міста Лемберга з його передмістями і зовнішніми кордонами</unittitle>
+                        <unitdate>с. 1828</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/maps/34394"/>
+                        </materialspec>
+                        <note><p>Copyright: Австрійська Національна Бібліотека, Відень</p></note>
+                        <origination label="creator"><name>Невідомий</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Лемберг</subject>
+<subject> Львув</subject>
+<subject> Львів</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

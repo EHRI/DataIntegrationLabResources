@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1389</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Вхід до костелу і монастиря латинських бенедиктинок</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>19_pict</unitid>
+                    <unitid>11</unitid>
+                    <unittitle>Taras Pinyazhko</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/11/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1389</unitid>
+                        <unittitle>Вхід до костелу і монастиря латинських бенедиктинок</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/1389"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Adam Lenkiewicz;Ksiaznica-Atlas, Lwow;Taras Pinyazhko</p></note>
+                        <origination label="creator"><name>Adam Lenkiewicz</name></origination>
+<origination label="creator"><name>Ksiaznica-Atlas, Lwow</name></origination>
+<origination label="creator"><name>Taras Pinyazhko</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

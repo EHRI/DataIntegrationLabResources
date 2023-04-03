@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5856</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Робітники коксохімічного заводу</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>106_pict</unitid>
+                    
+                    <unittitle>Державний заклад "Металургійний державний музей України"</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5856</unitid>
+                        <unittitle>Робітники коксохімічного заводу</unittitle>
+                        <unitdate>1929</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/5856"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;невідомий;Державний заклад "Металургійний державний музей України"</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Державний заклад Металургійний державний музей України</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Дніпродзержинськ</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

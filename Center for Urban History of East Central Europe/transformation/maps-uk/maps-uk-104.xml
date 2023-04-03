@@ -1,0 +1,51 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34534</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Ситуаційний план Леополіенсіс</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>TsDIAL_of_Ukraine</unitid>
+                    <unitid>134</unitid>
+                    <unittitle>Центральний державний історичний архів України (ЦДІАЛ). Львів</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/134/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34534</unitid>
+                        <unittitle>Ситуаційний план Леополіенсіс</unittitle>
+                        <unitdate>1635</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/maps/34534"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>Автор Фрідріх Ґеткант</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Львів</subject>
+<subject> Львув</subject>
+<subject> Лемберг</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

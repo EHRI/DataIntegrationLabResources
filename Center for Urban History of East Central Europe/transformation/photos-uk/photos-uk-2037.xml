@@ -1,0 +1,58 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>3343</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Реклама кінотеатру "Марисенька" на пл. Смольки, 5 (тепер пл. Ген. Григоренка)</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>19_pict</unitid>
+                    
+                    <unittitle>Тарас Піняжко</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>3343</unitid>
+                        <unittitle>Реклама кінотеатру "Марисенька" на пл. Смольки, 5 (тепер пл. Ген. Григоренка)</unittitle>
+                        <unitdate>1930-1939</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/3343"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;"Полонія", Краків;Тарас Піняжко</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Полонія, Краків</name></origination>
+<origination label="creator"><name>Тарас Піняжко</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Площа</subject>
+<subject> вулиця</subject>
+<subject> забудова</subject>
+<subject> архітектура</subject>
+<subject> кінотеатр</subject>
+<subject> пам'ятник</subject>
+<subject> сквер</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

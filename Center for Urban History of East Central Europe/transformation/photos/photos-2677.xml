@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5324</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Листопрокатний верстат Дніпровського заводу</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>97_pict</unitid>
+                    
+                    <unittitle>National Museum of History of the National Metallurgical Academy of Ukraine in Dnipropetrovsk</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5324</unitid>
+                        <unittitle>Листопрокатний верстат Дніпровського заводу</unittitle>
+                        <unitdate>1908</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/5324"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: N. Ivanov;Unpublished resources;National Museum of History of the National Metallurgical Academy of Ukraine in Dnipropetrovsk</p></note>
+                        <origination label="creator"><name>N. Ivanov</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>National Museum of History of the National Metallurgical Academy of Ukraine in Dnipropetrovsk</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Dniprodzerzhynsk</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

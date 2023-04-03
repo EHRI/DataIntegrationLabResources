@@ -1,0 +1,49 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34473</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>План курорту Трускавець</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>History_of_Truskavets</unitid>
+                    <unitid>136</unitid>
+                    <unittitle>Музей "Історія Трускавця"</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/136/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34473</unitid>
+                        <unittitle>План курорту Трускавець</unittitle>
+                        <unitdate>1933</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/maps/34473"/>
+                        </materialspec>
+                        <note><p>Copyright: Музей "Історія Трускавця"</p></note>
+                        <origination label="creator"><name>Невідомий</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Трускавець</geogname>
+                        <subject>Трускавець</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,58 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>3353</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Концертний зал Музичного інституту ім. Миколи Лисенка</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>4_pict</unitid>
+                    
+                    <unittitle>Львівська національна наукова бібліотека ім. В.Стефаника НАН України</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>3353</unitid>
+                        <unittitle>Концертний зал Музичного інституту ім. Миколи Лисенка</unittitle>
+                        <unitdate>1929</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/3353"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Леон Янушевич;Видавництво "Центр Європи", Львів;Львівська наукова бібліотека ім. В.Стефаника НАН України</p></note>
+                        <origination label="creator"><name>Леон Янушевич</name></origination>
+<origination label="creator"><name>Видавництво Центр Європи, Львів</name></origination>
+<origination label="creator"><name>Львівська наукова бібліотека ім. В.Стефаника НАН України</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Музичний інститут</subject>
+<subject> концерт</subject>
+<subject> зал</subject>
+<subject> кіно</subject>
+<subject> декор</subject>
+<subject> розписи</subject>
+<subject> скульптура</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
