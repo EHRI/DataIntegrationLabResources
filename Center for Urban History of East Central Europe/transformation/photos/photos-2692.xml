@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5345</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Postcard from Warnemünde</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>101_pict</unitid>
+                    
+                    <unittitle>Yuriy Vdovenko</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5345</unitid>
+                        <unittitle>Postcard from Warnemünde</unittitle>
+                        <unitdate>1946</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/5345"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Schoning &amp; Co., Lubeck;Juriy Vdovenko</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Schoning </name></origination>
+<origination label="creator"><name> Co., Lubeck</name></origination>
+<origination label="creator"><name>Juriy Vdovenko</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Warnemunde</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

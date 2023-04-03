@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>183</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Вулиця Сикстуська</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>5_pict</unitid>
+                    <unitid>1</unitid>
+                    <unittitle>Музей мистецтва давньої української книги ЛГМ</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/1/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>183</unitid>
+                        <unittitle>Вулиця Сикстуська</unittitle>
+                        <unitdate>1917</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/183"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Видавництво салону польських художників, Краків;Музей мистецтва давньої української рукописної книги ЛГМ</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Видавництво салону польських художників, Краків</name></origination>
+<origination label="creator"><name>Музей мистецтва давньої української рукописної книги ЛГМ</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Вулиця Сикстуська</subject>
+<subject> перехожі</subject>
+<subject> трамвай</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

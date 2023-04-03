@@ -1,0 +1,58 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2193</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Trading at Lychkivskyi market</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>73_pict</unitid>
+                    
+                    <unittitle>Claudia Erdheim</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2193</unitid>
+                        <unittitle>Trading at Lychkivskyi market</unittitle>
+                        <unitdate>1910-1914</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/2193"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Claudia Erdheim, Das Stetl. Galizien und Bukowina 1890–1918. Album Verlag, Wien 2008.;Claudia Erdheim</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Claudia Erdheim, Das Stetl. Galizien und Bukowina 1890–1918. Album Verlag, Wien 2008.</name></origination>
+<origination label="creator"><name>Claudia Erdheim</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>City</subject>
+<subject> Lychakivska street</subject>
+<subject> buildings</subject>
+<subject> trading</subject>
+<subject> stores</subject>
+<subject> people</subject>
+<subject> paving</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

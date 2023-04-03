@@ -1,0 +1,49 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34551</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Найновійший план міста Будапешт</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Science_Library_of_LNU</unitid>
+                    <unitid>135</unitid>
+                    <unittitle>Наукова бібліотека Львівського національного університету імені Івана Франка</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/135/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34551</unitid>
+                        <unittitle>Найновійший план міста Будапешт</unittitle>
+                        <unitdate>1908</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/maps/34551"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>Барта Лайош</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Будапешт</geogname>
+                        <subject>Будапешт</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

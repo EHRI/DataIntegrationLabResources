@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>186</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Karla Ludwika str.</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>5_pict</unitid>
+                    <unitid>1</unitid>
+                    <unittitle>Museum of Ancient Ukrainian Book Art LAG</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/1/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>186</unitid>
+                        <unittitle>Karla Ludwika str.</unittitle>
+                        <unitdate>1914-1915</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/186"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Aрнольд і Шлaг, Львів;Museum of Ancient Handwritten Ukrainian Book Art LAG</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Aрнольд і Шлaг, Львів</name></origination>
+<origination label="creator"><name>Museum of Ancient Handwritten Ukrainian Book Art LAG</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>former Karla Ludwika str.</subject>
+<subject> Galicia Savings Bank</subject>
+<subject> branch of Prague Credit Bank</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

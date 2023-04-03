@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>703</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Armenian cathedral</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>58_pict</unitid>
+                    <unitid>46</unitid>
+                    <unittitle>Library of the Institute of Ethnology Academy of Sciences of Ukraine, Lviv</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/46/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>703</unitid>
+                        <unittitle>Armenian cathedral</unittitle>
+                        <unitdate>;1930</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/703"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Людвік Вєлежиньскі;Biblioteka Instytutu Narodoznawstwa, Lwów;Людвік Вєлежиньскі</p></note>
+                        <origination label="creator"><name>Людвік Вєлежиньскі</name></origination>
+<origination label="creator"><name>Biblioteka Instytutu Narodoznawstwa, Lwów</name></origination>
+<origination label="creator"><name>Людвік Вєлежиньскі</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Virmenska St.</subject>
+<subject> church</subject>
+<subject> buildings</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

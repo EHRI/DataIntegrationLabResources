@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>6343</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Portrait of German Soldiers with Local Citizens</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>110_pict</unitid>
+                    
+                    <unittitle>Dietrich Demmer</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>6343</unitid>
+                        <unittitle>Portrait of German Soldiers with Local Citizens</unittitle>
+                        <unitdate>1941</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/6343"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photography (film)</physfacet></physdesc>
+                        <note><p>Copyright: Wilhelm Demmer;Unpublished resources;Dietrich Demmer</p></note>
+                        <origination label="creator"><name>Wilhelm Demmer</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Dietrich Demmer</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Unknown</geogname>
+                        <subject>portrait</subject>
+<subject> people</subject>
+<subject> soldier</subject>
+<subject> war</subject>
+<subject> house</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

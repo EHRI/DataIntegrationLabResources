@@ -1,0 +1,51 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34494</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Plan of the Royal and Capital City of Lwow (with an enclave of Jałowcy and Maszow. Lwow II Part)</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Austrian_War_Archive</unitid>
+                    <unitid>133</unitid>
+                    <unittitle>Austrian War Archive</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/133/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34494</unitid>
+                        <unittitle>Plan of the Royal and Capital City of Lwow (with an enclave of Jałowcy and Maszow. Lwow II Part)</unittitle>
+                        <unitdate>1910</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34494"/>
+                        </materialspec>
+                        <note><p>Copyright: Austrian War Archive, Vienna</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Lemberg</subject>
+<subject> Lviv</subject>
+<subject> Lwów</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1766</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Скульптурна композиція "Ісус у гробі"</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>56_pict</unitid>
+                    <unitid>45</unitid>
+                    <unittitle>Національний музей у Львові імені Андрея Шептицького</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/45/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1766</unitid>
+                        <unittitle>Скульптурна композиція "Ісус у гробі"</unittitle>
+                        <unitdate>1912</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/1766"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;невідомий;Національний музей у Львові імені Андрея Шептицького</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Національний музей у Львові імені Андрея Шептицького</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Архітектура</subject>
+<subject> скульптура</subject>
+<subject> катедра</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

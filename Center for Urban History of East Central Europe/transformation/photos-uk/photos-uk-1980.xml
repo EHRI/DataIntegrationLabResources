@@ -1,0 +1,57 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>3226</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Підмулене залізничне полотно під час великої повені в серпні 1927 р.</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>58_pict</unitid>
+                    
+                    <unittitle>Бібліотека Інституту Народознавства при НАНУ, Львів</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>3226</unitid>
+                        <unittitle>Підмулене залізничне полотно під час великої повені в серпні 1927 р.</unittitle>
+                        <unitdate>1927</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/3226"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Д. Браунер, Сколе;Акрополь, Краків;Бібліотека Інституту народознавства Академії наук України</p></note>
+                        <origination label="creator"><name>Д. Браунер, Сколе</name></origination>
+<origination label="creator"><name>Акрополь, Краків</name></origination>
+<origination label="creator"><name>Бібліотека Інституту народознавства Академії наук України</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Сколе</geogname>
+                        <subject>Гори</subject>
+<subject> ріка</subject>
+<subject> залізниця</subject>
+<subject> колія</subject>
+<subject> повінь</subject>
+<subject> катастрофа</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

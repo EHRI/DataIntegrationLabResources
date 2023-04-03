@@ -1,0 +1,57 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2270</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Нова синагога на вул. Стрийській</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>73_pict</unitid>
+                    
+                    <unittitle>Клаудіа Ердгайм</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2270</unitid>
+                        <unittitle>Нова синагога на вул. Стрийській</unittitle>
+                        <unitdate>1915</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/2270"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Каталог І вистави E. M. Ліліена у Львові 1914 р.;Клаудіа Ердгайм</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Каталог І вистави E. M. Ліліена у Львові 1914 р.</name></origination>
+<origination label="creator"><name>Клаудіа Ердгайм</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Дрогобич</geogname>
+                        <subject>Вулиця</subject>
+<subject> забудова</subject>
+<subject> архітектура</subject>
+<subject> синагога</subject>
+<subject> люди</subject>
+<subject> транспорт</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

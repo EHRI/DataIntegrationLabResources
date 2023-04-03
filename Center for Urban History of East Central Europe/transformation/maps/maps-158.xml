@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34593</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Official Map of the Capital City of Krakow</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Ryszard_Hubisz</unitid>
+                    <unitid>137</unitid>
+                    <unittitle>Ryszard Hubisz</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/137/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34593</unitid>
+                        <unittitle>Official Map of the Capital City of Krakow</unittitle>
+                        <unitdate>1943</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34593"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>City captain of the surveying administration of the city of Krakow</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Kraków</geogname>
+                        <subject>Krakow</subject>
+<subject> Cracow</subject>
+<subject> Kraków</subject>
+<subject> Krakau</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

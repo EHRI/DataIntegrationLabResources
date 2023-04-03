@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1008</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Трамвай біля Львівської опери</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>26_pict</unitid>
+                    <unitid>100</unitid>
+                    <unittitle>Державний архів Львівської області</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/100/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1008</unitid>
+                        <unittitle>Трамвай біля Львівської опери</unittitle>
+                        <unitdate>1941-1944</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/1008"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Видавництво "Центр Європи", Львів;State Archives of Lviv Oblast</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Видавництво Центр Європи, Львів</name></origination>
+<origination label="creator"><name>State Archives of Lviv Oblast</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>вулиця Адольф-Гітлер рінг</subject>
+<subject> Опера</subject>
+<subject> трамвай</subject>
+<subject> в'язні Янівського табору</subject>
+<subject> охоронці</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

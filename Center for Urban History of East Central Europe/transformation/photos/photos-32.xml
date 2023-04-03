@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>103</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Fountain with Sculpture of Amfitrita</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>24_pict</unitid>
+                    <unitid>15</unitid>
+                    <unittitle>L. Simutin</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/15/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>103</unitid>
+                        <unittitle>Fountain with Sculpture of Amfitrita</unittitle>
+                        <unitdate>1920-1939</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/103"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Adam Lenkiewicz;"Halytska Brama", Lviv;Leonid Simutin</p></note>
+                        <origination label="creator"><name>Adam Lenkiewicz</name></origination>
+<origination label="creator"><name>Halytska Brama, Lviv</name></origination>
+<origination label="creator"><name>Leonid Simutin</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Fountain</subject>
+<subject> sculpture of Amfitrita</subject>
+<subject> Market Square</subject>
+<subject> Shevska Street</subject>
+<subject> Krakivska Street</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

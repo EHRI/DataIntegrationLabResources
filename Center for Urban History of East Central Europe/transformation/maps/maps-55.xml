@@ -1,0 +1,50 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34473</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Plan of the Truskawiec Resort</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>History_of_Truskavets</unitid>
+                    <unitid>136</unitid>
+                    <unittitle>Museum "History of Truskavets"</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/136/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34473</unitid>
+                        <unittitle>Plan of the Truskawiec Resort</unittitle>
+                        <unitdate>1933</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34473"/>
+                        </materialspec>
+                        <note><p>Copyright: Museum "History of Truskavets"</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Truskavets</geogname>
+                        <subject>Truskavets</subject>
+<subject> Truskawiec</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2258</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Єврейські робітники</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>73_pict</unitid>
+                    
+                    <unittitle>Клаудіа Ердгайм</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2258</unitid>
+                        <unittitle>Єврейські робітники</unittitle>
+                        <unitdate>1910</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/2258"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Зигмунд Ердгайм;Клаудіа Ердгайм, "Єврейські містечка. Галичина та Буковина. 1890-1918";Клаудіа Ердгайм</p></note>
+                        <origination label="creator"><name>Зигмунд Ердгайм</name></origination>
+<origination label="creator"><name>Клаудіа Ердгайм, Єврейські містечка. Галичина та Буковина. 1890-1918</name></origination>
+<origination label="creator"><name>Клаудіа Ердгайм</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Борислав</geogname>
+                        <subject>Копальня</subject>
+<subject> робітники</subject>
+<subject> іудаїка</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

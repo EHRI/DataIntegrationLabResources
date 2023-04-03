@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>46188</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Сталевари</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid> Mariupol_Museum</unitid>
+                    
+                    <unittitle>Маріупольський краєзнавчий музей</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>46188</unitid>
+                        <unittitle>Сталевари</unittitle>
+                        <unitdate>1947</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/46188"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photographic_film_medium</physfacet></physdesc>
+                        <note><p>Copyright: Павло Кашкель;Павло Кашкель;Маріупольський краєзнавчий музей</p></note>
+                        <origination label="creator"><name>Павло Кашкель</name></origination>
+<origination label="creator"><name>Павло Кашкель</name></origination>
+<origination label="creator"><name>Маріупольський краєзнавчий музей</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Маріуполь</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

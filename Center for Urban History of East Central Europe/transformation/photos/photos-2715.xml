@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5579</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>"Nikopol" factory</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid> Mariupol_Museum</unitid>
+                    
+                    <unittitle>Mariupol Museum of Local History</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5579</unitid>
+                        <unittitle>"Nikopol" factory</unittitle>
+                        <unitdate>1909-1917</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/5579"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: M. Ulakhov;Mariupol Zemstvo bookstore;Mariupol Museum of Local History</p></note>
+                        <origination label="creator"><name>M. Ulakhov</name></origination>
+<origination label="creator"><name>Mariupol Zemstvo bookstore</name></origination>
+<origination label="creator"><name>Mariupol Museum of Local History</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Mariupol</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

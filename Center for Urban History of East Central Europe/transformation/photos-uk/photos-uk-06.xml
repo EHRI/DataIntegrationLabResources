@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>68</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Проспект Свободи, 1940-ві роки</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>14_pict</unitid>
+                    <unitid>35</unitid>
+                    <unittitle>Андрій Дорош</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/35/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>68</unitid>
+                        <unittitle>Проспект Свободи, 1940-ві роки</unittitle>
+                        <unitdate>Післявоєнний період, Комуністичний режим, 1946-1990</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/68"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Юліан Дорош;"Галицька брама", Львів;Андрій Дорош</p></note>
+                        <origination label="creator"><name>Юліан Дорош</name></origination>
+<origination label="creator"><name>Галицька брама, Львів</name></origination>
+<origination label="creator"><name>Андрій Дорош</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Пам'ятник Яну Собеському</subject>
+<subject> туман</subject>
+<subject> Гетьманські вали</subject>
+<subject> проспект Свободи</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

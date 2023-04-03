@@ -1,0 +1,50 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>{{cells["object_id"].value}}</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>{{cells["Title"].value}}</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>{{cells["Collection ID"].value}}</unitid>
+                    {{forNonBlank(cells["collection id"].value, v, "<unitid>" + v + "</unitid>", "")}}
+                    <unittitle>{{cells["Collection"].value}}</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="{{cells["collection URL"].value}}"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>{{cells["object_id"].value}}</unitid>
+                        <unittitle>{{cells["Title"].value}}</unittitle>
+                        {{forNonBlank(cells["Date"].value, v, v, "")}}
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="{{cells["URL"].value}}"/>
+                        </materialspec>
+                        {{forNonBlank(cells["Technique"].value, v, v, "")}}
+                        {{forNonBlank(cells["Copyright"].value, v, v, "")}}
+                        {{forNonBlank(cells["Creator"].value, v, v, "")}}
+                    </did>
+                    <controlaccess>
+                        {{forNonBlank(cells["Place"].value, v, v, "")}}
+                        {{cells["Tags"].value}}
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>149</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Вид на парк ім. Івана Франка</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>19_pict</unitid>
+                    <unitid>11</unitid>
+                    <unittitle>Тарас Піняжко</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/11/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>149</unitid>
+                        <unittitle>Вид на парк ім. Івана Франка</unittitle>
+                        <unitdate>1914-1915</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/149"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Арнольд і Шляг, Львів;Тарас Піняжко</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Арнольд і Шляг, Львів</name></origination>
+<origination label="creator"><name>Тарас Піняжко</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Міський парк</subject>
+<subject> головний квітник</subject>
+<subject> вазу</subject>
+<subject> собор Святого Юра</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

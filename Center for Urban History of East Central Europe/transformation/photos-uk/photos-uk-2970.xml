@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>22427</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>[ориг.] Альбом видов Днепровского завода и рудникоа Южно-Русского Днепровского металлургического общества
+</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>97_pict</unitid>
+                    
+                    <unittitle>Народний музей історії Національної металургійної академії України</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>22427</unitid>
+                        <unittitle>[ориг.] Альбом видов Днепровского завода и рудникоа Южно-Русского Днепровского металлургического общества
+</unittitle>
+                        <unitdate>1908</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/22427"/>
+                        </materialspec>
+                        <physdesc><physfacet>photograph_album</physfacet></physdesc>
+                        <note><p>Copyright: Народний музей історії Національної металургійної академії України</p></note>
+                        <origination label="creator"><name>Народний музей історії Національної металургійної академії України</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Дніпродзержинськ</geogname>
+                        <subject>індустріальні ландшафти</subject>
+<subject> індустріалізація</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

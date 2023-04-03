@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1254</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>View of the Center of the City from Castle Mountain</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>58_pict</unitid>
+                    <unitid>46</unitid>
+                    <unittitle>Library of the Institute of Ethnology Academy of Sciences of Ukraine, Lviv</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/46/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1254</unitid>
+                        <unittitle>View of the Center of the City from Castle Mountain</unittitle>
+                        <unitdate>1906-1918</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/1254"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Jacób Müller's Bookstore, Buchach;Бібліотека Інституту Народознавства при НАНУ, Львів</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Jacób Müller's Bookstore, Buchach</name></origination>
+<origination label="creator"><name>Бібліотека Інституту Народознавства при НАНУ, Львів</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Buchach</geogname>
+                        <subject>Panorama of the center of the city of Buchach from Castle Mountain</subject>
+<subject> the Cathedral of the Assumption of Our Lady</subject>
+<subject> City Hall and part of the slope</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

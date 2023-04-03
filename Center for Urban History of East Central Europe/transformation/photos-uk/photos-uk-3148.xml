@@ -1,0 +1,50 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>39757</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Нова сьома коксова батарея</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid> Mariupol_Museum</unitid>
+                    
+                    <unittitle>Маріупольський краєзнавчий музей</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>39757</unitid>
+                        <unittitle>Нова сьома коксова батарея</unittitle>
+                        <unitdate>1949-55</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/39757"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photographic_film_medium</physfacet></physdesc>
+                        <note><p>Copyright: Павло Кашкель</p></note>
+                        <origination label="creator"><name>Павло Кашкель</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Маріуполь</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

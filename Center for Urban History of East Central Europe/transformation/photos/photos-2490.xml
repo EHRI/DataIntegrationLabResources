@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5091</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Kramatorsk Station. City Panorama</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>90_pict</unitid>
+                    
+                    <unittitle>Museum of the History of Kramatorsk</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5091</unitid>
+                        <unittitle>Kramatorsk Station. City Panorama</unittitle>
+                        <unitdate>1917</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/5091"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: W.І. Forst;Unpublished resources;Museum of the History of Kramatorsk</p></note>
+                        <origination label="creator"><name>W.І. Forst</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Museum of the History of Kramatorsk</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Kramatorsk</geogname>
+                        <subject>industrial landscape</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

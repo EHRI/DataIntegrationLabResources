@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>346</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Kampians chapel interior</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>3_pict</unitid>
+                    <unitid>34</unitid>
+                    <unittitle>Lviv Historical Museum</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/34/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>346</unitid>
+                        <unittitle>Kampians chapel interior</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/346"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Josef Kosciesza Jaworski;Publishing House "Centr Europy", Lviv;Lviv Historical Museum</p></note>
+                        <origination label="creator"><name>Josef Kosciesza Jaworski</name></origination>
+<origination label="creator"><name>Publishing House Centr Europy, Lviv</name></origination>
+<origination label="creator"><name>Lviv Historical Museum</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Chapel</subject>
+<subject> architectural décor</subject>
+<subject> sculpture</subject>
+<subject> inscriptions</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

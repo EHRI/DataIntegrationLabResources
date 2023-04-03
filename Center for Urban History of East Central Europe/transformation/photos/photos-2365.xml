@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>4767</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Вулиця Колійова</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>84_pict</unitid>
+                    
+                    <unittitle>Stepan Kolodnyckyi</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>4767</unitid>
+                        <unittitle>Вулиця Колійова</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/4767"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Філіп Шварц;Філіп Шварц;Степан Колодницький;Степан Колодницький</p></note>
+                        <origination label="creator"><name>Філіп Шварц</name></origination>
+<origination label="creator"><name>Філіп Шварц</name></origination>
+<origination label="creator"><name>Степан Колодницький</name></origination>
+<origination label="creator"><name>Степан Колодницький</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Pidhajci;Pidhajci</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

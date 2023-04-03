@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1410</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Bernardine church</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>41_pict</unitid>
+                    <unitid>28</unitid>
+                    <unittitle>Andriy Otko</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/28/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1410</unitid>
+                        <unittitle>Bernardine church</unittitle>
+                        <unitdate>1926</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/1410"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Jan Bulhak;"Ruch", Lwow;Andriy Otko</p></note>
+                        <origination label="creator"><name>Jan Bulhak</name></origination>
+<origination label="creator"><name>Ruch, Lwow</name></origination>
+<origination label="creator"><name>Andriy Otko</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Church</subject>
+<subject> fasade</subject>
+<subject> public garden</subject>
+<subject> St. Jan from Dukla column</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

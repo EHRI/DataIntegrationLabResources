@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>546</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Arts Academy</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>4_pict</unitid>
+                    <unitid>88</unitid>
+                    <unittitle>V.Stefanyk Lviv National Scientific Library NAS of Ukraine</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/88/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>546</unitid>
+                        <unittitle>Arts Academy</unittitle>
+                        <unitdate>1908-1915</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/546"/>
+                        </materialspec>
+                        
+                        <note><p>Copyright: Рудольф Губер, Зофія Губер;Publishing House "Centr Europy", Lviv;Lviv National Library after V.Stefanyk NAS of Ukraine</p></note>
+                        <origination label="creator"><name>Рудольф Губер, Зофія Губер</name></origination>
+<origination label="creator"><name>Publishing House Centr Europy, Lviv</name></origination>
+<origination label="creator"><name>Lviv National Library after V.Stefanyk NAS of Ukraine</name></origination>
+                    </did>
+                    <controlaccess>
+                        
+                        <subject>School of Arts and Industry</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

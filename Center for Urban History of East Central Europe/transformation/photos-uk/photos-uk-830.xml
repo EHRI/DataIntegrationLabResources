@@ -1,0 +1,55 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1518</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Василіанський монастир</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>58_pict</unitid>
+                    <unitid>46</unitid>
+                    <unittitle>Бібліотека Інституту Народознавства при НАНУ, Львів</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/collections/46/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1518</unitid>
+                        <unittitle>Василіанський монастир</unittitle>
+                        <unitdate>1926</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/1518"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;невідомий;Бібліотека Інституту Народознавства при НАНУ, Львів</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Бібліотека Інституту Народознавства при НАНУ, Львів</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Бучач</geogname>
+                        <subject>Комплекс василіанського монастиря: церква Чесного Хреста</subject>
+<subject> монастирські приміщення</subject>
+<subject> гімназія</subject>
+<subject> дзвіниця</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

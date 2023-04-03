@@ -1,0 +1,135 @@
+[
+  {
+    "op": "core/column-addition-by-fetching-urls",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "URL",
+    "urlExpression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "HTML for item",
+    "columnInsertIndex": 5,
+    "delay": 100,
+    "cacheResponses": true,
+    "httpHeadersJson": [
+      {
+        "name": "authorization",
+        "value": ""
+      },
+      {
+        "name": "user-agent",
+        "value": "OpenRefine 3.5.2 [e3efd4e]"
+      },
+      {
+        "name": "accept",
+        "value": "*/*"
+      }
+    ],
+    "description": "Create column HTML for item at index 5 by fetching URLs based on column URL using expression grel:value"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "HTML for item",
+    "expression": "grel:filter(value.parseHtml().select(\".info-grid dd\"), e, e.toString().contains(\"collections\"))[0].select(\"a\")[0].htmlAttr(\"href\")",
+    "onError": "set-to-blank",
+    "newColumnName": "collection URL",
+    "columnInsertIndex": 6,
+    "description": "Create column collection URL at index 6 based on column HTML for item using expression grel:filter(value.parseHtml().select(\".info-grid dd\"), e, e.toString().contains(\"collections\"))[0].select(\"a\")[0].htmlAttr(\"href\")"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "collection URL",
+    "expression": "grel:value.replace(\"https://uma.lvivcenter.org/collections/\", \"\").replace(\"/photos\", \"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "collection id",
+    "columnInsertIndex": 7,
+    "description": "Create column collection id at index 7 based on column collection URL using expression grel:value.replace(\"https://uma.lvivcenter.org/collections/\", \"\").replace(\"/photos\", \"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Creator",
+    "expression": "jython:return \"\\n\".join(map(lambda x: '<origination label=\"creator\"><name>' + x + '</name></origination>', value.replace('\"', \"\").replace('&amp', \"\").split(\";\")))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Creator using expression jython:return \"\\n\".join(map(lambda x: '<origination label=\"creator\"><name>' + x + '</name></origination>', value.replace('\"', \"\").split(\";\")))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Tags",
+    "expression": "jython:return \"\\n\".join(map(lambda x: '<subject>' + x + '</subject>', value.replace('\"', \"\").split(\",\")))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Tags using expression jython:return \"\\n\".join(map(lambda x: '<subject>' + x + '</subject>', value.replace('\"', \"\").split(\",\")))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Place",
+    "expression": "grel:\"<geogname>\" + value + \"</geogname>\"",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Place using expression grel:\"<geogname>\" + value + \"</geogname>\""
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Date",
+    "expression": "grel:\"<unitdate>\" + value + \"</unitdate>\"",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Date using expression grel:\"<unitdate>\" + value + \"</unitdate>\""
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Technique",
+    "expression": "grel:\"<physdesc><physfacet>\" + value + \"</physfacet></physdesc>\"",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Technique using expression grel:\"<physdesc><physfacet>\" + value + \"</physfacet></physdesc>\""
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Copyright",
+    "expression": "grel:\"<note><p>Copyright: \" + value + \"</p></note>\"",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Copyright using expression grel:\"<note><p>Copyright: \" + value + \"</p></note>\""
+  }
+]

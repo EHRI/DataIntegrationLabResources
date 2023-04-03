@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5028</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Brothers</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>86_pict</unitid>
+                    
+                    <unittitle>Andriy Knysh</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5028</unitid>
+                        <unittitle>Brothers</unittitle>
+                        <unitdate>1915-1925</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/5028"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Wojcech Kossak;Unknown;Andriy Knysh</p></note>
+                        <origination label="creator"><name>Wojcech Kossak</name></origination>
+<origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Andriy Knysh</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Krakow</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,49 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34590</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>City Map of Grodno</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Ryszard_Hubisz</unitid>
+                    <unitid>137</unitid>
+                    <unittitle>Ryszard Hubisz</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/137/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34590</unitid>
+                        <unittitle>City Map of Grodno</unittitle>
+                        <unitdate>1940</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34590"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>Reich Office for Topographic Mapping</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Grodno</geogname>
+                        <subject>Grodno</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

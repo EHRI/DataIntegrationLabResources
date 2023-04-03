@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34439</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Plan of Lemberg</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>42_pict</unitid>
+                    <unitid>29</unitid>
+                    <unittitle>Oksana Zayachkivska</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/29/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34439</unitid>
+                        <unittitle>Plan of Lemberg</unittitle>
+                        <unitdate>c. 1841</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34439"/>
+                        </materialspec>
+                        <note><p>Copyright: Oksana Zayachkivska</p></note>
+                        <origination label="creator"><name>Artaria </name></origination>
+<origination label="creator"><name> Cо. Vienna</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Lemberg</subject>
+<subject> Lviv</subject>
+<subject> City plan</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

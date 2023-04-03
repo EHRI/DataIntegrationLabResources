@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>30072</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Female, born 1931</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Interviews</unitid>
+            <unittitle>Interviews</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>pustka</unitid>
+                    <unitid>142</unitid>
+                    <unittitle>Social Anthropology of filling the Void: Poland and Ukraine after World War II</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/142/interviews"/>
+                    </materialspec>
+                </did>
+                <scopecontent>
+                    <p>The central concept of the research project is «social void», a phenomenon that was characteristic of Central and Eastern Europe during and immediately after World War II as a result of mass ethnic cleansing, political revolutions, forced displacement and migration. The project focuses both on the material dimension of post-war social change (e.g. acquisition of property) and the subjective sphere of social practices and relationships. His goal was to examine the processes of replacing the missing elements of social life with local communities of Poland and Ukraine. The interviews conducted as part of the project show how the void was filled after the social groups (e.g. landowners, wealthy peasants), representatives of ethnic communities (Jews, Poles, Ukrainians) and professional groups (e.g. shoemakers, pharmacists, doctors, or more broadly – craftsmen, intelligence) were evicted by the war and post-war changes. The analysis concerns changes in the ownership structure, economic dysfunction, transformations of social and cultural practices, as well as changes in relations and social norms. The conversations archived at the Center were recorded in a dozen of locations in Lviv, Ivano-Frankivsk and Ternopil regions by an interdisciplinary team of Polish-Ukrainian researchers. The research was carried out in small towns and villages, combining the methodology of microhistory and biographic interview as part of oral history. In total, almost 150 interviews were collected in Ukraine, of which 40 are currently available in UStories collection. The conversations recorded in Poland as part of this bilateral study are preserved in Warsaw at Archiwum Historii Mówionej. The project coordinator is Anna Wylegała, a researcher at the Institute of Philosophy and Sociology of the Polish Academy of Sciences. Project is financed by the National Humanities Development Program, registration number 12H 13 0584 82. Galyna Bodnar worked with the materials before their publication.</p>
+                </scopecontent>
+                <c02 level="item">
+                    <did>
+                        <unitid>30072</unitid>
+                        <unittitle>Female, born 1931</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/interviews/30072"/>
+                        </materialspec>
+                        
+                        
+                    </did>
+                    <scopecontent>
+                        <p>A woman was born in the village Stare Selo, Pidhaitsi district in Ternopil oblast. Since 1951 she has lived in Pidhaitsi. She studied in schools of Stare Selo and Pidhaitsi and the pedagogical institute in Kremenets, then worked as a teacher. The conversation is unstructured and contains a lot of details and personalities. Describing the pre-war childhood memories, she recalled the good relationships with the Polish neighbours, going to the Roman Catholic church on Roman Catholic Christmas, Polish carols. The leitmotif of the conversation is the Holocaust in Pidhaitsi. The woman witnessed and described in detail the creation of a ghetto and the shootings of Jews. She recalls the Jewish family who lived nearby, the looting of their property after they were taken to the ghetto. The respondent described in detail several cases of Jews rescued during the German occupation and their life during Soviet times. The interview contains a lot of information about the post-war community: the creation of a collective farm and entering it, the detachments of “yastrubki” in Stare Selo. A lot was told about the teachers coming from the Eastern Regions and the attitude of the locals and the Ukrainian underground to them. Separate stories were concerned with the settlement in Pidhaitsi and the neighbourhood of Ukrainians from Poland and the starving people who came from behind the river Zbruch to ask for some food in 1946‒1947.      <br />
+Recorded in Pidhaitsi. The interviewer – Marta Havryshko.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

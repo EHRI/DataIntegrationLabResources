@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5139</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>The Volodymyrska hill and the monument to St. Volodymyr</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>6_pict</unitid>
+                    
+                    <unittitle>H.S. Pshenychnyi Central State Cinema, Photo and Phono Archive of Ukraine</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5139</unitid>
+                        <unittitle>The Volodymyrska hill and the monument to St. Volodymyr</unittitle>
+                        <unitdate>1880-1917</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/5139"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;Unpublished resources;Central State Kinofotofono Archive after G.S. Pshenychny</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Central State Kinofotofono Archive after G.S. Pshenychny</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Kyiv</geogname>
+                        <subject>People</subject>
+<subject> clothing</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

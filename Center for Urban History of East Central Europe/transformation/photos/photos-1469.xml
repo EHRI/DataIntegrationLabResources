@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2539</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Former Greek-Orthodox Seminary Building with Seminary Church</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>48_pict</unitid>
+                    
+                    <unittitle>Helmut Kusdat</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2539</unitid>
+                        <unittitle>Former Greek-Orthodox Seminary Building with Seminary Church</unittitle>
+                        <unitdate>1920-1923</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/2539"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        
+                        
+                    </did>
+                    <controlaccess>
+                        <geogname>Chernivtsi</geogname>
+                        <subject>Cernăuţi</subject>
+<subject> Orthodox Churches</subject>
+<subject> Bishop’s Residence</subject>
+<subject> Universities</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

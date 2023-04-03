@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>179</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Watercolor of Św.Ducha Square</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>5_pict</unitid>
+                    <unitid>1</unitid>
+                    <unittitle>Museum of Ancient Ukrainian Book Art LAG</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/1/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>179</unitid>
+                        <unittitle>Watercolor of Św.Ducha Square</unittitle>
+                        <unitdate>1899-1902</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/179"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Stanislaw Tondos;The Art Gallery of Polish Artists Publishing House, Krakow;Museum of Ancient Handwritten Ukrainian Book Art LAG</p></note>
+                        <origination label="creator"><name>Stanislaw Tondos</name></origination>
+<origination label="creator"><name>The Art Gallery of Polish Artists Publishing House, Krakow</name></origination>
+<origination label="creator"><name>Museum of Ancient Handwritten Ukrainian Book Art LAG</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Św.Ducha Square</subject>
+<subject> church</subject>
+<subject> city hall tower</subject>
+<subject> tower of Latin Cathedral</subject>
+<subject> tram</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

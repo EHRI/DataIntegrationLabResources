@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>2029</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Зустріч австрійських та українських вояків</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>19_pict</unitid>
+                    
+                    <unittitle>Тарас Піняжко</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>2029</unitid>
+                        <unittitle>Зустріч австрійських та українських вояків</unittitle>
+                        <unitdate>1914-1915</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/2029"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;C.u.k. Kriegsoresseausrtie;Тарас Піняжко</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>C.u.k. Kriegsoresseausrtie</name></origination>
+<origination label="creator"><name>Тарас Піняжко</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Невідоме місце локалізації</geogname>
+                        <subject>Війна</subject>
+<subject> солдати</subject>
+<subject> військова форма</subject>
+<subject> люди</subject>
+<subject> портрет</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

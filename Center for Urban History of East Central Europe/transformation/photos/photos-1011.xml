@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1795</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>St. Mary Magdalene church</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>3_pict</unitid>
+                    
+                    <unittitle>Lviv Historical Museum</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1795</unitid>
+                        <unittitle>St. Mary Magdalene church</unittitle>
+                        
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/1795"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Josef Kosciesza Jaworski;Publishing House "Centr Europy", Lviv;Lviv Historical Museum</p></note>
+                        <origination label="creator"><name>Josef Kosciesza Jaworski</name></origination>
+<origination label="creator"><name>Publishing House Centr Europy, Lviv</name></origination>
+<origination label="creator"><name>Lviv Historical Museum</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Street</subject>
+<subject> church</subject>
+<subject> vicarage</subject>
+<subject> wall</subject>
+<subject> memorial sign</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

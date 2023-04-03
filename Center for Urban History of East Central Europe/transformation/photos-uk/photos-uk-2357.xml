@@ -1,0 +1,53 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>4744</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Пам'ятник А. Міцкевичу на площі Міцкевича</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>2_pict</unitid>
+                    
+                    <unittitle>Центр міської історії Центрально Східної Європи</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>4744</unitid>
+                        <unittitle>Пам'ятник А. Міцкевичу на площі Міцкевича</unittitle>
+                        <unitdate>1903-1980</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/4744"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Р. Якименко;Р. Якименко;Центр міської історії Центрально Східної Європи</p></note>
+                        <origination label="creator"><name>Р. Якименко</name></origination>
+<origination label="creator"><name>Р. Якименко</name></origination>
+<origination label="creator"><name>Центр міської історії Центрально Східної Європи</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Львів</geogname>
+                        <subject>Пам'ятник</subject>
+<subject> А. Міцкевич</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

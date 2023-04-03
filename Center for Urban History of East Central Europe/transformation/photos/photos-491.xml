@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1007</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Remains of the External Fortification Wall from the days of Wladyslaw Jagiello</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>10_pict</unitid>
+                    <unitid>67</unitid>
+                    <unittitle>Ihor Kotlobulatov</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/67/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1007</unitid>
+                        <unittitle>Remains of the External Fortification Wall from the days of Wladyslaw Jagiello</unittitle>
+                        <unitdate>1910</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/1007"/>
+                        </materialspec>
+                        <physdesc><physfacet>Other Fine Prints</physfacet></physdesc>
+                        <note><p>Copyright: Franciszek Kowaliszyn;Francisek Jaworski "Lwow za Jagielly";Ihor Kotlobulatov</p></note>
+                        <origination label="creator"><name>Franciszek Kowaliszyn</name></origination>
+<origination label="creator"><name>Francisek Jaworski Lwow za Jagielly</name></origination>
+<origination label="creator"><name>Ihor Kotlobulatov</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>City Arsenal</subject>
+<subject> Great City Synagogue</subject>
+<subject> tower</subject>
+<subject> remains of a fortification wall</subject>
+<subject> Kornyakt Tower</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

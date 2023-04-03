@@ -1,0 +1,52 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>753</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Пам'ятник Йогану Андреасу Лібенбергу, меру Відня в часи турецької облоги (1680- 1683)</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>2_pict</unitid>
+                    <unitid>68</unitid>
+                    <unittitle>Center for Urban History of East Central Europe</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/68/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>753</unitid>
+                        <unittitle>Пам'ятник Йогану Андреасу Лібенбергу, меру Відня в часи турецької облоги (1680- 1683)</unittitle>
+                        <unitdate>1935</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/753"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Unknown;"Grapha", Vienna;Center for Urban History of East Central Europe</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Grapha, Vienna</name></origination>
+<origination label="creator"><name>Center for Urban History of East Central Europe</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Vienna</geogname>
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

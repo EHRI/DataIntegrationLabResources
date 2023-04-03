@@ -1,0 +1,51 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>49322</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Дарка, коліжанка Ольги-Марії Жидачек</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Bozhena_Pelens'ka</unitid>
+                    
+                    <unittitle>Bozhena Pelens'ka</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>49322</unitid>
+                        <unittitle>Дарка, коліжанка Ольги-Марії Жидачек</unittitle>
+                        <unitdate>1949</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/49322"/>
+                        </materialspec>
+                        
+                        <note><p>Copyright: Unknown;Bozhena Pelens'ka</p></note>
+                        <origination label="creator"><name>Unknown</name></origination>
+<origination label="creator"><name>Bozhena Pelens'ka</name></origination>
+                    </did>
+                    <controlaccess>
+                        
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

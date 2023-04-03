@@ -1,0 +1,49 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>34586</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Sniatyn. Street map from 1939</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Maps</unitid>
+            <unittitle>Maps</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Mychajlo_Bazhanskyj_Museum</unitid>
+                    <unitid>139</unitid>
+                    <unittitle>Mychajlo Bazhanskyj Museum-Library. Sniatyn</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/139/maps"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>34586</unitid>
+                        <unittitle>Sniatyn. Street map from 1939</unittitle>
+                        <unitdate>1939</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/maps/34586"/>
+                        </materialspec>
+                        
+                        <origination label="creator"><name>Mychajlo Bazhanskyj Museum-Library</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Snyatyn</geogname>
+                        <subject>Sniatyn</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

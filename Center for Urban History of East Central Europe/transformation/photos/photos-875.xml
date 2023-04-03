@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>1585</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Former Residence of the Greek-Orthodox Bishop</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>58_pict</unitid>
+                    <unitid>46</unitid>
+                    <unittitle>Library of the Institute of Ethnology Academy of Sciences of Ukraine, Lviv</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/collections/46/photos"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>1585</unitid>
+                        <unittitle>Former Residence of the Greek-Orthodox Bishop</unittitle>
+                        <unitdate>1900-1910</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/1585"/>
+                        </materialspec>
+                        <physdesc><physfacet>Postcards</physfacet></physdesc>
+                        <note><p>Copyright: Jozefy &amp; Müller;Saul Blumenthal, Czernowitz;Бібліотека Інституту Народознавства при НАНУ, Львів</p></note>
+                        <origination label="creator"><name>Jozefy </name></origination>
+<origination label="creator"><name> Müller</name></origination>
+<origination label="creator"><name>Saul Blumenthal, Czernowitz</name></origination>
+<origination label="creator"><name>Бібліотека Інституту Народознавства при НАНУ, Львів</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Chernivtsi</geogname>
+                        <subject>Czernowitz</subject>
+<subject> Orthodox Churches</subject>
+<subject> Bishop’s Residence</subject>
+<subject> Universities</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

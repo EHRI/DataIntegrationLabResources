@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>4339</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Graduation table of Lviv Pedagogical Institute on Instytutsk street, 15</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>72_pict</unitid>
+                    
+                    <unittitle>Oleksandr Korobov</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>4339</unitid>
+                        <unittitle>Graduation table of Lviv Pedagogical Institute on Instytutsk street, 15</unittitle>
+                        <unitdate>1946-1950</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/4339"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: Illya Pavlyk;Unpublished resources;Oleksandr Korobov</p></note>
+                        <origination label="creator"><name>Illya Pavlyk</name></origination>
+<origination label="creator"><name>Unpublished resources</name></origination>
+<origination label="creator"><name>Oleksandr Korobov</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Lviv</geogname>
+                        <subject>Table</subject>
+<subject> the graduates</subject>
+<subject> building</subject>
+<subject> institute</subject>
+<subject> Sventsitskoho street</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

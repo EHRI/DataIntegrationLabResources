@@ -1,0 +1,54 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>48160</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Students of medical rabfak</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="eng">English</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>rodynnyi_albom</unitid>
+                    
+                    <unittitle>Family Album</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>48160</unitid>
+                        <unittitle>Students of medical rabfak</unittitle>
+                        <unitdate>1937</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/en/photos/48160"/>
+                        </materialspec>
+                        
+                        <note><p>Copyright: Зоя Звиняцьківська;Unknown</p></note>
+                        <origination label="creator"><name>Зоя Звиняцьківська</name></origination>
+<origination label="creator"><name>Unknown</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Sloviansk</geogname>
+                        <subject>fashion</subject>
+<subject> woman</subject>
+<subject> coat</subject>
+<subject> hat</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,51 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>49301</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Дівчина у народному одязі</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>Bozhena_Pelens'ka</unitid>
+                    
+                    <unittitle>Божена Пеленська</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>49301</unitid>
+                        <unittitle>Дівчина у народному одязі</unittitle>
+                        <unitdate>1933</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/49301"/>
+                        </materialspec>
+                        
+                        <note><p>Copyright: невідомий;Божена Пеленська</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Божена Пеленська</name></origination>
+                    </did>
+                    <controlaccess>
+                        
+                        null
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,56 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+    <eadheader>
+    <eadid>5183</eadid>
+    <filedesc>
+        <titlestmt>
+            <titleproper>Адміністративна будівля шахти "Корсунська копальня №1"</titleproper>
+        </titlestmt>
+    </filedesc>
+    <profiledesc>
+    <langusage>
+        <language langcode="ukr">Ukrainian</language>
+    </langusage>
+    </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <unitid>Photos</unitid>
+            <unittitle>Photos</unittitle>
+        </did>
+        <dsc>
+            <c01 level="collection">
+                <did>
+                    <unitid>93_pict</unitid>
+                    
+                    <unittitle>Музей історії міста Горлівка</unittitle>
+                    <materialspec label="Web Source">
+                        <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="null"/>
+                    </materialspec>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unitid>5183</unitid>
+                        <unittitle>Адміністративна будівля шахти "Корсунська копальня №1"</unittitle>
+                        <unitdate>1900-1925</unitdate>
+                        <materialspec label="Web Source">
+                            <extptr xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://uma.lvivcenter.org/uk/photos/5183"/>
+                        </materialspec>
+                        <physdesc><physfacet>Photograph</physfacet></physdesc>
+                        <note><p>Copyright: невідомий;Неопубліковані ресурси;Музей історії міста Горлівка</p></note>
+                        <origination label="creator"><name>невідомий</name></origination>
+<origination label="creator"><name>Неопубліковані ресурси</name></origination>
+<origination label="creator"><name>Музей історії міста Горлівка</name></origination>
+                    </did>
+                    <controlaccess>
+                        <geogname>Горлівка</geogname>
+                        <subject>індустріальний ландшафт</subject>
+<subject> Донбас</subject>
+<subject> шахта</subject>
+<subject> вуглевидобування</subject>
+<subject> індустріалізація</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
