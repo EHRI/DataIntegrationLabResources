@@ -1,0 +1,47 @@
+target-path	target-node	source-node	value
+/	ead	.	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	.	'Fonds ingestion'
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	.	'Archive'
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	'English'
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	'eng'
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	'otherlevel'
+/ead/archdesc/	did	.	
+/ead/archdesc/did/	unitid	.	'archive'
+/ead/archdesc/did/	unittitle	.	'Archive'
+/ead/archdesc/	dsc	.	
+/ead/archdesc/dsc/	c	//inm:Record[inm:DescriptionLevel='Fonds']	
+/ead/archdesc/dsc/c/	@level	.	'fonds'
+/ead/archdesc/dsc/c/	did	.	
+/ead/archdesc/dsc/c/did/	unitid	./inm:FondsNo	text()
+/ead/archdesc/dsc/c/did/	unitid	./inm:DescriptionsID	text()
+/ead/archdesc/dsc/c/did/	unittitle	./inm:Title	text()
+/ead/archdesc/dsc/c/did/	unitdate	./inm:DateRange	text()
+/ead/archdesc/dsc/c/did/	note	.	
+/ead/archdesc/dsc/c/did/note/	p	./inm:AdministrativeNotes	text()
+/ead/archdesc/dsc/c/did/note/	p	./inm:Notes	text()
+/ead/archdesc/dsc/c/did/	physdesc	.	
+/ead/archdesc/dsc/c/did/physdesc/	extent	./inm:PhysicalDescription	text()
+/ead/archdesc/dsc/c/did/physdesc/	extent	./inm:StorageLocation	text()
+/ead/archdesc/dsc/c/did/	materialspec	.	
+/ead/archdesc/dsc/c/did/materialspec/	@label	.	'Web Source'
+/ead/archdesc/dsc/c/did/materialspec/	extptr	./inm:Title	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://www.cjhn.ca/list?q=', replace(text(), ' ', '+'), '&amp;repository_facet=Ottawa+Jewish+Archives&amp;level_facet=Fonds')}
+/ead/archdesc/dsc/c/	bioghist	.	
+/ead/archdesc/dsc/c/bioghist/	p	./inm:HistoryBiographical	text()
+/ead/archdesc/dsc/c/	custodhist	.	
+/ead/archdesc/dsc/c/custodhist/	p	./inm:CustodialHistory	text()
+/ead/archdesc/dsc/c/	scopecontent	.	
+/ead/archdesc/dsc/c/scopecontent/	p	./inm:ScopeContent	text()
+/ead/archdesc/dsc/c/	accessrestrict	.	
+/ead/archdesc/dsc/c/accessrestrict/	p	./inm:AccessRestriction	text()
+/ead/archdesc/dsc/c/	acqinfo	.	
+/ead/archdesc/dsc/c/acqinfo/	p	./inm:AcquisitionSource	text()
+/ead/archdesc/dsc/c/	arrangement	.	
+/ead/archdesc/dsc/c/arrangement/	p	./inm:Arrangement	text()
+/ead/archdesc/dsc/c/	relatedmaterial	.	
+/ead/archdesc/dsc/c/relatedmaterial/	p	./inm:RelatedMaterial	text()
