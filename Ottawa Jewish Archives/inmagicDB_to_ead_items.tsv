@@ -1,0 +1,54 @@
+target-path	target-node	source-node	value
+/	ead	.	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	.	'Fonds ingestion'
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	.	'Archive'
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	'English'
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	'eng'
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	'otherlevel'
+/ead/archdesc/	did	.	
+/ead/archdesc/did/	unitid	.	'archive'
+/ead/archdesc/did/	unittitle	.	'Archive'
+/ead/archdesc/	dsc	.	
+/ead/archdesc/dsc/	c	//inm:Record[inm:DescriptionLevel='Item']	
+/ead/archdesc/dsc/c/	@level	.	'fonds'
+/ead/archdesc/dsc/c/	did	.	
+/ead/archdesc/dsc/c/did/	unitid	./inm:FondsNo	text()
+/ead/archdesc/dsc/c/did/	unittitle	./inm:PartOf	text()
+/ead/archdesc/dsc/c/	c	.	
+/ead/archdesc/dsc/c/c/	@level	.	'item'
+/ead/archdesc/dsc/c/c/	did	.	
+/ead/archdesc/dsc/c/c/did/	unitid	./inm:ItemNo	text()
+/ead/archdesc/dsc/c/c/did/	unitid	./inm:DescriptionsID	text()
+/ead/archdesc/dsc/c/c/did/	unittitle	./inm:Title	text()
+/ead/archdesc/dsc/c/c/did/	unitdate	./inm:DateRange	text()
+/ead/archdesc/dsc/c/c/did/	note	.	
+/ead/archdesc/dsc/c/c/did/	origination	.	
+/ead/archdesc/dsc/c/c/did/origination/	name	./inm:Creator	text()
+/ead/archdesc/dsc/c/c/did/note/	p	./inm:AdministrativeNotes	text()
+/ead/archdesc/dsc/c/c/did/note/	p	./inm:Notes	text()
+/ead/archdesc/dsc/c/c/did/	physdesc	.	
+/ead/archdesc/dsc/c/c/did/physdesc/	extent	./inm:PhysicalDescription	text()
+/ead/archdesc/dsc/c/c/did/physdesc/	extent	./inm:StorageLocation	text()
+/ead/archdesc/dsc/c/c/did/	materialspec	.	
+/ead/archdesc/dsc/c/c/did/materialspec/	@label	.	'Web Source'
+/ead/archdesc/dsc/c/c/did/materialspec/	extptr	./inm:Title	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://www.cjhn.ca/list?q=', replace(text(), ' ', '+'), '&amp;repository_facet=Ottawa+Jewish+Archives&amp;level_facet=Item')}
+/ead/archdesc/dsc/c/c/	bioghist	.	
+/ead/archdesc/dsc/c/c/bioghist/	p	./inm:HistoryBiographical	text()
+/ead/archdesc/dsc/c/c/	custodhist	.	
+/ead/archdesc/dsc/c/c/custodhist/	p	./inm:CustodialHistory	text()
+/ead/archdesc/dsc/c/c/	scopecontent	.	
+/ead/archdesc/dsc/c/c/scopecontent/	p	./inm:ScopeContent	text()
+/ead/archdesc/dsc/c/c/	accessrestrict	.	
+/ead/archdesc/dsc/c/c/accessrestrict/	p	./inm:AccessRestriction	text()
+/ead/archdesc/dsc/c/c/	acqinfo	.	
+/ead/archdesc/dsc/c/c/acqinfo/	p	./inm:AcquisitionSource	text()
+/ead/archdesc/dsc/c/c/	arrangement	.	
+/ead/archdesc/dsc/c/c/arrangement/	p	./inm:Arrangement	text()
+/ead/archdesc/dsc/c/c/	relatedmaterial	.	
+/ead/archdesc/dsc/c/c/relatedmaterial/	p	./inm:RelatedMaterial	text()
