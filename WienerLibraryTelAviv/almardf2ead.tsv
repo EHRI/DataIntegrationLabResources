@@ -1,0 +1,45 @@
+target-path	target-node	source-node	value
+/	ead	/rdf:RDF	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	./bf:Instance/tokenize(@rdf:about, '/')[9]	.
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	.	'The Protocols of the Elders of Zion'
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	'collection'
+/ead/archdesc/	did	.	
+/ead/archdesc/did/	unitid	.	'9932929394904146'
+/ead/archdesc/did/	unittitle	.	'The Protocols of the Elders of Zion'
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	@label	.	'Web Source'
+/ead/archdesc/did/materialspec/	extptr	./bf:Instance/tokenize(@rdf:about, '/')[9]	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://tau-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=TAU', '&amp;', 'query=any,contains,' ,  '9932929394904146')}
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	.	"The Protocols of the Elders of Zion – or Protocols of the Wise Men of Zion - is an anti-Semitic forgery, detailing in 24 chapters the ""Jewish plan"" to take over the world. The fake document is a compilation from various sources, issued in Russia by Sergei Nilus in 1905, and since then, published in various languages around the globe. The collection includes documents on the origins and the development of the myth."
+/ead/archdesc/	dsc	.	
+/ead/archdesc/dsc/	c01	.	
+/ead/archdesc/dsc/c01/	did	.	
+/ead/archdesc/dsc/c01/did/	unitid	./bf:Instance/tokenize(@rdf:about, '/')[9]	.
+/ead/archdesc/dsc/c01/did/	unittitle	./bf:Instance/bf:title/bf:Title/bf:mainTitle	text()
+/ead/archdesc/dsc/c01/did/	unitdate	./bf:Instance/bf:provisionActivity/bf:ProvisionActivity/bf:date	text()
+/ead/archdesc/dsc/c01/did/	origination	.	
+/ead/archdesc/dsc/c01/did/origination/	name	./bf:Work/bf:contribution/bf:Contribution	if(./bf:role/bf:Role/rdfs:label/text()) then concat(./bf:agent/bf:Agent/rdfs:label/text(), ' (',  string-join(./bf:role/bf:Role/rdfs:label/text(), ', '), ')') else ./bf:agent/bf:Agent/rdfs:label/text()
+/ead/archdesc/dsc/c01/did/	physdesc	.	
+/ead/archdesc/dsc/c01/did/physdesc/	extent	./bf:Instance/bf:extent/bf:Extent/rdfs:label	text()
+/ead/archdesc/dsc/c01/did/	langmaterial	.	
+/ead/archdesc/dsc/c01/did/langmaterial/	language	./bf:Work/bf:language/bf:Language/rdf:value/@rdf:resource	attribute langcode {tokenize(., '/')[6]}
+/ead/archdesc/dsc/c01/	scopecontent	.	
+/ead/archdesc/dsc/c01/scopecontent/	p	./bf:Work/bf:summary/bf:Summary/rdfs:label	text()
+/ead/archdesc/dsc/c01/scopecontent/	p	./bf:Work/bf:tableOfContents/bf:TableOfContents/rdfs:label	text()
+/ead/archdesc/dsc/c01/did/	materialspec	.	
+/ead/archdesc/dsc/c01/did/materialspec/	@label	.	'Web Source'
+/ead/archdesc/dsc/c01/did/materialspec/	extptr	./bf:Instance/tokenize(@rdf:about, '/')[9]	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://tau-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=TAU', '&amp;', 'query=any,contains,' ,  .)}
+/ead/archdesc/dsc/c01/did/	note	.	
+/ead/archdesc/dsc/c01/did/note/	p	./bf:Instance/bf:note/bf:Note/rdfs:label	text()
+/ead/archdesc/dsc/c01/	accessrestrict	.	
+/ead/archdesc/dsc/c01/accessrestrict/	p	./bf:Instance/bf:usageAndAccessPolicy/bf:AccessPolicy/rdfs:label	text()
+/ead/archdesc/dsc/c01/	phystech	.	
+/ead/archdesc/dsc/c01/phystech/	p	./bf:Instance/bf:systemRequirement/bf:SystemRequirement/rdfs:label	text()
+/ead/archdesc/dsc/c01/	controlaccess	.	
+/ead/archdesc/dsc/c01/controlaccess/	persname	./bf:Work/bf:subject/bf:Agent/rdfs:label	text()
+/ead/archdesc/dsc/c01/controlaccess/	subject	./bf:Work/bf:subject/bf:Topic/rdfs:label	text()
+/ead/archdesc/dsc/c01/controlaccess/	geogname	./bf:Work/bf:subject/bf:Place/rdfs:label	text()
