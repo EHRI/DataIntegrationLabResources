@@ -1,6 +1,6 @@
 # Bundesarchiv
 
-The Bundesarchiv offers an export through their Open Data portal [https://open-data.bundesarchiv.de/](https://open-data.bundesarchiv.de/). However, in the HERI portal this information is spread in the different branches that the Bundesarchiv is divided on. Therefore, the process should be divided and customised per branch.
+The Bundesarchiv offers an export through their Open Data portal ([https://open-data.bundesarchiv.de/](https://open-data.bundesarchiv.de/)). However, in the EHRI portal this information is spread in the different branches that the Bundesarchiv is divided on. Therefore, the process should be divided and customised per branch.
 
 * Bundesarchiv, Koblenz (de-002579)
     1. Create a URLset for the Apex data using the TSV file named Bundesarchiv-Koblenz-URLset-Apex.tsv
