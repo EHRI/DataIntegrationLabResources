@@ -14,7 +14,6 @@ target-path	target-node	source-node	value
 /ead/eadheader/filedesc/titlestmt/	subtitle	./arr[@name="film_alternate_title"]/str	text()
 /ead/eadheader/filedesc/titlestmt/	subtitle	./arr[@name="orig_title"]/str	text()
 /ead/eadheader/	profiledesc	.	
-/ead/eadheader/profiledesc/	creation	./str[@name="datetimemodified"]	"This EAD is created by EHRI on ", <date xmlns="urn:isbn:1-931666-22-9">{current-date()}</date>, " based on XML provided by USHMM. This XML file is constructed from a Catalog Record that was last modified on ", <date xmlns="urn:isbn:1-931666-22-9">{text()}</date>, "."
 /ead/	archdesc	.	
 /ead/archdesc/	@level	function ($id as xs:string, $context as item()) {if (exists($context/../doc[arr[@name="assoc_parent_irn"]/str/text() = $id])) then <test>collection</test> else <test>item</test> }(./str[@name="irn"]/text(), .)	if (matches(text(), "folder")) then "collection" else text()
 /ead/archdesc/	did	.	
