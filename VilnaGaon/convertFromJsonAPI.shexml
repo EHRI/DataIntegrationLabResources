@@ -1,0 +1,25 @@
+PREFIX : <http://example.com/>
+SOURCE src <placeholder>
+ITERATOR root <jsonpath: $> {
+    FIELD id <id>
+    FIELD title <title>
+    FIELD date <creationDateStr>
+  	FIELD dimensions <measurements>
+    #FIELD extent <crew.director>
+    #FIELD physfacet <crew.screenwritter>
+    #FIELD link <crew.music>
+    FIELD scopeContent <publicityInformation>
+  	ITERATOR subjects <themes[*]> {
+  		FIELD subject <title>
+  	}
+    
+}
+EXPRESSION description <src.root>
+
+:Description :[description.id] {
+    :title [description.title] ;
+    :date [description.date] ;
+  	:dimensions [description.dimensions] ;
+  	:scopeContent [description.scopeContent] ;
+  	:subject [description.subjects.subject] ;
+}
