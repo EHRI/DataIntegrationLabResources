@@ -1,0 +1,60 @@
+PREFIX : <http://example.com/>
+SOURCE src <placeholder>
+ITERATOR root <jsonpath: $> {
+    FIELD id <id>
+  	FIELD primaryAccountingNo <primaryAccountingNo>
+  	FIELD inventoryNo <inventoryNo>
+    FIELD title <title>
+    FIELD date <creationDateStr>
+  	FIELD fund <fund>
+ 	FIELD set <set>
+  	FIELD dimensions <measurements>
+  	FIELD type <type.title>
+    FIELD scopeContent <publicityInformation>
+  	FIELD condition <condition.title>
+  	FIELD creationLocation <creationLocation.title>
+  	ITERATOR subjects <themes[*]> {
+  		FIELD subject <title>
+  	}
+  	ITERATOR authors <authors[*]> {
+  		FIELD title <title>
+  	}
+  	ITERATOR materials <materials[*]> {
+  		FIELD title <title>
+  	}
+  	ITERATOR techniques <materials[*]> {
+  		FIELD title <title>
+  	}
+  	ITERATOR relatedDefinitions <relatedDefinitions[*]> {
+  		FIELD dummy <dummy> # this prevents an error
+    	ITERATOR locations <locations[*]> {
+      		FIELD title <title>
+    	}
+    	ITERATOR people <relatedPersons[*]> {
+      		FIELD title <title>
+    	}
+  	}
+    
+}
+EXPRESSION description <src.root>
+
+:Description :[description.id] {
+  	:identifier [description.id] ;
+  	:primaryAccountingNo [description.primaryAccountingNo] ;
+  	:inventoryNo [description.inventoryNo] ;
+    :title [description.title] ;
+    :date [description.date] ;
+  	:fund [description.fund] ;
+  	:set [description.set] ;
+  	:dimensions [description.dimensions] ;
+  	:type [description.type] ;
+  	:scopeContent [description.scopeContent] ;
+  	:condition [description.condition] ;
+  	:creationLocation [description.creationLocation] ;
+  	:subject [description.subjects.subject] ;
+  	:authors [description.authors.title] ;
+  	:materials [description.materials.title] ;
+  	:techniques [description.techniques.title] ;
+  	:locations [description.relatedDefinitions.locations.title] ;
+  	:people [description.relatedDefinitions.people.title] ;
+}
