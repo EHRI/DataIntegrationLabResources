@@ -9,7 +9,7 @@
 
     <xsl:template match="//abstract">
        <xsl:for-each select="distinct-values(tokenize(., '&lt;lb[/]&gt;&lt;lb[/]&gt;'))">
-         <abstract><xsl:value-of select='replace(replace(., "&#x92;|&#x91;", "&apos;"), "&#x96;", "&#8212;")' /></abstract>
+         <abstract><xsl:value-of select='replace(replace(replace(replace(replace(., "&#x9a;", "š"), "&#x8e;", "Ž"), "&#x8a;", "Š"), "&#x92;|&#x91;", "&apos;"), "&#x96;", "&#8212;")' /></abstract>
        </xsl:for-each>
   	</xsl:template>
 
