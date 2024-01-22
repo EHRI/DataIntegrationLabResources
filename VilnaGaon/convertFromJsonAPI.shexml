@@ -22,7 +22,7 @@ ITERATOR root <jsonpath: $> {
   	ITERATOR materials <materials[*]> {
   		FIELD title <title>
   	}
-  	ITERATOR techniques <materials[*]> {
+  	ITERATOR techniques <techniques[*]> {
   		FIELD title <title>
   	}
   	ITERATOR relatedDefinitions <relatedDefinitions[*]> {
