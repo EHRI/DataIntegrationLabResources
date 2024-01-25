@@ -1,0 +1,35 @@
+target-path	target-node	source-node	value
+/	ead	/ArrayOfIdValue	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	./IdValue[./Id="itemId"]	./Value/text()
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	./IdValue[./Id="title"]	./Value/text()
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	attribute langcode {"eng"}, "English"	
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	"collection"
+/ead/archdesc/	did	.	
+/ead/archdesc/	dsc	.	
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	./IdValue[./Id="summary"]	./Value/text()
+/ead/archdesc/	acqinfo	.	
+/ead/archdesc/acqinfo/	p	./IdValue[./Id="submitter"]	concat("Submitted by: ", ./Value/text())
+/ead/archdesc/did/	unitid	./IdValue[./Id="itemId"]	./Value/text()
+/ead/archdesc/did/	unitid	./IdValue[./Id="recordGroup"]	normalize-space(tokenize(./Value/text(), "-")[1])
+/ead/archdesc/did/	unittitle	./IdValue[./Id="title"]	./Value/text()
+/ead/archdesc/did/	unitdate	for $date at $pos in ./IdValue[./Id="earliestDate"]/Value/text() return [./IdValue[./Id="earliestDate"][$pos]/Value/text(), ./IdValue[./Id="latestDate"][$pos]/Value/text()]	concat(.(1), "-", .(2))
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/physdesc/	physfacet	./IdValue[./Id="materialType"]	./Value/text()
+/ead/archdesc/did/	langmaterial	.	
+/ead/archdesc/did/langmaterial/	language	./IdValue[./Id="language"]	attribute langcode {xtra:language-name-to-code(./Value/text())}, ./Value/text()
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	@label	.	"Web Source"
+/ead/archdesc/did/materialspec/	extptr	./IdValue[./Id="itemId"]	attribute xlink:type {"simple"}, attribute xlink:href {concat("https://collections.yadvashem.org/en/documents/", ./Value/text())}
+/ead/archdesc/	originalsloc	.	
+/ead/archdesc/originalsloc/	p	if(./IdValue[./Id="original"]/Value/text() = "NO") then ./IdValue[./Id="originalLocation"] else ()	./Value/text()
+/ead/archdesc/originalsloc/	p	if(./IdValue[./Id="original"]/Value/text() = "NO") then ./IdValue[./Id="signature"] else ()	concat("Signature: ", ./Value/text())
+/ead/archdesc/	controlaccess	.	
+/ead/archdesc/controlaccess/	subject	./IdValue[./Id="subject"]	./Value/text()
+/ead/archdesc/controlaccess/	geogname	./IdValue[matches(./Id, "place_\d - TITLE")]	./Value/text()
