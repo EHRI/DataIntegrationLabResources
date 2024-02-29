@@ -61,3 +61,6 @@ target-path	target-node	source-node	value
 /ead/archdesc/accruals/	p	.//mdProperty[attribute/text() = "ehri_accruals"]	value/text()
 /ead/archdesc/	phystech	.	
 /ead/archdesc/phystech/	p	.//mdProperty[attribute/text() = "ehri_physical_characteristics_and_technical_requirements"]	value/text()
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	@label	.	"Web Source"
+/ead/archdesc/did/materialspec/	extptr	./title	attribute xlink:type {"simple"}, attribute xlink:href {concat("https://beeldbank.kazernedossin.eu/portal/media?q=", replace(text(), '\s', '%5C%20'))}
