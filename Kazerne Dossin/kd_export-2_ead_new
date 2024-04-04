@@ -1,0 +1,68 @@
+target-path	target-node	source-node	value
+/	ead	//Response	
+/ead/	@xsi:schemaLocation	.	https://zeticon.mediahaven.com/metadata/24.1/mhs/ https://zeticon.mediahaven.com/metadata/24.1/mhs.xsd https://zeticon.mediahaven.com/metadata/24.1/mh/ https://zeticon.mediahaven.com/metadata/24.1/mh.xsd
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	//Response/Results/mhs:Sidecar/mhs:Dynamic/kazernedossin_id	text()
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	collection
+/ead/archdesc/	@otherlevel	.	folder
+/ead/archdesc/	did	.	
+/ead/archdesc/did/	unitid	//Response/Results/mhs:Sidecar/mhs:Dynamic/kazernedossin_id	text()
+/ead/archdesc/did/	origination	.	
+/ead/archdesc/did/origination/	name	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_creator	text()
+/ead/archdesc/did/	unittitle	.	title/text()
+/ead/archdesc/did/	unittitle	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Title	text()
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Description	text()
+/ead/archdesc/	controlaccess	.	
+/ead/archdesc/controlaccess/	subject	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Keywords/mh:Keyword	text()
+/ead/archdesc/controlaccess/	subject	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Categories/mh:Category	text()
+/ead/archdesc/controlaccess/	geogname	.	
+/ead/archdesc/controlaccess/	geogname	//Response/Results/mhs:Sidecar/mhs:Dynamic/content_location	text()
+/ead/archdesc/	userestrict	.	
+/ead/archdesc/userestrict/	p	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:RightsOwner	text()
+/ead/archdesc/	accessrestrict	.	
+/ead/archdesc/accessrestrict/	p	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Rights	text()
+/ead/archdesc/	bibliography	.	
+/ead/archdesc/bibliography/	bibref	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Publications/mh:Comment	text()
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/	notestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Title	text()
+/ead/eadheader/filedesc/notestmt/	note	.	
+/ead/eadheader/filedesc/notestmt/note/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_archivist_s_note	text()
+/ead/archdesc/	relatedmaterial	.	
+/ead/archdesc/relatedmaterial/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_description_related_units	text()
+/ead/archdesc/	altformavail	.	
+/ead/archdesc/altformavail/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_copies	text()
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	
+/ead/eadheader/profiledesc/langusage/language/	@scriptcode	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_description_script	"if (matches(text(), ""Latin"")) then ""Latn"" else text()"
+/ead/eadheader/profiledesc/langusage/language/	@langcode	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_description_language	"if (matches(text(), ""English?"")) then ""eng"" else text()"
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/physdesc/	extent	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_extent_and_medium_of_the_unit_of_description	text()
+/ead/archdesc/	bioghist	.	
+/ead/archdesc/bioghist/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_Administrative_and_Biographical	text()
+/ead/archdesc/	otherfindaid	.	
+/ead/archdesc/otherfindaid/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_finding_aid	text()
+/ead/archdesc/	originalsloc	.	
+/ead/archdesc/originalsloc/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_originals	text()
+/ead/archdesc/	custodhist	.	
+/ead/archdesc/custodhist/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_Archival	text()
+/ead/archdesc/	arrangement	.	
+/ead/archdesc/arrangement/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_system_of_arrangement	text()
+/ead/archdesc/	acqinfo	.	
+/ead/archdesc/acqinfo/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_Immediate_Source_of_acquisition_or_transfer	text()
+/ead/archdesc/did/	unitdate	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_dates	text()
+/ead/archdesc/did/langmaterial/	language	.	
+/ead/archdesc/did/	langmaterial	.	
+/ead/archdesc/did/langmaterial/	language	//Response/Results/mhs:Sidecar/mhs:Dynamic/language/MultiSelect	attribute langcode {text()} 
+/ead/archdesc/did/langmaterial/	language	"if(exists(//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_language) and not (//Response/Results/mhs:Sidecar/mhs:Dynamic/language/MultiSelect)) then (for $n in distinct-values(tokenize(//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_language/text(), ';|,'))return <language>{$n}</language>) else ()"	"replace(text(), ' ', '')"
+/ead/archdesc/	accruals	.	
+/ead/archdesc/accruals/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_accruals	text()
+/ead/archdesc/	phystech	.	
+/ead/archdesc/phystech/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_physical_characteristics_and_technical_requirements	text()
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	@label	.	Web Source
+/ead/archdesc/did/materialspec/	extptr	//Response/Results/mhs:Sidecar/mhs:Internal/mh:MediaObjectId	"attribute xlink:type {""simple""}, attribute xlink:href {concat('https://beeldbank.kazernedossin.eu/portal/media/', text())} "
