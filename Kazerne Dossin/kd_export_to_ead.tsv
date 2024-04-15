@@ -1,66 +1,68 @@
 target-path	target-node	source-node	value
-/	ead	/searchResult/mediaDataList	
-/ead/	@xsi:schemaLocation	.	"urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+/	ead	//Response	
+/ead/	@xsi:schemaLocation	.	"https://zeticon.mediahaven.com/metadata/24.1/mhs/ https://zeticon.mediahaven.com/metadata/24.1/mhs.xsd https://zeticon.mediahaven.com/metadata/24.1/mh/ https://zeticon.mediahaven.com/metadata/24.1/mh.xsd"
 /ead/	eadheader	.	
-/ead/eadheader/	eadid	.//mdProperty[attribute/text() = "kazernedossin_id"]	value/text()
+/ead/eadheader/	eadid	//Response/Results/mhs:Sidecar/mhs:Dynamic/kazernedossin_id	text()
 /ead/	archdesc	.	
 /ead/archdesc/	@level	.	"collection"
 /ead/archdesc/	@otherlevel	.	"folder"
 /ead/archdesc/	did	.	
-/ead/archdesc/did/	unitid	.//mdProperty[attribute/text() = "kazernedossin_id"]	value/text()
-/ead/archdesc/	scopecontent	.	
+/ead/archdesc/did/	unitid	//Response/Results/mhs:Sidecar/mhs:Dynamic/kazernedossin_id	text()
 /ead/archdesc/did/	origination	.	
-/ead/archdesc/did/origination/	name	.//mdProperty[attribute/text() = "ehri_creator"]	value/text()
+/ead/archdesc/did/origination/	name	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_creator	text()
 /ead/archdesc/did/	unittitle	.	title/text()
-/ead/archdesc/did/	unittitle	.//mdProperty[attribute/text() = "ehri_parallel_title"]	value/text()
-/ead/archdesc/scopecontent/	p	.	description/text()
+/ead/archdesc/did/	unittitle	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Title	text()
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Description	text()
 /ead/archdesc/	controlaccess	.	
-/ead/archdesc/controlaccess/	subject	keywords	text()
-/ead/archdesc/controlaccess/	subject	.//mdProperty[attribute/text() = "Categories"]//attributeValueList[key/text() = "category" and not(value/text() = "Kazerne Dossin")]	value/text()
-/ead/archdesc/controlaccess/	geogname	.//mdProperty[attribute/text() = "Categories"]//attributeValueList[key/text() = "category" and value/text() = "Kazerne Dossin"]	value/text()
-/ead/archdesc/controlaccess/	geogname	.//mdProperty[attribute/text() = "content_location"]	value/text()
-/ead/archdesc/	userestrict	.//mdProperty[attribute/text() = "rights_owner"]	
-/ead/archdesc/userestrict/	p	.	value/text()
-/ead/archdesc/	accessrestrict	.//mdProperty[attribute/text() = "rights"]	
-/ead/archdesc/accessrestrict/	p	.	value/text()
+/ead/archdesc/controlaccess/	subject	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Keywords/mh:Keyword	text()
+/ead/archdesc/controlaccess/	subject	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Categories/mh:Category	text()
+/ead/archdesc/controlaccess/	geogname	.	
+/ead/archdesc/controlaccess/	geogname	//Response/Results/mhs:Sidecar/mhs:Dynamic/content_location	text()
+/ead/archdesc/	userestrict	.	
+/ead/archdesc/userestrict/	p	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:RightsOwner	text()
+/ead/archdesc/	accessrestrict	.	
+/ead/archdesc/accessrestrict/	p	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Rights	text()
 /ead/archdesc/	bibliography	.	
-/ead/archdesc/bibliography/	bibref	.//mdProperty[attribute/text() = "publications"]//attributeValueList[attribute/text() = "publication"]	value/text()
+/ead/archdesc/bibliography/	bibref	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Publications/mh:Comment	text()
 /ead/eadheader/	filedesc	.	
 /ead/eadheader/filedesc/	titlestmt	.	
 /ead/eadheader/filedesc/	notestmt	.	
-/ead/eadheader/filedesc/titlestmt/	titleproper	.	title/text()
-/ead/eadheader/filedesc/notestmt/	note	.//mdProperty[attribute/text() = "ehri_archivist_s_note"]	
-/ead/eadheader/filedesc/notestmt/note/	p	.	value/text()
+/ead/eadheader/filedesc/titlestmt/	titleproper	//Response/Results/mhs:Sidecar/mhs:Descriptive/mh:Title	text()
+/ead/eadheader/filedesc/notestmt/	note	.	
+/ead/eadheader/filedesc/notestmt/note/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_archivist_s_note	text()
 /ead/archdesc/	relatedmaterial	.	
-/ead/archdesc/relatedmaterial/	p	.//mdProperty[attribute/text() = "ehri_description_related_units"]	value/text()
+/ead/archdesc/relatedmaterial/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_description_related_units	text()
 /ead/archdesc/	altformavail	.	
-/ead/archdesc/altformavail/	p	.//mdProperty[attribute/text() = "ehri_copies"]	value/text()
+/ead/archdesc/altformavail/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_copies	text()
 /ead/eadheader/	profiledesc	.	
 /ead/eadheader/profiledesc/	langusage	.	
 /ead/eadheader/profiledesc/langusage/	language	.	
-/ead/eadheader/profiledesc/langusage/language/	@scriptcode	.//mdProperty[attribute/text() = "ehri_description_script"]	if (matches(value/text(), "Latin")) then "Latn" else value/text()
-/ead/eadheader/profiledesc/langusage/language/	@langcode	.//mdProperty[attribute/text() = "ehri_description_language"]	if (matches(value/text(), "English?")) then "eng" else value/text()
+/ead/eadheader/profiledesc/langusage/language/	@scriptcode	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_description_script	if (matches(text(), "Latin")) then "Latn" else text()
+/ead/eadheader/profiledesc/langusage/language/	@langcode	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_description_language	if (matches(text(), "English?")) then "eng" else text()
 /ead/archdesc/did/	physdesc	.	
-/ead/archdesc/did/physdesc/	extent	.//mdProperty[attribute/text() = "ehri_extent_and_medium_of_the_unit_of_description"]	value/text()
+/ead/archdesc/did/physdesc/	extent	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_extent_and_medium_of_the_unit_of_description	text()
 /ead/archdesc/	bioghist	.	
-/ead/archdesc/bioghist/	p	.//mdProperty[attribute/text() = "ehri_administrative_and_biographical"]	value/text()
+/ead/archdesc/bioghist/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_Administrative_and_Biographical	text()
 /ead/archdesc/	otherfindaid	.	
-/ead/archdesc/otherfindaid/	p	.//mdProperty[attribute/text() = "ehri_finding_aid"]	value/text()
+/ead/archdesc/otherfindaid/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_finding_aid	text()
 /ead/archdesc/	originalsloc	.	
-/ead/archdesc/originalsloc/	p	.//mdProperty[attribute/text() = "ehri_originals"]	value/text()
+/ead/archdesc/originalsloc/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_originals	text()
 /ead/archdesc/	custodhist	.	
-/ead/archdesc/custodhist/	p	.//mdProperty[attribute/text() = "ehri_archival"]	value/text()
+/ead/archdesc/custodhist/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_Archival	text()
 /ead/archdesc/	arrangement	.	
-/ead/archdesc/arrangement/	p	.//mdProperty[attribute/text() = "ehri_system_of_arrangement"]	value/text()
+/ead/archdesc/arrangement/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_system_of_arrangement	text()
 /ead/archdesc/	acqinfo	.	
-/ead/archdesc/acqinfo/	p	.//mdProperty[attribute/text() = "ehri_immediate_source_of_acquisition_or_transfer"]	value/text()
-/ead/archdesc/did/	unitdate	.//mdProperty[attribute/text() = "ehri_dates"]	value/text()
+/ead/archdesc/acqinfo/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_Immediate_Source_of_acquisition_or_transfer	text()
+/ead/archdesc/did/	unitdate	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_dates	text()
+/ead/archdesc/did/langmaterial/	language	.	
 /ead/archdesc/did/	langmaterial	.	
-/ead/archdesc/did/langmaterial/	language	.//mdProperty[attribute/text() = "ehri_language"]	value/text()
+/ead/archdesc/did/langmaterial/	language	//Response/Results/mhs:Sidecar/mhs:Dynamic/language/MultiSelect	if (string-length(text()) > 2) then (attribute langcode{text()}) else ()
+/ead/archdesc/did/langmaterial/	language	if(exists(//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_language) and not (//Response/Results/mhs:Sidecar/mhs:Dynamic/language/MultiSelect)) then (for $n in distinct-values(tokenize(//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_language/text(), ';|,'))return <language>{$n}</language>) else ()	replace(text(), ' ', '')
 /ead/archdesc/	accruals	.	
-/ead/archdesc/accruals/	p	.//mdProperty[attribute/text() = "ehri_accruals"]	value/text()
+/ead/archdesc/accruals/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_accruals	text()
 /ead/archdesc/	phystech	.	
-/ead/archdesc/phystech/	p	.//mdProperty[attribute/text() = "ehri_physical_characteristics_and_technical_requirements"]	value/text()
+/ead/archdesc/phystech/	p	//Response/Results/mhs:Sidecar/mhs:Dynamic/ehri_physical_characteristics_and_technical_requirements	text()
 /ead/archdesc/did/	materialspec	.	
 /ead/archdesc/did/materialspec/	@label	.	"Web Source"
-/ead/archdesc/did/materialspec/	extptr	./title	attribute xlink:type {"simple"}, attribute xlink:href {concat("https://beeldbank.kazernedossin.eu/portal/media?q=", replace(text(), '\s', '%5C%20'))}
+/ead/archdesc/did/materialspec/	extptr	//Response/Results/mhs:Sidecar/mhs:Internal/mh:MediaObjectId	attribute xlink:type {"simple"}, attribute xlink:href {concat('https://beeldbank.kazernedossin.eu/portal/media/', text())} 
