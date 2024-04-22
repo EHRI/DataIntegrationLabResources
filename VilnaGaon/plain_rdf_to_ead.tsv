@@ -1,0 +1,36 @@
+target-path	target-node	source-node	value
+/	ead	.	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	//ex:identifier	text()
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	//ex:title	text()
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	attribute langcode {"lit"}
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	"item"
+/ead/archdesc/	did	.	
+/ead/archdesc/	dsc	.	
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	//ex:scopeContent	text()
+/ead/archdesc/did/	unitid	//ex:identifier	text()
+/ead/archdesc/did/	unitid	//ex:inventoryNo	text()
+/ead/archdesc/did/	unitid	//ex:primaryAccountingNo	text()
+/ead/archdesc/did/	unittitle	//ex:title	text()
+/ead/archdesc/did/	unitdate	//ex:date	text()
+/ead/archdesc/did/	origination	.	
+/ead/archdesc/did/origination/	name	//ex:authors	text()
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/physdesc/	dimensions	//ex:dimensions	text()
+/ead/archdesc/did/physdesc/	extent	//ex:dimensions	text()
+/ead/archdesc/did/physdesc/	physfacet	//ex:techniques	text()
+/ead/archdesc/did/physdesc/	physfacet	//ex:type	text()
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	@label	.	"Web Source"
+/ead/archdesc/did/materialspec/	extptr	//ex:identifier	attribute xlink:type {"simple"}, attribute xlink:href {concat("https://www.limis.lt/valuables/e/805436/", .)}
+/ead/archdesc/	controlaccess	.	
+/ead/archdesc/controlaccess/	subject	//ex:subject	text()
+/ead/archdesc/controlaccess/	geogname	//ex:creationLocation	text()
+/ead/archdesc/controlaccess/	geogname	//ex:locations	text()
+/ead/archdesc/controlaccess/	persname	//ex:people	text()
