@@ -27,7 +27,8 @@
                         			  normalize-space() = 'BwA-III-K-thS-76' or
                         			  normalize-space() = 'BwA-III-K-thS-78' or
                         			  normalize-space() = 'BwA-III-K-thS-79' or
-                        			  normalize-space() = 'BwA-I-ha-NMG' or
+                        			  normalize-space() = 'BwA-I-ha-NMG-KdAW' or
+              						      normalize-space() = 'BwA-I-ha-NMG-???' or
                         			  normalize-space() = 'BwA-K-III-thS-6']" />
       <xsl:otherwise>
         <xsl:copy>
