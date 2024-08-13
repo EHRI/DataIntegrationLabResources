@@ -1,0 +1,22 @@
+target-path	target-node	source-node	value
+/	ead	/h1:DocumentSet/h1:Document[1]/h1:Block	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	h1:Field[@Type='Bst_Signatur']/@Value	string(.)
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	h1:Field[@Type='Bst_Name']/@Value	string(.)
+/ead/eadheader/	profiledesc	.	
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	'German'
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	'deu'
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	'series'
+/ead/archdesc/	did	.	
+/ead/archdesc/did/	unitid	h1:Field[@Type='Bst_Signatur']/@Value	string(.)
+/ead/archdesc/did/	unitdate	h1:Field[@Type='Laufzeit']	string(@Value)
+/ead/archdesc/did/unitdate/	@normal	.	replace(concat(string(@ValueMin), ' - ', string(@ValueMax)), '\.', '-')
+/ead/archdesc/did/	unittitle	h1:Field[@Type='Bst_Name']/@Value	string(.)
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/physdesc/	extent	h1:Field[@Type='Bst_Umfang']/@Value	string(.)
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	h1:Field[@Type='Bst_Beschreibung']/@value_plain	string(.)
