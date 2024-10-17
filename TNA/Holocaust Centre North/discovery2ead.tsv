@@ -1,0 +1,33 @@
+target-path	target-node	source-node	value
+/	ead	/InformationAssetViewModel	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	./Id	text()
+/ead/eadheader/eadid/	@countrycode	.	"GB"
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	./Title	text()
+/ead/eadheader/	profiledesc	.
+/ead/	archdesc	.	
+/ead/archdesc/	@level	./CatalogueLevel	if (matches(text(), "1")) then "fonds" else ""
+/ead/archdesc/	did	.	
+/ead/archdesc/	dsc	.	
+/ead/archdesc/	scopecontent	.	
+/ead/archdesc/scopecontent/	p	./ScopeContent/Description	text()
+/ead/archdesc/did/	unitid	./CitableReference	text()
+/ead/archdesc/did/	unitid	./Id	text()
+/ead/archdesc/did/	unittitle	./Title	text()
+/ead/archdesc/did/	unitdate	.	concat(substring(./CoveringFromDate, 0, 5), "-", substring(./CoveringFromDate, 5, 2), "-", substring(./CoveringFromDate, 7, 2), "-", substring(./CoveringToDate, 0, 5), "-", substring(./CoveringToDate, 5, 2), "-", substring(./CoveringToDate, 7, 2))
+/ead/archdesc/did/	unitdate	./CoveringDates	text()
+/ead/archdesc/did/	origination	.	
+/ead/archdesc/did/origination/	persname	./CreatorName/EntityReferenceViewModel/XReferenceName	normalize-space(text())
+/ead/archdesc/did/	physdesc	.	
+/ead/archdesc/did/physdesc/	extent	./PhysicalDescriptionForm	text()
+/ead/archdesc/did/	langmaterial	.	
+/ead/archdesc/did/langmaterial/	language	for $lang in tokenize(./Language/text(), ", ") return $lang	attribute langcode {xtra:language-name-to-code(.)}, .
+/ead/archdesc/did/	materialspec	.	
+/ead/archdesc/did/materialspec/	@label	.	"Web Source"
+/ead/archdesc/did/materialspec/	extptr	./Id	attribute xlink:type {"simple"}, attribute xlink:href {concat("https://discovery.nationalarchives.gov.uk/details/r/", text())}
+/ead/archdesc/did/	note	./PublicationNote	text()
+/ead/archdesc/	accessrestrict	.	
+/ead/archdesc/accessrestrict/	p	./AccessConditions/p	text()
+/ead/archdesc/accessrestrict/	p	./AccessConditions	text()
