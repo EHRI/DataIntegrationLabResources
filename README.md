@@ -1,4 +1,7 @@
 # Data Integration Lab Resources for EHRI-3
+
+[![See on the EHRI Portal](https://img.shields.io/badge/See_on-the_EHRI_Portal-83004c)](https://portal.ehri-project.eu)
+
 This repository serves as a public archive for the data integration resources, and their application instructions, used during the [EHRI-3 project](https://www.ehri-project.eu/) inside WP9 T9.2.
 
 ## EHRI Portal ETL platform
