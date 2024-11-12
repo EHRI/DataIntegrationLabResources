@@ -1,4 +1,6 @@
-# Vilna Gaon
+# Vilna Gaon Museum of Jewish History
+
+[![See on the EHRI Portal](https://img.shields.io/badge/See_on-the_EHRI_Portal-83004c)](https://portal.ehri-project.eu/institutions/lt-002881)
 
 The data is downloaded in JSON from the LIMIS API, then it is transformed to RDF/XML using ShExML with the mapping rules contained under the file convertFromJsonAPI.shexml.
 

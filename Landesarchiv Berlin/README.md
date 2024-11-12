@@ -1,5 +1,7 @@
 # Landesarchiv Berlin
 
+[![See on the EHRI Portal](https://img.shields.io/badge/See_on-the_EHRI_Portal-83004c)](https://portal.ehri-project.eu/institutions/de-002436)
+
 1. Upload the general Tektonik file that goes up to collection level.
 2. Add the following XSLT transformations:
     1. normalize-ead-namespaces.xslt

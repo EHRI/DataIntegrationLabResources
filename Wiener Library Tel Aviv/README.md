@@ -1,5 +1,7 @@
 # Wiener Library for the Study of the Nazi Era and the Holocaust, Tel Aviv University
 
+[![See on the EHRI Portal](https://img.shields.io/badge/See_on-the_EHRI_Portal-83004c)](https://portal.ehri-project.eu/institutions/il-002820)
+
 The data can be accessed in RDF format from the Alma open data portal. For every top-level collection it is required to have a list of nested collections in order to download the content directly from their server, then they can be downloaded using the URLset functionality.  
 
 1. Create one dataset for each one of the twelve top-level collections with URLset as the harvester method.

@@ -1,5 +1,7 @@
 # Fritz Bauer Institut
 
+[![See on the EHRI Portal](https://img.shields.io/badge/See_on-the_EHRI_Portal-83004c)](https://portal.ehri-project.eu/institutions/de-002518)
+
 1. Create two datasets with content-type "text/xml; charset=iso-8859-1" one for English collections and the other for German ones.
 2. Upload the files from the FAUST system that have been previously exported to EAD-DDB each set in the correspoding language
 2. Add the transformations in the following order:

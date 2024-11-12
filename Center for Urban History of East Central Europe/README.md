@@ -1,5 +1,7 @@
 # Center for Urban History of East Central Europe
 
+[![See on the EHRI Portal](https://img.shields.io/badge/See_on-the_EHRI_Portal-83004c)](https://portal.ehri-project.eu/institutions/ua-006557)
+
 The data integration process starts with a set of CSV files (under the export folder) that are converted using Open Refine. For each file a new project is created in Open Refine following the steps below:
 
 1. Upload the file and create a project in Open Refine.

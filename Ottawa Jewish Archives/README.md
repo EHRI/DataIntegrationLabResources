@@ -1,5 +1,7 @@
 # Ottawa Jewish Archives
 
+[![See on the EHRI Portal](https://img.shields.io/badge/See_on-the_EHRI_Portal-83004c)](https://portal.ehri-project.eu/institutions/ca-006572)
+
 The export files are linear meaning that the hierarchy cannot be ingested normally using a single EAD without further processing. In order to ensure the future runnability a two-step process was envisioned inside the EHRI portal in order to reconstruct the hierarchy and put the information in the right descriptions.
 
 1. Create two datasets of type upload files. First one will be the "ingestion_of_items" and the second one "ingestion_of_fonds" and upload the export files to both of them.

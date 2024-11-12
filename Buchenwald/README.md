@@ -1,4 +1,7 @@
 # Buchenwald Memorial Archives
+
+[![See on the EHRI Portal](https://img.shields.io/badge/See_on-the_EHRI_Portal-83004c)](https://portal.ehri-project.eu/institutions/de-002463)
+
 The data comes from an OAI-PMH endpoint which offers a Tectonic file (EA_DDB) and different collections descriptions (EAD3). Therefore, to maintain the hierarchy the Tectonic file should be imported first and then the collection-level descriptions in the correct place of the hierarchy.
 
 1. Create a dataset of type URLSet and use the tectonic.tsv file as the configuration.

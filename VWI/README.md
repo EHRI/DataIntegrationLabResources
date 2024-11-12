@@ -1,5 +1,7 @@
 # Wiener Wiesenthal Institut für Holocaust-Studien
 
+[![See on the EHRI Portal](https://img.shields.io/badge/See_on-the_EHRI_Portal-83004c)](https://portal.ehri-project.eu/institutions/at-006006)
+
 The data is exported from the ActaPro system in two different forms: EAD and custom-format XML files. For some collections (namely, VWA-SWI,IX and VWA-SWI,XI) the EAD export offers a hierarchical representation of the collections while for the other cases it is preferable to use the custom XML format as it offers more information.
 
 For the XML files:
