@@ -1,0 +1,490 @@
+<ead xmlns="urn:isbn:1-931666-22-9">
+  <eadheader>
+    <eadid countrycode="NL">f65d114c-30d3-467c-a9c6-4666160b2983</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Anne Frank Stichting</titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="nld">Dutch</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <unitid>Anne Frank</unitid>
+      <unittitle>Anne Frank</unittitle>
+    </did>
+    <scopecontent>
+      <p>Annelies Marie (Anne) Frank (Frankfurt am Main, 12 juni 1929 – Bergen-Belsen, (circa
+        februari 1945) was een uit Duitsland afkomstig Joods meisje dat bekend is geworden door het
+        dagboek dat ze schreef tijdens de Tweede Wereldoorlog, toen ze ondergedoken zat in
+        Amsterdam. Zij stierf aan vlektyfus in het concentratiekamp Bergen-Belsen. Haar dagboek is
+        postuum gepubliceerd en een van de meest gelezen boeken ter wereld.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Anne Frank Stichting</unitid>
+      <unittitle>Anne Frank Stichting</unittitle>
+    </did>
+    <scopecontent>
+      <p>De Anne Frank Stichting beheert het Anne Frank Huis museum en de Anne Frank collectie en is
+        een educatieve organisatie. De Anne Frank Stichting (AFS) is opgericht in 1957 en sinds 1960
+        gevestigd op het onderduikadres (het ‘Achterhuis’) van Anne Frank en haar familie,
+        Prinsengracht 263 te Amsterdam
+        De Anne Frank Stichting verwerft originelen - documenten, beeldmateriaal en objecten - die
+        te maken hebben met de (onderduik)geschiedenis van de familie Frank. Otto Frank heeft een
+        belangrijk bijdrage geleverd aan het vormen van de collectie. Hij zette zich na de oorlog in
+        om originele documenten en voorwerpen van Anne en de andere onderduikers te verzamelen. Deze
+        bracht hij onder bij de Anne Frank Stichting. In de loop der jaren is de collectie
+        uitgebreid door aankopen, schenkingen en bruiklenen.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Auguste van Pels-Röttgen</unitid>
+      <unittitle>Auguste van Pels-Röttgen</unittitle>
+    </did>
+    <scopecontent>
+      <p>Auguste van Pels-Röttgen (Buer (Duitsland), 29 september 1900 - tussen Raguhn en
+        Teresienstadt, 9 april 1945) was een Joodse vrouw en is vooral bekend geworden als
+        Petronella van Daan uit het dagboek van Anne Frank. In 1937 besluit zij met haar man en zoon
+        naar Nederland te vluchten en tijdens de bezetting duiken zij onder in Het Achterhuis. Van
+        Pels-Röttgen komt na arrestatie op 4 augustus 1944 via interneringen in de Weteringschans,
+        Westerbork, Auschwitz, Bergen-Belsen en Raguhn om het leven tijdens een transport.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Bep van Wijk-Voskuijl </unitid>
+      <unittitle>Bep van Wijk-Voskuijl </unittitle>
+    </did>
+    <scopecontent>
+      <p>Elisabeth (Bep) Voskuijl (Amsterdam, 5 juli 1919 - Amsterdam, 6 mei 1983) was een
+        kantoorbediende voor Opekta - het bedrijf van Otto Frank. In 1942 was zij één van de helpers
+        van de onderduikers in het Achterhuis.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Diversen</unitid>
+      <unittitle>Diversen</unittitle>
+    </did>
+    <scopecontent>
+      <p>In deze collectie zijn objecten ingedeeld die vooralsnog niet aan een van de andere
+        collecties kunnen worden toegeschreven.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Eckert-lijst</unitid>
+      <unittitle>Eckert-lijst</unittitle>
+    </did>
+    <scopecontent>
+      <p>De Eckert-lijst is vernoemd naar Otto Frank’s executeur-testamentair Hans Eckert. Objecten
+        op deze lijst komen uit het bezit van Otto Frank en zijn na diens overlijden volgens
+        testament nagelaten aan het Rijksinstituut voor Oorlogsdocumentatie (RIOD), inmiddels KNAW.
+        De KNAW treedt namens de Nederlandse Staat op als bruikleengever van deze objecten aan de
+        Anne Frank Stichting. De Eckert-lijst dient juridisch en fysiek als een geheel beheerd en
+        bewaard te worden.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Edith Frank-Holländer</unitid>
+      <unittitle>Edith Frank-Holländer</unittitle>
+    </did>
+    <scopecontent>
+      <p>Edith Frank-Holländer (Aken, 16 januari 1900 – Auschwitz-Birkenau, 6 januari 1945) was een
+        uit Duitsland afkomstige Joodse vrouw. Zij was de echtgenote van Otto Frank en de moeder van
+        Margot en Anne Frank. Edith Frank-Holländer kwam om het leven in concentratiekamp
+        Auschwitz-Birkenau.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Elfriede Frank-Markovits</unitid>
+      <unittitle>Elfriede Frank-Markovits</unittitle>
+    </did>
+    <scopecontent>
+      <p>Elfriede Geiringer, geboren als Elfriede Markovits (Wenen, 13 februari 1905 - Londen, 2
+        oktober 1998), was een Joodse Holocaustoverlevende en de tweede vrouw van Otto Frank.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Eva Schloss-Geiringer</unitid>
+      <unittitle>Eva Schloss-Geiringer</unittitle>
+    </did>
+    <scopecontent>
+      <p>Eva Geiringer Schloss, geboren als Eva Geiringer (Wenen, 11 mei 1929), is de stiefdochter
+        van Otto Frank. Schloss is vooral bekend om haar memoires over de gebeurtenissen tijdens de
+        Holocaust en heeft deelgenomen aan het Visual History Archive-project van de USC Shoah
+        Foundation Institute om videoantwoorden vast te leggen voor educatieve doeleinden.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Familieleden Frank en Holländer</unitid>
+      <unittitle>Familieleden Frank en Holländer</unittitle>
+    </did>
+    <scopecontent>
+      <p>Omvat tantes, ooms, grootouders, neven en nichten of andere leden van de families Frank en
+        Holländer.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Fritz Pfeffer</unitid>
+      <unittitle>Fritz Pfeffer</unittitle>
+    </did>
+    <scopecontent>
+      <p>Zoals veel Duitse Joden was ook Fritz Pfeffer voorafgaand aan de machtsovername door de
+        NSDAP in 1933 volledig geïntegreerd in de Duitse maatschappij en samenleving. Zo dient hij
+        als dienstplichtig militair tijdens de Eerste Wereldoorlog in het Duitse leger, en richt hij
+        in 1913 een tandartspraktijk op in Berlijn. Na het einde van de vijandelijkheden pakt hij
+        zijn werk weer op en houdt tot 1938 deze praktijk aan. In dat jaar vlucht hij naar
+        Nederland, nadat hij en veel andere Joden na de gebeurtenissen van de Kristallnacht
+        Duitsland ontvluchten. Zijn intentie is om daarna door te reizen naar Chili. Uiteindelijk
+        vindt de emigratie van Fritz Pfeffer en zijn vriendin Charlotte Kaletta geen doorgang. Fritz
+        Pfeffer duikt in november 1942 onder in het Achterhuis van Prinsengracht 263.
+        Op 17 oktober 1987 komt Joke Kniesmeijer, (oud-)medewerker van de Anne Frank Stichting, op
+        het Waterlooplein de collectie Pfeffer-Kaletta op het spoor. De vondst bestaat uit brieven,
+        foto's en persoonlijke voorwerpen die de relatie van Fritz Pfeffer en Charlotte Kaletta
+        duiden. De objecten zijn afkomstig van Charlotte Kaletta: na haar overlijden zijn ze bij een
+        handelaar op het Waterlooplein terecht gekomen. Een ander deel van deelcollectie is
+        afkomstig uit de nalatenschap van Peter Pepper, ofwel Werner Pfeffer, de zoon van Fritz, die
+        hij voor de oorlog naar zijn broer Ernst Pfeffer in Engeland had gestuurd en die na de
+        oorlog naar de Verenigde Staten emigreerde.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Gertrud Naumann</unitid>
+      <unittitle>Gertrud Naumann</unittitle>
+    </did>
+    <scopecontent>
+      <p>Gertrud Naumann, later gehuwd met Karl Trenz, was het buurmeisje van de familie Frank aan
+        de Marbachweg in Frankfurt. Als tienermeisje paste ze wel eens op Margot en Anne. Na de
+        vlucht naar Nederland in 1933 onderhield vooral Edith Frank een intensieve correspondentie
+        met haar, in mindere mate deden ook Anne, Margot en Otto dat. In de jaren na de Tweede
+        Wereldoorlog herstelde Otto Frank het contact en correspondeerden ook andere leden van de
+        familie Frank met haar, tot aan haar overlijden in 2002. Vanwege het verloop in tijd, de
+        omvang en de aard van deze correspondentie heeft Gertrud Naumann met haar nalatenschap een
+        bijzondere plek in de geschiedenis van de familie Frank.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Getuigen</unitid>
+      <unittitle>Getuigen</unittitle>
+    </did>
+    <scopecontent>
+      <p>Getuigenissen van tijdgenoten van Anne Frank vormen een belangrijke bron van informatie. De
+        Anne Frank Stichting heeft veel interviews afgenomen met vrienden, kennissen, klasgenoten,
+        buurtgenoten en kampgenoten van de familie Frank, de andere onderduikers en de helpers. Dit
+        geeft niet alleen een ruimer inzicht in de geschiedenis van Anne, maar het plaatst ook de
+        ervaringen van deze getuigen in de context van de jaren dertig en de Tweede Wereldoorlog. Al
+        deze getuigenissen zijn op audio en video vastgelegd en uitgewerkt in tekst. Soms hebben
+        getuigen ook ander bronnenmateriaal ter beschikking gesteld.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Gezin Frank</unitid>
+      <unittitle>Gezin Frank</unittitle>
+    </did>
+    <scopecontent>
+      <p>Het gezin Frank bestond uit vier personen: vader Otto Frank, moeder Edith Frank-Holländer,
+        en twee dochters: Margot en Anne.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Hermann van Pels</unitid>
+      <unittitle>Hermann van Pels</unittitle>
+    </did>
+    <scopecontent>
+      <p>Hermann van Pels (Gehrde, 31 maart 1898 – Auschwitz-Birkenau, oktober 1944) was een
+        handelaar en vertegenwoordiger van Joodse afkomst, die vooral bekend is geworden als vader
+        van het gezin Van Daan uit het dagboek van Anne Frank. In 1937 besloot hij met zijn vrouw en
+        zoon naar Nederland te vluchten en tijdens de Duitse bezetting van Nederland doken zij onder
+        in Het Achterhuis. Na de arrestatie op 4 augustus 1944 kwam Van Pels via interneringen in de
+        gevangenis Weteringschans en Kamp Westerbork. In oktober 1944 werd hij in de gaskamers van
+        Auschwitz-Birkenau vermoord.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Het Achterhuis</unitid>
+      <unittitle>Het Achterhuis</unittitle>
+    </did>
+    <scopecontent>
+      <p>Het Achterhuis op de Prinsengracht 263 te Amsterdam was de onderduikplek waar de familie
+        Frank, samen de familile Van Pels en Fritz Pfeffer van 6 juli 1942 tot aan hun ontdekking op
+        4 augustus 1944 ondergedoken zat. Na de oorlog werd deze locatie onderdeel van het Anne
+        Frank Huis.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Jan &amp; Miep Gies</unitid>
+      <unittitle>Jan &amp; Miep Gies</unittitle>
+    </did>
+    <scopecontent>
+      <p>Miep Gies (geb. Santrouschitz, Wenen (Oostenrijk-Hongarije), 15 februari 1909 – Hoorn, 11
+        januari 2010) was een in Oostenrijk-Hongarije geadopteerde Nederlandse medewerker van de
+        Nederlandsche Opekta Maatschappij N.V., waar Otto Frank eigenaar van was. Toen de familie
+        Frank onderdook in het kantoorpand was Gies, bijgestaan door haar echtgenoot Jan Gies,
+        actief als helper aan de onderduikers in het Achterhuis van Prinsengracht 263. Na de
+        deportatie van de onderduikers uit het Achterhuis was zij het die het dagboek van Anne Frank
+        vond en na de oorlog aan Otto Frank gaf.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Joseph Schildkraut</unitid>
+      <unittitle>Joseph Schildkraut</unittitle>
+    </did>
+    <scopecontent>
+      <p>In 2012 werd de Schildkraut Collectie verworven. Deze is afkomstig uit de nalatenschap van
+        de acteur Joseph Schildkraut (Wenen, 22 maart 1896 - New York, 21 januari 1964), Schildkraut
+        was een Oostenrijks-Amerikaans acteur. Zijn bekendste rol op latere leeftijd is die van Otto
+        Frank in de film The Diary of Anne Frank (1959) nadat hij eerder dezelfde rol had gespeeld
+        in het gelijknamige toneelstuk. Ter voorbereiding op zijn op zijn rol als Otto in de eerste
+        Amerikaanse toneelbewerking van Annes dagboek correspondeerde met Otto Frank. Schildkraut en
+        Otto Frank schreven tot Otto’s dood met elkaar en hun briefwisseling is bewaard gebleven.
+        Na zijn rol als Otto Frank in het toneelstuk The diary of Anne Frank in 1955 onderhield
+        Schildkraut een uitvoerige correspondentie met mensen die het stuk hadden gezien. Daarin
+        gaven zij blijk van hun beleving van het toneelstuk en het spel van Schildkraut. Eveneens
+        ontving hij waardering voor zijn rol in de vorm van onderscheidingen, en kreeg hij na zijn
+        vertolking van de rol van Otto Frank uitnodigingen voor lunches, toespraken en andere
+        evenementen uit de high society. Ook voelde de Joodse Schildkraut een sterke betrokkenheid
+        bij de staat Israël, het Joods-culturele leven van zijn tijd en bij de herdenking van de
+        slachtoffers van de Holocaust. De Anne Frank Stichting (AFS) beheert een deel van zijn
+        correspondentie, zijn onderscheidingen en andere objecten die samenhangen met de waardering
+        die hij kreeg voor zijn rol als Otto Frank en objecten die zijn betrokkenheid bij het Joodse
+        leven weergeven.
+        De AFS verwierf deze collectie in november 2012, nadat deze aanvankelijk op 5 november zou
+        worden geveild door het Newyorkse veilinghuis Doyle Auctions in namens Schildkrauts weduwe,
+        Leonora Schildkraut-Rogers,. De geschatte waarde bedroeg maximaal US$ 30,000. Met
+        bemiddeling van Doyle New York haalde Leonora de collectie uit de veiling en kon de Anne
+        Frank Stichting deze verwerven door een bijdrage van de BankGiro Loterij.
+        De correspondentie vormt een belangrijke bron voor de ontstaansgeschiedenis van het
+        toneelstuk The Diary of Anne Frank en het succes ervan in de Verenigde Staten en verschaft
+        een schat aan informatie over de familie Frank en de onderduikperiode. In de collectie
+        bevinden zich ook foto's van de familie Frank, de familie Van Pels en de eveneens in het
+        Achterhuis ondergedoken Fritz Pfeffer en hun helpers Johannes Kleiman, Victor Kugler, Bep
+        Voskuijl en Miep en Jan Gies. In de collectie bevinden zich ook brieven en documenten van
+        Otto Frank die Nathan Straus, een goede vriend van Otto Frank uit de Verenigde Staten, aan
+        Schildkraut gaf om hem te helpen zich voor te bereiden op zijn rol. In een brief uit 1936
+        schrijft Otto aan Nathan dat het goed gaat met zijn kinderen, maar dat de dreiging van het
+        nazisme ook in Nederland voelbaar is. Ook zijn er diverse documenten aanwezig, waaronder een
+        brief van Otto aan Nathan uit 1941 over de pogingen van Otto Frank om met zijn gezin naar de
+        VS te emigreren voordat ze onderdoken. Deze brieven en documenten zijn een bittere
+        getuigenis van de uitzichtloze situatie waarin de familie Frank zich bevond.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>KNAW</unitid>
+      <unittitle>KNAW</unittitle>
+    </did>
+    <scopecontent>
+      <p>De Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) is zowel een genootschap van
+        uitmuntende geleerden, en een organisatie van nationale wetenschappelijke instituten, als
+        een adviesorgaan voor de overheid op wetenschapsgebied. De Akademie is gevestigd in het
+        Trippenhuis in Amsterdam. De KNAW treedt namens de Nederlandse Staat op als bruikleengever
+        aan de Anne Frank Stichting van de door Otto Frank nagelaten objecten, zoals vastgelegd op
+        de zogenaamde Eckert-lijst.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Margot Frank</unitid>
+      <unittitle>Margot Frank</unittitle>
+    </did>
+    <scopecontent>
+      <p>Margot Betti Frank (Frankfurt am Main, 16 februari 1926 – Bergen-Belsen, februari 1945) was
+        een uit Duitsland afkomstig Joods meisje, dat vooral bekend is geworden als de zus van Anne
+        Frank. Nadat het gezin Frank naar Nederland was gevlucht doken zij tijdens de Duitse
+        bezetting onder in Het Achterhuis, waar zij op 4 augustus 1944 ontdekt werden. Na
+        gevangenschap in gevangenis Weteringschans, Kamp Westerbork en Auschwitz kwam.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Merwedeplein</unitid>
+      <unittitle>Merwedeplein</unittitle>
+    </did>
+    <scopecontent>
+      <p>Voordat Anne Frank moest onderduiken woonde zij samen met haar ouders en zus van 1933 tot
+        1942 aan het Merwedeplein nr. 37-II in Amsterdam-Zuid. Nadat de familie Frank in juli 1942
+        was ondergedoken, keerde ze nooit meer terug op dit adres. Na de familie Frank hebben er
+        verschillende mensen op het adres Merwedeplein 37-II gewoond. In 2004 heeft Woningcorporatie
+        Ymere in samenwerking met de Anne Frank Stichting de woning in de oorspronkelijke
+        jaren-dertig-stijl teruggebracht. Na zorgvuldig onderzoek zijn er meubels geplaatst die door
+        de familie Frank gebruikt zouden kunnen zijn. De Anne Frank Stichting is sinds 2017 eigenaar
+        van de woning.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Opekta / Pectacon / Gies &amp; Co</unitid>
+      <unittitle>Opekta / Pectacon / Gies &amp; Co</unittitle>
+    </did>
+    <scopecontent>
+      <p>Otto Frank richt in 1933 de Nederlandse tak van Opekta op, een van oorsprong Duits bedrijf
+        dat zich richt op de import van pectine voor Nederlandse huishoudens. Pectine is een middel
+        dat vruchten en gelei sneller laat geleren tot jam, en via advertenties, recepten in kranten
+        en presentaties op beurzen wordt het product vanaf1933 aangeboden aan de detailhandel. In
+        1938 neemt Otto Frank het bedrijf Pectacon over van Johannes Kleiman en Ton Dunselman, een
+        bedrijf dat handelt in specerijen en conserveermiddelen. Vanaf respectievelijk 1933 en 1937
+        werken Miep Gies en Bep Voskuijl voor het bedrijf. Vanwege de gedwongen arisering van het
+        Joodse bedrijfsleven in 1941 gaat op 25 maart 1942 de tenaamstelling van de vergunning van
+        Pectacon over op het bedrijf Gies &amp; Co., waar Jan Gies de commissaris is en Viktor
+        Kugler optreedt als directeur. Aanvankelijk profiteert Opekta net als veel andere
+        Nederlandse bedrijven van de hervorming van de Nederlandse voedselvoorziening. Later in de
+        oorlog en na het einde van de Tweede Wereldoorlog wordt de import van pectine moeilijker. In
+        1959 neemt de Keulse vestiging van Opekta de Amsterdamse tak over, later wordt het bedrijf
+        overgenomen door Dr. Oetker. De Anne Frank Stichting beheert van Opekta objecten uit de
+        periode van 1935 tot en met 1955. Het betreft verpakkingsmateriaal voor pectine en andere
+        producten, voorwerpen die werden gebruikt om de pectine te produceren, zakelijke
+        administratie en correspondentie, reclamemateriaal en foto's van het personeel.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Otto Frank</unitid>
+      <unittitle>Otto Frank</unittitle>
+    </did>
+    <scopecontent>
+      <p>Otto Heinrich Frank (Frankfurt am Main, 12 mei 1889 – Bazel, Zwitserland, 19 augustus 1980)
+        was een Duits-Nederlands-Zwitserse koopman. Hij was de vader van Margot en Anne Frank. Otto
+        Frank was het enige lid van het gezin Frank dat de Tweede Wereldoorlog overleefde. </p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Peter van Pels </unitid>
+      <unittitle>Peter van Pels </unittitle>
+    </did>
+    <scopecontent>
+      <p>Peter Aron van Pels (Osnabrück, 8 november 1926 - Mauthausen, 10 mei 1945) was een
+        Duits-Nederlandse scholier en is vooral bekend geworden door zijn relatie met Anne Frank
+        tijdens zijn onderduik in Het Achterhuis. In 1937 besluiten zijn ouders met hem naar
+        Nederland te vluchten en tijdens de bezetting duiken zij onder in Het Achterhuis. Na de
+        arrestatie op 4 augustus 1944 komt Peter van Pels via interneringen in de Weteringschans,
+        Westerbork, Auschwitz, Mathausen en Melk enkele dagen na de bevrijding van Mauthausen om het
+        leven door zijn sterk verzwakte toestand.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Shea Tenenbaum</unitid>
+      <unittitle>Shea Tenenbaum</unittitle>
+    </did>
+    <scopecontent>
+      <p>In november 2016 verwierf de Anne Frank Stichting via de Raab Collectie 76 originele
+        brieven van Otto Frank aan Shea Tenenbaum. De brieven zijn geschreven tussen 1958 en 1979 en
+        bevatten naast persoonlijke verhalen ook interessante informatie over Otto's grote
+        betrokkenheid bij het behoud van het Achterhuis en de openstelling daarvan voor het publiek.
+        Shea Tenenbaum was een Jiddische auteur, essayist en dichter die werd geboren in Polen en in
+        1934 naar de Verenigde Staten emigreerde. Hij schreef boeken en leverde bijdragen aan
+        Jiddische kranten en publicaties als de Jewish Daily Forward in New York. Hij werd tot in
+        zijn kern geraakt door het verhaal van Anne Frank en publiceerde in 1958 een boek met de
+        titel "Anne Frank, you who have drunk from God’s hand, and other essays, stories,
+        miniatures." Vanaf dat moment wijdde hij zich aan het project om Anne te herdenken. Begin
+        1958 begon hij een correspondentie met Otto Frank, waarbij hij knipsels verzamelde en
+        opstuurde met betrekking tot Anne uit alle publicaties die hij kon vinden, een praktijk die
+        hij meer dan twee decennia volhield. In de loop van 21 jaar onderhield hij een
+        correspondentie met Otto Frank die resulteerde in 76 brieven, vrijwel allemaal betrekking
+        hebbend op Anne, haar boodschap, de knipsels, de Anne Frank Stichting, belangrijke Joodse
+        kwesties, zoals Israël. Ze zijn allemaal in het Engels. Dit archief bevond zich al
+        tientallen jaren in een privécollectie en werd niet eerder openbaar gemaakt. Inbegrepen is
+        een nieuwjaarskaart met een handgeschreven briefje van Otto aan Tenenbaum en een kaart van
+        mevrouw Frank waarin ze Tenenbaum bedankt voor zijn medeleven bij Otto's dood. Er is ook een
+        brief van Walter Pick aan Tenenbaum; Walters vrouw was een van de laatsten die Anne levend
+        zag in Bergen-Belsen. Het was gedateerd 4 februari 1958 en verschafte Tenenbaum informatie
+        over hoe hij het adres van Otto kon vinden, zodat hij met deze correspondentie kon beginnen.
+        Zie verder: Fighting For The Legacy of Anne Frank and the Holocaust: “Work and Hope”, The
+        Raab Collection: https://www.raabcollection.com/foreign-figures-autographs/otto-frank-1963</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Sophie Souget-Blindeman</unitid>
+      <unittitle>Sophie Souget-Blindeman</unittitle>
+    </did>
+    <scopecontent>
+      <p>Sophie Blindeman (1910-2002) werd geboren in een Joods gezin in Sneek. Zij trouwde in 1935
+        met Max Souget, huisarts in Amsterdam. Samen met zijn vader Aäron hield hij praktijk op de
+        Geldersekade. Deze collectie heeft vooral betrekking op de - uiteindelijk succesvolle -
+        poging van Sophie Souget-Blindeman zich tot ariër te laten verklaren. Dan zou Max gemengd
+        gehuwd zijn en daarmee van deportatie gevrijwaard.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Toneel / Film</unitid>
+      <unittitle>Toneel / Film</unittitle>
+    </did>
+    <scopecontent>
+      <p>In 1955 verscheen de Amerikaanse toneelversie van het dagboek van Anne Frank op de planken.
+        Nadat de toneelbewerking van de Amerikaanse schrijver Meyer Levin was afgewezen, kreeg het
+        schrijversechtpaar Frances Goodrich en Albert Hackett eind 1953 de opdracht. Hun toneelstuk
+        The Diary of Anne Frank Frank ging op Broadway in première op 5 oktober 1955. Het stuk kreeg
+        onder andere de Pulitzerprijs en werd in veel talen vertaald en in veel landen opgevoerd. De
+        Nederlandse première vond plaats op 27 november 1956 in bijzijn van Koningin Juliana en
+        Prins Bernhard. Op basis van het toneelstuk schreven Goodrich en Hackett ook het script voor
+        de film The Diary of Anne Frank. George Stevens tekende voor de regie. De film ging op 18
+        maart 1959 in premiere in New York. De Nederlandse première volgde op 16 april 1959. De film
+        sleepte drie Oscars in de wacht, waaronder die van Best actress in a supporting role for
+        Shelley Winters. De Anne Frank Stichting beheert correspondentie, beeld- en reclamemateriaal
+        met betrekking tot de totstandkoming en productie van de toneel- en filmversie.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Victor Kugler</unitid>
+      <unittitle>Victor Kugler</unittitle>
+    </did>
+    <scopecontent>
+      <p>Victor Kugler (Hohenelbe (Oostenrijk-Hongarije, thans Vrchlabí, Tjechië), 5 of 6 juni 1900
+        - Toronto, 14 december 1981) was een Oostenrijks-Nederlandse ondernemer, vooral bekend als
+        één van de helpers van de onderduikers in Het Achterhuis. Als de onderduikers op 4 augustus
+        1944 worden ontdekt wordt ook Kugler opgepakt. Na gevangenschap in onder andere de
+        gevangenis Amstelveenseweg, de Weteringschans en Kamp Amersfoort wist hij bij een
+        bombardement op een gevangenentransport te ontsnappen en overleefde de oorlog.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Weerklank</unitid>
+      <unittitle>Weerklank</unittitle>
+    </did>
+    <scopecontent>
+      <p>Weerklank is de benaming van de collectie die bestaat uit documenten en objecten
+        geïnspireerd op het dagboek en het leven van Anne Frank, de onderduik etc. De basis van deze
+        collectie is gelegd door Otto Frank die het als zijn plicht zag brieven en reacties uit alle
+        delen van de wereld te beantwoorden en te bewaren.</p>
+    </scopecontent>
+  </archdesc>
+  <archdesc level="collection">
+    <did>
+      <unitid>Zesde Montessorischool</unitid>
+      <unittitle>Zesde Montessorischool</unittitle>
+    </did>
+    <scopecontent>
+      <p>De 6e Montessorischool is een openbare Montessori-basisschool in de Amsterdamse
+        Rivierenbuurt. De school werd in 1933 opgericht als zesde school in Amsterdam volgens de
+        onderwijsmethodiek van Maria Montessori. Anne Frank ging tussen 1935 en 1941 naar de Zesde
+        Montessorischool aan de Niersstraat 43 in Amsterdam. Ter nagedachtenis van Anne Frank draagt
+        de Zesde Montessorischool vanaf 12 juni 1957 haar naam: de 6e Montessorischool Anne Frank
+        (kort Anne Frankschool).</p>
+    </scopecontent>
+  </archdesc>
+</ead>

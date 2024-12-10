@@ -1,0 +1,46 @@
+target-path	target-node	source-node	value
+/	ead	/record	
+/ead/	eadheader	.	
+/ead/eadheader/	eadid	./guid	text()
+/ead/eadheader/eadid/	@countrycode	.	"NL"
+/ead/eadheader/	filedesc	.	
+/ead/eadheader/filedesc/	titlestmt	.	
+/ead/eadheader/filedesc/titlestmt/	titleproper	./Collection/collection.name	text()
+/ead/eadheader/	profiledesc	.	
+/ead/	archdesc	.	
+/ead/archdesc/	@level	.	"collection"
+/ead/archdesc/	did	.	
+/ead/archdesc/	dsc	.	
+/ead/archdesc/did/	unitid	./Collection/collection.name	text()
+/ead/archdesc/did/	unittitle	./Collection/collection.name	text()
+/ead/archdesc/dsc/	c01	.	
+/ead/archdesc/dsc/c01/	@level	.	"item"
+/ead/archdesc/dsc/c01/	did	.	
+/ead/archdesc/dsc/c01/did/	unitid	./guid	text()
+/ead/archdesc/dsc/c01/did/	unitid	./object_number	text()
+/ead/archdesc/dsc/c01/did/	unittitle	./Title/title	text()
+/ead/archdesc/dsc/c01/did/	unitdate	./Dating	concat(./dating.date.start/text(), '-', ./dating.date.end/text())
+/ead/archdesc/dsc/c01/did/	physdesc	.	
+/ead/archdesc/dsc/c01/did/physdesc/	extent	./dimension.free	text()
+/ead/archdesc/dsc/c01/did/physdesc/	physfacet	./Object_category/object_category	text()
+/ead/archdesc/dsc/c01/did/physdesc/	physfacet	./Object_name/object_name	text()
+/ead/archdesc/dsc/c01/did/	origination	.	
+/ead/archdesc/dsc/c01/did/origination/	persname	./Production	if(./creator.role) then concat(./creator/text(), ' (', ./creator.role/text(), ')') else ./creator/text()
+/ead/archdesc/dsc/c01/did/	materialspec	.	
+/ead/archdesc/dsc/c01/did/materialspec/	@label	.	"Web Source"
+/ead/archdesc/dsc/c01/did/materialspec/	extptr	./guid	attribute xlink:type {"simple"}, attribute xlink:href {concat("https://hdl.handle.net/21.12139/", text())}
+/ead/archdesc/dsc/c01/	scopecontent	.	
+/ead/archdesc/dsc/c01/scopecontent/	p	./Description/description	text()
+/ead/archdesc/dsc/c01/	userestrict	.	
+/ead/archdesc/dsc/c01/userestrict/	p	./Rights/rights.consent_status	text()
+/ead/archdesc/dsc/c01/userestrict/	p	./Rights/rights.copyright_notice	concat('Copyright: ', text())
+/ead/archdesc/dsc/c01/	acqinfo	.	
+/ead/archdesc/dsc/c01/acqinfo/	p	./acquisition.conditions	text()
+/ead/archdesc/dsc/c01/	controlaccess	.	
+/ead/archdesc/dsc/c01/controlaccess/	persname	./Associated_person/association.person	text()
+/ead/archdesc/dsc/c01/controlaccess/	subject	./Associated_period/association.period	text()
+/ead/archdesc/dsc/c01/controlaccess/	subject	./Associated_subject/association.subject	text()
+/ead/archdesc/dsc/c01/controlaccess/	geogname	./Production/production.place	text()
+/ead/eadheader/profiledesc/	langusage	.	
+/ead/eadheader/profiledesc/langusage/	language	.	"Dutch"
+/ead/eadheader/profiledesc/langusage/language/	@langcode	.	"nld"

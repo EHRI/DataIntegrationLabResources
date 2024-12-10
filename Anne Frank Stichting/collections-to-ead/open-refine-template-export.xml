@@ -1,0 +1,30 @@
+<!-- BEGIN Prefix -->
+<ead xmlns="urn:isbn:1-931666-22-9">
+  <eadheader>
+    <eadid countrycode="NL">f65d114c-30d3-467c-a9c6-4666160b2983</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Anne Frank Stichting</titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="nld">Dutch</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+<!-- END Prefix -->
+<!-- BEGIN Row template -->
+  <archdesc level="collection">
+    <did>
+      <unitid>{{cells["collection"].value}}</unitid>
+      <unittitle>{{cells["collection"].value}}</unittitle>
+    </did>
+    <scopecontent>
+      <p>{{cells["Description"].value}}</p>
+    </scopecontent>
+  </archdesc>
+<!-- END Row template -->
+<!-- BEGIN Suffix -->
+</ead>
+<!-- END Suffix -->
