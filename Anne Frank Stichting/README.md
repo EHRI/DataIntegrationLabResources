@@ -2,7 +2,7 @@
 
 [![See on the EHRI Portal](https://img.shields.io/badge/See_on-the_EHRI_Portal-83004c)](https://portal.ehri-project.eu/institutions/nl-002892)
 
-The data is harvested from the available OAI-PMH endpoint following a custom-made XML format that inlcudes the data about the item level descriptions and a pointer to the collection. The collections descriptions are exported in an Excel format. To ensure the recreation of the hierarchy it is important to import the datasets in the order indicated below:
+The data is harvested from the available OAI-PMH endpoint obtaining a custom-made XML format that includes the data about the item level descriptions and a pointer to the collection. The collections descriptions are exported in an Excel format. To ensure the recreation of the hierarchy it is important to import the datasets in the order indicated below:
 
 1. For the item-level XML files:
     1. Create a dataset using the OAI-PMH option as the harvesting method and targeting the "oai_adlib" metadata format and the "collect" set.
