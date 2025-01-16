@@ -36,7 +36,7 @@ target-path	target-node	source-node	value
 /ead/archdesc/did/physdesc/	extent	./fs/f[@caption='Extent']/vs/v	text()
 /ead/archdesc/did/	langmaterial	.	
 /ead/archdesc/did/langmaterial/	language	./fs/f[@caption='Language']/vs/v	text()
-/ead/archdesc/did/langmaterial/language/	@langcode	.	text()
+/ead/archdesc/did/langmaterial/language/	@langcode	.	xtra:language-name-to-code(.)
 /ead/archdesc/did/	materialspec	.	
 /ead/archdesc/did/materialspec/	@label	.	'Web Source'
 /ead/archdesc/did/materialspec/	extptr	.	attribute xlink:type {'simple'}, attribute xlink:href {concat('https://wiener.soutron.net/Portal/Default/en-GB/RecordView/Index/', string(@id))}
